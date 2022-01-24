@@ -1,0 +1,3281 @@
+[
+    {
+        "tags": "高频访问 site tech github",
+        "title": "Github trending",
+        "url": "https://github.com/trending"
+    },{
+        "tags": "高频访问 site doc",
+        "title": "语雀",
+        "url": "https://yuque.com/"
+    },{
+        "tags": "site 高频访问",
+        "title": "MindCoord | Home",
+        "url": "https://home.mindcoord.com"
+    },{
+        "tags": "site manual book 创业",
+        "title": "初创公司创始人和员工策划手册",
+        "url": "https://manual.withcompound.com/"
+    },{
+        "tags": "site 哲学 import",
+        "title": "哲学调查",
+        "url": "https://survey2020.philpeople.org/"
+    },{
+        "tags": "site blog tech list 高频访问",
+        "title": "优秀个人独立博客",
+        "url": "https://seekbetter.me"
+    },{
+        "tags": "site search",
+        "title": "Google",
+        "url": "https://google.com"
+    },{
+        "tags": "site product",
+        "title": "product hunt",
+        "url": "https://www.producthunt.com/"
+    },{
+        "tags": "site product",
+        "title": "新趣集",
+        "url": "https://xinquji.com/"
+    },{
+        "tags": "site search reading",
+        "title": "得到",
+        "url": "https://www.dedao.cn"
+    },{
+        "tags": "site 导航",
+        "title": "产品运营导航",
+        "url": "https://dh.woshipm.com/"
+    },{
+        "tags": "site tool",
+        "title": "Tools for better thinking",
+        "url": "https://untools.co"
+    },{
+        "tags": "site reading",
+        "title": "豆瓣阅读",
+        "url": "https://read.douban.com/"
+    },{
+        "tags": "site music",
+        "title": "网易云音乐",
+        "url": "https://music.163.com/"
+    },{
+        "tags": "site music",
+        "title": "QQ音乐",
+        "url": "https://y.qq.com/"
+    },{
+        "tags": "site osint 导航",
+        "title": "OSINT开源情报与侦察工具",
+        "url": "https://www.osint-labs.org/tools/"
+    },{
+        "tags": "site 购物",
+        "title": "淘宝",
+        "url": "https://taobao.com"
+    },{
+        "tags": "site 购物",
+        "title": "京东",
+        "url": "https://jd.com"
+    },{
+        "tags": "site translate",
+        "title": "DeepL",
+        "url": "https://deepl.com"
+    },{
+        "tags": "site translate",
+        "title": "Google Translate",
+        "url": "https://translate.google.com"
+    },{
+        "tags": "site community 高频访问",
+        "title": "V2EX",
+        "url": "https://www.v2ex.com/"
+    },{
+        "tags": "site community",
+        "title": "乐愚社区",
+        "url": "https://bbs.leyuz.net/"
+    },{
+        "tags": "site cloud-disk",
+        "title": "百度网盘",
+        "url": "https://pan.baidu.com"
+    },{
+        "tags": "site cloud-disk",
+        "title": "阿里云盘",
+        "url": "https://www.aliyundrive.com/drive"
+    },{
+        "tags": "高频访问 site video bilibili",
+        "title": "哔哩哔哩",
+        "url": "https://www.bilibili.com"
+    },{
+        "tags": "高频访问 site video",
+        "title": "YouTube",
+        "url": "https://youtube.com"
+    },{
+        "tags": "site video",
+        "title": "抖音",
+        "url": "https://www.douyin.com"
+    },{
+        "tags": "site video",
+        "title": "腾讯视频",
+        "url": "https://v.qq.com"
+    },{
+        "tags": "site tech tailwind",
+        "title": "Tailwindcss",
+        "url": "https://tailwindcss.com/"
+    },{
+        "tags": "site life",
+        "title": "美团",
+        "url": "https://gz.meituan.com/"
+    },{
+        "tags": "site life",
+        "title": "大众点评",
+        "url": "https://www.dianping.com/"
+    },{
+        "tags": "site news",
+        "title": "好奇心日报",
+        "url": "http://www.qdaily.com/"
+    },{
+        "tags": "site news",
+        "title": "36Kr",
+        "url": "https://36kr.com/"
+    },{
+        "tags": "site community",
+        "title": "豆瓣",
+        "url": "https://www.douban.com/"
+    },{
+        "tags": "site news life",
+        "title": "少数派",
+        "url": "https://sspai.com/"
+    },{
+        "tags": "site email",
+        "title": "Gmail",
+        "url": "https://mail.google.com"
+    },{
+        "tags": "site email",
+        "title": "QQ邮箱",
+        "url": "https://mail.qq.com/"
+    },{
+        "tags": "site email",
+        "title": "Hotmail",
+        "url": "https://outlook.live.com/mail/"
+    },{
+        "tags": "site tool 次高频",
+        "title": "MikuTools - 工具集合",
+        "url": "https://tools.miku.ac/"
+    },{
+        "tags": "site tool",
+        "title": "Topbook",
+        "url": "https://topbook.cc/overview"
+    },{
+        "tags": "site community",
+        "title": "知乎",
+        "url": "https://www.zhihu.com/"
+    },{
+        "tags": "site community",
+        "title": "微博",
+        "url": "https://weibo.com"
+    },{
+        "tags": "site community",
+        "title": "煎蛋",
+        "url": "https://jandan.net/"
+    },{
+        "tags": "site website",
+        "title": "有趣网址之家",
+        "url": "https://youquhome.com/"
+    },{
+        "tags": "site tech",
+        "title": "Dev to",
+        "url": "https://dev.to/"
+    },{
+        "tags": "site tech up",
+        "title": "极客时间",
+        "url": "https://time.geekbang.org"
+    },{
+        "tags": "site reading newsletter notion 导航 高频访问",
+        "title": "中文Newsletter导航",
+        "url": "https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6"
+    },{
+        "tags": "site github",
+        "title": "calendso",
+        "url": "https://github.com/calendso/calendso"
+    },{
+        "tags": "site github",
+        "title": "Outline",
+        "url": "https://github.com/outline"
+    },{
+        "tags": "site 高频访问 import",
+        "title": "资源推荐",
+        "url": "https://www.207788.xyz/"
+    },{
+        "tags": "site tech",
+        "title": "ethereum",
+        "url": "https://ethereum.org/zh/ "
+    },{
+        "tags": "site doc UX 导航",
+        "title": "UX资料库",
+        "url": "https://www.uxlib.net/"
+    },{
+        "tags": "site github",
+        "title": "hello github",
+        "url": "https://github.com/521xueweihan/HelloGitHub"
+    },{
+        "tags": "site tool tailwind",
+        "title": "tailwind component",
+        "url": " https://tailwindcomponents.com/ "
+    },{
+        "tags": "site 导航",
+        "title": "免费资源汇总导航",
+        "url": "http://www.pickfree.cn"
+    },{
+        "tags": "site website",
+        "title": "有知有行",
+        "url": "https://youzhiyouxing.cn/"
+    },{
+        "tags": "site bilibili",
+        "title": "樱花祭三月 ",
+        "url": "https://www.bilibili.com/video/BV1Nb411x7hH"
+    },{
+        "tags": "site bilibili",
+        "title": "「日劇日影混剪」未完成 ",
+        "url": "https://www.bilibili.com/video/BV1rx411C7oA"
+    },{
+        "tags": "site community",
+        "title": "炒饭社区",
+        "url": "https://chao.fun/all"
+    },{
+        "tags": "site tech blog",
+        "title": "阮一峰",
+        "url": "https://www.ruanyifeng.com"
+    },{
+        "tags": "site code",
+        "title": "codepen.io",
+        "url": "https://codepen.io/trending"
+    },{
+        "tags": "site tech doc manual",
+        "title": "Java 全栈知识体系",
+        "url": "https://www.pdai.tech/"
+    },{
+        "tags": "site tech doc manual",
+        "title": "凤凰架构",
+        "url": "https://icyfenix.cn/"
+    },{
+        "tags": "site tech doc",
+        "title": "Java工程师进阶",
+        "url": "https://doocs.gitee.io/advanced-java/#/"
+    },{
+        "tags": "site osint tool",
+        "title": "startme",
+        "url": "https://www.osint-labs.org/tools/"
+    },{
+        "tags": "site tech github tool",
+        "title": "hutool",
+        "url": "https://hutool.cn/"
+    },{
+        "tags": "site tech github tool",
+        "title": "Jodd",
+        "url": "https://jodd.org/"
+    },{
+        "tags": "site tech blog",
+        "title": "廖雪峰的个人博客",
+        "url": "https://www.liaoxuefeng.com/"
+    },{
+        "tags": "site product",
+        "title": "人人都是产品经理",
+        "url": "http://www.woshipm.com/"
+    },{
+        "tags": "site doc",
+        "title": "中文文案排版指北",
+        "url": "https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md"
+    },{
+        "tags": "site tech doc note",
+        "title": "CS-Notes",
+        "url": "http://www.cyc2018.xyz/"
+    },{
+        "tags": "site tool",
+        "title": "变量命名",
+        "url": "https://github.com/unbug/codelf"
+    },{
+        "tags": "site tech doc",
+        "title": "JavaGuide",
+        "url": "https://github.com/Snailclimb/JavaGuide"
+    },{
+        "tags": "site tool",
+        "title": "开发必备在线工具",
+        "url": "https://tool.lu/"
+    },{
+        "tags": "site tool web",
+        "title": "Iconfont 矢量图标库",
+        "url": "https://www.iconfont.cn/"
+    },{
+        "tags": "site book doc",
+        "title": "书栈网",
+        "url": "https://www.bookstack.cn/"
+    },{
+        "tags": "site doc",
+        "title": "程序员的自我修养",
+        "url": "https://leohxj.gitbooks.io/a-programmer-prepares/content/"
+    },{
+        "tags": "site tech code",
+        "title": "Java Code Examples",
+        "url": "https://www.programcreek.com/java-api-examples/index.php"
+    },{
+        "tags": "site code",
+        "title": "Github Gist",
+        "url": "https://gist.github.com/"
+    },{
+        "tags": "site import 高频访问 wiki",
+        "title": "wiki blog",
+        "url": "https://wiki.owenyoung.com/"
+    },{
+        "tags": "site manual",
+        "title": "易白教程",
+        "url": "https://www.yiibai.com/"
+    },{
+        "tags": "site developer",
+        "title": "apple developer",
+        "url": "https://developer.apple.com/"
+    },{
+        "tags": "site manual doc",
+        "title": "Docker 从入门到实践",
+        "url": "https://vuepress.mirror.docker-practice.com/"
+    },{
+        "tags": "site manual doc",
+        "title": "DevOps Guidebook",
+        "url": "https://tsejx.github.io/devops-guidebook/"
+    },{
+        "tags": "site github",
+        "title": "超棒黑客必备表单",
+        "url": "https://github.com/shmilylty/awesome-hacking"
+    },{
+        "tags": "site tech community",
+        "title": "SegmentFault",
+        "url": "https://segmentfault.com/"
+    },{
+        "tags": "site tech community",
+        "title": "稀土掘金",
+        "url": "https://juejin.cn/"
+    },{
+        "tags": "site tech manual",
+        "title": "Java技术",
+        "url": "https://www.cmsblogs.com/"
+    },{
+        "tags": "site tech github",
+        "title": "GitHub中文社区",
+        "url": "https://www.githubs.cn/"
+    },{
+        "tags": "site tech-blog",
+        "title": "美团技术团队博客",
+        "url": "https://tech.meituan.com/"
+    },{
+        "tags": "site tech-blog",
+        "title": "有赞技术团队",
+        "url": "https://tech.youzan.com/"
+    },{
+        "tags": "site community",
+        "title": "stack overflow",
+        "url": "https://stackoverflow.com/"
+    },{
+        "tags": "site website",
+        "title": "投资界",
+        "url": "https://www.pedaily.cn/"
+    },{
+        "tags": "site website",
+        "title": "创业邦",
+        "url": "http://wwv.cyzone.cn/"
+    },{
+        "tags": "site tool community",
+        "title": "利器",
+        "url": "https://liqi.io/"
+    },{
+        "tags": "site 导航",
+        "title": "编程导航",
+        "url": "https://www.code-nav.cn/"
+    },{
+        "tags": "site tool",
+        "title": "奶牛快传",
+        "url": "https://cowtransfer.com/"
+    },{
+        "tags": "site news",
+        "title": "热点追踪",
+        "url": "https://houxu.app/"
+    },{
+        "tags": "site news",
+        "title": "readhub",
+        "url": "https://readhub.cn/topics"
+    },{
+        "tags": "site tech",
+        "title": "readhub 技术资讯",
+        "url": "https://readhub.cn/tech"
+    },{
+        "tags": "site github",
+        "title": "system-design-primer",
+        "url": "https://github.com/donnemartin/system-design-primer"
+    },{
+        "tags": "site github awesome",
+        "title": "github awesome",
+        "url": "https://github.com/sindresorhus/awesome"
+    },{
+        "tags": "site github",
+        "title": "awesome-selfhosted",
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+    },{
+        "tags": "site community",
+        "title": "reddit",
+        "url": "https://www.reddit.com/"
+    },{
+        "tags": "site web",
+        "title": "Js Repos",
+        "url": "https://jsrepos.com/"
+    },{
+        "tags": "site github",
+        "title": "A curated list of githuh repos",
+        "url": "https://reposhub.com/"
+    },{
+        "tags": "site read notion import",
+        "title": "荐文汇总",
+        "url": "https://dominich.notion.site/ff02c246a4e347a69b75abd396ffcdbf?v=a31c56bad0eb4a8aa7d8ad33208a5916"
+    },{
+        "tags": "site tech-blog",
+        "title": "docker & kubernetes",
+        "url": "https://blog.gurucomputing.com.au/"
+    },{
+        "tags": "site tool",
+        "title": "web画图",
+        "url": "https://excalidraw.com/"
+    },{
+        "tags": "site blog",
+        "title": "段永平的博客",
+        "url": "http://nteswjq.blog.163.com/"
+    },{
+        "tags": "site github",
+        "title": "Open Source Alternatives ❤️",
+        "url": "https://www.btw.so/open-source-alternatives"
+    },{
+        "tags": "site tech-blog",
+        "title": "Thomas",
+        "url": "https://tuhrig.de/"
+    },{
+        "tags": "site manual 创业",
+        "title": "Gitlab handbook",
+        "url": "https://about.gitlab.com/handbook/"
+    },{
+        "tags": "site import",
+        "title": "不死鸟分享",
+        "url": "https://iao.su"
+    },{
+        "tags": "site website read",
+        "title": "Daily productivity sharing",
+        "url": "https://letters.acacess.com/"
+    },{
+        "tags": "site 高频访问 import",
+        "title": "资源众筹",
+        "url": "http://001.staragain168.com/"
+    },{
+        "tags": "site wiki",
+        "title": "Everything I know",
+        "url": "https://wiki.nikitavoloboev.xyz/"
+    },{
+        "tags": "site blog",
+        "title": "dba notes",
+        "url": "https://dbanotes.net/"
+    },{
+        "tags": "site import github awesome",
+        "title": "超赞合集 awesome-list-chinese",
+        "url": "https://asmcn.icopy.site/"
+    },{
+        "tags": "site github awesome",
+        "title": "超赞列表合集",
+        "url": "https://github.com/icopy-site/awesome-cn/"
+    },{
+        "tags": "site tech dev",
+        "title": "alpine.js",
+        "url": "https://alpinejs.dev/"
+    },{
+        "tags": "site tech-blog",
+        "title": "Barret李靖",
+        "url": "https://www.barretlee.com/entry/"
+    },{
+        "tags": "site tech-blog",
+        "title": "崔庆才的个人站点",
+        "url": "https://cuiqingcai.com/"
+    },{
+        "tags": "site 高频访问",
+        "title": "telegram 中文搜索",
+        "url": "http://www.sssoou.com/"
+    },{
+        "tags": "site bookmark",
+        "title": "书签地球",
+        "url": "https://www.bookmarkearth.com/"
+    },{
+        "tags": "site bookmark",
+        "title": "良心到难以置信的网站推荐",
+        "url": "https://xiangjianan.gitee.io/lks/"
+    },{
+        "tags": "site 导航",
+        "title": "考拉新媒体导航",
+        "url": "https://www.kaolamedia.com/"
+    },{
+        "tags": "site news",
+        "title": "tophub.today",
+        "url": "https://tophub.today/"
+    },{
+        "tags": "site 导航",
+        "title": "实用网络资源导航",
+        "url": "https://imyshare.com/navigation/"
+    },{
+        "tags": "site search 导航",
+        "title": "虫部落",
+        "url": "https://search.chongbuluo.com/"
+    },{
+        "tags": "site wiki",
+        "title": "wikiHow",
+        "url": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5"
+    },{
+        "tags": "site read",
+        "title": "sobooks",
+        "url": "https://sobooks.cc/"
+    },{
+        "tags": "site product",
+        "title": "创造者日报",
+        "url": "https://creatorsdaily.com/"
+    },{
+        "tags": "site product",
+        "title": "找到AI",
+        "url": "https://zhaodao.ai/"
+    },{
+        "tags": "site product",
+        "title": "v1tx",
+        "url": "https://www.v1tx.com/"
+    },{
+        "tags": "site product",
+        "title": "小众软件",
+        "url": "https://meta.appinn.net/"
+    },{
+        "tags": "site search",
+        "title": "超能搜",
+        "url": "https://www.chaonengsou.com/"
+    },{
+        "tags": "site doc",
+        "title": "腾讯文档",
+        "url": "https://docs.qq.com/desktop/"
+    },{
+        "tags": "site github",
+        "title": "2021开源项目评选",
+        "url": "https://www.oschina.net/project/top_cn_2021"
+    },{
+        "tags": "site up",
+        "title": "learn-anything",
+        "url": "https://learn-anything.xyz/"
+    },{
+        "tags": "site website",
+        "title": "TOPYS | 创意内容平台",
+        "url": "https://www.topys.cn/"
+    },{
+        "tags": "site blog",
+        "title": "懒得勤快",
+        "url": "https://ldqk.xyz/"
+    },{
+        "tags": "site 导航",
+        "title": "设计导航",
+        "url": "http://hao.shejidaren.com/"
+    },{
+        "tags": "site blog",
+        "title": "奔跑中的奶酪",
+        "url": "https://www.runningcheese.com/"
+    },{
+        "tags": "site 导航",
+        "title": "链接查找",
+        "url": "https://linkfind.cn/"
+    },{
+        "tags": "site music",
+        "title": "铜钟音乐",
+        "url": "https://tonzhon.com/"
+    },{
+        "tags": "site 导航",
+        "title": "开发者导航",
+        "url": "https://www.zdzn.net/"
+    },{
+        "tags": "site product",
+        "title": "AlternativeTo",
+        "url": "https://alternativeto.net/"
+    },{
+        "tags": "site dev tool",
+        "title": "NGINX-Config",
+        "url": "https://www.digitalocean.com/community/tools/nginx"
+    },{
+        "tags": "site import youtube dev",
+        "title": "学习资料",
+        "url": "https://www.youtube.com/channel/UCAdbfhqI54iH9hQ4bKgeiLw"
+    },{
+        "tags": "site up",
+        "title": "Design Code",
+        "url": "https://designcode.io/courses/"
+    },{
+        "tags": "site data",
+        "title": "烯牛数据",
+        "url": "https://www.xiniudata.com/"
+    },{
+        "tags": "site data",
+        "title": "鲸准",
+        "url": "https://www.jingdata.com/"
+    },{
+        "tags": "site tech community",
+        "title": "Elastic中文社区",
+        "url": "https://elasticsearch.cn/"
+    },{
+        "tags": "site tech youtube",
+        "title": "dev.tube",
+        "url": "https://dev.tube/"
+    },{
+        "tags": "site blog tech github list",
+        "title": "chinese-independent-blogs",
+        "url": "https://github.com/timqian/chinese-independent-blogs"
+    },{
+        "tags": "site tech manual",
+        "title": "learnxinyminutes",
+        "url": "https://learnxinyminutes.com/"
+    },{
+        "tags": "site tools",
+        "title": "NameBeta",
+        "url": "https://namebeta.com"
+    },{
+        "tags": "site github",
+        "title": "open-source libs",
+        "url": "https://opensourcelibs.com/"
+    },{
+        "tags": "site github",
+        "title": "LibHunt",
+        "url": "https://www.libhunt.com/"
+    },{
+        "tags": "site blog",
+        "title": "Dailyio",
+        "url": "https://iois.me/"
+    },{
+        "tags": "site tech manual",
+        "title": "IntelliJ IDEA",
+        "url": "https://jetbrains.com.zh.xy2401.com/help/idea/installation-guide.html"
+    },{
+        "tags": "site bilibili",
+        "title": "编程不良人",
+        "url": "https://space.bilibili.com/352224540"
+    },{
+        "tags": "site bookmark",
+        "title": "阿虚同学的储物间",
+        "url": "https://axutongxue.com"
+    },{
+        "tags": "site bookmark",
+        "title": "人生苦短",
+        "url": "http://z007.ys168.com/"
+    },{
+        "tags": "site data 导航",
+        "title": "大数据导航",
+        "url": "http://hao.199it.com/"
+    },{
+        "tags": "site news community 发现",
+        "title": "Hacker News",
+        "url": "https://news.ycombinator.com/"
+    },{
+        "tags": "site weekly",
+        "title": "hacker-share",
+        "url": "https://hackershare.dev/weekly_selections"
+    },{
+        "tags": "site bookmark",
+        "title": "hacker-share",
+        "url": "https://hackershare.dev/bookmarks"
+    },{
+        "tags": "site weekly newsletter 高频访问",
+        "title": "hackernewletter",
+        "url": "https://hackernewsletter.com/"
+    },{
+        "tags": "site website",
+        "title": "Digital Marketing ",
+        "url": "https://www.webfx.com/"
+    },{
+        "tags": "site weekly newsletter",
+        "title": "softare lead weekly",
+        "url": "https://softwareleadweekly.com/issues/"
+    },{
+        "tags": "site weekly newsletter",
+        "title": "dev-tips",
+        "url": "https://umaar.com/dev-tips/"
+    },{
+        "tags": "site newsletter weekly",
+        "title": "smash(dev & design)",
+        "url": "https://www.smashingmagazine.com/the-smashing-newsletter/"
+    },{
+        "tags": "site newsletter",
+        "title": "JavaScript Weekly",
+        "url": "https://javascriptweekly.com/issues"
+    },{
+        "tags": "site newsletter daily",
+        "title": "hackernewsletter",
+        "url": "https://us1.campaign-archive.com/home/?u=faa8eb4ef3a111cef92c4f3d4&id=e505c88a2e"
+    },{
+        "tags": "site tools",
+        "title": "draw.io",
+        "url": "https://www.draw.io/"
+    },{
+        "tags": "site tools mind",
+        "title": "ProcessOn",
+        "url": "https://www.processon.com/"
+    },{
+        "tags": "site github",
+        "title": "hacker-laws-zh",
+        "url": "https://github.com/nusr/hacker-laws-zh"
+    },{
+        "tags": "site tech manual",
+        "title": "Maven手册",
+        "url": "https://www.yuque.com/inuter/bc7ikc/ngeqot"
+    },{
+        "tags": "site website data",
+        "title": "IT桔子",
+        "url": "https://www.itjuzi.com/"
+    },{
+        "tags": "site weekly import 高频访问",
+        "title": "国外社交媒体里的热门讨论",
+        "url": "https://www.buzzing.cc/"
+    },{
+        "tags": "site news",
+        "title": "奇客",
+        "url": "https://www.solidot.org/"
+    },{
+        "tags": "site UX",
+        "title": "mobbin.design",
+        "url": "https://mobbin.design/browse/ios/apps"
+    },{
+        "tags": "site UX",
+        "title": "UI-source",
+        "url": "https://www.uisources.com/apps"
+    },{
+        "tags": "site UX",
+        "title": "dribble",
+        "url": "https://dribbble.com/"
+    },{
+        "tags": "site news",
+        "title": "techcrunch",
+        "url": "https://techcrunch.com/"
+    },{
+        "tags": "site data",
+        "title": "飞瓜数据",
+        "url": "https://www.feigua.cn/"
+    },{
+        "tags": "site community",
+        "title": "登链社区",
+        "url": "https://learnblockchain.cn/"
+    },{
+        "tags": "site weekly",
+        "title": "区块链周报",
+        "url": "https://unblock256.substack.com/"
+    },{
+        "tags": "site news",
+        "title": "创投",
+        "url": "https://venturebeat.com/"
+    },{
+        "tags": "site product",
+        "title": "PMcaff",
+        "url": "https://www.pmcaff.com/"
+    },{
+        "tags": "site UX",
+        "title": "core 77",
+        "url": "https://www.core77.com/"
+    },{
+        "tags": "site data",
+        "title": "七麦数据",
+        "url": "https://www.qimai.cn/rank"
+    },{
+        "tags": "site UX",
+        "title": "Behance",
+        "url": "https://www.behance.net/"
+    },{
+        "tags": "site tech manual",
+        "title": "DevHints",
+        "url": "https://devhints.io/"
+    },{
+        "tags": "site tech code manual",
+        "title": "programming-Idioms",
+        "url": "https://programming-idioms.org/about#about-block-cheatsheets"
+    },{
+        "tags": "site tech code manual",
+        "title": "Learn X in Y minutes",
+        "url": "https://learnxinyminutes.com/"
+    },{
+        "tags": "site tech manual",
+        "title": "devdocs",
+        "url": "https://devdocs.io/"
+    },{
+        "tags": "site tech manual",
+        "title": "",
+        "url": "https://overapi.com/"
+    },{
+        "tags": "site tech manual code",
+        "title": "socode",
+        "url": "https://socode.pro/"
+    },{
+        "tags": "site github awesome 高频访问",
+        "title": "track awesome list",
+        "url": "https://www.trackawesomelist.com/"
+    },{
+        "tags": "site read newsletter notion",
+        "title": "BuildForever 电子报",
+        "url": "https://huangweidong.me/buildforever"
+    },{
+        "tags": "site notion read",
+        "title": "摄影小报",
+        "url": "https://huangweidong.me/photographyzine"
+    },{
+        "tags": "site tech code",
+        "title": "betterprogramming",
+        "url": "https://betterprogramming.pub/"
+    },{
+        "tags": "site tech weekly",
+        "title": "web design",
+        "url": "https://web-design-weekly.com/"
+    },{
+        "tags": "site tools",
+        "title": "remote tools",
+        "url": "https://www.remote.tools/"
+    },{
+        "tags": "site html-list",
+        "title": "wiki-workflow",
+        "url": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow"
+    },{
+        "tags": "site weekly newsletter UX",
+        "title": "ux design",
+        "url": "https://uxdesignweekly.com/"
+    },{
+        "tags": "site github list",
+        "title": "每日收集喜欢的开源项目",
+        "url": "https://githubplus.com/guanguans/favorite-link"
+    },{
+        "tags": "site github list",
+        "title": "faabli-github-list",
+        "url": "https://archive.faabli.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "happy letter",
+        "url": "https://xiao.do"
+    },{
+        "tags": "site daily 高频访问",
+        "title": "知识星球",
+        "url": "https://zsxq.com/"
+    },{
+        "tags": "site notion newsletter",
+        "title": "Λ-Reading",
+        "url": "https://www.notion.so/rizi/Reading-d77be691eb244db0b8add646b6ef7f3b"
+    },{
+        "tags": "site dev tech daily 高频访问",
+        "title": "daily.dev",
+        "url": "https://app.daily.dev/"
+    },{
+        "tags": "site yuque newsletter",
+        "title": "🏰 城堡阅读周刊",
+        "url": "https://www.yuque.com/gaohui-bdaa2/chengbao"
+    },{
+        "tags": "site yuque doc read",
+        "title": "纳瓦尔宝典：财富和幸福指南",
+        "url": "https://www.yuque.com/qingmiyang/naval"
+    },{
+        "tags": "site weekly",
+        "title": "科技爱好者周刊",
+        "url": "https://www.ruanyifeng.com/blog/weekly/"
+    },{
+        "tags": "site yuque weekly",
+        "title": "体验碎周报",
+        "url": "https://www.yuque.com/ftium4/gs2tgp"
+    },{
+        "tags": "site tailwind",
+        "title": "Flowbite",
+        "url": "https://flowbite.com/docs/getting-started/introduction/"
+    },{
+        "tags": "site tailwind",
+        "title": "tailwind-ui",
+        "url": "https://tailwindui.com"
+    },{
+        "tags": "site tailwind",
+        "title": "tailwind-kit",
+        "url": "https://www.tailwind-kit.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "kometa",
+        "url": "https://kitwind.io/products/kometa"
+    },{
+        "tags": "site tailwind",
+        "title": "Meraki UI",
+        "url": "https://merakiui.com/components/"
+    },{
+        "tags": "site tailwind",
+        "title": "tailblock",
+        "url": "https://tailblocks.cc/"
+    },{
+        "tags": "site tailwind",
+        "title": "codepen tailwind",
+        "url": "https://codepen.io/search/pens?q=tailwind"
+    },{
+        "tags": "site tailwind",
+        "title": "Tailwind UI kit",
+        "url": "https://tailwinduikit.com/components"
+    },{
+        "tags": "site tailwind",
+        "title": "lofiui",
+        "url": "https://lofiui.co/"
+    },{
+        "tags": "site tailwind",
+        "title": "UI blocks and components",
+        "url": "https://blocks.wickedtemplates.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "Creative Tim",
+        "url": "https://www.creative-tim.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "tailwind-elements",
+        "url": "https://tailwind-elements.com/quick-start/"
+    },{
+        "tags": "site tailwind",
+        "title": "razorui",
+        "url": "https://razorui.com/packages"
+    },{
+        "tags": "site tailwind",
+        "title": "Best of Tailwind CSS",
+        "url": "https://bestoftailwind.com/p/tailwind-made"
+    },{
+        "tags": "site website",
+        "title": "SDR",
+        "url": "https://superdevresources.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "tailwind color",
+        "url": "https://www.themes.dev/tailwindcss-colors/"
+    },{
+        "tags": "site note tools",
+        "title": "flomo",
+        "url": "https://flomoapp.com/mine/"
+    },{
+        "tags": "site dev code manual",
+        "title": "编程自学之路",
+        "url": "https://r2coding.com/"
+    },{
+        "tags": "site 导航 UX",
+        "title": "设计师网址导航",
+        "url": "https://webstack.cc/en/index.html"
+    },{
+        "tags": "site newsletter list 导航",
+        "title": "博客简报导航",
+        "url": "https://www.podletter.club"
+
+    },{
+        "tags": "site newsletter weekly",
+        "title": "海上星光",
+        "url": "https://hsxg.ghost.io/"
+    },{
+        "tags": "site newsletter",
+        "title": "苔原通信",
+        "url": "https://tundrazone.com/"
+    },{
+        "tags": "site website",
+        "title": "visual capitalist",
+        "url": "https://www.visualcapitalist.com/"
+    },{
+        "tags": "site podcasts github list",
+        "title": "Chinese podcasts",
+        "url": "https://github.com/alaskasquirrel/Chinese-Podcasts"
+    },{
+        "tags": "site newsletter",
+        "title": "逆流Upstream",
+        "url": "https://zhiy.cc/upstream"
+    },{
+        "tags": "site newsletter list github rss 高频访问",
+        "title": "邮箱 📧 newsletter RSS 荟萃",
+        "url": "https://github.com/alaskasquirrel/Email-newsletter-RSS"
+    },{
+        "tags": "site newsletter list import",
+        "title": "Hedwing",
+        "url": "https://hedwig.pub"
+    },{
+        "tags": "site newsletter product",
+        "title": "产品沉思录",
+        "url": "https://pmthinking.com"
+    },{
+        "tags": "site newsletter",
+        "title": "增长黑客周刊",
+        "url": "http://ghacker.vip/"
+    },{
+        "tags": "site newsletter",
+        "title": "王龙行",
+        "url": "https://zhiy.cc/long"
+    },{
+        "tags": "site newsletter",
+        "title": "潦草学者",
+        "url": "https://zhiy.cc/messy"
+    },{
+        "tags": "site newsletter",
+        "title": "Steve 说每周通讯",
+        "url": "https://steve.hedwig.pub/"
+    },{
+        "tags": "site newsletter",
+        "title": "推播助栏 The Podcast Pick",
+        "url": "https://enzochen.substack.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "任听播客",
+        "url": "https://letter.getpodcast.xyz/"
+    },{
+        "tags": "site newsletter",
+        "title": "The Quibbler",
+        "url": "https://thequibbler.zhubai.pub/"
+    },{
+        "tags": "site newsletter",
+        "title": "水山说",
+        "url": "https://zhiy.cc/ssshuos"
+    },{
+        "tags": "site newsletter",
+        "title": "🏰 城堡阅读周刊",
+        "url": "https://www.yuque.com/gaohui-bdaa2/chengbao"
+    },{
+        "tags": "site newsletter",
+        "title": "唯理通讯",
+        "url": "https://www.veritaschina.org/newsletter/"
+    },{
+        "tags": "site newsletter",
+        "title": "曼報",
+        "url": "https://mailchi.mp/f91ecf7c7eb8/mannyli"
+    },{
+        "tags": "site newsletter",
+        "title": "科技創業週報 Star Rocket",
+        "url": "https://blog.starrocket.io/star-rocket-newsletter/"
+    },{
+        "tags": "site newsletter",
+        "title": "Yestoday",
+        "url": "https://yestoday.substack.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "小胖の窝",
+        "url": "https://littlefat.cn/"
+    },{
+        "tags": "site newsletter",
+        "title": "白宇极",
+        "url": "https://yestoday.substack.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "事不过三",
+        "url": "https://via.hedwig.pub/"
+    },{
+        "tags": "site newsletter",
+        "title": "自说自话",
+        "url": "https://landisland.zhubai.love"
+    },{
+        "tags": "site newsletter news",
+        "title": "安妮薇时报",
+        "url": "https://anyway.fm/news/"
+    },{
+        "tags": "site newsletter",
+        "title": "光明王 Lord of Light",
+        "url": "https://lordoflight.substack.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "若有所播",
+        "url": "https://www.getrevue.co/profile/tobepodcasting"
+    },{
+        "tags": "site newsletter",
+        "title": "生活奇旅",
+        "url": "https://newsletter.weichen.blog/"
+    },{
+        "tags": "site newsletter",
+        "title": "happy letter",
+        "url": "https://xiao.do/"
+    },{
+        "tags": "site newsletter",
+        "title": "Futurow 未来派",
+        "url": "https://futurow.zhubai.love/"
+    },{
+        "tags": "site newsletter",
+        "title": "海上星光",
+        "url": "https://hsxg.ghost.io/"
+    },{
+        "tags": "site newsletter",
+        "title": "有朝随想",
+        "url": "https://www.getrevue.co/profile/lostluu"
+    },{
+        "tags": "site newsletter",
+        "title": "独来读趣",
+        "url": "https://molly.hedwig.pub/"
+    },{
+        "tags": "site newsletter",
+        "title": "随机实验室",
+        "url": "https://random-lab.ghost.io/"
+    },{
+        "tags": "site newsletter",
+        "title": "Sustainable Curiosity",
+        "url": "https://zhiy.cc/mccc"
+    },{
+        "tags": "site newsletter",
+        "title": "一半精灵",
+        "url": "https://www.getrevue.co/profile/yiyi11"
+    },{
+        "tags": "site newsletter",
+        "title": "李雪含",
+        "url": "https://zhiy.cc/lixuehan"
+    },{
+        "tags": "site newsletter",
+        "title": "世俗的理想主义青年",
+        "url": "https://zhiy.cc/pmxusiyu"
+    },{
+        "tags": "site newsletter",
+        "title": "元朔",
+        "url": "https://zhiy.cc/yyds"
+    },{
+        "tags": "site newsletter",
+        "title": "MonoGoto",
+        "url": "https://monogoto.ryouissei.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "叁拾一周",
+        "url": "https://elizen.zhubai.love/"
+    },{
+        "tags": "site newsletter",
+        "title": "科技爱好者周刊",
+        "url": "https://github.com/ruanyf/weekly"
+    },{
+        "tags": "site newsletter",
+        "title": "hackernewsletter",
+        "url": "https://hackernewsletter.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "商业内观",
+        "url": "https://hypper.cn/homepage/creator/714"
+    },{
+        "tags": "site newsletter",
+        "title": "1000小食报",
+        "url": "https://young.zhubai.love/"
+    },{
+        "tags": "site newsletter",
+        "title": "精选日报",
+        "url": "https://zhiy.cc/daynews"
+    },{
+        "tags": "site newsletter",
+        "title": "刻意体会",
+        "url": "https://kyth.hedwig.pub/"
+    },{
+        "tags": "site newsletter",
+        "title": "苔原通信",
+        "url": "https://tundrazone.com/dingyue/"
+    },{
+        "tags": "site newsletter",
+        "title": "Λ-Reading",
+        "url": "https://rizime.substack.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "Random Lab 随机实验室",
+        "url": "https://random-lab.ghost.io/"
+    },{
+        "tags": "site newsletter",
+        "title": "地心引力",
+        "url": "https://walnut.hedwig.pub/"
+    },{
+        "tags": "site newsletter",
+        "title": "我的社群成长札记",
+        "url": "https://zhiy.cc/communitynote"
+    },{
+        "tags": "site newsletter",
+        "title": "Free Weekly Productivity Insights",
+        "url": "https://aliabdaal.com/newsletter/"
+    },{
+        "tags": "site newsletter",
+        "title": "小叉的梦呓",
+        "url": "https://chasays.hedwig.pub/"
+    },{
+        "tags": "site newsletter",
+        "title": "酷 壳 – CoolShell",
+        "url": "https://coolshell.cn/"
+    },{
+        "tags": "site newsletter",
+        "title": "The 3-2-1 Newsletter",
+        "url": "https://jamesclear.com/3-2-1"
+    },{
+        "tags": "site newsletter",
+        "title": "DAVID PERELL Weekly Newsletters",
+        "url": "https://perell.com/newsletter/"
+    },{
+        "tags": "site newsletter",
+        "title": "DEX 周刊",
+        "url": "https://newsletter.dex.group/"
+    },{
+        "tags": "site newsletter",
+        "title": "屋瓦猫-猫周刊",
+        "url": "https://www.yuque.com/liushuaiiu/cat"
+    },{
+        "tags": "site newsletter list github",
+        "title": "awesome-newsletters",
+        "url": "https://github.com/zudochkin/awesome-newsletters"
+    },{
+        "tags": "site rss list blog 高频访问",
+        "title": "RSS Source",
+        "url": "https://rss-source.com"
+    },{
+        "tags": "site newsletter list github 高频访问",
+        "title": "newsletter-list",
+        "url": "https://github.com/chasays/newsletter-list"
+    },{
+        "tags": "site tech dev",
+        "title": "School of SRE",
+        "url": "https://linkedin.github.io/school-of-sre/"
+    },{
+        "tags": "site tech doc",
+        "title": "Textbook for System Design Interviews",
+        "url": "https://systemdesign.org"
+    },{
+        "tags": "site tech-blog",
+        "title": "苏洋博客",
+        "url": "https://soulteary.com/"
+    },{
+        "tags": "site rss list",
+        "title": "RSS Hub",
+        "url": "https://docs.rsshub.app/"
+    },{
+        "tags": "site disk",
+        "title": "云盘资源网",
+        "url": "https://www.yunpanziyuan.com/"
+    },{
+        "tags": "site dev manual",
+        "title": "红黑编程",
+        "url": "http://rcode.rbtree.cn/"
+    },{
+        "tags": "site yuque weekly",
+        "title": "产品经理周刊",
+        "url": "https://www.yuque.com/xftx/cpjlzb"
+    },{
+        "tags": "site yuque tech read",
+        "title": "技术文章专栏(安全)",
+        "url": "https://www.yuque.com/tidesec/wiki"
+    },{
+        "tags": "site podcast",
+        "title": "WEB VIEW",
+        "url": "https://webview.tech/"
+    },{
+        "tags": "site video",
+        "title": "up-fox",
+        "url": "https://www.cupfox.com/"
+    },{
+        "tags": "site podcast",
+        "title": "播客小镇",
+        "url": "https://podtown.xyz/"
+    },{
+        "tags": "site blog",
+        "title": "白板报",
+        "url": "https://wangpei.net/"
+    },{
+        "tags": "site website",
+        "title": "全现在-全球青年精品资讯平台",
+        "url": "https://www.allnow.com/"
+    },{
+        "tags": "site blog",
+        "title": "陆本为",
+        "url": "https://books.nexmoe.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "workspace",
+        "url": "https://www.workspaces.xyz/"
+    },{
+        "tags": "site newsletter",
+        "title": "若有所播丨To Be Podcasting",
+        "url": "https://www.workspaces.xyz/"
+    },{
+        "tags": "site blog",
+        "title": "灵感买家俱乐部",
+        "url": "https://club.q24.io/"
+    },{
+        "tags": "site blog",
+        "title": "千古壹号的博客",
+        "url": "https://qianguyihao.com/about/"
+    },{
+        "tags": "site newsletter",
+        "title": "HappyFire的阅读列表",
+        "url": "https://papyrus.so/@happyfire"
+    },{
+        "tags": "site manual",
+        "title": "obsidian中文教程",
+        "url": "https://publish.obsidian.md/chinesehelp"
+    },{
+        "tags": "site weekly blog",
+        "title": "mukti每周分享",
+        "url": "https://feizhaojun.com/"
+    },{
+        "tags": "site tech",
+        "title": "游戏编程",
+        "url": "https://www.233tw.com/"
+    },{
+        "tags": "site dev manual",
+        "title": "Code With Engineering Playbook",
+        "url": "https://microsoft.github.io/code-with-engineering-playbook/"
+    },{
+        "tags": "site 导航",
+        "title": "炫猿",
+        "url": "https://xydh.fun/"
+    },{
+        "tags": "site UX",
+        "title": "Figma",
+        "url": "https://www.figma.com"
+    },{
+        "tags": "site tech dev",
+        "title": "计算机安全课程",
+        "url": "https://opensecuritytraining.info/Welcome.html"
+    },{
+        "tags": "site web",
+        "title": "报告厅",
+        "url": "https://www.baogaoting.com/"
+    },{
+        "tags": "site dev",
+        "title": "chrome devtools",
+        "url": "https://umaar.com/dev-tips/"
+    },{
+        "tags": "site tool",
+        "title": "图像压缩Squoosh",
+        "url": "https://squoosh.app/"
+    },{
+        "tags": "site dev manual",
+        "title": "Python Cheatsheet",
+        "url": "https://gto76.github.io/python-cheatsheet/"
+    },{
+        "tags": "site daily",
+        "title": "Hacker News Daily",
+        "url": "http://www.daemonology.net/hn-daily/"
+    },{
+        "tags": "site blog",
+        "title": "Dan Wang",
+        "url": "https://danwang.co"
+    },{
+        "tags": "site tech-blog weekly 有趣",
+        "title": "Bboysoul-胡言乱语",
+        "url": "https://www.bboy.app"
+    },{
+        "tags": "site blog list 导航",
+        "title": "十年之约-blog列表",
+        "url": "https://www.foreverblog.cn/blogs.html"
+    },{
+        "tags": "site blog 导航",
+        "title": "优秀个人独立博客导航",
+        "url": "http://www.jetli.com.cn"
+    },{
+        "tags": "site yuque",
+        "title": "软件测试周刊",
+        "url": "https://www.yuque.com/bxiaofan/testingweekly"
+    },{
+        "tags": "site doc",
+        "title": "LeetCode Cookbook",
+        "url": "https://books.halfrost.com/leetcode/"
+    },{
+        "tags": "site news",
+        "title": "律动",
+        "url": "https://www.theblockbeats.info/"
+    },{
+        "tags": "site website read",
+        "title": "AskMirror",
+        "url": "https://askmirror.xyz/"
+    },{
+        "tags": "site yuque manual doc",
+        "title": "体验文案｜UX语义设计指南",
+        "url": "https://www.yuque.com/docs/share/fbe88057-536e-482e-85ab-c0e618cef330"
+    },{
+        "tags": "site blog tech-blog",
+        "title": "GeekPlux",
+        "url": "https://geekplux.com/"
+    },{
+        "tags": "site tool dev",
+        "title": "CSS Layout Generator",
+        "url": "https://layout.bradwoods.io"
+    },{
+        "tags": "site rss",
+        "title": "feedly discover",
+        "url": "https://feedly.com/i/discover"
+    },{
+        "tags": "site 榜单",
+        "title": "果汁排行榜",
+        "url": "http://guozhivip.com/rank/"
+    },{
+        "tags": "site community",
+        "title": "geekhub",
+        "url": "https://www.geekhub.com/"
+    },{
+        "tags": "site 榜单",
+        "title": "make.mk",
+        "url": "https://make.mk/"
+    },{
+        "tags": "site 高频访问 import daily",
+        "title": "DevUrls",
+        "url": "https://devurls.com/"
+    },{
+        "tags": "site 高频访问 import daily",
+        "title": "TechUrls",
+        "url": "https://techurls.com/"
+    },{
+        "tags": "site 高频访问 import daily",
+        "title": "SciUrls",
+        "url": "https://sciurls.com/"
+    },{
+        "tags": "site community daily 高频访问",
+        "title": "tweetdeck",
+        "url": "https://tweetdeck.twitter.com/"
+    },{
+        "tags": "site life",
+        "title": "本地宝",
+        "url": "http://www.bendibao.com/city.htm"
+    },{
+        "tags": "site 榜单",
+        "title": "今日热榜",
+        "url": "https://tophub.today/"
+    },{
+        "tags": "site data",
+        "title": "influencer 让最合适的网红为您的品牌代言",
+        "url": "https://cn.noxinfluencer.com/"
+    },{
+        "tags": "site website",
+        "title": "Alexa",
+        "url": "http://www.alexa.cn/"
+    },{
+        "tags": "site data",
+        "title": "新抖",
+        "url": "https://xd.newrank.cn/home/index"
+    },{
+        "tags": "site data",
+        "title": "移动观象台",
+        "url": "http://mi.talkingdata.com/"
+    },{
+        "tags": "site music",
+        "title": "Tonzhon",
+        "url": "http://lite.tonzhon.com/"
+    },{
+        "tags": "site tool",
+        "title": "万能命令",
+        "url": "https://wannengrun.com/zh/"
+    },{
+        "tags": "site tools",
+        "title": "迷宫生成",
+        "url": "https://www.mazegenerator.net/"
+    },{
+        "tags": "site tool",
+        "title": "画图工具",
+        "url": "https://www.autodraw.com/"
+    },{
+        "tags": "site tool",
+        "title": "画图工具",
+        "url": "https://kleki.com/"
+    },{
+        "tags": "site website 哲学",
+        "title": "爱思想",
+        "url": "https://www.aisixiang.com/"
+    },{
+        "tags": "site 哲学",
+        "title": "哲学简图studiocarreras",
+        "url": "https://studiocarreras.com/philographics"
+    },{
+        "tags": "site 哲学",
+        "title": "100个哲学问题",
+        "url": "https://survey2020.philpeople.org/"
+    },{
+        "tags": "site 哲学",
+        "title": "思方網: 提升思考 輕鬆自學",
+        "url": "https://philosophy.hku.hk/think/chi/"
+    },{
+        "tags": "site 哲学",
+        "title": "知原学说",
+        "url": "http://www.ctk3.cn/"
+    },{
+        "tags": "site manual doc mind",
+        "title": "认知偏差列表 ",
+        "url": "https://www.wikiwand.com/zh-cn/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4%E5%88%97%E8%A1%A8"
+    },{
+        "tags": "site mind",
+        "title": "爱莫脑图",
+        "url": "https://mind.airmore.cn/template"
+    },{
+        "tags": "site mind",
+        "title": "ZhiMap",
+        "url": "https://zhimap.com/gallery"
+    },{
+        "tags": "site 哲学",
+        "title": "简明西方哲学史",
+        "url": "https://www.philosophybasics.com/"
+    },{
+        "tags": "site mind 哲学",
+        "title": "心智模型",
+        "url": "https://fs.blog/mental-models/"
+    },{
+        "tags": "site 哲学 bilibili",
+        "title": "10分钟速成课：哲学",
+        "url": "https://www.bilibili.com/video/av13762839"
+    },{
+        "tags": "site 哲学",
+        "title": "道德机器",
+        "url": "https://www.moralmachine.net/hl/zh"
+    },{
+        "tags": "site 哲学",
+        "title": "苑舉正活用哲學",
+        "url": "https://www.youtube.com/watch?v=CR0Z17RsYyw&list=PLfS0WrMWEu_6Iy2fHVrb7qPbTVlKtEJEZ"
+    },{
+        "tags": "site 哲学 bilibili",
+        "title": "我思故我在",
+        "url": "https://space.bilibili.com/28682295/video"
+    },{
+        "tags": "site 导航",
+        "title": "心理学网址导航",
+        "url": "https://www.psychspace.com/site/"
+    },{
+        "tags": "site import daily",
+        "title": "印象识堂",
+        "url": "https://www.yinxiang.com/everhub/"
+    },{
+        "tags": "site tool",
+        "title": "Knowledge Management Tools",
+        "url": "http://www.knowledge-management-tools.net/"
+    },{
+        "tags": "site 导航",
+        "title": "高校网址大全",
+        "url": "http://u.feelingmsg.com/u/"
+    },{
+        "tags": "site website",
+        "title": "格致论道",
+        "url": "http://self.kepu.cn/self_yj/"
+    },{
+        "tags": "site 导航",
+        "title": "建筑师网址导航",
+        "url": "https://pxldf.com/"
+    },{
+        "tags": "site website",
+        "title": "互联网地图",
+        "url": "http://internet-map.net/"
+    },{
+        "tags": "site newsletter",
+        "title": "湾区日报",
+        "url": "https://wanqu.co/"
+    },{
+        "tags": "site news",
+        "title": "煎蛋",
+        "url": "http://jandan.net/"
+    },{
+        "tags": "site english",
+        "title": "旺旺英语",
+        "url": "http://www.wwenglish.org/en/z/grammar/index.htm"
+    },{
+        "tags": "site 导航",
+        "title": "建筑曲奇导航",
+        "url": "https://hao.archcookie.com/#/home"
+    },{
+        "tags": "site 导航",
+        "title": "工业导航",
+        "url": "http://www.gongyedh.com/"
+    },{
+        "tags": "site 导航",
+        "title": "设计导航",
+        "url": "https://www.shejipi.com/hao"
+    },{
+        "tags": "site github list",
+        "title": "中国独立开发者项目列表",
+        "url": "https://github.com/1c7/chinese-independent-developer"
+    },{
+        "tags": "site daily 次高频",
+        "title": "极客阅读",
+        "url": "https://jikeyuedu.cn/hot"
+    },{
+        "tags": "site dev",
+        "title": "Code Guide",
+        "url": "https://alloyteam.github.io/CodeGuide/"
+    },{
+        "tags": "site ebook",
+        "title": "半数",
+        "url": "http://www.banshujiang.cn/"
+    },{
+        "tags": "site music",
+        "title": "网易云音乐 飙升榜",
+        "url": "https://music.163.com/#/discover/toplist"
+    },{
+        "tags": "site dev",
+        "title": "chrome devtools tips",
+        "url": "https://flaviocopes.com/chrome-devtools-tips/"
+    },{
+        "tags": "site 导航",
+        "title": "外贸导航",
+        "url": "https://www.amz520.com/"
+    },{
+        "tags": "site 导航",
+        "title": "买家导航",
+        "url": "https://www.maijia123.com/"
+    },{
+        "tags": "site 导航",
+        "title": "卖家导航",
+        "url": "https://maijia800.com/"
+    },{
+        "tags": "site 导航",
+        "title": "电商导航",
+        "url": "https://www.ddianshang.com/nav"
+    },{
+        "tags": "site 导航",
+        "title": "外贸向导",
+        "url": "https://www.dragon-guide.net/"
+    },{
+        "tags": "site community",
+        "title": "知无不言的跨境电商社区",
+        "url": "https://www.wearesellers.com/"
+    },{
+        "tags": "site blog",
+        "title": "顾小北的B2C博客",
+        "url": "http://www.guxiaobei.com/"
+    },{
+        "tags": "site weisite community",
+        "title": "米课圈",
+        "url": "https://ask.imiker.com/"
+    },{
+        "tags": "site tools",
+        "title": "购物党-比价工具",
+        "url": "https://www.gwdang.com/"
+    },{
+        "tags": "site tools",
+        "title": "比一比价",
+        "url": "http://b1bj.com/"
+    },{
+        "tags": "site 购物",
+        "title": "网易严选",
+        "url": "https://you.163.com/"
+    },{
+        "tags": "site 购物",
+        "title": "什么值得买",
+        "url": "https://www.smzdm.com/"
+    },{
+        "tags": "site life",
+        "title": "大麦网",
+        "url": "https://www.damai.cn/"
+    },{
+        "tags": "site life",
+        "title": "下厨房",
+        "url": "https://www.xiachufang.com/"
+    },{
+        "tags": "site life",
+        "title": "中午吃什么",
+        "url": "https://www.zwcsm.com/"
+    },{
+        "tags": "site life",
+        "title": "豆果美食",
+        "url": "https://www.douguo.com/"
+    },{
+        "tags": "site life",
+        "title": "唤醒食物",
+        "url": "https://www.foodwake.com/"
+    },{
+        "tags": "site life",
+        "title": "丁香园",
+        "url": "https://portal.dxy.cn/"
+    },{
+        "tags": "site life",
+        "title": "春雨医生",
+        "url": "https://www.chunyuyisheng.com/pc/disease/hot/"
+    },{
+        "tags": "site read blog",
+        "title": "雅书",
+        "url": "https://yabook.blog/"
+    },{
+        "tags": "site read blog",
+        "title": "张子阳的博客",
+        "url": "http://www.tracefact.net/"
+    },{
+        "tags": "site read",
+        "title": "读书笔记",
+        "url": "https://reading.geek-docs.com/"
+    },{
+        "tags": "site 榜单",
+        "title": "reddit-list",
+        "url": "http://redditlist.com/"
+    },{
+        "tags": "site music",
+        "title": "潮汐",
+        "url": "https://tide.fm/zh_CN/"
+    },{
+        "tags": "site music",
+        "title": "xialala",
+        "url": "http://xialala.com/"
+    },{
+        "tags": "site video",
+        "title": "AGE动漫",
+        "url": "https://www.agefans.vip/"
+    },{
+        "tags": "site website",
+        "title": "产品经理的人工智能学习库",
+        "url": "https://easyai.tech/"
+    },{
+        "tags": "site manual doc",
+        "title": "前端小课",
+        "url": "https://lefex.gitee.io/books/"
+    },{
+        "tags": "site github",
+        "title": "Python 100 days",
+        "url": "https://github.com/jackfrued/Python-100-Days"
+    },{
+        "tags": "site dev manual",
+        "title": "前端开发仓库",
+        "url": "http://code.ciaoca.com/"
+    },{
+        "tags": "site list tech github",
+        "title": "计算机科学主题列表",
+        "url": "https://dirtysalt.github.io/html/index.html"
+    },{
+        "tags": "site dev",
+        "title": "开发者头条",
+        "url": "https://toutiao.io/"
+    },{
+        "tags": "site life",
+        "title": "汽车之家",
+        "url": "https://www.autohome.com.cn/"
+    },{
+        "tags": "site life",
+        "title": "心理学空间",
+        "url": "https://www.psychspace.com/"
+    },{
+        "tags": "site data",
+        "title": "199IT",
+        "url": "http://www.199it.com/"
+    },{
+        "tags": "site data",
+        "title": "up sort",
+        "url": "https://upsort.com/"
+    },{
+        "tags": "site website",
+        "title": "Tech. computer tips",
+        "url": "http://carlcheo.com/"
+    },{
+        "tags": "site manual",
+        "title": "emoji cheat sheet",
+        "url": "https://www.webfx.com/tools/emoji-cheat-sheet/"
+    },{
+        "tags": "site manual",
+        "title": "emoji XD",
+        "url": "https://emojixd.com/"
+    },{
+        "tags": "site up",
+        "title": "可量化学科",
+        "url": "http://www.kelianghua.com/"
+    },{
+        "tags": "site bilibili",
+        "title": "bilibili channel",
+        "url": "https://www.bilibili.com/v/channel/"
+    },{
+        "tags": "site bilibili",
+        "title": "bilibili hot",
+        "url": "https://www.bilibili.com/v/popular/all"
+    },{
+        "tags": "site news data",
+        "title": "daily-infographic",
+        "url": "https://www.dailyinfographic.com/"
+    },{
+        "tags": "site news data",
+        "title": "best  infograghic",
+        "url": "https://www.best-infographics.com/"
+    },{
+        "tags": "site data news",
+        "title": "PinGraphic",
+        "url": "https://www.pingwest.com/Pingraphic"
+    },{
+        "tags": "site data",
+        "title": "information is beautiful",
+        "url": "https://informationisbeautiful.net/"
+    },{
+        "tags": "site read",
+        "title": "matt might",
+        "url": "https://matt.might.net/articles/"
+    },{
+        "tags": "site community",
+        "title": "链滴",
+        "url": "https://ld246.com/"
+    },{
+        "tags": "site blog",
+        "title": "构建我的被动收入",
+        "url": "https://www.bmpi.dev/"
+    },{
+        "tags": "site blog",
+        "title": "neverland",
+        "url": "https://type.cyhsu.xyz/archive/"
+    },{
+        "tags": "site community",
+        "title": "奇绩论坛",
+        "url": "https://www.miracleplus.com/"
+    },{
+        "tags": "site news data",
+        "title": "google alerts",
+        "url": "https://www.google.com/alerts"
+    },{
+        "tags": "site 导航",
+        "title": "广告人导航",
+        "url": "https://www.addog.vip"
+    },{
+        "tags": "site news newsletter",
+        "title": "Axios newsletters",
+        "url": "https://www.axios.com/newsletters"
+    },{
+        "tags": "site news newsletter",
+        "title": "Your guide to AI",
+        "url": "https://newsletter.airstreet.com"
+    },{
+        "tags": "site news tech newsletter",
+        "title": "TLDR",
+        "url": "https://tldr.tech/newsletter"
+    },{
+        "tags": "site newsletter",
+        "title": "Benedict’s Newsletter",
+        "url": "https://www.ben-evans.com/newsletter"
+    },{
+        "tags": "site tech dev github",
+        "title": "75 个信息安全项目资料集锦",
+        "url": "https://forum.ywhack.com/infosec.php"
+    },{
+        "tags": "site dev github",
+        "title": "465 Open Source Infosec Software Projects",
+        "url": "https://opensourcelibs.com/libs/infosec"
+    },{
+        "tags": "site github",
+        "title": "Unity的练习项目",
+        "url": "https://github.com/XINCGer/Unity3DTraining"
+    },{
+        "tags": "site rss github",
+        "title": "网络安全资讯的RSS订阅",
+        "url": "https://github.com/zhengjim/Chinese-Security-RSS"
+    },{
+        "tags": "site 榜单",
+        "title": "摸摸鱼热榜",
+        "url": "https://momoyu.cc/"
+    },{
+        "tags": "site daily",
+        "title": "星空问答",
+        "url": "https://wx.zsxq.com/xkwd/"
+    },{
+        "tags": "site newsletter list",
+        "title": "substack",
+        "url": "https://substack.com/"
+    },{
+        "tags": "site tech community",
+        "title": "WeStack 技术栈分享社区",
+        "url": "https://westack.live"
+    },{
+        "tags": "site tech dev",
+        "title": "Rapid API",
+        "url": "https://rapidapi.com/hub"
+    },{
+        "tags": "site cloud-disk",
+        "title": "mega",
+        "url": "https://mega.nz/fm/dashboard"
+    },{
+        "tags": "site blog list 导航",
+        "title": "blog 列表",
+        "url": "https://github.com/shidenggui/bloghub/blob/master/backend/assets/blogs-original.csv"
+    },{
+        "tags": "site tech dev",
+        "title": "淘系技术",
+        "url": "https://tech.taobao.org/"
+    },{
+        "tags": "site tech doc",
+        "title": "Python最佳实践指南",
+        "url": "https://pythonguidecn.readthedocs.io/zh/latest/"
+    },{
+        "tags": "site tech doc code",
+        "title": "Swift 的 iOS 开发教程",
+        "url": "https://www.appcoda.com/learnswift/"
+    },{
+        "tags": "site github 有趣",
+        "title": "开源 SaaS 服务",
+        "url": "https://github.com/Atarity/deploy-your-own-saas"
+    },{
+        "tags": "site github weekly",
+        "title": "前端精读周刊",
+        "url": "https://github.com/ascoders/weekly"
+    },{
+        "tags": "site",
+        "title": "互联网档案馆",
+        "url": "https://archive.org/"
+    },{
+        "tags": "site tech",
+        "title": "GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/"
+    },{
+        "tags": "site blog list 导航",
+        "title": "blog-hub",
+        "url": "https://bloghub.fun/"
+    },{
+        "tags": "site blog",
+        "title": "晚晴幽草轩",
+        "url": "https://www.jeffjade.com/"
+    },{
+        "tags": "site community",
+        "title": "悠然宜想亭",
+        "url": "https://forum.lovejade.cn/"
+    },{
+        "tags": "site tech-blog",
+        "title": "技术小黑屋",
+        "url": "https://droidyue.com/"
+    },{
+        "tags": "site github",
+        "title": "anything about game",
+        "url": "https://github.com/killop/anything_about_game"
+    },{
+        "tags": "site doc manual",
+        "title": "Linux 内核揭秘",
+        "url": "https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html"
+    },{
+        "tags": "site github",
+        "title": "Some useful websites",
+        "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit"
+    },{
+        "tags": "site manual doc",
+        "title": "计算机教育中缺失的一课",
+        "url": "https://missing-semester-cn.github.io/"
+    },{
+        "tags": "site tech blog",
+        "title": "Free Mind",
+        "url": "https://freemind.pluskid.org/"
+    },{
+        "tags": "site notion read",
+        "title": "信息源 分类整理 合集",
+        "url": "https://scarsu.notion.site/b4ea0fb5a9ad4131b031205a8d2929f2"
+    },{
+        "tags": "site book manual dev tech",
+        "title": "Programming Notes for Professionals books",
+        "url": "https://goalkicker.com/"
+    },{
+        "tags": "site 导航",
+        "title": "万有导航",
+        "url": "https://wanyouw.com/"
+    },{
+        "tags": "site product 导航",
+        "title": "奇趣网址收藏",
+        "url": "https://fuun.fun/"
+    },{
+        "tags": "site web doc",
+        "title": "react document",
+        "url": "https://zh-hans.reactjs.org/docs/getting-started.html"
+    },{
+        "tags": "site podcast",
+        "title": "Listen Notes(Podcast Search Engine)",
+        "url": "https://www.listennotes.com"
+    },{
+        "tags": "site weekly product",
+        "title": "产品周刊",
+        "url": "https://www.ezindie.com"
+    },{
+        "tags": "site 导航",
+        "title": "磁力导航",
+        "url": "https://www.qssily.com/sites/cilisuoyin"
+    },{
+        "tags": "site blog list tech",
+        "title": "优质的「独立中文博客」订阅列表 ",
+        "url": "https://github.com/RSS-Renaissance/awesome-blogCN-feeds"
+    },{
+        "tags": "site list podcast",
+        "title": "中文独立播客",
+        "url": "https://typlog.com/podlist/"
+    },{
+        "tags": "site list podcast",
+        "title": "发现与推荐高质量的中文独立播客",
+        "url": "https://github.com/typlog/china-indie-podcasts"
+    },{
+        "tags": "site blog list 次高频",
+        "title": "中文独立博客列表 ",
+        "url": "https://github.com/timqian/chinese-independent-blogs"
+    },{
+        "tags": "site blog list 次高频",
+        "title": "中文独立博客列表",
+        "url": "https://feeds.pub/cn-indie"
+    },{
+        "tags": "site dev github 次高频",
+        "title": "Today I Learned",
+        "url": "https://github.com/jbranchaud/til"
+    },{
+        "tags": "site tech blog",
+        "title": "thought-bot",
+        "url": "https://thoughtbot.com/blog"
+    },{
+        "tags": "site blog newsletter",
+        "title": "fs",
+        "url": "https://fs.blog/"
+    },{
+        "tags": "site blog",
+        "title": "当然我在扯淡",
+        "url": "http://www.yinwang.org/"
+    },{
+        "tags": "site awesome github",
+        "title": "awesome-machine-learning",
+        "url": "https://github.com/josephmisiti/awesome-machine-learning"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome-metaverse",
+        "url": "https://github.com/M3-org/awesome-metaverse"
+    },{
+        "tags": "site blog",
+        "title": "透明思考",
+        "url": "http://gigix.thoughtworkers.org/"
+    },{
+        "tags": "site import 创业",
+        "title": "Pmarca 创业指南",
+        "url": "https://pmarchive.com/"
+    },{
+        "tags": "site doc manual",
+        "title": "Google Style Guides",
+        "url": "https://github.com/google/styleguide/"
+    },{
+        "tags": "site website import",
+        "title": "MatthewBall.vc",
+        "url": "https://www.matthewball.vc/"
+    },{
+        "tags": "site newsletter 创业",
+        "title": "The Generalist(分析)",
+        "url": "https://www.readthegeneralist.com/briefings"
+    },{
+        "tags": "site github",
+        "title": "机器学习100天",
+        "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code"
+    },{
+        "tags": "site 创业",
+        "title": "cbinsights 研究",
+        "url": "https://www.cbinsights.com/research/"
+    },{
+        "tags": "site 创业 blog",
+        "title": "Grep",
+        "url": "https://www.gregdocter.com/2020/06/angel-investing-resources.html"
+    },{
+        "tags": "site 创业 tech notion import 高频访问",
+        "title": "Tech & VC: The foundation",
+        "url": "https://www.notion.so/Tech-VC-The-Foundation-c6ad4b799aa4490dbe05b3d49c288aa3"
+    },{
+        "tags": "site blog",
+        "title": "ScarSu",
+        "url": "https://www.scarsu.com/"
+    },{
+        "tags": "site tech",
+        "title": "程序师",
+        "url": "https://www.techug.com/"
+    },{
+        "tags": "site doc",
+        "title": "谷歌工程实践文档",
+        "url": "https://jimmysong.io/eng-practices/"
+    },{
+        "tags": "site newsletter",
+        "title": "Digital Native",
+        "url": "https://digitalnative.substack.com/"
+    },{
+        "tags": "site 有趣",
+        "title": "你工作的领域有什么行业秘密？",
+        "url": "https://www.reddit.com/r/AskReddit/comments/ijlj88/whats_an_industry_secret_in_the_field_you_work_in/"
+    },{
+        "tags": "site 有趣",
+        "title": "AskReddit",
+        "url": "https://www.reddit.com/r/AskReddit/"
+    },{
+        "tags": "site blog tech-blog",
+        "title": "M-x Chris-An-Emacser",
+        "url": "https://chriszheng.science/archives/"
+    },{
+        "tags": "site tech-blog",
+        "title": "Nic blog",
+        "url": "https://blog.niclin.tw/"
+    },{
+        "tags": "site tech-blog",
+        "title": "Gea-Suan Lin's BLOG",
+        "url": "https://blog.gslin.org/"
+    },{
+        "tags": "site blog",
+        "title": "学无止境@一点一滴",
+        "url": "http://gtdstudy.com/"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome java",
+        "url": "https://github.com/akullpp/awesome-java"
+    },{
+        "tags": "site blog",
+        "title": "moxie",
+        "url": "https://moxie.org/"
+    },{
+        "tags": "site daily",
+        "title": "今天我学到了（TIL）",
+        "url": "https://www.reddit.com/r/todayilearned/"
+    },{
+        "tags": "site newsletter",
+        "title": "the curiosity chronicle",
+        "url": "https://sahilbloom.substack.com/"
+    },{
+        "tags": "site list ideas",
+        "title": "A list of 20 interesting subreddits",
+        "url": "https://twitter.com/SahilBloom/status/1428749795078721537"
+    },{
+        "tags": "site website",
+        "title": "a16z",
+        "url": "https://a16z.com/"
+    },{
+        "tags": "site podcast",
+        "title": "Salt",
+        "url": "https://www.salt.org/"
+    },{
+        "tags": "site good manual",
+        "title": "using-twitter",
+        "url": "https://www.holloway.com/g/using-twitter"
+    },{
+        "tags": "site manual",
+        "title": "价值知识",
+        "url": "https://www.holloway.com/catalog"
+    },{
+        "tags": "site tech",
+        "title": "关于密码工程的几点思考",
+        "url": "https://blog.cryptographyengineering.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "Every",
+        "url": "https://every.to/"
+    },{
+        "tags": "site newsletter",
+        "title": "The Information",
+        "url": "https://www.theinformation.com/features/the-briefing"
+    },{
+        "tags": "site newsletter",
+        "title": "The Quibbler",
+        "url": "https://thequibbler.zhubai.love/"
+    },{
+        "tags": "site newsletter",
+        "title": "在诗外",
+        "url": "https://lauren.hedwig.pub/"
+    },{
+        "tags": "site data",
+        "title": " 与#经济学 有关的 #可视化",
+        "url": "https://howmuch.net/"
+    },{
+        "tags": "site yuque",
+        "title": "笔记工具",
+        "url": "https://www.yuque.com/woniu666/tools_and_notes"
+    },{
+        "tags": "site 有趣",
+        "title": "我的2022充实计划书",
+        "url": "https://www.douban.com/gallery/topic/3310387/"
+    },{
+        "tags": "site UX community",
+        "title": "UXREN社区",
+        "url": "https://www.uxren.cn/"
+    },{
+        "tags": "site github",
+        "title": "一人公司方法论",
+        "url": "https://github.com/easychen/one-person-businesses-methodology"
+    },{
+        "tags": "site UX",
+        "title": "UXPin",
+        "url": "https://www.uxpin.com/studio/"
+    },{
+        "tags": "site book tech",
+        "title": "The Art of Unix Programming",
+        "url": "http://www.catb.org/~esr/writings/taoup/html/"
+    },{
+        "tags": "site book",
+        "title": "DeFi实战投资方法论",
+        "url": "https://www.chainnode.com/doc/5067"
+    },{
+        "tags": "site blog weekly",
+        "title": "贤无常的探索",
+        "url": "http://yongxian.wang/"
+    },{
+        "tags": "site manual",
+        "title": "Working in Web3: The Handbook",
+        "url": "https://web3.smsunarto.com/"
+    },{
+        "tags": "site blog",
+        "title": "A Creative Career Resource",
+        "url": "https://99u.adobe.com/"
+    },{
+        "tags": "site book",
+        "title": "资本之后的世界",
+        "url": "https://worldaftercapital.gitbook.io/worldaftercapital/"
+    },{
+        "tags": "site blog weekly",
+        "title": "Nintil-Links",
+        "url": "https://nintil.com/"
+    },{
+        "tags": "site notion product import read 高频访问",
+        "title": "产品沉思录(精选)",
+        "url": "https://www.notion.so/pmthinking/ProductThinking-a601a12335044f349a22caf57f274c27"
+    },{
+        "tags": "site manual",
+        "title": "curl everything",
+        "url": "https://everything.curl.dev/"
+    },{
+        "tags": "site dev github",
+        "title": "design-resources-for-developers",
+        "url": "https://github.com/bradtraversy/design-resources-for-developers"
+    },{
+        "tags": "site weekly notion",
+        "title": "Android Weekly Update",
+        "url": "https://www.notion.so/safaricheung/e804384617fd43ca8da31ae06e7f949f"
+    },{
+        "tags": "site blog",
+        "title": "硅谷王川",
+        "url": "https://chuan.us/"
+    },{
+        "tags": "site yuque",
+        "title": "Java 知识点、教程",
+        "url": "https://www.yuque.com/gaohanghang/sgrbwh"
+    },{
+        "tags": "site book",
+        "title": "看云",
+        "url": "https://www.kancloud.cn/explore"
+    },{
+        "tags": "site 导航",
+        "title": "设计师网址导航",
+        "url": "https://hao.uisdc.com"
+    },{
+        "tags": "site 导航",
+        "title": "创造导航",
+        "url": "http://www.chuangzaoshi.com"
+    },{
+        "tags": "site 导航",
+        "title": "书享家",
+        "url": "https://shuxiangjia.cn"
+    },{
+        "tags": "site website",
+        "title": "New York",
+        "url": "https://nymag.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "GeekPlux Lab",
+        "url": "https://geekplux.zhubai.love/"
+    },{
+        "tags": "site tech-blog",
+        "title": "The Pragmatic Engineer",
+        "url": "https://blog.pragmaticengineer.com/"
+    },{
+        "tags": "site read",
+        "title": "One",
+        "url": "http://www.wufazhuce.com/"
+    },{
+        "tags": "site tech cheatsheet",
+        "title": "lzone devops cheatsheet",
+        "url": "https://lzone.de/"
+    },{
+        "tags": "site github list",
+        "title": "my followers",
+        "url": "https://github.com/zu1k/my_followers/blob/master/followers.json"
+    },{
+        "tags": "site weekly",
+        "title": "一周一城",
+        "url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIyMjIyNjQwNQ==&action=getalbum&album_id=1954725660829057024&scene=173&from_msgid=2650537286&from_itemidx=1&count=3&nolastread=1#wechat_redirect"
+    },{
+        "tags": "site tech tech-blog 有趣 website",
+        "title": "Louis Bouchard",
+        "url": "https://www.louisbouchard.ai/"
+    },{
+        "tags": "site blog newsletter",
+        "title": "fs.blog",
+        "url": "https://fs.blog/"
+    },{
+        "tags": "site website 有趣",
+        "title": "ahhhhfs",
+        "url": "https://www.abskoop.com/"
+    },{
+        "tags": "site",
+        "title": "医学微视",
+        "url": "https://www.mvyxws.com/"
+    },{
+        "tags": "site data",
+        "title": "our world in data",
+        "url": "https://ourworldindata.org/"
+    },{
+        "tags": "site tools",
+        "title": "OCR-本地计算",
+        "url": "https://pearocr.com"
+    },{
+        "tags": "site 有趣",
+        "title": "表情包搜索",
+        "url": "https://www.dbbqb.com/"
+    },{
+        "tags": "site music",
+        "title": "drive&listen",
+        "url": "https://driveandlisten.herokuapp.com"
+    },{
+        "tags": "site 榜单",
+        "title": "鱼塘热榜",
+        "url": "https://mo.fish/"
+    },{
+        "tags": "site manual cheatsheet dev code",
+        "title": "QuickRef.ME",
+        "url": "https://quickref.me/"
+    },{
+        "tags": "site manual code",
+        "title": "CS自学指南",
+        "url": "https://csdiy.wiki/"
+    },{
+        "tags": "site 有趣",
+        "title": "网站任意门",
+        "url": "https://gate.ofo.moe"
+    },{
+        "tags": "site manual dev",
+        "title": "Bash教程",
+        "url": "https://wangdoc.com/bash"
+    },{
+        "tags": "site manual cheatsheet",
+        "title": "linux-command",
+        "url": "https://wangchujiang.com/linux-command/"
+    },{
+        "tags": "site code",
+        "title": "HSF软件培训中心",
+        "url": "https://hepsoftwarefoundation.org/training/curriculum.html"
+    },{
+        "tags": "site web dev",
+        "title": "web开发路线图",
+        "url": "https://andreasbm.github.io/web-skills/"
+    },{
+        "tags": "site 导航",
+        "title": "星际黑客",
+        "url": "https://xj.hk/"
+    },{
+        "tags": "site",
+        "title": "Hacking8信息流",
+        "url": "https://i.hacking8.com/"
+    },{
+        "tags": "site",
+        "title": "小鲸鱼文献",
+        "url": "http://www.9312.net/#/"
+    },{
+        "tags": "site english",
+        "title": "田间小站",
+        "url": "https://www.tjxz.cc/"
+    },{
+        "tags": "site tool mind",
+        "title": "GetMind",
+        "url": "https://gitmind.cn/app/template"
+    },{
+        "tags": "site tool mind",
+        "title": "XMind",
+        "url": "https://www.xmind.net/share/"
+    },{
+        "tags": "site emoji",
+        "title": "特殊符号",
+        "url": "https://cn.piliapp.com/symbol/"
+    },{
+        "tags": "site emoji",
+        "title": "萌码",
+        "url": "https://mengma.moe/"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome-console-services",
+        "url": "https://github.com/chubin/awesome-console-services"
+    },{
+        "tags": "site tech",
+        "title": "unsafe",
+        "url": "https://unsafe.sh/"
+    },{
+        "tags": "site cheatsheet",
+        "title": "cht.sh",
+        "url": "https://cht.sh/"
+    },{
+        "tags": "site github book manual doc",
+        "title": "free-programming-books",
+        "url": "https://github.com/EbookFoundation/free-programming-books"
+    },{
+        "tags": "site cheatsheet dev",
+        "title": "dev-hits",
+        "url": "https://devhints.io/"
+    },{
+        "tags": "site cheatsheet dev",
+        "title": "so-code",
+        "url": "https://socode.pro/"
+    },{
+        "tags": "site cheatsheet dev",
+        "title": "devdocs",
+        "url": "https://devdocs.io/"
+    },{
+        "tags": "site code cheatsheet dev",
+        "title": "learnxinyminutes",
+        "url": "https://learnxinyminutes.com/"
+    },{
+        "tags": "site cheatsheet code dev",
+        "title": "programming-idioms",
+        "url": "https://programming-idioms.org/about#about-block-cheatsheets"
+    },{
+        "tags": "site cheatsheet dev",
+        "title": "Over API",
+        "url": "https://overapi.com/"
+    },{
+        "tags": "site 导航",
+        "title": "导航湾",
+        "url": "https://daohangwan.com/"
+    },{
+        "tags": "site 导航",
+        "title": "口袋运营",
+        "url": "https://www.koudaiyunying.com/"
+    },{
+        "tags": "site 高频访问",
+        "title": "twitter",
+        "url": "https://twitter.com/"
+    },{
+        "tags": "site 高频访问",
+        "title": "weibo",
+        "url": "https://weibo.com"
+    },{
+        "tags": "site manual dev",
+        "title": "Kubernetes Handbook",
+        "url": "https://jimmysong.io/kubernetes-handbook/"
+    },{
+        "tags": "site product 发现",
+        "title": "Your Statck",
+        "url": "https://yourstack.com/"
+    },{
+        "tags": "site github 有趣 tools 发现",
+        "title": "reddit selfhosted",
+        "url": "https://www.reddit.com/r/selfhosted/"
+    },{
+        "tags": "site 创业 cheatsheet 发现",
+        "title": "StartupBase",
+        "url": "https://startupbase.io/"
+    },{
+        "tags": "site 创业 cheatsheet",
+        "title": "10words",
+        "url": "https://10words.io/"
+    },{
+        "tags": "site 发现",
+        "title": "Read.cv",
+        "url": "https://read.cv/explore"
+    },{
+        "tags": "site 创业 cheatsheet 发现",
+        "title": "BetaList",
+        "url": "https://betalist.com/"
+    },{
+        "tags": "site product 发现",
+        "title": "产品搜索趋势 ",
+        "url": "https://producthunt-trending.js.org/"
+    },{
+        "tags": "site 发现 list",
+        "title": "what to build",
+        "url": "https://whattobuild.co/"
+    },{
+        "tags": "site 发现",
+        "title": "病毒步行",
+        "url": "https://www.viralwalk.com/"
+    },{
+        "tags": "site list 有趣",
+        "title": "Hacker News 经典文章集合",
+        "url": "https://hn.lindylearn.io/"
+    },{
+        "tags": "site product",
+        "title": "创客",
+        "url": "https://getmakerlog.com/"
+    },{
+        "tags": "site 发现 有趣",
+        "title": "reddit SideProject",
+        "url": "https://www.reddit.com/r/SideProject/"
+    },{
+        "tags": "site tech news 发现",
+        "title": "独立黑客",
+        "url": "https://www.indiehackers.com/"
+    },{
+        "tags": "site news 发现",
+        "title": "搜索黑客新闻",
+        "url": "https://hn.algolia.com/"
+    },{
+        "tags": "site github up doc",
+        "title": "浙江大学课程攻略共享计划 ",
+        "url": "https://github.com/QSCTech/zju-icicles"
+    },{
+        "tags": "site notion handbook manual 创业",
+        "title": "The Obvious Playbook",
+        "url": "https://playbook.obvious.in/"
+    },{
+        "tags": "site dev web",
+        "title": "free-frontend",
+        "url": "https://freefrontend.com/"
+    },{
+        "tags": "site 有趣 product",
+        "title": "变更日志demo",
+        "url": "https://www.changelogs.gallery/"
+    },{
+        "tags": "site blog import good 次高频",
+        "title": "brianlovin",
+        "url": "https://brianlovin.com/"
+    },{
+        "tags": "site design",
+        "title": "figma",
+        "url": "https://www.figma.com"
+    },{
+        "tags": "site tech-blog list 高频访问",
+        "title": "灰信网(软件开发博客聚合)",
+        "url": "https://www.freesion.com/"
+    },{
+        "tags": "site up manual",
+        "title": "Physics travel guide",
+        "url": "https://physicstravelguide.com/"
+    },{
+        "tags": "site notion 创业",
+        "title": "shl.vc",
+        "url": "https://www.notion.so/shl-vc-5a51d53a9a414780861bbb8ffcc7f586"
+    },{
+        "tags": "site list bookmark",
+        "title": "brianlovin-bookmark",
+        "url": "https://brianlovin.com/bookmarks"
+    },{
+        "tags": "site tech-blog",
+        "title": "jiayuanzhang",
+        "url": "http://blog.jiayuanzhang.com/"
+    },{
+        "tags": "site blog list rss 高频访问",
+        "title": "RSSBlog",
+        "url": "https://rssblog.cn"
+    },{
+        "tags": "site english",
+        "title": "WordReference",
+        "url": "https://www.wordreference.com/"
+    },{
+        "tags": "site 次高频 data tech",
+        "title": "RAID froums",
+        "url": "https://raidforums.com/"
+    },{
+        "tags": "site tool",
+        "title": "Google管理员工具箱",
+        "url": "https://toolbox.googleapps.com/apps/main/"
+    },{
+        "tags": "site news 榜单",
+        "title": "新闻聚合",
+        "url": "https://tools.miku.ac/news/"
+    },{
+        "tags": "site data",
+        "title": "raidforums泄漏数据集",
+        "url": "https://raidforums.com/Announcement-Database-Index-CLICK-ME"
+    },{
+        "tags": "site design",
+        "title": "design resource",
+        "url": "https://staff.design/resources"
+    },{
+        "tags": "site tools github",
+        "title": "Save The Web Project 所使用的工具列表",
+        "url": "https://github.com/saveweb/tools"
+    },{
+        "tags": "site blog github list",
+        "title": "Auto-backup-repo",
+        "url": "https://github.com/saveweb/Auto-backup-repo/blob/main/repos.csv"
+    },{
+        "tags": "site github list blog",
+        "title": "2021年终总结",
+        "url": "https://github.com/saveweb/review-2021"
+    },{
+        "tags": "site rss list github blog",
+        "title": "rss-list",
+        "url": "https://github.com/saveweb/rss-list"
+    },{
+        "tags": "site blog 创业",
+        "title": "Greg 未格式化的博客 ",
+        "url": "https://www.gregdocter.com/"
+    },{
+        "tags": "site blog good",
+        "title": "ben balter",
+        "url": "https://ben.balter.com/"
+    },{
+        "tags": "site notion blog",
+        "title": "Joe 的折腾日记",
+        "url": "https://www.notion.so/Joe-2a85f5be01004cd2b6a5ad26fbb948b1"
+    },{
+        "tags": "site blog",
+        "title": "Sam",
+        "url": "https://blog.samaltman.com/"
+    },{
+        "tags": "site notion list 高频访问",
+        "title": "notion-sites",
+        "url": "https://github.com/madawei2699/notion-sites"
+    },{
+        "tags": "site notion",
+        "title": "数字生活",
+        "url": "https://www.notion.so/b194e46214f043999a1f783761a46b2c"
+    },{
+        "tags": "site notion",
+        "title": "芝麻地-编程与设计",
+        "url": "https://www.notion.so/63b2e83003f240339ae065011afc88a0"
+    },{
+        "tags": "site design",
+        "title": "spotify design",
+        "url": "https://spotify.design/"
+    },{
+        "tags": "site web dev",
+        "title": "Josh comeau",
+        "url": "https://www.joshwcomeau.com/"
+    },{
+        "tags": "site blog",
+        "title": "透明创业实验",
+        "url": "https://blog.t9t.io/"
+    },{
+        "tags": "site blog",
+        "title": "见字如面 ",
+        "url": "https://hiwannz.com/"
+    },{
+        "tags": "site notion",
+        "title": "一些链接",
+        "url": "https://www.notion.so/68bd4016f32f40efa3779d44163a2f74?v=c0c8332427534742adf7db976455462b"
+    },{
+        "tags": "site web dev",
+        "title": "JavaScript and TypeScript Tooling Overview",
+        "url": "https://tooling.js.org"
+    },{
+        "tags": "site other 有趣",
+        "title": "play, explre and share",
+        "url": "https://14islands.com/lab/"
+    },{
+        "tags": "site UX designer",
+        "title": " UX designer 心理学/认知科学",
+        "url": "https://growth.design/psychology"
+    },{
+        "tags": "site newsletter",
+        "title": "野鱼志",
+        "url": "https://bobfu.zhubai.love/"
+    },{
+        "tags": "site notion tool",
+        "title": "万能福利吧",
+        "url": "https://fuliba.notion.site/fuliba/b9f65669edc542c89d1e20e6c11bed99"
+    },{
+        "tags": "site 有趣",
+        "title": "有趣生成器",
+        "url": "https://watabou.itch.io/"
+    },{
+        "tags": "site blog",
+        "title": "patreon",
+        "url": "https://blog.patreon.com/"
+    },{
+        "tags": "site 导航",
+        "title": "福利吧导航",
+        "url": "https://fuliba123.net/"
+    },{
+        "tags": "site notion",
+        "title": "生活不止眼前的苟且",
+        "url": "https://www.notion.so/chongo/Home-29b45a5134d74892b755f4249c1b23fb"
+    },{
+        "tags": "site notion 导航",
+        "title": "收藏网站",
+        "url": "https://www.notion.so/a722ba82bf184833bb33628c85b18dae"
+    },{
+        "tags": "site notion",
+        "title": "被动收入投资组合",
+        "url": "https://www.notion.so/i365-e0ed086e701a4d0aaa4839d2c7aa62ea"
+    },{
+        "tags": "site notion blog",
+        "title": "TransitiveBullsh.it",
+        "url": "https://www.notion.so/travis-fischer/TransitiveBullsh-it-78fc5a4b88d74b0e824e29407e9f1ec1"
+    },{
+        "tags": "site notion",
+        "title": "TASS 3.0 Project Manager",
+        "url": "https://www.notion.so/jmedia/TASS-3-0-Project-Manager-efe172fb46d54d88a9a5876eeb7db3a3"
+    },{
+        "tags": "site notion list rss blog",
+        "title": "独立 blog 订阅列表 ",
+        "url": "https://www.notion.so/blog-by-liqi-io-4bdf37d4fb3443b4b6dbed8317450307"
+    },{
+        "tags": "site tech blog",
+        "title": "Thoughtworks洞见",
+        "url": "https://insights.thoughtworks.cn/"
+    },{
+        "tags": "site tech-blog list github",
+        "title": "A curated list of engineering blogs ",
+        "url": "https://github.com/kilimchoi/engineering-blogs"
+    },{
+        "tags": "site notion",
+        "title": "Personal OKRs",
+        "url": "https://www.notion.so/Personal-OKRs-202c39deed554e09b8ad36e1d5780af9"
+    },{
+        "tags": "site notion",
+        "title": "Company OKRs - Notion template",
+        "url": "https://anotioneer.com/Company-OKRs-Notion-template-9e787e68ab9b4281ac29cf089494752e"
+    },{
+        "tags": "site notion",
+        "title": "Achieve Your Goals: OKRs in Notion",
+        "url": "https://www.notion.vip/achieve-your-goals-okrs-in-notion/"
+    },{
+        "tags": "site notion blog",
+        "title": "春殿的手账本",
+        "url": "https://www.notion.so/tonoko/5a23e43b26e64651be75a22693564ce3"
+    },{
+        "tags": "site notion",
+        "title": "装修经验教训",
+        "url": "https://www.notion.so/66226e9a906740d9bb16914dd28577bb"
+    },{
+        "tags": "site tech-blog",
+        "title": " 信鑫 Blog",
+        "url": "https://www.rustc.cloud/"
+    },{
+        "tags": "site notion",
+        "title": "北疆10日线路规划",
+        "url": "https://www.notion.so/10-0002ed7217f44621904dba142081f865"
+    },{
+        "tags": "site notion design",
+        "title": "Design with better way",
+        "url": "https://designtips.today/"
+    },{
+        "tags": "site notion design",
+        "title": "The Vault - Nguyen's Design Resource stash(设计师收藏的关于设计的资源)",
+        "url": "https://www.notion.so/newincreative/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9"
+    },{
+        "tags": "site web tool",
+        "title": "自动生成grid布局的HTML+CSS",
+        "url": "https://grid.layoutit.com"
+    },{
+        "tags": "site web tool",
+        "title": "Measure page quality",
+        "url": "https://web.dev/measure/"
+    },{
+        "tags": "site design",
+        "title": "U.S. Web Design System (USWDS)",
+        "url": "https://designsystem.digital.gov/"
+    },{
+        "tags": "site tech news AI",
+        "title": "机器之心",
+        "url": "https://www.jiqizhixin.com/"
+    },{
+        "tags": "site AI tech",
+        "title": "AI Weekly",
+        "url": "https://aiweekly.co/"
+    },{
+        "tags": "site blog",
+        "title": "小赖子的英国生活和资讯",
+        "url": "https://justyy.com/"
+    },{
+        "tags": "site tools",
+        "title": "渐变色样式",
+        "url": "https://uigradients.com/"
+    },{
+        "tags": "site github web dev",
+        "title": "css animation-101",
+        "url": "https://github.com/cssanimation/css-animation-101"
+    },{
+        "tags": "site news AI",
+        "title": "雷锋网",
+        "url": "https://www.leiphone.com/"
+    },{
+        "tags": "site 有趣",
+        "title": "More To That",
+        "url": "https://moretothat.com/best/"
+    },{
+        "tags": "site mind tech github",
+        "title": "HackerMind",
+        "url": "https://github.com/Ascotbe/HackerMind"
+    },{
+        "tags": "site 导航",
+        "title": "阿木科技导航",
+        "url": "https://xydh.fun/xxxdh"
+    },{
+        "tags": "site weekly osint newsletter",
+        "title": "Sector",
+        "url": "https://sector035.nl/articles/category:week-in-osint"
+    },{
+        "tags": "site blog osint 导航 good",
+        "title": "oh shint",
+        "url": "https://ohshint.gitbook.io/oh-shint-its-a-blog/"
+    },{
+        "tags": "site tech-blogs",
+        "title": "guoxudong devops 云原生",
+        "url": "https://guoxudong.io/"
+    },{
+        "tags": "site weekly newsletter tech",
+        "title": "security weekly",
+        "url": "https://securityweekly.com/shows/"
+    },{
+        "tags": "site product tools",
+        "title": "creatorbase",
+        "url": "https://www.creatorbase.xyz/"
+    },{
+        "tags": "site blog tech",
+        "title": "millielin-产品设计师",
+        "url": "https://www.millielin.com/"
+    },{
+        "tags": "site podcast",
+        "title": "ux-coffee",
+        "url": "https://www.uxcoffee.com/"
+    },{
+        "tags": "site doc dev web",
+        "title": "Web Browser Engineering",
+        "url": "https://browser.engineering/index.html"
+    },{
+        "tags": "site dev up",
+        "title": "Learn Swift",
+        "url": "https://www.hackingwithswift.com/"
+    },{
+        "tags": "site tech dev up",
+        "title": "正则表达式学习",
+        "url": "https://regex101.com/"
+    },{
+        "tags": "site tech cheatsheet",
+        "title": "OWASP Cheat Sheet Series",
+        "url": "https://cheatsheetseries.owasp.org/index.html"
+    },{
+        "tags": "site tech-blog",
+        "title": "Laisky",
+        "url": "https://blog.laisky.com/"
+    },{
+        "tags": "site osint list",
+        "title": "the-ultimate-osint-collection",
+        "url": "https://start.me/p/DPYPMz/the-ultimate-osint-collection"
+    },{
+        "tags": "site blog newsletter",
+        "title": "Shyrism.News",
+        "url": "https://shyrz.me/"
+    },{
+        "tags": "site book",
+        "title": "Z-library",
+        "url": "http://zh.fr1lib.org"
+    },{
+        "tags": "site tools",
+        "title": "Every Time Zone",
+        "url": "https://everytimezone.com/"
+    },{
+        "tags": "site 导航",
+        "title": "不求人导航",
+        "url": "https://video.bqrdh.com"
+    },{
+        "tags": "site blog list",
+        "title": "Blog We",
+        "url": "https://blogwe.com"
+    },{
+        "tags": "site blog list 导航",
+        "title": "辉声辉语",
+        "url": "http://daohang.lihuisem.com"
+    },{
+        "tags": "site 导航",
+        "title": "轻工具",
+        "url": "https://qinggongju.com"
+    },{
+        "tags": "site manual cheatsheet dev code book",
+        "title": "Netkiller系列电子书",
+        "url": "https://www.netkiller.cn/"
+    },{
+        "tags": "site cheatsheet",
+        "title": "数据科学速查集锦",
+        "url": "https://medium.com/@anushkhabajpai/top-data-science-cheat-sheets-ml-dl-python-r-sql-maths-statistics-5239d4568225"
+    },{
+        "tags": "site list tech-blog 次高频",
+        "title": "Tech blogs",
+        "url": "https://tech-blogs.dev"
+    },{
+        "tags": "site tech book manual",
+        "title": "FreeComputerBooks",
+        "url": "https://freecomputerbooks.com"
+    },{
+        "tags": "site github",
+        "title": "project-based tutorials",
+        "url": "https://github.com/practical-tutorials/project-based-learning"
+    },{
+        "tags": "site github manual",
+        "title": "Learn-Vim_zh_cn",
+        "url": "https://github.com/wsdjeg/Learn-Vim_zh_cn"
+    },{
+        "tags": "site life",
+        "title": "中国法律服务网",
+        "url": "https://ai.12348.gov.cn/pc/"
+    },{
+        "tags": "site github",
+        "title": "深度学习500问",
+        "url": "https://github.com/shliang0603/Awesome-DeepLearning-500FAQ"
+    },{
+        "tags": "site 导航",
+        "title": "地理导航",
+        "url": "http://www.nav.52geo.cn"
+    },{
+        "tags": "site up",
+        "title": "吾爱地理",
+        "url": "https://www.52geo.cn"
+    },{
+        "tags": "site book tech",
+        "title": "系统设计面试指南",
+        "url": "https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit"
+    },{
+        "tags": "site github AI",
+        "title": "机器学习资源列表",
+        "url": "https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md"
+    },{
+        "tags": "site tech book",
+        "title": "Go语言101",
+        "url": "https://gfw.go101.org/article/101.html"
+    },{
+        "tags": "site github awesome",
+        "title": "Awesome Awesomeness",
+        "url": "https://github.com/bayandin/awesome-awesomeness"
+    },{
+        "tags": "site github awesome tailwind",
+        "title": "awesome-tailwindcss",
+        "url": "https://github.com/aniftyco/awesome-tailwindcss"
+    },{
+        "tags": "site handbook",
+        "title": "科研人员编程实践手册",
+        "url": "https://goodresearch.dev/"
+    },{
+        "tags": "site tech-blog",
+        "title": "陶辉的博客",
+        "url": "https://russelltao.github.io/"
+    },{
+        "tags": "site tool tech",
+        "title": "Interactive learning tools",
+        "url": "https://markodenic.com/interactive-learning-tools/"
+    },{
+        "tags": "site github awesome",
+        "title": "Awesome Software Architecture",
+        "url": "https://mehdihadeli.github.io/awesome-software-architecture/"
+    },{
+        "tags": "site tech",
+        "title": "技术 #路线图 大本营",
+        "url": "https://reallyconfused.co"
+    },{
+        "tags": "site tech book",
+        "title": "Spring 实战第六版",
+        "url": "https://leonli0102.github.io/spring-in-action-v6/"
+    },{
+        "tags": "site github tools",
+        "title": "Analysis Tools",
+        "url": "https://analysis-tools.dev"
+    },{
+        "tags": "site github dev manual cheatsheet",
+        "title": "42 School CheatSheet",
+        "url": "https://github.com/agavrel/42_CheatSheet"
+    },{
+        "tags": "site github",
+        "title": "free api",
+        "url": "https://github.com/fangzesheng/free-api"
+    },{
+        "tags": "site book github manual",
+        "title": "深入浅出现代Web编程",
+        "url": "https://fullstackopen.com/zh/"
+    },{
+        "tags": "site book github tech",
+        "title": "分布式系统模式",
+        "url": "https://github.com/dreamhead/patterns-of-distributed-systems"
+    },{
+        "tags": "site",
+        "title": "A Programmer's Guide to English",
+        "url": "https://a-programmers-guide-to-english.harryyu.me"
+    },{
+        "tags": "site news",
+        "title": "iyouport",
+        "url": "https://www.iyouport.org/"
+    },{
+        "tags": "site github AI",
+        "title": "DeepLearning Tutorial",
+        "url": "https://github.com/Mikoto10032/DeepLearning"
+    },{
+        "tags": "site github dev cheatsheet",
+        "title": "Web Attack Cheat Sheet",
+        "url": "https://github.com/riramar/Web-Attack-Cheat-Sheet"
+    },{
+        "tags": "site dev web",
+        "title": "前端内参",
+        "url": "https://coffe1891.gitbook.io/frontend-hard-mode-interview"
+    },{
+        "tags": "site dev tech",
+        "title": "The Algorithms ",
+        "url": "https://the-algorithms.com/"
+    },{
+        "tags": "site tech dev",
+        "title": "SwiftUI Example",
+        "url": "https://jaywcjlove.gitee.io/swiftui-example/?"
+    },{
+        "tags": "site web dev doc",
+        "title": "带你入门前端工程",
+        "url": "https://woai3c.gitee.io/introduction-to-front-end-engineering/"
+    },{
+        "tags": "site dev manual github",
+        "title": "design-patterns-for-humans-cn",
+        "url": "https://github.com/guanguans/design-patterns-for-humans-cn"
+    },{
+        "tags": "site tech book",
+        "title": "The Machine & Deep Learning Compendium",
+        "url": "https://mlcompendium.gitbook.io/machine-and-deep-learning-compendium/"
+    },{
+        "tags": "site web dev github",
+        "title": "web-development-2021-course-list",
+        "url": "https://github.com/andrews1022/web-development-2021-course-list"
+    },{
+        "tags": "site web dev",
+        "title": "一行 JavaScript 代码能实现哪些功能",
+        "url": "https://1loc.dev"
+    },{
+        "tags": "site web dev book github",
+        "title": "TypeScript Deep Dive 中文版",
+        "url": "https://github.com/jkchao/typescript-book-chinese"
+    },{
+        "tags": "site github tools osint",
+        "title": "在线情报搜集",
+        "url": "https://github.com/r0eXpeR/Online_Tools"
+    },{
+        "tags": "site github tools 次高频",
+        "title": "绝妙的个人生产力",
+        "url": "https://github.com/eastlakeside/awesome-productivity-cn"
+    },{
+        "tags": "site github tech",
+        "title": "IoT Technical Guide",
+        "url": "https://github.com/IoT-Technology/IOT-Technical-Guide"
+    },{
+        "tags": "site github doc",
+        "title": "eleventy:静态站点生成器",
+        "url": "https://github.com/11ty/eleventy"
+    },{
+        "tags": "site github awesome",
+        "title": "Awesome-Hacking",
+        "url": "https://github.com/Hack-with-Github/Awesome-Hacking"
+    },{
+        "tags": "site cheatsheet",
+        "title": "Regex cheatsheet",
+        "url": "https://remram44.github.io/regex-cheatsheet/regex.html"
+    },{
+        "tags": "site tech github",
+        "title": "1earn安全知识框架",
+        "url": "https://github.com/ffffffff0x/1earn"
+    },{
+        "tags": "site tech github book manual",
+        "title": "Shell Tutorial",
+        "url": "https://archlinuxstudio.github.io/ShellTutorial/#/"
+    },{
+        "tags": "site github AI",
+        "title": "AI知识库",
+        "url": "https://github.com/ben1234560/AiLearning-Theory-Applying"
+    },{
+        "tags": "site tech dev github",
+        "title": "useful scripts ",
+        "url": "https://github.com/oldratlee/useful-scripts"
+    },{
+        "tags": "site github awesome",
+        "title": "Java资源大全中文版",
+        "url": "https://github.com/jobbole/awesome-java-cn"
+    },{
+        "tags": "site github",
+        "title": "reverse engineering",
+        "url": "https://github.com/wtsxDev/reverse-engineering"
+    },{
+        "tags": "site tech-blog",
+        "title": "codedump",
+        "url": "https://www.codedump.info"
+    },{
+        "tags": "site tech book",
+        "title": "Data Science at the Command Line",
+        "url": "https://datascienceatthecommandline.com/2e/index.html"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome viewer",
+        "url": "https://awesome.digitalbunker.dev"
+    },{
+        "tags": "site github awesome",
+        "title": "Awesome Indexed",
+        "url": "https://awesome-indexed.mathew-davies.co.uk"
+    },{
+        "tags": "site github awesome",
+        "title": "Awesome Search",
+        "url": "https://awesomelists.top"
+    },{
+        "tags": "site github cheatsheet",
+        "title": "Algorithms-Cheatsheet-Resources",
+        "url": "https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources"
+    },{
+        "tags": "site english",
+        "title": "english-club",
+        "url": "https://www.englishclub.com/vocabulary/"
+    },{
+        "tags": "site github",
+        "title": "30-Days-Of-React",
+        "url": "https://github.com/Asabeneh/30-Days-Of-React"
+    },{
+        "tags": "site github",
+        "title": "Free course for Resume",
+        "url": "https://github.com/resumejob/free-project-course"
+    },{
+        "tags": "site github AI",
+        "title": "machine-learning-mindmap",
+        "url": "https://github.com/dformoso/machine-learning-mindmap"
+    },{
+        "tags": "site github AI",
+        "title": "AI_Tutorial",
+        "url": "https://github.com/cbamls/AI_Tutorial"
+    },{
+        "tags": "site blog weekly notion",
+        "title": "linmi",
+        "url": "https://linmi.cc/"
+    },{
+        "tags": "site handbook 创业",
+        "title": "The Manager's Handbook",
+        "url": "https://themanagershandbook.com/"
+    },{
+        "tags": "site website",
+        "title": "国家地理",
+        "url": "https://www.nationalgeographic.com/"
+    },{
+        "tags": "site github awesome",
+        "title": "Awesome Mac",
+        "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md"
+    },{
+        "tags": "site github",
+        "title": "90days of DevOps",
+        "url": "https://github.com/MichaelCade/90DaysOfDevOps"
+    },{
+        "tags": "site dev",
+        "title": "daily dev tips",
+        "url": "https://daily-dev-tips.com/"
+    },{
+        "tags": "site good",
+        "title": "Tweet Hunter ",
+        "url": "https://whattotweet.com/#"
+    },{
+        "tags": "site podcasts",
+        "title": "the podluck club",
+        "url": "https://thepodluckclub.com/"
+    },{
+        "tags": "site notion",
+        "title": "Oculus VR 设计指南",
+        "url": "https://fradser.notion.site/fradser/Oculus-VR-411a2bf02b134fd5bec4958eb3c5358b"
+    },{
+        "tags": "site doc",
+        "title": "Research Software Engineering with Python",
+        "url": "https://merely-useful.tech/py-rse/"
+    },{
+        "tags": "site tech web dev",
+        "title": "2021 JavaScript Rising Stars",
+        "url": "https://risingstars.js.org/2021/en"
+    },{
+        "tags": "site blog",
+        "title": "自宅创业",
+        "url": "https://blog.guyskk.com/"
+    },{
+        "tags": "site tech doc manual",
+        "title": "JavaGuide",
+        "url": "https://javaguide.cn/"
+    },{
+        "tags": "site tech-blog",
+        "title": "为什么这么设计",
+        "url": "https://draveness.me/"
+    },{
+        "tags": "site 有趣",
+        "title": "psyche",
+        "url": "https://psyche.co/"
+    },{
+        "tags": "site 有趣",
+        "title": "shodan2000",
+        "url": "https://2000.shodan.io/"
+    },{
+        "tags": "site read",
+        "title": "Find your next read",
+        "url": "https://www.junoreader.com/"
+    },{
+        "tags": "site product",
+        "title": "Discover tomorrow's startups",
+        "url": "https://betalist.com/"
+    },{
+        "tags": "site list 创业",
+        "title": "按行业浏览初创公司 ",
+        "url": "https://betalist.com/markets"
+    },{
+        "tags": "site blog monthly",
+        "title": "一方天地",
+        "url": "https://emmmme.com/"
+    },{
+        "tags": "site notion",
+        "title": "黑鲸智能系统知识库",
+        "url": "https://wikiwhale.notion.site/wikiwhale/3633a659e2a1478eaf6c8904c86de401"
+    },{
+        "tags": "site blog",
+        "title": "35D 博客 jp",
+        "url": "https://blog.35d.jp/"
+    },{
+        "tags": "site blog 创业",
+        "title": "YC blog",
+        "url": "https://blog.ycombinator.com/"
+    },{
+        "tags": "site notion read",
+        "title": "happy xiao 的2021年文章收藏",
+        "url": "https://happynotion.notion.site/happynotion/b7937758635042a1a2e766c349fe9bf4?v=bbe2745215614377a687d4ea0a7b0499"
+    },{
+        "tags": "site read",
+        "title": "long form",
+        "url": "https://longform.org/"
+    },{
+        "tags": "site read",
+        "title": "Longform Best of 2021",
+        "url": "https://longform.org/lists/best-of-2021"
+    },{
+        "tags": "site 运营",
+        "title": "运营派",
+        "url": "https://www.yunyingpai.com/"
+    },{
+        "tags": "site notion",
+        "title": "Tombkeeper Renew",
+        "url": "https://www.notion.so/Tombkeeper-Renew-71918259a4de4c97b6fbdc2ed2e81fd2"
+    },{
+        "tags": "site notion",
+        "title": "硅谷王川 摘录",
+        "url": "https://ytexpress.notion.site/e574e02b718d43aca1af7be415ee8519"
+    },{
+        "tags": "site tech-blog",
+        "title": "yu-dao源码",
+        "url": "https://www.iocoder.cn/"
+    },{
+        "tags": "site dev",
+        "title": "free-for-dev",
+        "url": "https://free-for.dev/#/"
+    },{
+        "tags": "site notion 次高频",
+        "title": "一些句子",
+        "url": "https://www.notion.so/1f1b7567d4154b7d983f830b0950724c"
+    },{
+        "tags": "site 有趣 blog list",
+        "title": "你读过的最改变生活的博客文章是什么？",
+        "url": "https://news.ycombinator.com/item?id=28232165"
+    },{
+        "tags": "site tech",
+        "title": "InfoQ",
+        "url": "https://www.infoq.cn/"
+    },{
+        "tags": "site handbook",
+        "title": "数字讲故事手册",
+        "url": "https://news.microsoft.com/handbook/"
+    },{
+        "tags": "site news",
+        "title": "the webpage",
+        "url": "https://news.russellsaw.io/"
+    },{
+        "tags": "site 次高频",
+        "title": "写作、研究和探索网络",
+        "url": "https://waxy.org/"
+    },{
+        "tags": "site 未分类",
+        "title": "Harvard Business Review",
+        "url": "https://hbr.org/"
+    },{
+        "tags": "site tech book manual",
+        "title": "SRE book",
+        "url": "https://sre.google/books/"
+    },{
+        "tags": "site book",
+        "title": "Static Program Analysis Book",
+        "url": "https://spa-book.pblo.gq/"
+    },{
+        "tags": "site 创业 管理 gitHub",
+        "title": "Webflow 技术主管指南",
+        "url": "https://github.com/webflow/leadership/blob/master/tech_lead.md"
+    },{
+        "tags": "site yuque",
+        "title": "每日听书",
+        "url": "https://www.yuque.com/qhjs/book"
+    },{
+        "tags": "site tech-blog",
+        "title": "Pankaj Tanwar 👍",
+        "url": "https://www.pankajtanwar.in/"
+    },{
+        "tags": "site mind github 次高频 cheatsheet",
+        "title": "learning_mind_map",
+        "url": "https://github.com/0voice/learning_mind_map"
+    },{
+        "tags": "site github",
+        "title": "Java核心知识点整理",
+        "url": "https://github.com/zaiyunduan123/Java-Summarize"
+    },{
+        "tags": "site github",
+        "title": "渗透测试常规操作记录",
+        "url": "https://github.com/xiaoy-sec/Pentest_Note"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    }
+]
+

@@ -1,0 +1,906 @@
+{
+    "data": [
+        {
+            "tag": "全文",
+            "list": [
+                {
+                    "title": "Google",
+                    "url": "https://www.google.com/search?q=${query}"
+                },
+                {
+                    "title": "必应",
+                    "url": "http://bing.com/search?q=${query}"
+                },
+                {
+                    "title": "DuckDuckGo",
+                    "url": "https://duckduckgo.com/?q=${query}&t=hd&va=u&ia=web"
+                },
+                {
+                    "title": "百度",
+                    "url": "https://www.baidu.com/s?wd=${query} -广告 -推广"
+                },
+                {
+                    "title": "Yandex",
+                    "url": "https://yandex.com/search/?text=${query}"
+                },
+                {
+                    "title": "spot",
+                    "url": "https://spot.ecloud.global/search?q=${query}"
+                },
+                {
+                    "title": "Searx",
+                    "url": "https://wiby.org/?q=${query}"
+                },
+                {
+                    "title": "360",
+                    "url": "https://www.so.com/s?q=${query}"
+                },
+                {
+                    "title": "头条",
+                    "url": "https://so.toutiao.com/search?dvpf=pc&source=input&keyword=${query}"
+                },
+                {
+                    "title": "搜狗",
+                    "url": "https://www.sogou.com/web?query=${query}"
+                },
+                {
+                    "title": "ecosia",
+                    "url": "https://www.ecosia.org/search?q=${query}"
+                },
+                {
+                    "title": "wiki百科",
+                    "url": "https://zh.wikipedia.org/wiki/${query}"
+                },
+                {
+                    "title": "Magi",
+                    "url": "https://magi.com/search?q=${query}"
+                },
+                {
+                    "title": "nona",
+                    "url": "https://www.nona.de/?q=${query}"
+                },
+                {
+                    "title": "infospace",
+                    "url": "https://infospace.com/serp?q=${query}"
+                },
+                {
+                    "title": "dogpile",
+                    "url": "https://www.dogpile.com/serp?q=${query}"
+                },
+                {
+                    "title": "webcrawler",
+                    "url": "https://www.webcrawler.com/serp?q=${query}"
+                },
+                {
+                    "title": "dog-dog-go",
+                    "url": "https://www.dogdoggo.com/search?q=${query}"
+                },
+                {
+                    "title": "Startpage",
+                    "url": "https://startpage.com/"
+                },
+                {
+                    "title": "OCCAMM",
+                    "url": "https://www.occamm.com/"
+                }
+            ]
+        },
+
+        {
+            "tag": "常用",
+            "list": [
+                {
+                    "title": "TechCrunch",
+                    "url": "https://search.techcrunch.com/search;_ylc=?p=${query}&fr=techcrunch"
+                },
+                {
+                    "title": "36氪",
+                    "url": "https://www.36kr.com/search/articles/${query}"
+                },
+                {
+                    "title": "ProcessOn",
+                    "url": "https://www.processon.com/popular?criterion=${query}"
+                },
+                {
+                    "title": "语雀",
+                    "url": "https://www.yuque.com/search?scope=&p=1&q=${query}&type=content"
+                },
+                {
+                    "title": "豆瓣",
+                    "url": "https://www.douban.com/search?q=${query}"
+                },
+                {
+                    "title": "知乎",
+                    "url": "https://www.zhihu.com/search?q=${query}"
+                },
+                {
+                    "title": "简书",
+                    "url": "https://www.jianshu.com/search?q=${query}"
+                },
+                {
+                    "title": "bilibili",
+                    "url": "https://search.bilibili.com/all?keyword=${query}"
+                },
+                {
+                    "title": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=${query}"
+                },
+                {
+                    "title": "微信",
+                    "url": "http://weixin.sogou.com/weixin?type=2&s_from=input&query=${query}&ie=utf8&_sug_=n&_sug_type_="
+                },
+                {
+                    "title": "花瓣",
+                    "url": "https://huaban.com/search/?q=${query}"
+                },
+                {
+                    "title": "贴吧",
+                    "url": "http://zhannei.baidu.com/cse/site?q=${query}&click=1&cc=tieba.baidu.com&s=&nsid="
+                },
+                {
+                    "title": "印象识堂",
+                    "url": "https://www.yinxiang.com/everhub/search?keyword=${query}"
+                },
+                {
+                    "title": "幕布精选",
+                    "url": "https://mubu.com/explore/community/search?query=${query}"
+                },
+                {
+                    "title": "热榜搜",
+                    "url": "https://tophub.today/search?q=${query}"
+                },
+                {
+                    "title": "得到",
+                    "url": "https://www.dedao.cn/?search=result"
+                },
+                {
+                    "title": "GitLab",
+                    "url": "https://git.mindcoord.com/search?search=${query}"
+                },
+                {
+                    "title": "学术搜索",
+                    "url": "https://www.aminer.cn/"
+                }
+
+            ]
+        },
+        {
+            "tag": "产品",
+            "list": [
+                {
+                    "title": "Product Hunt",
+                    "url": "https://www.producthunt.com/search?q=${query}"
+                },
+                {
+                    "title": "新趣集",
+                    "url": "https://xinquji.com/search?q=${query}"
+                },
+                {
+                    "title": "人人都是产品经理",
+                    "url": "http://api.woshipm.com/search/list.html?key=${query}"
+                }
+            ]
+        },
+        {
+            "tag": "云盘",
+            "list": [
+                {
+                    "title": "毕方铺",
+                    "url": "https://www.iizhi.cn/resource/search/${query}"
+                },
+                {
+                    "title": "大圣盘",
+                    "url": "https://www.dashengpan.com/#/main/search?keyword=${query}"
+                },
+                {
+                    "title": "阿里云盘",
+                    "url": "https://aliyunshare.org/?q=${query}"
+                },
+                {
+                    "title": "阿里盘搜",
+                    "url": "https://pan.alipanso.com/search.html?page=1&keyword=${query}"
+                },
+                {
+                    "title": "奈斯搜索",
+                    "url": "https://www.niceso.fun/search/?q=${query}"
+                },
+                {
+                    "title": "搜云",
+                    "url": "https://www.wosouyun.com/wd/${query}"
+                },
+                {
+                    "title": "天天搜",
+                    "url": "http://www.daysou.com/s?q=${query}&start=0&isget=1&tp=all&cl=0&line=3"
+                },
+                {
+                    "title": "58wp",
+                    "url": "https://m.58wangpan.com/so?order=feed_time&feed_time=0&keyword=${query}"
+                },
+                {
+                    "title": "fastsoso",
+                    "url": "https://www.fastsoso.cn/search?k=${query}&s=1&t=-1"
+                },
+                {
+                    "title": "酷搜",
+                    "url": "https://www.kolsou.com/search?q=${query}"
+                },
+
+                {
+                    "title": "谷歌云",
+                    "url": "https://gezhong.vip/?q=${query}&gte=1"
+                },
+                {
+                    "title": "阿里盘搜",
+                    "url": "https://pan.alipanso.com/search.html?keyword=${query}"
+                }
+            ]
+        },
+        {
+            "tag": "Developer",
+            "list": [
+                {
+                    "title": "stack overflow",
+                    "url": "https://stackoverflow.com/search?q=${query}"
+                },
+
+                {
+                    "title": "AWS",
+                    "url": "https://aws.amazon.com/cn/search/?searchQuery=${query}"
+                },
+                {
+                    "title": "SHODAN",
+                    "url": "https://www.shodan.io/search?query=${query}"
+                },
+                {
+                    "title": "ZoomEye",
+                    "url": "https://www.zoomeye.org/searchResult?q=${query}"
+                },
+                {
+                    "title": "慕课网",
+                    "url": "https://www.imooc.com/search/wiki?words=${query}"
+                },
+                {
+                    "title": "博客园",
+                    "url": "https://zzk.cnblogs.com/s/blogpost?Keywords=${query}&DateTimeRange=OneYear"
+                },
+
+                {
+                    "title": "书签搜索",
+                    "url": "https://www.bookmarkearth.com/s/search?q=${query}"
+                },
+                {
+                    "title": "极客搜索",
+                    "url": "https://s.geekbang.org/search/c=0/k=${query}/t="
+                },
+                {
+                    "title": "百度dev",
+                    "url": "https://kaifa.baidu.com/searchPage?wd=${query}"
+                },
+                {
+                    "title": "开发者头条",
+                    "url": "https://toutiao.io/search?q=${query}"
+                },
+                {
+                    "title": "阿里云",
+                    "url": "https://developer.aliyun.com/search?q=${query}"
+                },
+                {
+                    "title": "腾讯云",
+                    "url": "https://cloud.tencent.com/developer/search/article-${query}"
+                },
+                {
+                    "title": "Github",
+                    "url": "https://github.com/search?q=${query}"
+                },
+                {
+                    "title": "Zz0ll0",
+                    "url": "https://zzollo.co/?q=${query}"
+                },
+                {
+                    "title": "Gitee",
+                    "url": "https://search.gitee.com/?skin=rec&type=blog&q=${query}"
+                },
+                {
+                    "title": "react组件",
+                    "url": "https://react.parts/?search=${query}"
+                },
+                {
+                    "title": "鱼塘搜",
+                    "url": "https://mo.fish/main/search/${query}"
+                },
+                {
+                    "title": "V2EX",
+                    "url": "https://google.com/search?q=site:v2ex.com/t ${query}"
+                },
+                {
+                    "title": "DevHints",
+                    "url": "https://devhints.io/${query}"
+                },
+                {
+                    "title": "socode",
+                    "url": "https://socode.pro/?k=${query}"
+                },
+                {
+                    "title": "sourcegraph",
+                    "url": "https://sourcegraph.com/search?q=${query}"
+                },
+                {
+                    "title": "GitHub Gist",
+                    "url": "https://gist.github.com/search?q=${query}"
+                },
+                {
+                    "title": "掘金",
+                    "url": "https://juejin.cn/search?query=${query}"
+                },
+                {
+                    "title": "segmentfault",
+                    "url": "https://segmentfault.com/search?q=${query}"
+                },
+                {
+                    "title": "Medium",
+                    "url": "https://medium.com/search?q=${query}"
+                },
+                {
+                    "title": "Dev.to",
+                    "url": "https://dev.to/search?q=${query}"
+                },
+                {
+                    "title": "codepen.to",
+                    "url": "https://codepen.io/search/pens?q=${query}"
+                }
+            ]
+        },
+        {
+            "tag": "Life",
+            "list": [
+                {
+                    "title": "神马",
+                    "url": "https://yz.m.sm.cn/s?q=${query}"
+                },
+                {
+                    "title": "twitter",
+                    "url": "https://twitter.com/search?q=${query}"
+                },
+                {
+                    "title": "微博",
+                    "url": "http://s.weibo.com/weibo/${query}"
+                },
+                {
+                    "title": "京东",
+                    "url": "http://search.jd.com/Search?enc=utf-8&keyword=${query}"
+                },
+                {
+                    "title": "值得买",
+                    "url": "https://search.smzdm.com/?c=home&s=${query}&v=b"
+                },
+                {
+                    "title":"下厨房",
+                    "url": "https://www.xiachufang.com/search/?keyword=${query}"
+                },
+                {
+                    "title":"美团",
+                    "url": "https://gz.meituan.com/"
+                },
+                {
+                    "title":"爱企查",
+                    "url": "https://aiqicha.baidu.com/s?q=${query}"
+                },
+                {
+                    "title":"查快递",
+                    "url": "https://www.guoguo-app.com/"
+                }
+            ]
+        },
+        {
+            "tag": "e-book",
+            "list": [
+                {
+                    "title": "zlibrary",
+                    "url": "https://1lib.education/s/${query}"
+                },
+                {
+                    "title": "LoreFree",
+                    "url": "https://ebook2.lorefree.com/site/index?s=${query}"
+                },
+                {
+                    "title": "鸠摩搜索 ",
+                    "url": "https://www.jiumodiary.com/"
+                },
+                {
+                    "title": "GitHub Search",
+                    "url": "https://google.com/search?q=site:github.com ${query}.pdf"
+                },
+                {
+                    "title": "Google Search1",
+                    "url": "https://www.google.com/search?q=%E3%80%8A${query}%E3%80%8B"
+                },
+                {
+                    "title": "Google Search2",
+                    "url": "https://www.google.com/search?q=filetype pdf ${query}"
+                },
+                {
+                    "title": "搬书匠",
+                    "url": "http://www.banshujiang.cn/e_books/search/page/1?searchWords=${query}"
+                },
+                {
+                    "title": "IT熊猫",
+                    "url": "https://itpanda.net/book/search?query=${query}"
+                },
+                {
+                    "title": "熊猫搜索",
+                    "url": "https://xmsoushu.com/#/"
+                }
+
+
+            ]
+        },
+        {
+            "tag": "磁力",
+            "list": [
+                {
+                    "title": "AIO 聚合站",
+                    "url": "https://www.aiosearch.com"
+                },
+                {
+                    "title": "海盗湾",
+                    "url": "https://pirate-proxy.cam/search.php?q=${query}"
+                },
+                {
+                    "title": "zooqle",
+                    "url": "https://zooqle.com/search?q=${query}"
+                },
+                {
+                    "title": "磁力搜索网",
+                    "url": "https://6mag.net/search?q=${query}"
+                }
+
+            ]
+        },
+        {
+            "tag": "Index",
+            "list": [
+                {
+                    "title": "index视频",
+                    "url": "https://www.google.com/search?q=intext:${query} (avi|mkv|mov|mp4|mpg|wmv) -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml) intitle:index.of./"
+                },
+                {
+                    "title": "indexeBook",
+                    "url": "https://www.google.com/search?q=intext:${query} (CBZ|CBR|CHM|DOC|DOCX|EPUB|MOBI|ODT|PDF|RTF|txt) -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml) intitle:index.of./"
+                },
+                {
+                    "title": "index压缩包",
+                    "url": "https://www.google.com/search?q=intext:${query} -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml) intitle:index.of./"
+                },
+                {
+                    "title": "搜软",
+                    "url": "https://www.lanzou8.com/s/${query}"
+                },
+                {
+                    "title": "应用宝",
+                    "url": "https://sj.qq.com/myapp/search.htm?kw=${query}"
+                },
+                {
+                    "title": "酷安app",
+                    "url": "https://www.google.com/search?newwindow=1&ei=jwyhX-HPDsGbmAXmkJvgBQ&q=site:coolapk.com ${query}"
+                }
+            ]
+        },
+
+
+
+
+        {
+            "tag": "其他",
+            "list": [
+                {
+                    "title": "GitLab Handbook",
+                    "url": "https://about.gitlab.com/handbook/#stq=${query}"
+                },
+                {
+                    "title": "blog",
+                    "url": "https://q.krytro.com/search?q=${query}"
+                },
+                {
+                    "title": "google translate",
+                    "url": "https://translate.google.com/?hl=en&sl=zh-CN&tl=en&text=${query}&op=translate"
+                },
+                {
+                    "title": "DeepL en->zh",
+                    "url": "https://www.deepl.com/translator#en/zh/${query}"
+                },
+                {
+                    "title": "DeepL zh->en",
+                    "url": "https://www.deepl.com/translator#zh/en/${query}"
+                },
+                {
+                    "title": "gitbook.io",
+                    "url": "https://www.google.com/search?q=site:gitbook.io ${query}"
+                },
+                {
+                    "title": "hashtags generator",
+                    "url": "https://hashtagsgenerator.net/hashtag.php?hashtag=${query}"
+                },
+                {
+                    "title": "微信公众号",
+                    "url": "https://www.google.com/search?q=site:mp.weixin.qq.com ${query}"
+                },
+                {
+                    "title": "Awesome Indexed",
+                    "url": "https://awesome-indexed.mathew-davies.co.uk/?search=${query}"
+                },
+                {
+                    "title": "awesome list",
+                    "url": "https://awesomelists.top/#/"
+                },
+                {
+                    "title": "Programming-Idioms",
+                    "url": "https://programming-idioms.org/cheatsheet/${query}"
+                },
+                {
+                    "title": "OverAPI",
+                    "url": "https://overapi.com/${query}"
+                },
+                {
+                    "title": "devdocs",
+                    "url": "https://devdocs.io/${query}"
+                },
+                {
+                    "title": "Learn X in Y minutes",
+                    "url": "https://learnxinyminutes.com/docs/${query}"
+                },
+                {
+                    "title": "searchblogspot",
+                    "url": "https://www.searchblogspot.com/search?q=${query}"
+                },
+                {
+                    "title": "rfmirror",
+                    "url": "https://www.google.com/search?q=site:rfmirror.com ${query}"
+                },
+                {
+                    "title": "反向词典",
+                    "url": "https://wantwords.thunlp.org/"
+                },
+                {
+                    "title": "表情包搜索",
+                    "url": "https://www.dbbqb.com/s?w=${query}"
+                }
+            ]
+        },
+
+        {
+            "tag": "本地云盘",
+            "list": [
+                {
+                    "title": "baiduDisk",
+                    "url": "https://pan.baidu.com/disk/home#/search?key=${query}&vmode=list"
+                },
+                {
+                    "title": "aliyunDrive",
+                    "url": "https://www.aliyundrive.com/drive/search/${query},,file"
+                },
+                {
+                    "title": "Mega",
+                    "url": "https://mega.nz/fm/Pzo2EZhT"
+                },
+                {
+                    "title": "天翼云盘",
+                    "url": "https://cloud.189.cn/web/main/file/folder/-11"
+                }
+            ]
+        },
+        {
+            "tag": "video",
+            "list": [
+                {
+                    "title": "bilibili",
+                    "url": "https://search.bilibili.com/all?keyword=${query}"
+                },
+                {
+                    "title": "YouTube",
+                    "url": "https://www.youtube.com/results?search_query=${query}"
+                },
+                {
+                    "title": "快手",
+                    "url": "https://www.kuaishou.com/search/video?searchKey=${query}"
+                },
+                {
+                    "title": "抖音",
+                    "url": "https://www.douyin.com/search/${query}"
+                },
+                {
+                    "title": "tiktok",
+                    "url": "https://www.tiktok.com/search/${query}"
+                }
+            ]
+        },
+        {
+            "tag": "全文搜索语法",
+            "list": [
+                {
+                    "title": "inurl",
+                    "url": "https://www.google.com/search?q=inurl:${query}"
+                },
+                {
+                    "title": "intitle(网页标题)",
+                    "url": "https://www.google.com/search?q=intitle:${query}"
+                },
+                {
+                    "title": "intext(网页正文内容)",
+                    "url": "https://www.google.com/search?q=intext:${query}"
+                },
+                {
+                    "title": "allintitle(网页标题) 多个关键词",
+                    "url": "https://www.google.com/search?q=allintitle:${query}"
+                },
+                {
+                    "title": "allintext(网页正文内容) 多个关键词",
+                    "url": "https://www.google.com/search?q=allintext:${query}"
+                },
+                {
+                    "title": "filetype 相似的有ext",
+                    "url": "https://www.google.com/search?q=filetype:${query}"
+                },
+                {
+                    "title": "define",
+                    "url": "https://www.google.com/search?q=define:${query}"
+                },
+
+                {
+                    "title": "info",
+                    "url": "https://www.google.com/search?q=info:${query}"
+                },
+                {
+                    "title": "link",
+                    "url": "https://www.google.com/search?q=link:${query}"
+                },
+
+                {
+                    "title": "allinanchor (and also inanchor)",
+                    "url": "https://www.google.com/search?q=inanchor:${query}"
+                },
+                {
+                    "title": "allinpostauthor (and also inpostauthor)",
+                    "url": "https://www.google.com/search?q=:${query}"
+                },
+
+                {
+                    "title": "book",
+                    "url": "https://www.google.com/search?q=book:${query}"
+                },
+                {
+                    "title": "maps",
+                    "url": "https://www.google.com/search?q=maps:${query}"
+                },
+                {
+                    "title": "movie",
+                    "url": "https://www.google.com/search?q=movie:${query}"
+                },
+                {
+                    "title": "weather",
+                    "url": "https://www.google.com/search?q=weather:${query}"
+                },
+                {
+                    "title": "site",
+                    "url": "https://www.google.com/search?q=site:xxx ${query}"
+                },
+                {
+                    "title": "cache:快照",
+                    "url": "https://www.google.com/search?q=cache:${query}"
+                },
+                {
+                    "title": "时间:after",
+                    "url": "https://www.google.com/search?q=after:2020-10-01 ${query}"
+                },
+                {
+                    "title": "时间:before",
+                    "url": "https://www.google.com/search?q=before:2010-10-01 ${query}"
+                },
+                {
+                    "title": "时间:range",
+                    "url": "https://www.google.com/search?q=2008..2010 ${query}"
+                },
+                {
+                    "title": "numrange(eg:numrange:321-325)",
+                    "url": "https://www.google.com/search?q=numrange:${query}"
+                },
+                {
+                    "title": "related",
+                    "url": "https://www.google.com/search?q=related:${query}"
+                },
+                {
+                    "title": "inanchor",
+                    "url": "https://www.google.com/search?q=inanchor:${query}"
+                },
+                {
+                    "title": "指定地区",
+                    "url": "https://www.google.com/search?q=location:${query}"
+                },
+                {
+                    "title": "特定作者的博客文章",
+                    "url": "https://www.google.com/search?q=inpostauthor ${query}"
+                },
+                {
+                    "title": "在博客文章标题中搜索",
+                    "url": "https://www.google.com/search?q=inposttitle:${query}"
+                },
+                {
+                    "title": "博客",
+                    "url": "https://www.google.com/search?q=${query} inurl:blog"
+                },
+                {
+                    "title": "搜索用户",
+                    "url": "https://www.google.com/search?q=@${query}"
+                },
+                {
+                    "title": "根据tag搜索",
+                    "url": "https://www.google.com/search?q=#${query}"
+                },
+
+                {
+                    "title": "github:找大全",
+                    "url": "https://github.com/search?q=awesome ${query}"
+                },
+                {
+                    "title": "github:找例子1",
+                    "url": "https://github.com/search?q=${query} sample"
+                },
+                {
+                    "title": "github:找例子2",
+                    "url": "https://github.com/search?q=${query} demo"
+                },
+                {
+                    "title": "github:找空项目架子1",
+                    "url": "https://github.com/search?q=${query} starter"
+                },
+                {
+                    "title": "github:找空项目架子2",
+                    "url": "https://github.com/search?q=${query} starter"
+                },
+                {
+                    "title": "github:教程",
+                    "url": "https://github.com/search?q=${query} tutorial"
+                },
+                {
+                    "title": "Google Hacking Database",
+                    "url": "https://www.exploit-db.com/google-hacking-database"
+                },
+                {
+                    "title": "Keyword Tool",
+                    "url": "https://keywordtool.io/search/keywords/google/99592501?keyword=${query}"
+                }
+
+            ]
+        },
+        {
+            "tag": "搜索网站👍",
+            "list": [
+                {
+                    "title": "telegram搜索1",
+                    "url": "https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=${query}&gsc.sort="
+                },
+                {
+                    "title": "telegram搜索2",
+                    "url": "http://www.sssoou.com/"
+                },
+                {
+                    "title": "telegram搜索3",
+                    "url": "https://lyzem.com/search?q=${query}"
+                },
+                {
+                    "title": "OnionLand Search",
+                    "url": "https://onionlandsearchengine.com/search?q=${query}"
+                },
+                {
+                    "title": "OSINT开源情报与侦察工具",
+                    "url": "https://www.osint-labs.org/tools/"
+                },
+                {
+                    "title": "start.me",
+                    "url": "https://start.me/p/rxeRqr/aml-toolbox"
+                },
+                {
+                    "title": "OSINT resource discovery toolkit",
+                    "url": "https://rr.reuser.biz/"
+                },
+                {
+                    "title": "OffenOsint",
+                    "url": "https://github.com/Double2Sky/OffenOsint"
+                },
+                {
+                    "title": "similar sites1",
+                    "url": "https://www.similarsites.com/site/${query}"
+                },
+                {
+                    "title": "similar sites2",
+                    "url": "https://www.similarsitesearch.com/search/${query}"
+                },
+                {
+                    "title": "WolframAlpha",
+                    "url": "https://www.wolframalpha.com/input/?i=${query}"
+                },
+                {
+                    "title": "地图:高德",
+                    "url": "https://www.amap.com/search?query=${query}"
+                },
+                {
+                    "title": "地图:百度",
+                    "url": "https://map.baidu.com/search/${query}"
+                },
+                {
+                    "title": "地图:google",
+                    "url": "https://www.google.com/maps/search/${query}"
+                },
+                {
+                    "title": "macwk",
+                    "url": "https://macwk.com/soft/all/s-${query}p1"
+                }
+            ]
+
+        },
+        {
+            "tag": "参考",
+            "list": [
+                {
+                    "title": "Google dork cheatsheet",
+                    "url": "https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06"
+                },
+                {
+                    "title": " Google Dorks List",
+                    "url": "https://gbhackers.com/latest-google-dorks-list/"
+                },
+                {
+                    "title": "OSINT tools collection",
+                    "url": "https://cipher387.github.io/osint_stuff_tool_collection/"
+                },
+                {
+                    "title": "Google Dorks List(text)",
+                    "url": "https://github.com/BullsEye0/google_dork_list/blob/master/google_Dorks.txt"
+                },
+                {
+                    "title": "Google Dorks Coolections List",
+                    "url": "https://github.com/cipher387/Dorks-collections-list"
+                },
+                {
+                    "title": "Google Hacking",
+                    "url": "https://www.google.com/search?q=Google Hacking"
+                },
+                {
+                    "title": "搜索研究院",
+                    "url": "https://www.dianbo.org/9238/"
+                }
+
+            ]
+        },
+        {
+            "tag": "本地保存文件",
+            "list": [
+                {
+                    "title": "本地搜索 find xx",
+                    "url": "#"
+                },
+                {
+                    "title": "收藏的文章",
+                    "url": "#"
+                },
+                {
+                    "title": "保存的书签 bm xx",
+                    "url": "#"
+                },
+                {
+                    "title": "整理的内容",
+                    "url": "#"
+                },
+                {
+                    "title": "笔记 日志 记录",
+                    "url": "#"
+                }
+
+            ]
+        }
+
+
+
+
+
+    ]
+}

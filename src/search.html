@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="乱红如雨的个人导航站点, 标签导航 + 聚合搜索 ">
+    <meta keywords="text" content="lhqs, 乱红倾世, 乱红如雨, 导航, 搜索, 信息, 信息源, 标签导航, 聚合搜索">
+    <link rel="icon" href="http://static.lhqs.ink/site/nav/L.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://static.lhqs.ink/site/nav/L.png">
+    <link rel="stylesheet" href="./css/output.css">
+    <title>Search</title>
+</head>
+<body>
+
+    <head>
+        <div class="flex flex-nowrap justify-between bg-black text-white font-bold">
+            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="./index.html">乱红如雨的个人站点</a></h1>
+            <h1 id="checkout" class="px-4 py-2 hover:text-sky-400"><a href="./index.html">标签导航</a></h1>
+        </div>
+    </head>
+
+    <section>
+        <div class="pt-4 flex justify-center">
+            <div class="flex w-4/5 md:3/4 xl:w-1/2 ">
+                <div id="sform" class="w-full pt-2 relative mx-auto text-gray-600">
+                    <input id="search" class="w-full border-2 border-gray-300 bg-white h-10 px-3 pr-16 rounded-lg text-sm focus:outline-none" type="search" name="search" placeholder="Search by keywords">
+                    <button  id="engine" onclick="defaultSearch(event);" class="absolute right-0 top-0 mt-4 mr-4 border-gray-300 bg-white">
+                        <svg t="1631195014749" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4225" width="24" height="24"><path d="M430.81460426 808.42087521A388.24537457 388.24537457 0 1 1 430.81460426 31.87499999a388.24537457 388.24537457 0 0 1 0 776.54587522z m0-86.2706249a301.97474968 301.97474968 0 1 0 0-604.00462543 301.97474968 301.97474968 0 0 0 0 604.00462543z" fill="#8a8a8a" p-id="4226"></path><path d="M689.73672915 615.20774977l305.00662478 305.0617499-60.96824989 61.023375-305.06174989-305.0617499z" fill="#8a8a8a" p-id="4227"></path></svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section  class="flex justify-center">
+        <div class="w-4/5 md:3/4 xl:w-1/2 mb-6">
+            <div id="list"></div>
+        </div>
+    </section>
+
+    <!-- <footer id="footer" role="lhqs" class="fixed bottom-0 text-sm text-gray-500 text-center w-full mx-auto py-3 ">
+        乱红如雨个人导航站 contact us: lhqs.gu@gmail.com
+    </footer> -->
+
+
+    <template>
+        ${data.map(function(obj, index){return `<input type="submit" value=${obj.title} class="mr-2 my-1 px-2 py-1 rounded-md text-sm cursor-pointer bg-gray-200 hover:bg-black hover:text-white" data-url=${obj.url} onclick="change(event)" >`}).join('')}
+    </template>
+
+    <script>
+        let engine = document.getElementById('engine');
+        let search = document.getElementById('search');
+        let list = document.getElementById('list');
+        // let nickname = document.getElementById('nickname');
+        let slogan = document.getElementById('slogan');
+        search.addEventListener("keydown", e => {
+            if(e.code === "Enter"){
+                window.open("https://www.google.com/search?q=" + search.value, "_blank");
+            }
+        });
+
+        // let customText = location.search.substring(1).split("=");
+        // console.log('customText', customText);
+        // let nameJson = location.search.substring(1).split("=")[1];
+        // if(!nameJson){
+        //     nameJson = 'urls';
+        // }else{
+        //     nickname.innerText = nameJson;
+        // }
+
+
+
+        function change(event){
+            const newQuery = search.value;
+            const value = event.target.value;
+            engine.innerHTML = value;
+            engine.value = newQuery;
+            const url = event.target.dataset['url'];
+            engine.dataset["newlink"] = url;
+            const searchDigest =  'return ' + '`' + url + '`'
+            const func = new Function('query', searchDigest);
+            const searchLocation = func(newQuery);
+            window.open(searchLocation);
+        }
+        function defaultSearch(event){
+            const url = event.target.dataset['newlink'];
+            if(url){
+                const str =  'return ' + '`' + url + '`';
+                const func = new Function('query', str);
+                window.open(func(search.value));
+            }else {
+                window.open("https://www.google.com/search?q=" + search.value);
+            }
+        }
+
+        String.prototype.customHandle = function (params) {
+            return new Function('data', `return \`${this}\`;`)(...[params]);
+        };
+
+        let strTemplate = document.querySelector('template').innerHTML;
+        fetch('./data/lhqs.json').then(res => {
+            return res.json();
+        }).then(json => {
+            for (const key in json.data){
+                let divDom = document.createElement('div');
+                divDom.innerHTML = '<div class="text-sm text-gray-400 mt-2">'+ json.data[key].tag + '</div>' +  strTemplate.customHandle(json.data[key].list);
+                list.append(divDom);
+            }
+
+        });
+    </script>
+
+</body>
+</html>

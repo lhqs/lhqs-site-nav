@@ -1,0 +1,16 @@
+{
+  "name": "lhqs-nav-site",
+  "version": "1.0.0",
+  "description": "乱红如雨的个人站点: 标签导航 + 聚合搜索",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch",
+    "build": "npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css -m"
+  },
+  "keywords": ["site"],
+  "author": "lhqs",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.7"
+  }
+}

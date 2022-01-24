@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="乱红如雨的个人导航站点, 标签导航 + 聚合搜索 ">
+    <meta keywords="text" content="lhqs, 乱红倾世, 乱红如雨, 导航, 搜索, 信息, 信息源, 标签导航, 聚合搜索">
+    <link rel="icon" href="http://static.lhqs.ink/site/nav/L.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://static.lhqs.ink/site/nav/L.png">
+    <title>乱红如雨 | lhqs</title>
+    <link rel="stylesheet" href="./css/output.css">
+</head>
+<body>
+
+    <head>
+        <div class="flex flex-nowrap justify-between bg-black text-white  font-bold">
+            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="#">乱红如雨的个人站点</a></h1>
+            <div class="px-4 py-2">
+                <span id="checkout" class="hover:text-sky-400"><a href="./search.html">聚合搜索</a></span>
+                <span id="checkout" class="px-4 hover:text-sky-400"><a href="https://github.com/lhqs" target="_blank">Github</a></span>
+                <span id="slogan" class="hover:text-sky-400"><a href="./page/about.html">关于</a></span>
+            </div>
+        </div>
+    </head>
+
+
+    <section>
+        <div class="pt-4 flex justify-center flex-wrap">
+            <div id="tagList" class="w-4/5 md:3/4 xl:w-1/2 "></div>
+            <!-- <button onclick="filterTags('tags-list')" class="">click test</button> -->
+        </div>
+    </section>
+
+    <div class="w-4/5 md:3/4 xl:w-1/2  mx-auto h-4 border-b-2 border-gray-300 text-center mt-4 mb-6">
+        <span id="tagActive" class="bg-white px-2 py-1 mt-1 text-lg"></span>
+    </div>
+
+    <section  class="flex justify-center">
+        <div class="w-4/5 md:3/4 xl:w-1/2 mb-6">
+            <div id="list" class="flex flex-wrap"></div>
+        </div>
+    </section>
+
+
+
+    <footer id="footer" role="lhqs" class="fixed bottom-0 text-sm text-gray-500 text-center w-full mx-auto py-3 hidden">
+        乱红如雨个人导航站 contact us: lhqs.gu@gmail.com
+    </footer>
+
+    <template>
+        ${data.map(function(obj, index){return `<input type="submit" value=${obj.title} class="mr-2 my-1 px-2 py-1 rounded-md text-sm cursor-pointer bg-gray-200 hover:bg-black hover:text-white" data-url=${obj.url} onclick="change(event)" >`}).join('')}
+    </template>
+
+    <script>
+        const list = document.getElementById('list');
+        const tagList = document.getElementById("tagList");
+        const tagActive = document.getElementById("tagActive");
+
+        function defaultSearch(event){
+            const url = event.target.dataset['newlink'];
+            if(url){
+                const str =  'return ' + '`' + url + '`';
+                const func = new Function('query', str);
+                window.open(func(search.value));
+            }else {
+                window.open("https://www.google.com/search?q=" + search.value);
+            }
+        }
+
+        String.prototype.customHandle = function (params) {
+            return new Function('data', `return \`${this}\`;`)(...[params]);
+        };
+
+
+
+        let siteData;
+
+        let strTemplate = document.querySelector('template').innerHTML;
+        fetch('./data/site.json').then(res => {
+            return res.json();
+        }).then(data => {
+            // console.log('data', data);
+            siteData = data;
+            let tagsSet = new Set();
+            tagsSet.add('#高频访问');
+            filterTags('#高频访问')
+            for (const key in data){
+                data[key].tags.split(/\s+/).forEach(element => tagsSet.add('#' + element));
+            }
+            let tagDiv = '';
+            for (let item of tagsSet) {
+                tagDiv += `<button onclick="filterTags('${item}')" class="m-1 text-gray-600  border-2 border-slate-300  hover:bg-gray-300  focus:bg-gray-600 focus:text-white rounded-md px-2 text-sm">${item}</button>`;
+            }
+            tagList.innerHTML= '<div class="flex flex-wrap">' + tagDiv + '</div>';
+        });
+
+
+        const filterTags = (tag) => {
+            tagActive.innerText = tag;
+            let filterData = []
+            for (const key in siteData){
+                siteData[key].tags.split(/\s+/).forEach(element => {
+                    if(tag.includes(element)){
+                        filterData.push(siteData[key]);
+                    }
+                });
+            }
+            list.innerHTML = '';
+            filterData.forEach(element => {
+                let divDom = document.createElement("div");
+                divDom.classList.add('my-1');
+                divDom.innerHTML  = '<a class="mr-2 px-2 py-1 rounded-md text-sm cursor-pointer bg-gray-200 hover:bg-gray-300" href="' + element.url + '" target="_blank">'+ element.title + '</a>';
+                list.append(divDom);
+            });
+
+        }
+
+
+
+    </script>
+
+
+</body>
+</html>
