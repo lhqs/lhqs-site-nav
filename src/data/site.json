@@ -300,6 +300,10 @@
         "title": "Iconfont 矢量图标库",
         "url": "https://www.iconfont.cn/"
     },{
+        "tags": "site tool web tailwind",
+        "title": "Beautiful hand-crafted SVG icons",
+        "url": "https://heroicons.com/"
+    },{
         "tags": "site book doc",
         "title": "书栈网",
         "url": "https://www.bookstack.cn/"
@@ -3273,65 +3277,101 @@
         "title": "Tech Interview Handbook",
         "url": "https://techinterviewhandbook.org"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github awesome",
+        "title": "Games on GitHub",
+        "url": "https://github.com/leereilly/games"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site news",
+        "title": "hackernews.cc",
+        "url": "https://hackernews.cc/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github tech",
+        "title": "GitNews",
+        "url": "https://git.news/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 语雀 次高频",
+        "title": "爱可可老师分享",
+        "url": "https://www.yuque.com/fly51fly/gvl1ma"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site osint",
+        "title": "osint map",
+        "url": "https://cipher387.github.io/osintmap/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc",
+        "title": "Crypto 101",
+        "url": "https://www.crypto101.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site weekly",
+        "title": "每日时报",
+        "url": "https://wubaiqing.github.io/zaobao/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog list",
+        "title": "hashnode",
+        "url": "https://hashnode.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc manual web dev",
+        "title": "ECMAScript 6 入门",
+        "url": "https://es6.ruanyifeng.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site dev",
+        "title": "public api",
+        "url": "https://www.m3o.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "随意搜寻",
+        "url": "https://www.getrevue.co/profile/thinkingjimmy"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site osint github",
+        "title": "osint_stuff_tool_collection",
+        "url": "https://github.com/cipher387/osint_stuff_tool_collection"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site up tech cheatsheet",
+        "title": "What do you want to learn today?",
+        "url": "https://aquadzn.github.io/learn-x-by-doing-y/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech youtube",
+        "title": "Computer Science courses with video lectures",
+        "url": "https://github.com/Developer-Y/cs-video-courses"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site list tools product",
+        "title": "Wonderful list of resources",
+        "url": "https://www.notedlinks.com/"
+    },{
+        "tags": "site news",
+        "title": "engadget",
+        "url": "https://www.engadget.com/"
+    },{
+        "tags": "site product",
+        "title": "kickstarter",
+        "url": "https://www.kickstarter.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "tailwindtoolbox",
+        "url": "https://www.tailwindtoolbox.com/starter-templates"
+    },{
+        "tags": "site tailwind",
+        "title": "mambaui",
+        "url": "https://mambaui.com/"
+    },{
+        "tags": "site notion list tools good",
+        "title": "NOISE | 知识效率集",
+        "url": "https://noisesite.cn/"
+    },{
+        "tags": "site blog",
+        "title": "manazir",
+        "url": "https://manazir.org/"
+    },{
+        "tags": "site newsletter daily",
+        "title": "Morning-brew",
+        "url": "https://www.morningbrew.com/daily"
+    },{
+        "tags": "site news",
+        "title": "Insider",
+        "url": "https://www.insider.com/"
+    },{
+        "tags": "site github",
+        "title": "DevOps Interview Questions",
+        "url": "https://github.com/bregman-arie/devops-exercises"
     },{
         "tags": "site",
         "title": "",
