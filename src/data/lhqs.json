@@ -82,6 +82,10 @@
                 {
                     "title": "OCCAMM",
                     "url": "https://www.occamm.com/"
+                },
+                {
+                    "title": "answers",
+                    "url": "https://www.answers.com/search?q=${query}"
                 }
             ]
         },

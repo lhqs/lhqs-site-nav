@@ -1985,7 +1985,7 @@
         "title": "thought-bot",
         "url": "https://thoughtbot.com/blog"
     },{
-        "tags": "site blog newsletter",
+        "tags": "site blog newsletter read 次高频",
         "title": "fs",
         "url": "https://fs.blog/"
     },{
@@ -3465,17 +3465,17 @@
         "title": "sdk.cn",
         "url": "https://www.sdk.cn/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site read newsletter",
+        "title": "Inside Intercom",
+        "url": "https://www.intercom.com/blog/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "Overthinking Everything",
+        "url": "https://drmaciver.substack.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "Flying Colours Maths",
+        "url": "https://www.flyingcoloursmaths.co.uk/blog/"
     },{
         "tags": "site",
         "title": "",
