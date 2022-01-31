@@ -70,7 +70,6 @@
         // }
 
 
-
         function change(event){
             const newQuery = search.value;
             const value = event.target.value;
@@ -107,8 +106,8 @@
                 divDom.innerHTML = '<div class="text-sm text-gray-400 mt-2">'+ json.data[key].tag + '</div>' +  strTemplate.customHandle(json.data[key].list);
                 list.append(divDom);
             }
-
         });
+
     </script>
 
 </body>

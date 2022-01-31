@@ -16,12 +16,12 @@
                     "url": "https://duckduckgo.com/?q=${query}&t=hd&va=u&ia=web"
                 },
                 {
-                    "title": "百度",
-                    "url": "https://www.baidu.com/s?wd=${query} -广告 -推广"
-                },
-                {
                     "title": "Yandex",
                     "url": "https://yandex.com/search/?text=${query}"
+                },
+                {
+                    "title": "百度",
+                    "url": "https://www.baidu.com/s?wd=${query} -广告 -推广"
                 },
                 {
                     "title": "spot",

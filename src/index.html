@@ -77,10 +77,9 @@
         let siteData;
 
         let strTemplate = document.querySelector('template').innerHTML;
-        fetch('./data/site.json').then(res => {
+        fetch('./data/website.json').then(res => {
             return res.json();
         }).then(data => {
-            // console.log('data', data);
             siteData = data;
             let tagsSet = new Set();
             tagsSet.add('#高频访问');
