@@ -328,7 +328,7 @@
         "title": "易白教程",
         "url": "https://www.yiibai.com/"
     },{
-        "tags": "site developer",
+        "tags": "site dev",
         "title": "apple developer",
         "url": "https://developer.apple.com/"
     },{
@@ -681,8 +681,16 @@
         "url": "https://hackershare.dev/bookmarks"
     },{
         "tags": "site weekly newsletter 高频访问",
-        "title": "hackernewletter",
+        "title": "Hacker Newsletter",
         "url": "https://hackernewsletter.com/"
+    },{
+        "tags": "site 高频访问",
+        "title": "Hacker News Weekly",
+        "url": "https://www.daemonology.net/hn-weekly/"
+    },{
+        "tags": "site 高频访问",
+        "title": "Hacker News Daily",
+        "url": "https://www.daemonology.net/hn-daily/"
     },{
         "tags": "site website",
         "title": "Digital Marketing ",
