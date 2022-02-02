@@ -44,7 +44,7 @@
         "title": "产品运营导航",
         "url": "https://dh.woshipm.com/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "Tools for better thinking",
         "url": "https://untools.co"
     },{
@@ -993,7 +993,7 @@
         "title": "邮箱 📧 newsletter RSS 荟萃",
         "url": "https://github.com/alaskasquirrel/Email-newsletter-RSS"
     },{
-        "tags": "site newsletter list import",
+        "tags": "site newsletter list import 高频",
         "title": "Hedwing",
         "url": "https://hedwig.pub"
     },{
@@ -2001,7 +2001,7 @@
         "title": "当然我在扯淡",
         "url": "http://www.yinwang.org/"
     },{
-        "tags": "site awesome github",
+        "tags": "site awesome github AI",
         "title": "awesome-machine-learning",
         "url": "https://github.com/josephmisiti/awesome-machine-learning"
     },{
@@ -2490,7 +2490,7 @@
         "url": "https://www.changelogs.gallery/"
     },{
         "tags": "site blog import good 次高频",
-        "title": "brianlovin",
+        "title": "brianlovin(good)",
         "url": "https://brianlovin.com/"
     },{
         "tags": "site design",
@@ -2761,7 +2761,7 @@
         "title": "Sector",
         "url": "https://sector035.nl/articles/category:week-in-osint"
     },{
-        "tags": "site blog osint 导航 good",
+        "tags": "site blog osint 导航 good 次高频",
         "title": "oh shint",
         "url": "https://ohshint.gitbook.io/oh-shint-its-a-blog/"
     },{
@@ -3245,7 +3245,7 @@
         "title": "Static Program Analysis Book",
         "url": "https://spa-book.pblo.gq/"
     },{
-        "tags": "site 创业 管理 gitHub",
+        "tags": "site 创业 管理 github",
         "title": "Webflow 技术主管指南",
         "url": "https://github.com/webflow/leadership/blob/master/tech_lead.md"
     },{
@@ -3273,7 +3273,7 @@
         "title": "hackernoon",
         "url": "https://hackernoon.com/"
     },{
-        "tags": "site read 为分类",
+        "tags": "site read 未分类",
         "title": "读书笔记",
         "url": "https://reading.geek-docs.com"
     },{
@@ -3584,6 +3584,50 @@
         "tags": "site 高频访问",
         "title": "Hacker News Daily",
         "url": "https://www.daemonology.net/hn-daily/"
+    },{
+        "tags": "site newsletter",
+        "title": "计算机系统中的沉思",
+        "url": "https://buttondown.email/nelhage/archive/"
+    },{
+        "tags": "site tech-blog",
+        "title": "Nelson Elhage(计算机的思考)",
+        "url": "https://blog.nelhage.com/"
+    },{
+        "tags": "site notion read",
+        "title": "阅读记录",
+        "url": "https://muzi502.notion.site/muzi502/284c181664924fa485e94c12b6cabfb1"
+    },{
+        "tags": "site cheatsheet",
+        "title": "cheet.dev",
+        "url": "https://cheet.dev/"
+    },{
+        "tags": "site 未分类",
+        "title": "ArchiPro",
+        "url": "https://archipro.co.nz/"
+    },{
+        "tags": "site blog",
+        "title": "Jakob Breenfeld",
+        "url": "https://jakobgreenfeld.com/"
+    },{
+        "tags": "site 创业",
+        "title": "growth.design",
+        "url": "https://growth.design/case-studies"
+    },{
+        "tags": "site 创业",
+        "title": "idea-wiki",
+        "url": "https://github.com/samsquire/idea-wiki"
+    },{
+        "tags": "site 创业",
+        "title": "ideas",
+        "url": "https://samsquire.github.io/ideas/"
+    },{
+        "tags": "site manual tech dev",
+        "title": "Practical python projects",
+        "url": "https://practicalpython.yasoob.me/toc.html"
+    },{
+        "tags": "site web dev github",
+        "title": "HTML <head> elements",
+        "url": "https://github.com/joshbuchea/head"
     },{
         "tags": "site",
         "title": "",
