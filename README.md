@@ -12,7 +12,7 @@
         "tags": "高频访问 site tech github",
         "title": "Github trending",
         "url": "https://github.com/trending"
-    }
+    }...
 ```
 
 2. 聚合搜索, 聚合搜索渠道, 方便信息获取
@@ -24,14 +24,14 @@
     {
         "title": "必应",
         "url": "http://bing.com/search?q=${query}"
-    }
+    }...
 ```
 ### 设计
 轻量, 无服务依赖, 数据视图分离
 
 ### 使用
 
-1. 如果不修改默认样式, 直接修改描述及自定义域名列表即可(其中导航数据位于 src/data/website.json, 搜索数据位于 src/data/lhqs.json)
+1. 如果不修改默认样式, 直接修改描述及自定义域名列表即可(其中导航数据位于 src/data/website.json, 搜索数据位于 src/data/search.json)
 
 2. 如需修改样式可以引入自定义的css文件, 或者了解下[tailwindcss](https://tailwindcss.com),遵循其使用方式
 

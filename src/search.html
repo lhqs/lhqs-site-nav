@@ -98,7 +98,7 @@
         };
 
         let strTemplate = document.querySelector('template').innerHTML;
-        fetch('./data/lhqs.json').then(res => {
+        fetch('./data/search.json').then(res => {
             return res.json();
         }).then(json => {
             for (const key in json.data){
