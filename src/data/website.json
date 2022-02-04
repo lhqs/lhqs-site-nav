@@ -3449,7 +3449,7 @@
         "title": "云风的 BLOG",
         "url": "https://blog.codingnow.com/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter 高频访问",
         "title": "Funny and Insightful",
         "url": "https://labnotes.org/"
     },{
@@ -3661,21 +3661,21 @@
         "title": "lhqs-blog",
         "url": "https://blog.lhqs.ink/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc AI github",
+        "title": "R2ML-玩机器学习的张北海",
+        "url": "https://tjxj.github.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site web dev manual",
+        "title": "How to graphql",
+        "url": "https://www.howtographql.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site web dev cheatsheet manual tools",
+        "title": "Tiny Helopers",
+        "url": "https://tiny-helpers.dev/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site other",
+        "title": "china digital times",
+        "url": "https://chinadigitaltimes.net/chinese/"
     },{
         "tags": "site",
         "title": "",
