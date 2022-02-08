@@ -3585,7 +3585,7 @@
         "title": "Hacker News Daily",
         "url": "https://www.daemonology.net/hn-daily/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter special",
         "title": "计算机系统中的沉思",
         "url": "https://buttondown.email/nelhage/archive/"
     },{
@@ -3720,6 +3720,70 @@
         "tags": "site blog list 高频访问",
         "title": "Engineering blogs by top tech companies",
         "url": "https://blogboard.io/"
+    },{
+        "tags": "site 榜单 product 次高频",
+        "title": "V2HOT - 每日 V2EX 最热主题",
+        "url": "https://v2hot.github.io/"
+    },{
+        "tags": "site tech manual",
+        "title": "Improve how you architect webapps",
+        "url": "https://www.patterns.dev/"
+    },{
+        "tags": "site blog good",
+        "title": "KOTTKE.ORG  ♥  精美超文本产品之家",
+        "url": "https://kottke.org/everfresh"
+    },{
+        "tags": "site manual",
+        "title": "Google 技术写作",
+        "url": "https://docs.google.com/document/d/16aoMrMGHPIR1i_eUNRvksdDdwcDG6KiOJN6Vfh-n8-s/edit#heading=h.2o89lfunn1li"
+    },{
+        "tags": "site idea product",
+        "title": "Recently updated ideas",
+        "url": "https://storiesonboard.uservoice.com/"
+    },{
+        "tags": "site idea product",
+        "title": "somebody make this",
+        "url": "https://www.reddit.com/r/SomebodyMakeThis/"
+    },{
+        "tags": "site newsletter",
+        "title": "时空迷航",
+        "url": "https://marvin.zhubai.love/"
+    },{
+        "tags": "site newsletter",
+        "title": "事不过三",
+        "url": "https://via.zhubai.love/"
+    },{
+        "tags": "site blog",
+        "title": "happy xiao",
+        "url": "https://happyxiao.com/"
+    },{
+        "tags": "site tech tech-blog special",
+        "title": "high scalability",
+        "url": "http://highscalability.com/"
+    },{
+        "tags": "site blog product",
+        "title": "Bring the donuts",
+        "url": "https://www.bringthedonuts.com/"
+    },{
+        "tags": "site notion",
+        "title": "富于理性｜创作精选",
+        "url": "https://havefuncreating.notion.site/havefuncreating/201337c45ac24cd59e8e0bf708218f9d"
+    },{
+        "tags": "site news read good",
+        "title": "matters.news",
+        "url": "https://matters.news"
+    },{
+        "tags": "site dev newsletter",
+        "title": "13 的 Apple 開發者週報",
+        "url": "https://ethanhuang13.substack.com/"
+    },{
+        "tags": "site web dev tools",
+        "title": "icons",
+        "url": "https://icones.js.org/"
+    },{
+        "tags": "site tech import",
+        "title": "维基解密",
+        "url": "https://file.wikileaks.org/file/"
     },{
         "tags": "site",
         "title": "",
