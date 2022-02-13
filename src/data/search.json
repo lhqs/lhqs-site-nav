@@ -351,6 +351,10 @@
                 {
                     "title": "codepen.to",
                     "url": "https://codepen.io/search/pens?q=${query}"
+                },
+                {
+                    "title": "CVE",
+                    "url": "https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=${query}"
                 }
             ]
         },
