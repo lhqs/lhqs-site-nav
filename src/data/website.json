@@ -708,7 +708,7 @@
         "title": "smash(dev & design)",
         "url": "https://www.smashingmagazine.com/the-smashing-newsletter/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter weekly",
         "title": "JavaScript Weekly",
         "url": "https://javascriptweekly.com/issues"
     },{
@@ -2237,7 +2237,7 @@
         "title": "New York",
         "url": "https://nymag.com/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter weekly",
         "title": "GeekPlux Lab",
         "url": "https://geekplux.zhubai.love/"
     },{
@@ -3409,7 +3409,7 @@
         "title": "云盘资源导航",
         "url": "https://aliyun.panpanr.com/"
     },{
-        "tags": "site tech news",
+        "tags": "site tech news 榜单",
         "title": "tech meme",
         "url": "https://www.techmeme.com/"
     },{
@@ -3917,7 +3917,7 @@
         "title": "PortSwigger Blog",
         "url": "https://portswigger.net/blog"
     },{
-        "tags": "sitet tech-blog",
+        "tags": "site tech-blog",
         "title": "PortSwigger Research",
         "url": "https://portswigger.net/research"
     },{
@@ -3985,53 +3985,53 @@
         "title": "TechRepublic Forums",
         "url": "https://www.techrepublic.com/forums/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "夜航船夫",
+        "url": "http://www.uncoverman.com"
+    },{
+        "tags": "site web dev tech-blog",
+        "title": "木易杨前端进阶",
+        "url": "https://muyiy.cn/blog/"
     },{
         "tags": "site",
-        "title": "",
-        "url": ""
+        "title": "Digoal.Zhou's Blog",
+        "url": "https://billtian.github.io/digoal.blog/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site manual",
+        "title": "正则表达式30分钟入门教程",
+        "url": "https://deerchao.cn/tutorials/regex/regex.htm"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site search",
+        "title": "People Also Search For",
+        "url": "https://www.dashword.com/people-also-search-for"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "Louiscard' Blog",
+        "url": "https://louiscard.com"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog",
+        "title": "Joel on softare",
+        "url": "https://www.joelonsoftware.com"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "亨利朱週報",
+        "url": "https://henrychu.substack.com"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog",
+        "title": "vgod's blog(visit)",
+        "url": "https://blog.vgod.tw"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI",
+        "title": "构建未来的人工智能社区",
+        "url": "https://huggingface.co/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog",
+        "title": "skywind inside",
+        "url": "http://www.skywind.me/blog/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
-    },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI newsletter",
+        "title": "Your guide to AI",
+        "url": "https://newsletter.airstreet.com"
     },{
         "tags": "site",
         "title": "",
