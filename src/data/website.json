@@ -3049,7 +3049,7 @@
         "title": "reverse engineering",
         "url": "https://github.com/wtsxDev/reverse-engineering"
     },{
-        "tags": "site tech-blog",
+        "tags": "site tech-blog weekly",
         "title": "codedump",
         "url": "https://www.codedump.info"
     },{
@@ -4065,9 +4065,9 @@
         "title": "k8s资源文档",
         "url": "https://manifests.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech dev cheatsheet github awesome",
+        "title": "Awesome list with Stars count🌟",
+        "url": "https://awesome-repos.ecp.plus"
     },{
         "tags": "site",
         "title": "",
