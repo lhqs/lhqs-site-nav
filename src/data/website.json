@@ -1425,6 +1425,10 @@
         "title": "本地宝",
         "url": "http://www.bendibao.com/city.htm"
     },{
+        "tags": "site life",
+        "title": "本地宝-深圳",
+        "url": "http://sz.bendibao.com"
+    },{
         "tags": "site 榜单",
         "title": "今日热榜",
         "url": "https://tophub.today/"
@@ -4032,6 +4036,54 @@
         "tags": "site AI newsletter",
         "title": "Your guide to AI",
         "url": "https://newsletter.airstreet.com"
+    },{
+        "tags": "site newsletter",
+        "title": "digits to dollars",
+        "url": "https://digitstodollars.com"
+    },{
+        "tags": "site 未分类",
+        "title": "Five Books",
+        "url": "https://fivebooks.com/"
+    },{
+        "tags": "site newsletter list 高频",
+        "title": "Find The Best Email Newsletters For Any Topic",
+        "url": "https://inboxreads.co"
+    },{
+        "tags": "site newsletter",
+        "title": "Benedict Evans-产业分析师",
+        "url": "https://www.ben-evans.com/newsletter"
+    },{
+        "tags": "site github",
+        "title": "readworld-The mother of all demo apps",
+        "url": "https://github.com/gothinkster/realworld"
+    },{
+        "tags": "site github",
+        "title": "build-your-own-x",
+        "url": "https://github.com/danistefanovic/build-your-own-x"
+    },{
+        "tags": "site dev cheatsheet",
+        "title": "k8s资源文档",
+        "url": "https://manifests.io/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
