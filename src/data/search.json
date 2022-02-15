@@ -355,7 +355,16 @@
                 {
                     "title": "CVE",
                     "url": "https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=${query}"
+                },
+                {
+                    "title": "tldr_",
+                    "url": "https://tldr.ostera.io/${query}"
+                },
+                {
+                    "title": "cheat.sh",
+                    "url": "https://cheat.sh/${query}"
                 }
+
             ]
         },
         {
