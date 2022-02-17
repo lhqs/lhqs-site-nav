@@ -304,7 +304,7 @@
         "title": "Beautiful hand-crafted SVG icons",
         "url": "https://heroicons.com/"
     },{
-        "tags": "site book doc",
+        "tags": "site book doc 次高频",
         "title": "书栈网",
         "url": "https://www.bookstack.cn/"
     },{
@@ -1897,7 +1897,7 @@
         "title": "互联网档案馆",
         "url": "https://archive.org/"
     },{
-        "tags": "site tech",
+        "tags": "site tech dev cheatsheet",
         "title": "GeeksforGeeks",
         "url": "https://www.geeksforgeeks.org/"
     },{
@@ -4117,25 +4117,25 @@
         "title": "DZone",
         "url": "https://dzone.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site dev cheatsheet",
+        "title": "Java2S",
+        "url": "http://www.java2s.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech",
+        "title": "灰狐",
+        "url": "https://huihoo.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "老蛮数据吐槽中心",
+        "url": "https://www.laoman.cc/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site website 未分类",
+        "title": "连线 - 最新的技术、科学、文化和商业",
+        "url": "https://www.wired.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech dev cheatsheet",
+        "title": "JavaTpoint",
+        "url": "https://www.javatpoint.com/"
     },{
         "tags": "site",
         "title": "",
