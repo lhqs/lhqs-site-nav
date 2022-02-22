@@ -500,11 +500,11 @@
         "title": "telegram 中文搜索",
         "url": "http://www.sssoou.com/"
     },{
-        "tags": "site bookmark",
+        "tags": "site bookmark list",
         "title": "书签地球",
         "url": "https://www.bookmarkearth.com/"
     },{
-        "tags": "site bookmark",
+        "tags": "site bookmark list",
         "title": "良心到难以置信的网站推荐",
         "url": "https://xiangjianan.gitee.io/lks/"
     },{
@@ -4153,13 +4153,13 @@
         "title": "iteye",
         "url": "https://www.iteye.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tools",
+        "title": "wolframalpha",
+        "url": "https://www.wolframalpha.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 导航 有趣 list",
+        "title": "网站推荐-LKs",
+        "url": "https://xiangjianan.gitee.io/lks/"
     },{
         "tags": "site",
         "title": "",
