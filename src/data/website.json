@@ -1893,7 +1893,7 @@
         "title": "前端精读周刊",
         "url": "https://github.com/ascoders/weekly"
     },{
-        "tags": "site",
+        "tags": "site special",
         "title": "互联网档案馆",
         "url": "https://archive.org/"
     },{
@@ -3645,7 +3645,7 @@
         "title": "9TO5Mac",
         "url": "https://9to5mac.com/"
     },{
-        "tags": "site blog special",
+        "tags": "site blog special 次高频",
         "title": "Paul Graham is a programmer, writer, and investor",
         "url": "http://paulgraham.com/index.html"
     },{
@@ -4105,7 +4105,7 @@
         "title": "steam db",
         "url": "https://steamdb.info/"
     },{
-        "tags": "site tech dev code",
+        "tags": "site tech dev code todo cheatsheet",
         "title": "Mkyong.com-Java8~17",
         "url": "https://mkyong.com/"
     },{
@@ -4196,6 +4196,110 @@
         "tags": "site newsletter",
         "title": "User Ecperience Database",
         "url": "https://www.uxdatabase.io/newsletter"
+    },{
+        "tags": "site UX design product",
+        "title": "User Ecperience Database - product-databas",
+        "url": "https://www.uxdatabase.io/product-database"
+    },{
+        "tags": "site dev github",
+        "title": "animate.css",
+        "url": "https://animate.style/"
+    },{
+        "tags": "site AI newsletter",
+        "title": "Top 25 AI Newsletters ",
+        "url": "https://aiartists.org/ai-newsletters"
+    },{
+        "tags": "site AI",
+        "title": "AIArtists.org",
+        "url": "https://aiartists.org/artists"
+    },{
+        "tags": "site AI weekly",
+        "title": "Synced-AI Technology & Industry Review",
+        "url": "https://syncedreview.com/tag/ai-weekly/"
+    },{
+        "tags": "site ebook",
+        "title": "FREE PDF, EPUB, AND KINDLE EBOOKS",
+        "url": "https://www.globalgreyebooks.com/index.html?"
+    },{
+        "tags": "site tech news",
+        "title": "IEEE Spectrum",
+        "url": "https://spectrum.ieee.org/"
+    },{
+        "tags": "site blog",
+        "title": "johnnyrodgers 设计和制造技术",
+        "url": "https://johnnyrodgers.is/"
+    },{
+        "tags": "site tech",
+        "title": "Scientific Reports",
+        "url": "https://www.nature.com/srep/"
+    },{
+        "tags": "site newsletter weekly",
+        "title": "酷玩周刊",
+        "url": "https://www.getrevue.co/profile/coldplay-weekly"
+    },{
+        "tags": "site blog",
+        "title": "Hofer的博客",
+        "url": "http://delia.love/"
+    },{
+        "tags": "site github tech",
+        "title": "the-book-of-secret-knowledge",
+        "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+    },{
+        "tags": "site github tech",
+        "title": "how-to-secure-anything",
+        "url": "https://github.com/veeral-patel/how-to-secure-anything"
+    },{
+        "tags": "site ebook",
+        "title": "三秋书屋",
+        "url": "https://www.sanqiu.cc"
+    },{
+        "tags": "site ebook yuque",
+        "title": "纳瓦尔宝典：财富和幸福指南",
+        "url": "https://www.yuque.com/qingmiyang/naval"
+    },{
+        "tags": "site notion",
+        "title": "哔哔News数据分析图表(web3,DAO,DEX)",
+        "url": "https://bitalknews.notion.site/bitalknews/News-c0895c29a142426b8311768b5ee0e525"
+    },{
+        "tags": "site 导航",
+        "title": "柴都导航",
+        "url": "https://www.chaidu.com"
+    },{
+        "tags": "site 导航",
+        "title": "西瓜导航",
+        "url": "https://nav.hzwdd.cn"
+    },{
+        "tags": "site 导航",
+        "title": "不求人导航(多媒体)",
+        "url": "https://video.bqrdh.com"
+    },{
+        "tags": "site 导航",
+        "title": "24k导航",
+        "url": "https://www.24kdh.com"
+    },{
+        "tags": "site 运营",
+        "title": "运营猫",
+        "url": "https://www.yymiao.cn"
+    },{
+        "tags": "site 导航",
+        "title": "国外网站推荐",
+        "url": "https://www.egouz.com"
+    },{
+        "tags": "site tech github",
+        "title": "阿里云数据库内核月报分类整理",
+        "url": "https://github.com/tangwz/db-monthly"
+    },{
+        "tags": "site weekly",
+        "title": "产品变现周刊",
+        "url": "https://www.ezindie.com/weekly"
+    },{
+        "tags": "site search",
+        "title": "搜索引擎大全",
+        "url": "http://www.sowang.com/link.htm"
+    },{
+        "tags": "site search",
+        "title": "Petal",
+        "url": "https://petalsearch.com"
     },{
         "tags": "site",
         "title": "",
