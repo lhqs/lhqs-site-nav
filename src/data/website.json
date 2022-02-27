@@ -208,7 +208,7 @@
         "title": "UX资料库",
         "url": "https://www.uxlib.net/"
     },{
-        "tags": "site github",
+        "tags": "site github 次高频",
         "title": "hello github",
         "url": "https://github.com/521xueweihan/HelloGitHub"
     },{
@@ -1861,7 +1861,7 @@
         "title": "WeStack 技术栈分享社区",
         "url": "https://westack.live"
     },{
-        "tags": "site tech dev",
+        "tags": "site tech dev up todo",
         "title": "Rapid API",
         "url": "https://rapidapi.com/hub"
     },{
@@ -4301,29 +4301,61 @@
         "title": "Petal",
         "url": "https://petalsearch.com"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site product",
+        "title": "产品经理社区",
+        "url": "https://www.pmtalk.club/#/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site rss list 高频",
+        "title": "FreshRSS自托管的 RSS 聚合服务",
+        "url": "https://box.othing.xyz/i/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site notion",
+        "title": "Mirror相关",
+        "url": "https://zlexdl.notion.site/zlexdl/f4aa875aa7be4ccca3918a783c499959"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site notion weekly",
+        "title": "一飞周报",
+        "url": "https://www.notion.so/harryyifei/Harry-s-Home-7d3192d988a8444eb7cdb0933598157d"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github",
+        "title": "Save The Web 备份",
+        "url": "https://github.com/saveweb"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github awesome",
+        "title": "Awesome stuff for Obsidian",
+        "url": "https://github.com/kmaasrud/awesome-obsidian"
+    },{
+        "tags": "site life",
+        "title": "USANA-营养健康",
+        "url": "https://askthescientists.com/zh-hans/"
+    },{
+        "tags": "site podcast",
+        "title": "三五环",
+        "url": "https://www.xiaoyuzhoufm.com/podcast/5e280fab418a84a0461faa3c"
+    },{
+        "tags": "site up tech code web dev",
+        "title": "Learn to Code HTML & CSS",
+        "url": "https://learn.shayhowe.com"
+    },{
+        "tags": "site up web dev",
+        "title": "The easiest way to  learn  &  practice  modern React",
+        "url": "https://react-tutorial.app"
+    },{
+        "tags": "site blog",
+        "title": "海岛心hey",
+        "url": "https://fehey.com"
+    },{
+        "tags": "site blog",
+        "title": "Astral Codex Ten",
+        "url": "https://astralcodexten.substack.com/"
+    }{
+        "tags": "site 榜单",
+        "title": "binge 流媒体榜单",
+        "url": "https://binge.co"
+    },{
+        "tags": "site 次高频",
+        "title": "quickbooks - Make Commerce Easy",
+        "url": "https://support.tradegecko.com/hc/en-us"
     },{
         "tags": "site",
         "title": "",
