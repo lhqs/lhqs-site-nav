@@ -1221,7 +1221,7 @@
         "title": "newsletter-list",
         "url": "https://github.com/chasays/newsletter-list"
     },{
-        "tags": "site tech dev",
+        "tags": "site tech dev up todo",
         "title": "School of SRE",
         "url": "https://linkedin.github.io/school-of-sre/"
     },{
@@ -1381,7 +1381,7 @@
         "title": "体验文案｜UX语义设计指南",
         "url": "https://www.yuque.com/docs/share/fbe88057-536e-482e-85ab-c0e618cef330"
     },{
-        "tags": "site blog tech-blog",
+        "tags": "site blog tech-blog weekly newsletter 次高频",
         "title": "GeekPlux",
         "url": "https://geekplux.com/"
     },{
@@ -2425,9 +2425,13 @@
         "title": "Your Statck",
         "url": "https://yourstack.com/"
     },{
-        "tags": "site github 有趣 tools 发现",
+        "tags": "site github 有趣 tools 发现 product",
         "title": "reddit selfhosted",
         "url": "https://www.reddit.com/r/selfhosted/"
+    },{
+        "tags": "site github 有趣 tools 发现",
+        "title": "Open Source Apps",
+        "url": "https://www.pikapods.com/apps"
     },{
         "tags": "site 创业 cheatsheet 发现",
         "title": "StartupBase",
@@ -4356,6 +4360,150 @@
         "tags": "site 次高频",
         "title": "quickbooks - Make Commerce Easy",
         "url": "https://support.tradegecko.com/hc/en-us"
+    },{
+        "tags": "site community",
+        "title": "indienova 独立游戏",
+        "url": "https://indienova.com"
+    },{
+        "tags": "site community",
+        "title": "indie club创作社",
+        "url": "https://creator.indieclub.net/"
+    },{
+        "tags": "site github product",
+        "title": "alternative-front-ends",
+        "url": "https://github.com/mendel5/alternative-front-ends"
+    },{
+        "tags": "site tech-blog",
+        "title": "openresty blog",
+        "url": "https://blog.openresty.com.cn/cn/"
+    },{
+        "tags": "site weekly todo",
+        "title": "增长黑客周刊",
+        "url": "https://github.com/xdash/GHacker_Newsletter"
+    },{
+        "tags": "site blog",
+        "title": "王建硕",
+        "url": "http://home.wangjianshuo.com/cn/"
+    },{
+        "tags": "site blog",
+        "title": "思行者的星球",
+        "url": "https://note-star.cn"
+    },{
+        "tags": "site forum",
+        "title": "obsidian中文论坛",
+        "url": "https://forum-zh.obsidian.md"
+    },{
+        "tags": "site github",
+        "title": "readworld",
+        "url": "https://github.com/gothinkster/realworld"
+    },{
+        "tags": "site github 有趣",
+        "title": "单个 HTML 页面的挑战",
+        "url": "https://github.com/Metroxe/one-html-page-challenge"
+    },{
+        "tags": "site tech-blog",
+        "title": "陈少文的网站",
+        "url": "https://www.chenshaowen.com"
+    },{
+        "tags": "site tech dev",
+        "title": "Software Developer To Software Architect",
+        "url": "https://developertoarchitect.com"
+    },{
+        "tags": "site osint",
+        "title": "We are OSINTCurio.us",
+        "url": "https://osintcurio.us/"
+    },{
+        "tags": "site github osint",
+        "title": "spiderfoot-自动收集和分析 OSINT 以进行攻击面管理和威胁情报",
+        "url": "https://github.com/smicallef/spiderfoot"
+    },{
+        "tags": "site wiki",
+        "title": "Dawei Ma's Wiki",
+        "url": "https://wiki.bmpi.dev"
+    },{
+        "tags": "site notion",
+        "title": "citadel-内容收集",
+        "url": "https://www.notion.so/4900d9878d7c4c3c974c46433d7d71a1?v=1d50c05a70144fbbaad2d62438da336e"
+    },{
+        "tags": "site weekly web",
+        "title": "css-weekly",
+        "url": "https://css-weekly.com"
+    },{
+        "tags": "site weekly newsletter",
+        "title": "Sidebar-关于设计的连接",
+        "url": "https://sidebar.io"
+    },{
+        "tags": "site weekly newsletter",
+        "title": "Codrops - 关于网页设计和 Web 开发社区",
+        "url": "https://tympanus.net/codrops/"
+    },{
+        "tags": "site blog",
+        "title": "Joshua M. Brown财务顾问",
+        "url": "https://thereformedbroker.com/"
+    },{
+        "tags": "site github",
+        "title": "project-based-learning",
+        "url": "https://github.com/practical-tutorials/project-based-learning"
+    },{
+        "tags": "site github",
+        "title": "python-mini-projects",
+        "url": "https://github.com/Python-World/python-mini-projects"
+    },{
+        "tags": "site github",
+        "title": "The Algorithms",
+        "url": "https://github.com/TheAlgorithms"
+    },{
+        "tags": "site github todo",
+        "title": "db-tutorial-数据库教程",
+        "url": "https://github.com/dunwu/db-tutorial"
+    },{
+        "tags": "site tech",
+        "title": "Microsoft Azure 架构",
+        "url": "https://docs.microsoft.com/zh-cn/azure/architecture/framework/"
+    },{
+        "tags": "site github tech dev",
+        "title": "各种产品的生命周期",
+        "url": "https://endoflife.date/"
+    },{
+        "tags": "site code cheatsheet",
+        "title": "Rosetta Code 不同语言完成相同任务",
+        "url": "https://rosettacode.org/wiki/Rosetta_Code"
+    },{
+        "tags": "site 次高频",
+        "title": "不死鸟分享",
+        "url": "https://iao.su/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
