@@ -2801,7 +2801,7 @@
         "title": "Learn Swift",
         "url": "https://www.hackingwithswift.com/"
     },{
-        "tags": "site tech dev up",
+        "tags": "site tech dev up tools",
         "title": "正则表达式学习",
         "url": "https://regex101.com/"
     },{
@@ -3761,7 +3761,7 @@
         "title": "时空迷航",
         "url": "https://marvin.zhubai.love/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter todo",
         "title": "事不过三",
         "url": "https://via.zhubai.love/"
     },{
@@ -4501,9 +4501,65 @@
         "title": "how it tech design",
         "url": "https://www.howiteachdesign.com/00_introduction.php"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site todo doc",
+        "title": "how video works",
+        "url": "https://howvideo.works/"
+    },{
+        "tags": "site tech doc manual",
+        "title": "agentzh 的 Nginx 教程",
+        "url": "https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html"
+    },{
+        "tags": "site tech",
+        "title": "The Architecture of Open Source Applications ",
+        "url": "https://www.kawabangga.com/collection"
+    },{
+        "tags": "site blog special todo",
+        "title": "卡瓦邦噶",
+        "url": "https://www.kawabangga.com/wish"
+    },{
+        "tags": "site todo up tech",
+        "title": "RapidAPI Learn",
+        "url": "https://rapidapi.com/learn"
+    },{
+        "tags": "site tech up",
+        "title": "Build web3 apps",
+        "url": "https://thirdweb.com/"
+    },{
+        "tags": "site tech up",
+        "title": "Learn to Code Blockchain DApps By Building Simple Games",
+        "url": "https://cryptozombies.io/"
+    },{
+        "tags": "site special todo 次高频",
+        "title": "IVAYLO DURMONSKI - Sharpen Your Mind",
+        "url": "https://durmonski.com/"
+    },{
+        "tags": "site blog",
+        "title": "硬核小卒",
+        "url": "https://jacksonwuu.github.io/mkdocs_blog/"
+    },{
+        "tags": "site github blog todo",
+        "title": "硬核小卒blog",
+        "url": "https://github.com/jacksonwuu/blog"
+    },{
+        "tags": "site tech-blog todo",
+        "title": "程序员的喵",
+        "url": "https://catcoding.me/"
+    },{
+        "tags": "site github daily weekly",
+        "title": "github-trending-repos",
+        "url": "https://github.com/vitalets/github-trending-repos"
+    },{
+        "tags": "site weekly",
+        "title": "hackernews-weekly",
+        "url": "https://github.com/headllines/hackernews-weekly/issues"
+    },{
+        "tags": "site daily",
+        "title": "hackernews-daily",
+        "url": "https://github.com/headllines/hackernews-daily/issues"
+    },{
+        "tags": "site monthly",
+        "title": "hackernews-monthly",
+        "url": "https://github.com/headllines/hackernews-monthly/issues"
     },{
         "tags": "site",
         "title": "",
