@@ -3941,7 +3941,7 @@
         "title": "设计师的职场江湖",
         "url": "https://www.zcool.com.cn/collection/ZMzI3OTI4MzI="
     },{
-        "tags": "site 创业",
+        "tags": "site 创业 data",
         "title": "top startups",
         "url": "https://topstartups.io/"
     },{
@@ -4572,6 +4572,46 @@
         "tags": "site dev tools",
         "title": "postman",
         "url": "https://web.postman.co/"
+    },{
+        "tags": "site github web",
+        "title": "Mini projects built with HTML5, CSS & JavaScript",
+        "url": "https://github.com/bradtraversy/vanillawebprojects"
+    },{
+        "tags": "site github",
+        "title": "Java design partnerns",
+        "url": "https://github.com/iluwatar/java-design-patterns"
+    },{
+        "tags": "site github tech doc",
+        "title": "安全领域各公司PPT",
+        "url": "https://github.com/FeeiCN/Security-PPT"
+    },{
+        "tags": "site code search",
+        "title": "tabnine - search for code",
+        "url": "https://www.tabnine.com/code"
+    },{
+        "tags": "site tech dev newsletter",
+        "title": "DevOps Newsletters",
+        "url": "https://devopsnewsletters.com/"
+    },{
+        "tags": "site web tools",
+        "title": "JSON parser",
+        "url": "https://www.jsont.run/"
+    },{
+        "tags": "site rss 高频访问",
+        "title": "Feeddd - 免费 RSS 订阅源",
+        "url": "https://feeddd.org/feeds"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
