@@ -624,7 +624,7 @@
         "title": "dev.tube",
         "url": "https://dev.tube/"
     },{
-        "tags": "site blog tech github list",
+        "tags": "site blog tech github list 次高频",
         "title": "chinese-independent-blogs",
         "url": "https://github.com/timqian/chinese-independent-blogs"
     },{
@@ -4649,13 +4649,13 @@
         "title": "SRE Books",
         "url": "https://sre.google/books/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "superman",
+        "url": "https://blog.superhuman.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site web dev search",
+        "title": "MDN",
+        "url": "https://developer.mozilla.org/zh-CN/"
     },{
         "tags": "site",
         "title": "",
