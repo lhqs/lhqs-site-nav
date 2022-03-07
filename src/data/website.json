@@ -4449,11 +4449,11 @@
         "title": "python-mini-projects",
         "url": "https://github.com/Python-World/python-mini-projects"
     },{
-        "tags": "site github",
+        "tags": "site github dev manual",
         "title": "The Algorithms",
         "url": "https://github.com/TheAlgorithms"
     },{
-        "tags": "site github todo",
+        "tags": "site github todo manual",
         "title": "db-tutorial-数据库教程",
         "url": "https://github.com/dunwu/db-tutorial"
     },{
@@ -4616,6 +4616,94 @@
         "tags": "site design UX",
         "title": "倪爽设计",
         "url": "https://nishuang.net/"
+    },{
+        "tags": "site tech github dev web manual",
+        "title": "各种算法实现",
+        "url": "https://the-algorithms.com"
+    },{
+        "tags": "site manual tech dev github",
+        "title": "Linux系统操作手册",
+        "url": "https://github.com/abarrak/linux-sysops-handbook"
+    },{
+        "tags": "site tech handbook manual github",
+        "title": "Tech Interview Handbook",
+        "url": "https://www.techinterviewhandbook.org"
+    },{
+        "tags": "site newsletter",
+        "title": "粼粼 Twinkle",
+        "url": "https://zhiy.cc/twinkle"
+    },{
+        "tags": "site list github web",
+        "title": "Site Generators",
+        "url": "https://jamstack.org/generators/"
+    },{
+        "tags": "site tech manual github todo",
+        "title": "CSS教程",
+        "url": "https://github.com/pengfeiw/css-tutorial"
+    },{
+        "tags": "site manual github todo",
+        "title": "站点可靠性工作手册 中文版",
+        "url": "https://github.com/redbearder/The-Site-Reliability-Workbook-CHS"
+    },{
+        "tags": "site manual ebook",
+        "title": "SRE Books",
+        "url": "https://sre.google/books/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
