@@ -2585,7 +2585,7 @@
         "title": "Sam",
         "url": "https://blog.samaltman.com/"
     },{
-        "tags": "site notion list 高频访问",
+        "tags": "site notion list 高频访问 todo",
         "title": "notion-sites",
         "url": "https://github.com/madawei2699/notion-sites"
     },{
@@ -4653,21 +4653,21 @@
         "title": "superman",
         "url": "https://blog.superhuman.com/"
     },{
-        "tags": "site web dev search",
+        "tags": "site web dev search manual doc",
         "title": "MDN",
         "url": "https://developer.mozilla.org/zh-CN/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site news",
+        "title": "all sides",
+        "url": "https://www.allsides.com/unbiased-balanced-news"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site news 高频访问",
+        "title": "世界头条新闻",
+        "url": "https://just-bulletins.vercel.app"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site music",
+        "title": "songtaste 分享冷门音乐",
+        "url": "https://songtaste.cm/song/top"
     },{
         "tags": "site",
         "title": "",
