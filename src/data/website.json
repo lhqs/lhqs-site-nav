@@ -240,7 +240,7 @@
         "title": "阮一峰",
         "url": "https://www.ruanyifeng.com"
     },{
-        "tags": "site code",
+        "tags": "site code serach",
         "title": "codepen.io",
         "url": "https://codepen.io/trending"
     },{
@@ -964,10 +964,9 @@
         "title": "设计师网址导航",
         "url": "https://webstack.cc/en/index.html"
     },{
-        "tags": "site newsletter list 导航",
+        "tags": "site newsletter list 导航 高频访问",
         "title": "博客简报导航",
         "url": "https://www.podletter.club"
-
     },{
         "tags": "site newsletter weekly",
         "title": "海上星光",
@@ -1941,7 +1940,7 @@
         "title": "信息源 分类整理 合集",
         "url": "https://scarsu.notion.site/b4ea0fb5a9ad4131b031205a8d2929f2"
     },{
-        "tags": "site book manual dev tech",
+        "tags": "site book manual dev tech cheatsheet",
         "title": "Programming Notes for Professionals books",
         "url": "https://goalkicker.com/"
     },{
@@ -2205,7 +2204,7 @@
         "title": "curl everything",
         "url": "https://everything.curl.dev/"
     },{
-        "tags": "site dev github",
+        "tags": "site dev github design",
         "title": "design-resources-for-developers",
         "url": "https://github.com/bradtraversy/design-resources-for-developers"
     },{
@@ -2417,7 +2416,7 @@
         "title": "weibo",
         "url": "https://weibo.com"
     },{
-        "tags": "site manual dev",
+        "tags": "site manual dev handbook",
         "title": "Kubernetes Handbook",
         "url": "https://jimmysong.io/kubernetes-handbook/"
     },{
@@ -4688,6 +4687,94 @@
         "tags": "site notion 创业",
         "title": "2021.11-2022.2 GameFi融资事件汇总",
         "url": "https://platinum-jasper-37b.notion.site/15e21a16a0a145f5a47bbe164d71998f?v=d77c75a671a44a699ae61dba4acd9b85"
+    },{
+        "tags": "site notion 创业",
+        "title": "AR/VR 项目",
+        "url": "https://platinum-jasper-37b.notion.site/AR-VR-975010556a8d45f6951df7019db2b803"
+    },{
+        "tags": "site 导航",
+        "title": "数字移民导航",
+        "url": "https://shuziyimin.org"
+    },{
+        "tags": "site notion",
+        "title": "A16Z 投资项目 2021年",
+        "url": "https://three-recorder-52a.notion.site/A16Z-2021-12-14-75484ede1e734b6c8980b3821b8a7ca1"
+    },{
+        "tags": "site dev book",
+        "title": "Eloquent JavaScript",
+        "url": "https://eloquentjavascript.net/"
+    },{
+        "tags": "site book",
+        "title": "JavaScript (ES2015+) ",
+        "url": "https://frontendmasters.com/guides/javascript-enlightenment/"
+    },{
+        "tags": "site newsletter",
+        "title": "新闻实验室",
+        "url": "https://www.getrevue.co/profile/newslab"
+    },{
+        "tags": "site blog",
+        "title": "炜晨blog",
+        "url": "https://weichen.blog/"
+    },{
+        "tags": "site github todo",
+        "title": "xdite",
+        "url": "https://github.com/xdite"
+    },{
+        "tags": "site book",
+        "title": "Z-Library - 全球最大的数字图书馆",
+        "url": "https://zh.au1lib.org/"
+    },{
+        "tags": "site book",
+        "title": "lorefree",
+        "url": "https://ebook2.lorefree.com"
+    },{
+        "tags": "site",
+        "title": "Roam 漫游研究所",
+        "url": "https://jimmylv.substack.com/"
+    },{
+        "tags": "site tech list",
+        "title": "apache",
+        "url": "https://apache.org/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
