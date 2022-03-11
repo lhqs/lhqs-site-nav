@@ -2472,7 +2472,7 @@
         "title": "reddit SideProject",
         "url": "https://www.reddit.com/r/SideProject/"
     },{
-        "tags": "site tech news 发现",
+        "tags": "site tech news 发现 高频访问",
         "title": "独立黑客",
         "url": "https://www.indiehackers.com/"
     },{
@@ -4744,25 +4744,25 @@
         "title": "remote work",
         "url": "https://www.yuque.com/greatghoul/remote"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "SEO Newsletter",
+        "url": "https://rankmakers.net/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github",
+        "title": "tech-interview-handbook",
+        "url": "https://github.com/yangshun/tech-interview-handbook"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site dev github handbook",
+        "title": "developer-handbook",
+        "url": "https://github.com/apptension/developer-handbook"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github",
+        "title": "Simplest possible examples of HTML, CSS and Javascript",
+        "url": "https://github.com/samdutton/simpl"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site weekly newsletter",
+        "title": "DecoHack周刊",
+        "url": "https://decohack.zhubai.love/"
     },{
         "tags": "site",
         "title": "",
