@@ -4648,7 +4648,7 @@
         "title": "SRE Books",
         "url": "https://sre.google/books/"
     },{
-        "tags": "site blog",
+        "tags": "site blog 创业 guide",
         "title": "superman",
         "url": "https://blog.superhuman.com/"
     },{
@@ -4791,6 +4791,314 @@
         "tags": "site github awesome",
         "title": "remote job",
         "url": "https://github.com/lukasz-madon/awesome-remote-job"
+    },{
+        "tags": "site guide",
+        "title": "emote-work",
+        "url": "https://www.groovehq.com/blog/remote-work"
+    },{
+        "tags": "site github tech awesome",
+        "title": "awesome-roadmaps",
+        "url": "https://github.com/liuchong/awesome-roadmaps"
+    },{
+        "tags": "site github tech awesome",
+        "title": "awesome-roadmaps-2",
+        "url": "https://github.com/orsanawwad/awesome-roadmaps"
+    },{
+        "tags": "site blog",
+        "title": "hiraku der",
+        "url": "https://hiraku.tw/"
+    },{
+        "tags": "site other",
+        "title": "中文笔会",
+        "url": "https://www.chinesepen.org/"
+    },{
+        "tags": "site newsletter",
+        "title": "对话练习",
+        "url": "https://dahan.zhubai.love/"
+    },{
+        "tags": "site tech-blog",
+        "title": "Darrien 的技术博客 ",
+        "url": "https://blog.darrien.dev/"
+    },{
+        "tags": "site github product",
+        "title": "Full Managed Services - 150+ Open Source Softwares",
+        "url": "https://elest.io/fully-managed-services"
+    },{
+        "tags": "site github",
+        "title": "clone-wars 100 多个流行网站的开源克隆",
+        "url": "https://github.com/GorvGoyl/Clone-Wars"
+    },{
+        "tags": "site github",
+        "title": "coding-interview-university",
+        "url": "https://github.com/jwasham/coding-interview-university"
+    },{
+        "tags": "site github",
+        "title": "Full reference of LinkedIn answers 2022 for skill assessments",
+        "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
+    },{
+        "tags": "site newsletter",
+        "title": "Platform Thinking +",
+        "url": "https://pt.plus/"
+    },{
+        "tags": "site newsletter",
+        "title": "Mindf*ck Monthly(Life Advice That Doesn't Suck)",
+        "url": "https://markmanson.net/newsletters"
+    },{
+        "tags": "site rss newsletter 高频访问",
+        "title": "RSS Source | RSS订阅源推荐",
+        "url": "https://issei.notion.site/issei/RSS-Source-RSS-1e1694d953ae4b529142b1128bfef084"
+    },{
+        "tags": "site newsletter",
+        "title": "Free Weekly Productivity Insights",
+        "url": "https://aliabdaal.com/newsletter/"
+    },{
+        "tags": "site 未分类",
+        "title": "thinkstack(tool for thought)",
+        "url": "https://thinkstack.club/"
+    },{
+        "tags": "site daily newsltter",
+        "title": "stratechery",
+        "url": "https://stratechery.com/"
+    },{
+        "tags": "site forum",
+        "title": "reddit(programming)",
+        "url": "https://www.reddit.com/r/programming/"
+    },{
+        "tags": "site newsletter",
+        "title": "生活奇旅",
+        "url": "https://weichen.zhubai.love/"
+    },{
+        "tags": "site wiki",
+        "title": "GeekPlux Wiki",
+        "url": "https://wiki.geekplux.com/#/page/GeekPlux%20Wiki"
+    },{
+        "tags": "site github awesome cheatsheet",
+        "title": "awesome-cheatsheets",
+        "url": "https://github.com/LeCoupa/awesome-cheatsheets"
+    },{
+        "tags": "site github awesome cheatsheet",
+        "title": "中文速查表",
+        "url": "https://github.com/skywind3000/awesome-cheatsheets"
+    },{
+        "tags": "site wiki book list 次高频",
+        "title": "知识体系",
+        "url": "https://ng-tech.icu/books/"
+    },{
+        "tags": "site tools github awesome",
+        "title": "awesome-toolbox-chinese",
+        "url": "https://github.com/bestxtools/awesome-toolbox-chinese"
+    },{
+        "tags": "site github weeky web dev",
+        "title": "前端精读周刊",
+        "url": "https://github.com/ascoders/weekly"
+    },{
+        "tags": "site newsletter 高频访问",
+        "title": "The 3-2-1 Newsletter",
+        "url": "https://jamesclear.com/3-2-1"
+    },{
+        "tags": "site guide handbook 创业",
+        "title": "thoughtbot playbook",
+        "url": "https://thoughtbot.com/playbook"
+    },{
+        "tags": "site blog good",
+        "title": "徐宥blog",
+        "url": "https://blog.youxu.info/"
+    },{
+        "tags": "site forum 次高频",
+        "title": "Matrix社区",
+        "url": "https://sspai.com/matrix"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
