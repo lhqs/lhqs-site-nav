@@ -4908,9 +4908,9 @@
         "title": "Matrix社区",
         "url": "https://sspai.com/matrix"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github tools",
+        "title": "命令行的艺术",
+        "url": "https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md"
     },{
         "tags": "site",
         "title": "",
