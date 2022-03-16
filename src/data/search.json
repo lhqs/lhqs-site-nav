@@ -9,7 +9,7 @@
                 },
                 {
                     "title": "必应",
-                    "url": "http://bing.com/search?q=${query}"
+                    "url": "https://www.bing.com/search?q=${query}"
                 },
                 {
                     "title": "DuckDuckGo",
