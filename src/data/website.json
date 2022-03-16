@@ -152,7 +152,7 @@
         "title": "Hotmail",
         "url": "https://outlook.live.com/mail/"
     },{
-        "tags": "site tool 次高频",
+        "tags": "site tools 次高频",
         "title": "MikuTools - 工具集合",
         "url": "https://tools.miku.ac/"
     },{
@@ -212,7 +212,7 @@
         "title": "hello github",
         "url": "https://github.com/521xueweihan/HelloGitHub"
     },{
-        "tags": "site tool tailwind",
+        "tags": "site tools tailwind",
         "title": "tailwind component",
         "url": " https://tailwindcomponents.com/ "
     },{
@@ -240,7 +240,7 @@
         "title": "阮一峰",
         "url": "https://www.ruanyifeng.com"
     },{
-        "tags": "site code serach",
+        "tags": "site code dev searach",
         "title": "codepen.io",
         "url": "https://codepen.io/trending"
     },{
@@ -296,11 +296,11 @@
         "title": "开发必备在线工具",
         "url": "https://tool.lu/"
     },{
-        "tags": "site tool web",
+        "tags": "site tools web",
         "title": "Iconfont 矢量图标库",
         "url": "https://www.iconfont.cn/"
     },{
-        "tags": "site tool web tailwind",
+        "tags": "site tools web tailwind",
         "title": "Beautiful hand-crafted SVG icons",
         "url": "https://heroicons.com/"
     },{
@@ -380,7 +380,7 @@
         "title": "创业邦",
         "url": "http://wwv.cyzone.cn/"
     },{
-        "tags": "site tool community",
+        "tags": "site tools community",
         "title": "利器",
         "url": "https://liqi.io/"
     },{
@@ -872,7 +872,11 @@
         "title": "daily.dev",
         "url": "https://app.daily.dev/"
     },{
-        "tags": "site yuque newsletter",
+        "tags": "site weekly 访问等级1",
+        "title": "科技爱好者周刊",
+        "url": "https://www.ruanyifeng.com/blog/weekly/"
+    },{
+        "tags": "site 访问等级2 yuque newsletter",
         "title": "🏰 城堡阅读周刊",
         "url": "https://www.yuque.com/gaohui-bdaa2/chengbao"
     },{
@@ -880,11 +884,7 @@
         "title": "纳瓦尔宝典：财富和幸福指南",
         "url": "https://www.yuque.com/qingmiyang/naval"
     },{
-        "tags": "site weekly",
-        "title": "科技爱好者周刊",
-        "url": "https://www.ruanyifeng.com/blog/weekly/"
-    },{
-        "tags": "site yuque weekly",
+        "tags": "site yuque weekly 访问等级1",
         "title": "体验碎周报",
         "url": "https://www.yuque.com/ftium4/gs2tgp"
     },{
@@ -992,7 +992,7 @@
         "title": "邮箱 📧 newsletter RSS 荟萃",
         "url": "https://github.com/alaskasquirrel/Email-newsletter-RSS"
     },{
-        "tags": "site newsletter list import 高频",
+        "tags": "site newsletter list import 高频访问",
         "title": "Hedwing",
         "url": "https://hedwig.pub"
     },{
@@ -1384,7 +1384,7 @@
         "title": "GeekPlux",
         "url": "https://geekplux.com/"
     },{
-        "tags": "site tool dev",
+        "tags": "site tools dev",
         "title": "CSS Layout Generator",
         "url": "https://layout.bradwoods.io"
     },{
@@ -1628,7 +1628,7 @@
         "title": "顾小北的B2C博客",
         "url": "http://www.guxiaobei.com/"
     },{
-        "tags": "site weisite community",
+        "tags": "site website community",
         "title": "米课圈",
         "url": "https://ask.imiker.com/"
     },{
@@ -2344,11 +2344,11 @@
         "title": "田间小站",
         "url": "https://www.tjxz.cc/"
     },{
-        "tags": "site tool mind",
+        "tags": "site tools mind",
         "title": "GetMind",
         "url": "https://gitmind.cn/app/template"
     },{
-        "tags": "site tool mind",
+        "tags": "site tools mind",
         "title": "XMind",
         "url": "https://www.xmind.net/share/"
     },{
@@ -2576,7 +2576,7 @@
         "title": "ben balter",
         "url": "https://ben.balter.com/"
     },{
-        "tags": "site notion blog",
+        "tags": "site notion blog 访问等级2",
         "title": "Joe 的折腾日记",
         "url": "https://www.notion.so/Joe-2a85f5be01004cd2b6a5ad26fbb948b1"
     },{
@@ -2624,7 +2624,7 @@
         "title": "play, explre and share",
         "url": "https://14islands.com/lab/"
     },{
-        "tags": "site UX designer",
+        "tags": "site UX design",
         "title": " UX designer 心理学/认知科学",
         "url": "https://growth.design/psychology"
     },{
@@ -2632,7 +2632,7 @@
         "title": "野鱼志",
         "url": "https://bobfu.zhubai.love/"
     },{
-        "tags": "site notion tool",
+        "tags": "site notion tools",
         "title": "万能福利吧",
         "url": "https://fuliba.notion.site/fuliba/b9f65669edc542c89d1e20e6c11bed99"
     },{
@@ -2716,11 +2716,11 @@
         "title": "The Vault - Nguyen's Design Resource stash(设计师收藏的关于设计的资源)",
         "url": "https://www.notion.so/newincreative/The-Vault-Nguyen-s-Design-Resource-stash-dd710673638a4c16a571574ff72d05f9"
     },{
-        "tags": "site web tool",
+        "tags": "site web tools",
         "title": "自动生成grid布局的HTML+CSS",
         "url": "https://grid.layoutit.com"
     },{
-        "tags": "site web tool",
+        "tags": "site web tools",
         "title": "Measure page quality",
         "url": "https://web.dev/measure/"
     },{
@@ -2740,7 +2740,7 @@
         "title": "小赖子的英国生活和资讯",
         "url": "https://justyy.com/"
     },{
-        "tags": "site tools",
+        "tags": "site toolss",
         "title": "渐变色样式",
         "url": "https://uigradients.com/"
     },{
@@ -2772,7 +2772,7 @@
         "title": "oh shint",
         "url": "https://ohshint.gitbook.io/oh-shint-its-a-blog/"
     },{
-        "tags": "site tech-blogs",
+        "tags": "site tech-blog",
         "title": "guoxudong devops 云原生",
         "url": "https://guoxudong.io/"
     },{
@@ -2916,7 +2916,7 @@
         "title": "陶辉的博客",
         "url": "https://russelltao.github.io/"
     },{
-        "tags": "site tool tech",
+        "tags": "site tools tech",
         "title": "Interactive learning tools",
         "url": "https://markodenic.com/interactive-learning-tools/"
     },{
@@ -3308,7 +3308,7 @@
         "title": "GitNews",
         "url": "https://git.news/"
     },{
-        "tags": "site 语雀 次高频",
+        "tags": "site yuque 次高频",
         "title": "爱可可老师分享",
         "url": "https://www.yuque.com/fly51fly/gvl1ma"
     },{
@@ -3840,7 +3840,7 @@
         "title": "语雀知识库推荐",
         "url": "https://www.yuque.com/jinrizuijia-beean/pczrgp/gunb58"
     },{
-        "tags": "site toos",
+        "tags": "site tools",
         "title": "Microsoft Math Solver",
         "url": "https://mathsolver.microsoft.com/zh"
     },{
@@ -3896,7 +3896,7 @@
         "title": "王垠的草稿本",
         "url": "https://yinwang1.wordpress.com/"
     },{
-        "tags": "site 导航 UX designer",
+        "tags": "site 导航 UX design",
         "title": "DEX导航",
         "url": "https://dexlist.page/"
     },{
@@ -4048,7 +4048,7 @@
         "title": "Five Books",
         "url": "https://fivebooks.com/"
     },{
-        "tags": "site newsletter list 高频",
+        "tags": "site newsletter list 高频访问",
         "title": "Find The Best Email Newsletters For Any Topic",
         "url": "https://inboxreads.co"
     },{
@@ -4080,7 +4080,7 @@
         "title": "所有收集类项目",
         "url": "https://github.com/alphaSeclab/awesome-security-collection"
     },{
-        "tags": "site 导航 UX designer",
+        "tags": "site 导航 UX design",
         "title": "niuki导航",
         "url": "https://niuki.kingwei.ltd/"
     },{
@@ -4112,7 +4112,7 @@
         "title": "Mkyong.com-Java8~17",
         "url": "https://mkyong.com/"
     },{
-        "tags": "site dev cheat sheet",
+        "tags": "site dev cheatsheet",
         "title": "Learn to Code",
         "url": "https://www.w3schools.com/default.asp"
     },{
@@ -4169,7 +4169,7 @@
         "url": "https://www.amz123.com/"
     },{
         "tags": "site search",
-        "title": "pro-serach",
+        "title": "pro-search",
         "url": "https://www.pro-search.io/"
     },{
         "tags": "site dev cheatsheet",
@@ -4189,7 +4189,7 @@
         "url": "https://www.uxdatabase.io/free-product-design-course"
     },{
         "tags": "site blog",
-        "title": "Koos Looijesteijn - User interface designer",
+        "title": "Koos Looijesteijn - User interface design",
         "url": "https://www.kooslooijesteijn.net/"
     },{
         "tags": "site list bookmark 导航 good 次高频",
@@ -4308,7 +4308,7 @@
         "title": "产品经理社区",
         "url": "https://www.pmtalk.club/#/"
     },{
-        "tags": "site rss list 高频",
+        "tags": "site rss list 高频访问",
         "title": "FreshRSS自托管的 RSS 聚合服务",
         "url": "https://box.othing.xyz/i/"
     },{
@@ -4888,7 +4888,7 @@
         "title": "awesome-toolbox-chinese",
         "url": "https://github.com/bestxtools/awesome-toolbox-chinese"
     },{
-        "tags": "site github weeky web dev",
+        "tags": "site github weekly web dev",
         "title": "前端精读周刊",
         "url": "https://github.com/ascoders/weekly"
     },{
@@ -4920,7 +4920,7 @@
         "title": "优质notion站点收录",
         "url": "https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/dstpb9Rg3iANvW7Cau/viwMtRRpRB2bt"
     },{
-        "tags": "site top news",
+        "tags": "site 榜单 news",
         "title": "seekr",
         "url": "https://beta.seekr.com/"
     },{
@@ -4956,33 +4956,33 @@
         "title": "TOOOLS.design",
         "url": "https://www.toools.design"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site notion todo code",
+        "title": "Leetcode图解题解集合",
+        "url": "https://suukii.notion.site/ca5e6d9d43704a9d82e44758636642d6?v=e7bdde0a51e9424fa96b876e78b03958"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 哲学",
+        "title": "PhilPapers",
+        "url": "https://philpapers.org/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site forum",
+        "title": "taptap",
+        "url": "https://www.taptap.com"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "buzhou.blog",
+        "url": "https://buzhou.typlog.io"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter 未分类",
+        "title": "substack",
+        "url": "https://on.substack.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site up youtube",
+        "title": "How To Make An App for Beginners 2021 / SwiftUI",
+        "url": "https://www.youtube.com/watch?v=yOYnXoFvmj4&list=PLMRqhzcHGw1YqPh-ggQHJPAUxdHov_uNJ"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site dev tools github",
+        "title": "Convert curl commands to programming languages",
+        "url": "https://curlconverter.com/"
     },{
         "tags": "site",
         "title": "",
