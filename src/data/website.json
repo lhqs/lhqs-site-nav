@@ -36,7 +36,7 @@
         "title": "新趣集",
         "url": "https://xinquji.com/"
     },{
-        "tags": "site search reading",
+        "tags": "site search read",
         "title": "得到",
         "url": "https://www.dedao.cn"
     },{
@@ -48,7 +48,7 @@
         "title": "Tools for better thinking",
         "url": "https://untools.co"
     },{
-        "tags": "site reading",
+        "tags": "site read",
         "title": "豆瓣阅读",
         "url": "https://read.douban.com/"
     },{
@@ -156,7 +156,7 @@
         "title": "MikuTools - 工具集合",
         "url": "https://tools.miku.ac/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "Topbook",
         "url": "https://topbook.cc/overview"
     },{
@@ -184,7 +184,7 @@
         "title": "极客时间",
         "url": "https://time.geekbang.org"
     },{
-        "tags": "site reading newsletter notion 导航 高频访问",
+        "tags": "site read newsletter notion 导航 高频访问",
         "title": "中文Newsletter导航",
         "url": "https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6"
     },{
@@ -240,7 +240,7 @@
         "title": "阮一峰",
         "url": "https://www.ruanyifeng.com"
     },{
-        "tags": "site code dev searach",
+        "tags": "site code dev search",
         "title": "codepen.io",
         "url": "https://codepen.io/trending"
     },{
@@ -256,15 +256,15 @@
         "title": "Java工程师进阶",
         "url": "https://doocs.gitee.io/advanced-java/#/"
     },{
-        "tags": "site osint tool",
+        "tags": "site osint tools",
         "title": "startme",
         "url": "https://www.osint-labs.org/tools/"
     },{
-        "tags": "site tech github tool",
+        "tags": "site tech github tools",
         "title": "hutool",
         "url": "https://hutool.cn/"
     },{
-        "tags": "site tech github tool",
+        "tags": "site tech github tools",
         "title": "Jodd",
         "url": "https://jodd.org/"
     },{
@@ -284,7 +284,7 @@
         "title": "CS-Notes",
         "url": "http://www.cyc2018.xyz/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "变量命名",
         "url": "https://github.com/unbug/codelf"
     },{
@@ -292,7 +292,7 @@
         "title": "JavaGuide",
         "url": "https://github.com/Snailclimb/JavaGuide"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "开发必备在线工具",
         "url": "https://tool.lu/"
     },{
@@ -388,7 +388,7 @@
         "title": "编程导航",
         "url": "https://www.code-nav.cn/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "奶牛快传",
         "url": "https://cowtransfer.com/"
     },{
@@ -436,7 +436,7 @@
         "title": "docker & kubernetes",
         "url": "https://blog.gurucomputing.com.au/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "web画图",
         "url": "https://excalidraw.com/"
     },{
@@ -596,7 +596,7 @@
         "title": "AlternativeTo",
         "url": "https://alternativeto.net/"
     },{
-        "tags": "site dev tool",
+        "tags": "site dev tools",
         "title": "NGINX-Config",
         "url": "https://www.digitalocean.com/community/tools/nginx"
     },{
@@ -809,7 +809,7 @@
         "url": "https://devdocs.io/"
     },{
         "tags": "site tech manual",
-        "title": "",
+        "title": "overapi",
         "url": "https://overapi.com/"
     },{
         "tags": "site tech manual code",
@@ -1332,7 +1332,7 @@
         "title": "chrome devtools",
         "url": "https://umaar.com/dev-tips/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "图像压缩Squoosh",
         "url": "https://squoosh.app/"
     },{
@@ -1452,7 +1452,7 @@
         "title": "Tonzhon",
         "url": "http://lite.tonzhon.com/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "万能命令",
         "url": "https://wannengrun.com/zh/"
     },{
@@ -1460,11 +1460,11 @@
         "title": "迷宫生成",
         "url": "https://www.mazegenerator.net/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "画图工具",
         "url": "https://www.autodraw.com/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "画图工具",
         "url": "https://kleki.com/"
     },{
@@ -1532,7 +1532,7 @@
         "title": "印象识堂",
         "url": "https://www.yinxiang.com/everhub/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "Knowledge Management Tools",
         "url": "http://www.knowledge-management-tools.net/"
     },{
@@ -2496,7 +2496,7 @@
         "title": "变更日志demo",
         "url": "https://www.changelogs.gallery/"
     },{
-        "tags": "site blog import good 次高频",
+        "tags": "site blog import good 次高频 访问等级2",
         "title": "brianlovin(good)",
         "url": "https://brianlovin.com/"
     },{
@@ -2536,7 +2536,7 @@
         "title": "RAID froums",
         "url": "https://raidforums.com/"
     },{
-        "tags": "site tool",
+        "tags": "site tools",
         "title": "Google管理员工具箱",
         "url": "https://toolbox.googleapps.com/apps/main/"
     },{
@@ -2740,7 +2740,7 @@
         "title": "小赖子的英国生活和资讯",
         "url": "https://justyy.com/"
     },{
-        "tags": "site toolss",
+        "tags": "site tools",
         "title": "渐变色样式",
         "url": "https://uigradients.com/"
     },{
@@ -2940,7 +2940,7 @@
         "title": "42 School CheatSheet",
         "url": "https://github.com/agavrel/42_CheatSheet"
     },{
-        "tags": "site github",
+        "tags": "site github idea",
         "title": "free api",
         "url": "https://github.com/fangzesheng/free-api"
     },{
@@ -3332,7 +3332,7 @@
         "title": "ECMAScript 6 入门",
         "url": "https://es6.ruanyifeng.com/"
     },{
-        "tags": "site dev",
+        "tags": "site dev idea",
         "title": "public api",
         "url": "https://www.m3o.com/"
     },{
@@ -4924,7 +4924,7 @@
         "title": "seekr",
         "url": "https://beta.seekr.com/"
     },{
-        "tags": "site github",
+        "tags": "site github idea",
         "title": "public-apis",
         "url": "https://github.com/public-apis/public-apis"
     },{
@@ -5016,21 +5016,21 @@
         "title": "startage",
         "url": "https://startpage.com"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 导航 tools",
+        "title": "加密军火库 - 专业的区块链工具导航网站",
+        "url": "https://imtoken.xyz/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site dev tools",
+        "title": "iHateRegex",
+        "url": "https://ihateregex.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 未分类",
+        "title": "Color Sun 书摘",
+        "url": "https://coloradosun.com/category/sunlit/book-excerpts/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github",
+        "title": "SecLists",
+        "url": "https://github.com/danielmiessler/SecLists"
     },{
         "tags": "site",
         "title": "",
