@@ -468,7 +468,7 @@
         "title": "资源众筹",
         "url": "http://001.staragain168.com/"
     },{
-        "tags": "site wiki",
+        "tags": "site wiki 访问等级1",
         "title": "Everything I know",
         "url": "https://wiki.nikitavoloboev.xyz/"
     },{
@@ -4292,7 +4292,7 @@
         "title": "阿里云数据库内核月报分类整理",
         "url": "https://github.com/tangwz/db-monthly"
     },{
-        "tags": "site weekly",
+        "tags": "site weekly product 访问等级1",
         "title": "产品变现周刊",
         "url": "https://www.ezindie.com/weekly"
     },{
@@ -4512,7 +4512,7 @@
         "title": "The Architecture of Open Source Applications ",
         "url": "https://www.kawabangga.com/collection"
     },{
-        "tags": "site blog special todo",
+        "tags": "site blog special todo 访问等级2",
         "title": "卡瓦邦噶",
         "url": "https://www.kawabangga.com/wish"
     },{
@@ -4884,7 +4884,7 @@
         "title": "知识体系",
         "url": "https://ng-tech.icu/books/"
     },{
-        "tags": "site tools github awesome",
+        "tags": "site tools github awesome list",
         "title": "awesome-toolbox-chinese",
         "url": "https://github.com/bestxtools/awesome-toolbox-chinese"
     },{
@@ -5059,6 +5059,62 @@
         "tags": "site emoji search",
         "title": "EMOJI中文网",
         "url": "https://www.emojiall.com/"
+    },{
+        "tags": "site tech dev list 高频访问 forum",
+        "title": "Lobsters",
+        "url": "https://lobste.rs/active"
+    },{
+        "tags": "site weekly newsletter",
+        "title": "thepodluckclub",
+        "url": "https://thepodluckclub.com/weekly/"
+    },{
+        "tags": "site blog search",
+        "title": "Qualiticle",
+        "url": "https://q.krytro.com/"
+    },{
+        "tags": "site tech-blog good tech list 访问等级1",
+        "title": "聚客盒 - 聚合程序员博客的宝盒",
+        "url": "https://jukebox.pipecraft.net/"
+    },{
+        "tags": "site 未分类",
+        "title": "mailchimp",
+        "url": "https://mailchimp.com/"
+    },{
+        "tags": "site idea 发现 创业",
+        "title": "Discover Exploding Topics",
+        "url": "https://explodingtopics.com/"
+    },{
+        "tags": "site 博客 music",
+        "title": "SaoFM",
+        "url": "https://sao.fm/"
+    },{
+        "tags": "site tools idea",
+        "title": "工具集",
+        "url": "https://www.ezindie.com/tool"
+    },{
+        "tags": "site 创业",
+        "title": "Submit.co - 获取初创公司的新闻报道",
+        "url": "https://submit.co/"
+    },{
+        "tags": "site tech-blog",
+        "title": "1996blog",
+        "url": "https://199604.com/archives"
+    },{
+        "tags": "site UX design",
+        "title": "52设计法则",
+        "url": "https://rpdc.xiaohongshu.com/52-design-principles"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
