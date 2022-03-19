@@ -408,7 +408,7 @@
         "title": "system-design-primer",
         "url": "https://github.com/donnemartin/system-design-primer"
     },{
-        "tags": "site github awesome",
+        "tags": "site github awesome list",
         "title": "github awesome",
         "url": "https://github.com/sindresorhus/awesome"
     },{
@@ -468,7 +468,7 @@
         "title": "资源众筹",
         "url": "http://001.staragain168.com/"
     },{
-        "tags": "site wiki 访问等级1",
+        "tags": "site wiki up 访问等级1 todo",
         "title": "Everything I know",
         "url": "https://wiki.nikitavoloboev.xyz/"
     },{
@@ -668,7 +668,7 @@
         "title": "大数据导航",
         "url": "http://hao.199it.com/"
     },{
-        "tags": "site news community 发现",
+        "tags": "site news community 发现 访问等级1 高频访问",
         "title": "Hacker News",
         "url": "https://news.ycombinator.com/"
     },{
@@ -840,7 +840,7 @@
         "title": "remote tools",
         "url": "https://www.remote.tools/"
     },{
-        "tags": "site html-list",
+        "tags": "site html-list todo",
         "title": "wiki-workflow",
         "url": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow"
     },{
@@ -2900,7 +2900,7 @@
         "title": "Go语言101",
         "url": "https://gfw.go101.org/article/101.html"
     },{
-        "tags": "site github awesome",
+        "tags": "site github awesome list",
         "title": "Awesome Awesomeness",
         "url": "https://github.com/bayandin/awesome-awesomeness"
     },{
@@ -5060,7 +5060,7 @@
         "title": "EMOJI中文网",
         "url": "https://www.emojiall.com/"
     },{
-        "tags": "site tech dev list 高频访问 forum",
+        "tags": "site tech dev list 高频访问 访问等级1 forum",
         "title": "Lobsters",
         "url": "https://lobste.rs/active"
     },{
@@ -5112,37 +5112,37 @@
         "title": "网络安全从业者的知识文库",
         "url": "https://github.com/PeiQi0/PeiQi-WIKI-Book"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site notion",
+        "title": "懒人碎碎念",
+        "url": "https://bittersweet-shake-f18.notion.site/4478b24e96664514b96798c5e0be722f"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 导航 search",
+        "title": "WDZHP 资源导航搜索",
+        "url": "https://upanso.com/search"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site good import blog",
+        "title": "Nikita Voloboev",
+        "url": "https://nikitavoloboev.xyz/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "Nikita Voloboev's Look Backs",
+        "url": "https://buttondown.email/nikitavoloboev/archive/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github awesome list 访问等级1",
+        "title": "lists",
+        "url": "https://github.com/jnv/lists"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site awesome github blog 访问等级2",
+        "title": "blogs",
+        "url": "https://github.com/learn-anything/blogs"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech github awesome todo",
+        "title": "后端架构师技术图谱",
+        "url": "https://github.com/xingshaocheng/architect-awesome"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github list awesome",
+        "title": "curated-lists",
+        "url": "https://github.com/learn-anything/curated-lists"
     },{
         "tags": "site",
         "title": "",
