@@ -968,7 +968,7 @@
         "title": "博客简报导航",
         "url": "https://www.podletter.club"
     },{
-        "tags": "site newsletter weekly",
+        "tags": "site newsletter weekly product",
         "title": "海上星光",
         "url": "https://hsxg.ghost.io/"
     },{
@@ -2888,7 +2888,7 @@
         "title": "吾爱地理",
         "url": "https://www.52geo.cn"
     },{
-        "tags": "site book tech",
+        "tags": "site book tech todo",
         "title": "系统设计面试指南",
         "url": "https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit"
     },{
@@ -3652,7 +3652,7 @@
         "title": "Paul Graham is a programmer, writer, and investor",
         "url": "http://paulgraham.com/index.html"
     },{
-        "tags": "site dev github list",
+        "tags": "site dev github list product",
         "title": "中国独立 iOS 和 macOS 开发者图鉴",
         "url": "https://josephchang10.github.io/chinese-indie-hackers/"
     },{
@@ -5196,17 +5196,37 @@
         "title": "Go语言爱好者周刊",
         "url": "https://github.com/polaris1119/golangweekly"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site weekly github",
+        "title": "生信爱好者周刊",
+        "url": "https://github.com/ShixiangWang/weekly"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github weekly",
+        "title": "GitHub中文社区 weekly",
+        "url": "https://www.githubs.cn/trends/weekly"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github AI",
+        "title": "人像卡通化探索项目",
+        "url": "https://github.com/minivision-ai/photo2cartoon"
+    },{
+        "tags": "site github list 高频访问",
+        "title": "小报童专栏列表",
+        "url": "https://github.com/qianguyihao/xiaobot-list"
+    },{
+        "tags": "site product",
+        "title": "App安利社",
+        "url": "https://web.okjike.com/topic/564c2ce508987312006e2326"
+    },{
+        "tags": "site product",
+        "title": "mergeek",
+        "url": "https://mergeek.com/"
+    },{
+        "tags": "site product 访问等级1",
+        "title": "产品沉思录（精选） ProductThinking",
+        "url": "https://index.pmthinking.com/"
+    },{
+        "tags": "site newsletter design UX",
+        "title": "Things About Design",
+        "url": "https://design.zhubai.love/"
     },{
         "tags": "site",
         "title": "",
