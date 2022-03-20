@@ -640,7 +640,7 @@
         "title": "open-source libs",
         "url": "https://opensourcelibs.com/"
     },{
-        "tags": "site github",
+        "tags": "site github list 高频访问",
         "title": "LibHunt",
         "url": "https://www.libhunt.com/"
     },{
@@ -4972,6 +4972,10 @@
         "title": "buzhou.blog",
         "url": "https://buzhou.typlog.io"
     },{
+        "tags": "site blog",
+        "title": "松烟阁",
+        "url": "https://www.edony.ink/"
+    },{
         "tags": "site newsletter 未分类",
         "title": "substack",
         "url": "https://on.substack.com/"
@@ -5143,6 +5147,82 @@
         "tags": "site github list awesome",
         "title": "curated-lists",
         "url": "https://github.com/learn-anything/curated-lists"
+    },{
+        "tags": "site github todo",
+        "title": "Clean-Code-Notes",
+        "url": "https://github.com/JuanCrg90/Clean-Code-Notes"
+    },{
+        "tags": "site tech-blog",
+        "title": "极客分享",
+        "url": "https://jike.xyz/"
+    },{
+        "tags": "site doc manual todo",
+        "title": "设计数据密集型应用 - 中文翻译",
+        "url": "https://vonng.gitbooks.io/ddia-cn/content/"
+    },{
+        "tags": "site blog 阅读等级3",
+        "title": "李雪含",
+        "url": "https://dajiayouxuan.com/"
+    },{
+        "tags": "site other",
+        "title": "XY 问题",
+        "url": "https://xyproblem.info/"
+    },{
+        "tags": "site github AI",
+        "title": "相片变肖像画 U^2-Net",
+        "url": "https://github.com/xuebinqin/U-2-Net"
+    },{
+        "tags": "site github AI",
+        "title": "PyTorch Implementation of AnimeGANv2",
+        "url": "https://github.com/bryandlee/animegan2-pytorch"
+    },{
+        "tags": "site github AI",
+        "title": "500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲",
+        "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+    },{
+        "tags": "site AI github",
+        "title": "Best-of Machine Learning with Python",
+        "url": "https://github.com/ml-tooling/best-of-ml-python"
+    },{
+        "tags": "site github cheatsheet",
+        "title": "naming-cheatsheet",
+        "url": "https://github.com/kettanaito/naming-cheatsheet"
+    },{
+        "tags": "site github 访问等级1",
+        "title": "GitHub 热点速览",
+        "url": "https://www.cnblogs.com/xueweihan/"
+    },{
+        "tags": "site weekly github",
+        "title": "Go语言爱好者周刊",
+        "url": "https://github.com/polaris1119/golangweekly"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
