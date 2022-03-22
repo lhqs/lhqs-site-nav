@@ -268,7 +268,7 @@
         "title": "Jodd",
         "url": "https://jodd.org/"
     },{
-        "tags": "site tech blog",
+        "tags": "site tech blog manual guide",
         "title": "廖雪峰的个人博客",
         "url": "https://www.liaoxuefeng.com/"
     },{
@@ -3128,7 +3128,7 @@
         "title": "the podluck club",
         "url": "https://thepodluckclub.com/"
     },{
-        "tags": "site notion",
+        "tags": "site notion doc design",
         "title": "Oculus VR 设计指南",
         "url": "https://fradser.notion.site/fradser/Oculus-VR-411a2bf02b134fd5bec4958eb3c5358b"
     },{
@@ -4540,7 +4540,7 @@
         "title": "硬核小卒blog",
         "url": "https://github.com/jacksonwuu/blog"
     },{
-        "tags": "site tech-blog todo",
+        "tags": "site tech-blog todo 访问等级1",
         "title": "程序员的喵",
         "url": "https://catcoding.me/"
     },{
@@ -5404,7 +5404,7 @@
         "title": "real life",
         "url": "https://reallifemag.com/"
     },{
-        "tags": "site newsletter weekly",
+        "tags": "site newsletter weekly 访问等级1",
         "title": "野生架构师",
         "url": "https://www.getrevue.co/profile/lcomplete"
     },{
@@ -5451,6 +5451,42 @@
         "tags": "site github product",
         "title": "Open-source alternatives",
         "url": "https://opensource.builders/"
+    },{
+        "tags": "site weekly todo",
+        "title": "独立开发变现周刊",
+        "url": "https://github.com/ljinkai/weekly"
+    },{
+        "tags": "site newsletter",
+        "title": "sustainable Productivity",
+        "url": "https://acacess.substack.com/archive?sort=new"
+    },{
+        "tags": "site product newsletter",
+        "title": "Product Hunt Daily",
+        "url": "https://www.producthunt.com/newsletter"
+    },{
+        "tags": "site blog",
+        "title": "笨方法学写作",
+        "url": "https://www.cnfeat.com/"
+    },{
+        "tags": "site read",
+        "title": "DYNOMIGHT ",
+        "url": "https://dynomight.net/"
+    },{
+        "tags": "site blog todo special",
+        "title": "meditic",
+        "url": "https://meditic.com/list"
+    },{
+        "tags": "site newsletter",
+        "title": "棱镜通讯",
+        "url": "https://www.wangyurui.top"
+    },{
+        "tags": "site notion misc 访问等级2",
+        "title": "https://wangyurui.notion.site/Ludwig-faeaabbf01394a33bfa5638a9a37f74a",
+        "url": "Ludwigの生活觀察"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
