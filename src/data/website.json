@@ -28,11 +28,11 @@
         "title": "Google",
         "url": "https://google.com"
     },{
-        "tags": "site product",
+        "tags": "site product idea",
         "title": "product hunt",
         "url": "https://www.producthunt.com/"
     },{
-        "tags": "site product",
+        "tags": "site product idea",
         "title": "新趣集",
         "url": "https://xinquji.com/"
     },{
@@ -244,7 +244,7 @@
         "title": "codepen.io",
         "url": "https://codepen.io/trending"
     },{
-        "tags": "site tech doc manual",
+        "tags": "site tech doc manual todo 访问等级1",
         "title": "Java 全栈知识体系",
         "url": "https://www.pdai.tech/"
     },{
@@ -680,7 +680,7 @@
         "title": "hacker-share",
         "url": "https://hackershare.dev/bookmarks"
     },{
-        "tags": "site weekly newsletter 高频访问",
+        "tags": "site weekly newsletter 高频访问 todo",
         "title": "Hacker Newsletter",
         "url": "https://hackernewsletter.com/"
     },{
@@ -724,7 +724,7 @@
         "title": "ProcessOn",
         "url": "https://www.processon.com/"
     },{
-        "tags": "site github",
+        "tags": "site github todo",
         "title": "hacker-laws-zh",
         "url": "https://github.com/nusr/hacker-laws-zh"
     },{
@@ -2128,7 +2128,7 @@
         "title": "关于密码工程的几点思考",
         "url": "https://blog.cryptographyengineering.com/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter 访问等级1",
         "title": "Every",
         "url": "https://every.to/"
     },{
@@ -3612,7 +3612,7 @@
         "title": "cheet.dev",
         "url": "https://cheet.dev/"
     },{
-        "tags": "site 未分类",
+        "tags": "site misc",
         "title": "ArchiPro",
         "url": "https://archipro.co.nz/"
     },{
@@ -3624,11 +3624,11 @@
         "title": "growth.design",
         "url": "https://growth.design/case-studies"
     },{
-        "tags": "site 创业",
+        "tags": "site 创业 idea",
         "title": "idea-wiki",
         "url": "https://github.com/samsquire/idea-wiki"
     },{
-        "tags": "site 创业",
+        "tags": "site 创业 idea",
         "title": "ideas",
         "url": "https://samsquire.github.io/ideas/"
     },{
@@ -3648,7 +3648,7 @@
         "title": "9TO5Mac",
         "url": "https://9to5mac.com/"
     },{
-        "tags": "site blog special 次高频",
+        "tags": "site blog special 次高频 访问等级1",
         "title": "Paul Graham is a programmer, writer, and investor",
         "url": "http://paulgraham.com/index.html"
     },{
@@ -5232,8 +5232,8 @@
         "title": "the component gallery —— 设计系统、组件收集",
         "url": "https://component.gallery"
     },{
-        "tags": "site blog weekly",
-        "title": "Commonplace - business and career decision",
+        "tags": "site blog weekly 访问等级2",
+        "title": "Commonplace - business and career decision(隐形知识)",
         "url": "https://commoncog.com/blog/"
     },{
         "tags": "site weekly newsletter daily 访问等级1",
@@ -5260,21 +5260,197 @@
         "title": "Stanford Encyclopedia of Philosophy",
         "url": "https://www.visualizingsep.com/#"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site idea serach",
+        "title": "startup ideas",
+        "url": "https://www.google.com/search?client=firefox-b-d&q=%22startup+ideas%22"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog search",
+        "title": "Blog Search Engine",
+        "url": "https://blogsurf.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog",
+        "title": "system inside",
+        "url": "https://sysin.org/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site other",
+        "title": "Gwern Branwen ",
+        "url": "https://www.gwern.net/index"
+    },{
+        "tags": "site manual doc github",
+        "title": "中国法律快查手册",
+        "url": "https://lawrefbook.github.io/"
+    },{
+        "tags": "site tech doc github",
+        "title": "机器学习系统：设计和实现",
+        "url": "https://github.com/openmlsys/openmlsys-zh"
+    },{
+        "tags": "site resource",
+        "title": "利刃藏锋网盘",
+        "url": "https://pan.794450497.xyz:8443/"
+    },{
+        "tags": "site tailwind",
+        "title": "tailwinduikit",
+        "url": "https://tailwinduikit.com/"
+    },{
+        "tags": "site design UX",
+        "title": "每日精心挑选的 UI 灵感和模式",
+        "url": "https://uigarage.net/"
+    },{
+        "tags": "site misc",
+        "title": "杂七杂八",
+        "url": "https://shugyosan.com/index.html"
+    },{
+        "tags": "site dev code",
+        "title": "code catalog",
+        "url": "https://codecatalog.org/"
+    },{
+        "tags": "site list wiki idea github 访问等级1",
+        "title": "Second-Brain",
+        "url": "https://github.com/KasperZutterman/Second-Brain"
+    },{
+        "tags": "site todo",
+        "title": "Wiki workflow",
+        "url": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked"
+    },{
+        "tags": "site wiki misc dev",
+        "title": "maxmasnick Knowledge Base",
+        "url": "https://maxmasnick.com/kb/"
+    },{
+        "tags": "site wiki misc",
+        "title": "wikifolder",
+        "url": "https://tomcritchlow.com/wiki/"
+    },{
+        "tags": "site top 创业",
+        "title": "公司排名",
+        "url": "https://companiesmarketcap.com/"
+    },{
+        "tags": "site wiki",
+        "title": "Dimpurr's Knowledge Base ",
+        "url": "http://note.dimpurr.com/#Home"
+    },{
+        "tags": "site wiki",
+        "title": "Zhiheng Lin's Second Brain",
+        "url": "https://wiki.zhiheng.io/"
+    },{
+        "tags": "site mind read newsletter",
+        "title": "Ness Labs - Make the most of your mind.",
+        "url": "https://nesslabs.com/"
+    },{
+        "tags": "site misc list todo",
+        "title": "外脑：构建和灵感",
+        "url": "https://beepb00p.xyz/exobrain/projects/exobrain.html"
+    },{
+        "tags": "site wiki misc",
+        "title": "Jethro's Braindump",
+        "url": "https://braindump.jethro.dev/posts/"
+    },{
+        "tags": "site blog",
+        "title": "Simon Willison’s Weblog",
+        "url": "https://simonwillison.net/"
+    },{
+        "tags": "site wiki misc",
+        "title": "WebSeitz/维基",
+        "url": "http://webseitz.fluxent.com/wiki/2022-02-06-AddingSisterSites"
+    },{
+        "tags": "site misc",
+        "title": "a collection of learned incantations",
+        "url": "https://code.lakhwara.com/Anish/spellbook/src/commit/e11deba5480b9c3020c548c5741e02dbdcd3db09/opentabs?lang=ja-JP"
+    },{
+        "tags": "site wiki github",
+        "title": "some useful information",
+        "url": "https://github.com/albertz/wiki"
+    },{
+        "tags": "site github search",
+        "title": "dotfile",
+        "url": "https://github.com/search?q=dotfile"
+    },{
+        "tags": "site misc github list",
+        "title": "Curated Lists",
+        "url": "https://github.com/learn-anything/curated-lists#readme"
+    },{
+        "tags": "site github blog list dev awesome",
+        "title": "Awesome Blogs ",
+        "url": "https://github.com/learn-anything/blogs"
+    },{
+        "tags": "site blog",
+        "title": "frangezone",
+        "url": "https://frangezone.github.io/archive/"
+    },{
+        "tags": "site wiki",
+        "title": "GeekPlux Wiki",
+        "url": "https://wiki.geekplux.com/#/page/GeekPlux%20Wiki"
+    },{
+        "tags": "site product",
+        "title": "svpg product group",
+        "url": "https://svpg.com/articles/"
+    },{
+        "tags": "site bilibili todo",
+        "title": "T君T酱",
+        "url": "https://space.bilibili.com/8188433"
+    },{
+        "tags": "site tech-blog",
+        "title": "Lcomplte(good)",
+        "url": "https://codelc.com/"
+    },{
+        "tags": "site github todo",
+        "title": "内网安全攻防-渗透测试实战指南",
+        "url": "https://github.com/SeikoSrp/Pentest-Notes"
+    },{
+        "tags": "site misc",
+        "title": "Help your organization focus on successful outcomes ",
+        "url": "https://www.jpattonassociates.com/"
+    },{
+        "tags": "site read newsletter",
+        "title": "real life",
+        "url": "https://reallifemag.com/"
+    },{
+        "tags": "site newsletter weekly",
+        "title": "野生架构师",
+        "url": "https://www.getrevue.co/profile/lcomplete"
+    },{
+        "tags": "site tools",
+        "title": "在线生成 k8s yaml",
+        "url": "https://k8syaml.com/"
+    },{
+        "tags": "site github product tools idea import",
+        "title": "awesome-cli-apps",
+        "url": "https://github.com/agarrharr/awesome-cli-apps"
+    },{
+        "tags": "site AI",
+        "title": "A visual introduction to machine learning",
+        "url": "http://www.r2d3.us/"
+    },{
+        "tags": "site github awesome tools idea import",
+        "title": "Awesome TUIs(terminal user interfaces)",
+        "url": "https://github.com/rothgar/awesome-tuis"
+    },{
+        "tags": "site misc",
+        "title": "system graph",
+        "url": "https://www.system.com/graph"
+    },{
+        "tags": "site read",
+        "title": "Reading List",
+        "url": "https://www.zatrana.com/books-worth-reading/"
+    },{
+        "tags": "site tech-blog",
+        "title": " Engineering Blog ",
+        "url": "https://www.eventbrite.com/engineering/"
+    },{
+        "tags": "site read newsletter",
+        "title": "productivity-tools",
+        "url": "https://every.to/c/productivity-tools"
+    },{
+        "tags": "site misc",
+        "title": "akob Greenfeld",
+        "url": "https://jakobgreenfeld.com/essays/"
+    },{
+        "tags": "site newsletter 访问等级3",
+        "title": "The Greenfeld Letter",
+        "url": "https://www.getrevue.co/profile/greenfeld"
+    },{
+        "tags": "site github product",
+        "title": "Open-source alternatives",
+        "url": "https://opensource.builders/"
     },{
         "tags": "site",
         "title": "",
