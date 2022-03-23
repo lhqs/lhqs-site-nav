@@ -1152,7 +1152,7 @@
         "title": "1000小食报",
         "url": "https://young.zhubai.love/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter 访问等级2",
         "title": "精选日报",
         "url": "https://zhiy.cc/daynews"
     },{
@@ -1160,11 +1160,11 @@
         "title": "刻意体会",
         "url": "https://kyth.hedwig.pub/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter 访问等级1",
         "title": "苔原通信",
         "url": "https://tundrazone.com/dingyue/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter 访问等级1",
         "title": "Λ-Reading",
         "url": "https://rizime.substack.com/"
     },{
@@ -1489,8 +1489,12 @@
         "url": "http://www.ctk3.cn/"
     },{
         "tags": "site manual doc mind",
-        "title": "认知偏差列表 ",
+        "title": "认知偏差列表",
         "url": "https://www.wikiwand.com/zh-cn/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4%E5%88%97%E8%A1%A8"
+    },{
+        "tags": "site manual doc mind",
+        "title": "认知偏差知识手册",
+        "url": "https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf"
     },{
         "tags": "site mind",
         "title": "爱莫脑图",
@@ -5484,9 +5488,57 @@
         "title": "https://wangyurui.notion.site/Ludwig-faeaabbf01394a33bfa5638a9a37f74a",
         "url": "Ludwigの生活觀察"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "谢益辉",
+        "url": "https://yihui.org"
+    },{
+        "tags": "site blog list",
+        "title": "独立博客交流",
+        "url": "https://twitter.com/i/communities/1501161552853929986"
+    },{
+        "tags": "site blog list github",
+        "title": "优质中文独立博客列表",
+        "url": "https://github.com/qianguyihao/blog-list"
+    },{
+        "tags": "site blog",
+        "title": "枫言枫语",
+        "url": "https://justinyan.me/"
+    },{
+        "tags": "site blog",
+        "title": "周溱的博客",
+        "url": "https://blog.3qin.us/"
+    },{
+        "tags": "site tech-blog",
+        "title": "世风十三学堂 ",
+        "url": "https://wind13.github.io/"
+    },{
+        "tags": "site blog",
+        "title": "木木木木木",
+        "url": "https://immmmm.com/archives/"
+    },{
+        "tags": "site blog podcast",
+        "title": "一天世界",
+        "url": "https://blog.yitianshijie.net/"
+    },{
+        "tags": "site blog",
+        "title": "Tomas Vik",
+        "url": "https://blog.viktomas.com/"
+    },{
+        "tags": "site blog weekly",
+        "title": "Databricks",
+        "url": "https://interconnected.blog/"
+    },{
+        "tags": "site blog podcast",
+        "title": "博物志",
+        "url": "https://bowuzhi.fm/"
+    },{
+        "tags": "site misc",
+        "title": "一席",
+        "url": "https://yixi.tv/#/home"
+    },{
+        "tags": "site 高频访问",
+        "title": "vercel dashboard",
+        "url": "https://vercel.com/dashboard"
     },{
         "tags": "site",
         "title": "",
