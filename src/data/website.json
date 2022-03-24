@@ -1,5 +1,9 @@
 [
     {
+        "tags": "高频访问 site",
+        "title": "乱红如雨",
+        "url": "https://lhqs.vercel.app/"
+    },{
         "tags": "高频访问 site tech github",
         "title": "Github trending",
         "url": "https://github.com/trending"
@@ -72,13 +76,17 @@
         "title": "京东",
         "url": "https://jd.com"
     },{
-        "tags": "site translate",
+        "tags": "site translate english tools",
         "title": "DeepL",
         "url": "https://deepl.com"
     },{
-        "tags": "site translate",
+        "tags": "site translate english tools",
         "title": "Google Translate",
         "url": "https://translate.google.com"
+    },{
+        "tags": "site translate english tools",
+        "title": "Yandex Translate",
+        "url": "https://translate.yandex.com/"
     },{
         "tags": "site community 高频访问",
         "title": "V2EX",
@@ -1532,7 +1540,7 @@
         "title": "心理学网址导航",
         "url": "https://www.psychspace.com/site/"
     },{
-        "tags": "site import daily",
+        "tags": "site import daily 访问等级1",
         "title": "印象识堂",
         "url": "https://www.yinxiang.com/everhub/"
     },{
@@ -5464,7 +5472,7 @@
         "title": "sustainable Productivity",
         "url": "https://acacess.substack.com/archive?sort=new"
     },{
-        "tags": "site product newsletter",
+        "tags": "site product newsletter daily",
         "title": "Product Hunt Daily",
         "url": "https://www.producthunt.com/newsletter"
     },{
@@ -5540,25 +5548,57 @@
         "title": "vercel dashboard",
         "url": "https://vercel.com/dashboard"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site daily",
+        "title": "透明日报",
+        "url": "https://daily.xlab.app/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "SKYue's Home",
+        "url": "https://www.skyue.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site notion read",
+        "title": "春小喜",
+        "url": "https://xiaoxii.notion.site/xiaoxii/be1bd22c28ae4639946238c00e15dbd1"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog 访问等级1",
+        "title": "叶星优酸乳",
+        "url": "https://weiyexing.ml/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "Elizen",
+        "url": "https://elizen.me/"
+    },{
+        "tags": "site blog 访问等级1",
+        "title": "Pxiaoer's Blog",
+        "url": "https://pxiaoer.blog/about/"
+    },{
+        "tags": "site web weekly",
+        "title": "国内外前端领域动态",
+        "url": "https://github.com/tnfe/TNT-Weekly"
+    },{
+        "tags": "site tools",
+        "title": "手机查看网页源码",
+        "url": "https://neatnik.net/view-source/"
+    },{
+        "tags": "site tech-blog",
+        "title": "Gunnar Morling",
+        "url": "https://www.morling.dev/"
+    },{
+        "tags": "site blog",
+        "title": "壹页单章",
+        "url": "https://pepcn.com/"
+    },{
+        "tags": "site github",
+        "title": "dotfiles",
+        "url": "https://github.com/mathiasbynens/dotfiles"
+    },{
+        "tags": "site github web dev",
+        "title": "GitHub最全的前端资源汇总仓库",
+        "url": "https://github.com/FrontEndGitHub/FrontEndGitHub"
+    },{
+        "tags": "site read blog",
+        "title": "ribbonfarm",
+        "url": "https://www.ribbonfarm.com/now-reading/"
     },{
         "tags": "site",
         "title": "",
