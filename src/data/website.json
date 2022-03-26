@@ -740,7 +740,7 @@
         "title": "Maven手册",
         "url": "https://www.yuque.com/inuter/bc7ikc/ngeqot"
     },{
-        "tags": "site website data",
+        "tags": "site website data 创业",
         "title": "IT桔子",
         "url": "https://www.itjuzi.com/"
     },{
@@ -800,27 +800,27 @@
         "title": "Behance",
         "url": "https://www.behance.net/"
     },{
-        "tags": "site tech manual",
+        "tags": "site tech manual cheatsheet",
         "title": "DevHints",
         "url": "https://devhints.io/"
     },{
-        "tags": "site tech code manual",
+        "tags": "site tech code manual cheatsheet",
         "title": "programming-Idioms",
         "url": "https://programming-idioms.org/about#about-block-cheatsheets"
     },{
-        "tags": "site tech code manual",
+        "tags": "site tech code manual cheatsheet",
         "title": "Learn X in Y minutes",
         "url": "https://learnxinyminutes.com/"
     },{
-        "tags": "site tech manual",
+        "tags": "site tech manual cheatsheet",
         "title": "devdocs",
         "url": "https://devdocs.io/"
     },{
-        "tags": "site tech manual",
+        "tags": "site tech manual cheatsheet",
         "title": "overapi",
         "url": "https://overapi.com/"
     },{
-        "tags": "site tech manual code",
+        "tags": "site tech manual code cheatsheet",
         "title": "socode",
         "url": "https://socode.pro/"
     },{
@@ -3120,7 +3120,7 @@
         "title": "国家地理",
         "url": "https://www.nationalgeographic.com/"
     },{
-        "tags": "site github awesome",
+        "tags": "site github awesome Mac",
         "title": "Awesome Mac",
         "url": "https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md"
     },{
@@ -3656,7 +3656,7 @@
         "title": "Smashing magazine",
         "url": "https://www.smashingmagazine.com/"
     },{
-        "tags": "site news",
+        "tags": "site news Mac",
         "title": "9TO5Mac",
         "url": "https://9to5mac.com/"
     },{
@@ -3664,7 +3664,7 @@
         "title": "Paul Graham is a programmer, writer, and investor",
         "url": "http://paulgraham.com/index.html"
     },{
-        "tags": "site dev github list product",
+        "tags": "site dev github list product Mac",
         "title": "中国独立 iOS 和 macOS 开发者图鉴",
         "url": "https://josephchang10.github.io/chinese-indie-hackers/"
     },{
@@ -3816,7 +3816,7 @@
         "title": "公司开放数据库",
         "url": "https://opencorporates.com/"
     },{
-        "tags": "site news",
+        "tags": "site news Mac",
         "title": "MacRumors",
         "url": "https://www.macrumors.com/"
     },{
@@ -5599,6 +5599,70 @@
         "tags": "site read blog",
         "title": "ribbonfarm",
         "url": "https://www.ribbonfarm.com/now-reading/"
+    },{
+        "tags": "site video search",
+        "title": "upfox",
+        "url": "https://cupfox.app"
+    },{
+        "tags": "site github product list idea",
+        "title": "linuxserver.io",
+        "url": "https://docs.linuxserver.io/"
+    },{
+        "tags": "site doc manual blog",
+        "title": "web3文档",
+        "url": "https://www.alexdphan.com/"
+    },{
+        "tags": "site Mac",
+        "title": "open-source-ios-apps",
+        "url": "https://github.com/dkhamsing/open-source-ios-apps"
+    },{
+        "tags": "site web dev github",
+        "title": "next.js",
+        "url": "https://github.com/vercel/next.js"
+    },{
+        "tags": "site cheatsheet",
+        "title": "shell.how",
+        "url": "https://www.shell.how/"
+    },{
+        "tags": "site yuque design",
+        "title": "设计知识库",
+        "url": "https://www.yuque.com/limingyue-lee/kb"
+    },{
+        "tags": "site github awesome",
+        "title": "Awesome Web Scraping",
+        "url": "https://github.com/Germey/AwesomeWebScraping"
+    },{
+        "tags": "site other",
+        "title": "趣乐兔",
+        "url": "https://funletu.com/"
+    },{
+        "tags": "site special",
+        "title": "核电站",
+        "url": "https://0792z.blogspot.com"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
