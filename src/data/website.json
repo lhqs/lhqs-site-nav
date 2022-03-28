@@ -1496,11 +1496,11 @@
         "title": "知原学说",
         "url": "http://www.ctk3.cn/"
     },{
-        "tags": "site manual doc mind",
+        "tags": "site manual doc mind todo",
         "title": "认知偏差列表",
         "url": "https://www.wikiwand.com/zh-cn/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4%E5%88%97%E8%A1%A8"
     },{
-        "tags": "site manual doc mind",
+        "tags": "site manual doc mind todo",
         "title": "认知偏差知识手册",
         "url": "https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf"
     },{
@@ -1736,7 +1736,7 @@
         "title": "计算机科学主题列表",
         "url": "https://dirtysalt.github.io/html/index.html"
     },{
-        "tags": "site dev",
+        "tags": "site dev 次高频",
         "title": "开发者头条",
         "url": "https://toutiao.io/"
     },{
@@ -5636,29 +5636,73 @@
         "title": "趣乐兔",
         "url": "https://funletu.com/"
     },{
-        "tags": "site special",
+        "tags": "site special todo read 访问等级1",
         "title": "核电站",
         "url": "https://0792z.blogspot.com"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site read blog good todo",
+        "title": "TO-D 杂志",
+        "url": "https://2d2d.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site Mac",
+        "title": "mac相关",
+        "url": "https://github.com/qianguyihao/Mac"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 技能向",
+        "title": "The Beginner's Guide to SEO ",
+        "url": "https://moz.com/beginners-guide-to-seo"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter weekly",
+        "title": "awesome things",
+        "url": "https://www.getrevue.co/profile/johnsuder"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site wiki misc 访问等级1",
+        "title": "凯文 digital garden",
+        "url": "https://www.kevinslin.com/"
+    },{
+        "tags": "site Mac todo",
+        "title": "Mac 键盘快捷键",
+        "url": "https://support.apple.com/zh-cn/HT201236"
+    },{
+        "tags": "site tech-blog",
+        "title": "乐天笔记",
+        "url": "https://www.letianbiji.com/"
+    },{
+        "tags": "site Mac",
+        "title": "Full Stack Your MAC",
+        "url": "https://mac.aotu.io/index.html"
+    },{
+        "tags": "site misc",
+        "title": "Web 3.0 漫游指南 2022",
+        "url": "https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc?s=09"
+    },{
+        "tags": "site github tech-blog",
+        "title": "bestswifter/blog",
+        "url": "https://github.com/bestswifter/blog"
+    },{
+        "tags": "site search",
+        "title": "search hacker news",
+        "url": "https://hn.algolia.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "EICO 研究所",
+        "url": "https://www.getrevue.co/profile/EICO"
+    },{
+        "tags": "site github tech cheatsheet guide",
+        "title": "快速启动您的应用程序开发 ",
+        "url": "https://kandi.openweaver.com/home"
+    },{
+        "tags": "site github manual doc dev todo",
+        "title": "ZetCode 中文系列教程",
+        "url": "https://zetcode.apachecn.org/#/"
+    },{
+        "tags": "site yuque daily 访问等级2",
+        "title": "每日听书",
+        "url": "https://www.yuque.com/qhjs/book"
+    },{
+        "tags": "site newsletter",
+        "title": "creativerly",
+        "url": "https://creativerly.substack.com/"
     },{
         "tags": "site",
         "title": "",
