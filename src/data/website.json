@@ -964,7 +964,7 @@
         "title": "flomo",
         "url": "https://flomoapp.com/mine/"
     },{
-        "tags": "site dev code manual",
+        "tags": "site dev code manual wiki",
         "title": "编程自学之路",
         "url": "https://r2coding.com/"
     },{
@@ -5704,9 +5704,73 @@
         "title": "creativerly",
         "url": "https://creativerly.substack.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "浮点数学",
+        "url": "https://0.30000000000000004.com/"
+    },{
+        "tags": "site tools search other",
+        "title": "镜像源",
+        "url": "https://www.library.ac.cn"
+    },{
+        "tags": "site 哲学",
+        "title": "aeon philosophy",
+        "url": "https://aeon.co/philosophy"
+    },{
+        "tags": "site blog",
+        "title": "sam-ju-li-en",
+        "url": "https://www.samjulien.com/"
+    },{
+        "tags": "site product",
+        "title": "产品经理的日常 - 即刻app",
+        "url": "https://m.okjike.com/topics/563a2995306dab1300a32227"
+    },{
+        "tags": "site github ebook doc dev",
+        "title": "设计模式简单解释",
+        "url": "https://github.com/guanguans/design-patterns-for-humans-cn"
+    },{
+        "tags": "site github ebook dev",
+        "title": "深度学习入门开源书",
+        "url": "https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book"
+    },{
+        "tags": "site manual cheatsheet",
+        "title": "Linux命令大全(手册)",
+        "url": "https://www.linuxcool.com/"
+    },{
+        "tags": "site blog",
+        "title": "leadership",
+        "url": "https://leadership.garden/"
+    },{
+        "tags": "site weekly 访问等级1",
+        "title": "DecoHack - 独立开发者的灵感周刊",
+        "url": "https://www.decohack.com/"
+    },{
+        "tags": "site idea design",
+        "title": "logo集合",
+        "url": "https://www.logotouse.com/"
+    },{
+        "tags": "site 运营 创业",
+        "title": "growth marketing content增长营销内容合集",
+        "url": "https://www.growthfyi.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "blcktoschool",
+        "url": "https://www.blcktoschool.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "林中来信 / Laixin.one",
+        "url": "https://laixin.one/"
+    },{
+        "tags": "site up",
+        "title": "学习猫",
+        "url": "https://learncat.cn/home"
+    },{
+        "tags": "site up github guide todo",
+        "title": "自学计算机科学",
+        "url": "https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md"
+    },{
+        "tags": "site web dev newsletter",
+        "title": "JavaScript Newsletter",
+        "url": "https://bytes.dev/archives/93"
     },{
         "tags": "site",
         "title": "",
