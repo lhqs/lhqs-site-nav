@@ -8,7 +8,7 @@
         "title": "Github trending",
         "url": "https://github.com/trending"
     },{
-        "tags": "高频访问 site doc",
+        "tags": "高频访问 site doc 账户",
         "title": "语雀",
         "url": "https://yuque.com/"
     },{
@@ -56,11 +56,11 @@
         "title": "豆瓣阅读",
         "url": "https://read.douban.com/"
     },{
-        "tags": "site music",
+        "tags": "site music 账户",
         "title": "网易云音乐",
         "url": "https://music.163.com/"
     },{
-        "tags": "site music",
+        "tags": "site music 账户",
         "title": "QQ音乐",
         "url": "https://y.qq.com/"
     },{
@@ -68,11 +68,11 @@
         "title": "OSINT开源情报与侦察工具",
         "url": "https://www.osint-labs.org/tools/"
     },{
-        "tags": "site 购物",
+        "tags": "site 购物 账户",
         "title": "淘宝",
         "url": "https://taobao.com"
     },{
-        "tags": "site 购物",
+        "tags": "site 购物 账户",
         "title": "京东",
         "url": "https://jd.com"
     },{
@@ -96,27 +96,27 @@
         "title": "乐愚社区",
         "url": "https://bbs.leyuz.net/"
     },{
-        "tags": "site cloud-disk",
+        "tags": "site cloud-disk 账户",
         "title": "百度网盘",
         "url": "https://pan.baidu.com"
     },{
-        "tags": "site cloud-disk",
+        "tags": "site cloud-disk 账户",
         "title": "阿里云盘",
         "url": "https://www.aliyundrive.com/drive"
     },{
-        "tags": "高频访问 site video bilibili",
+        "tags": "高频访问 site video bilibili 账户",
         "title": "哔哩哔哩",
         "url": "https://www.bilibili.com"
     },{
-        "tags": "高频访问 site video",
+        "tags": "高频访问 site video 账户",
         "title": "YouTube",
         "url": "https://youtube.com"
     },{
-        "tags": "site video",
+        "tags": "site video 账户",
         "title": "抖音",
         "url": "https://www.douyin.com"
     },{
-        "tags": "site video",
+        "tags": "site video 账户",
         "title": "腾讯视频",
         "url": "https://v.qq.com"
     },{
@@ -148,15 +148,15 @@
         "title": "少数派",
         "url": "https://sspai.com/"
     },{
-        "tags": "site email",
+        "tags": "site email 账户",
         "title": "Gmail",
         "url": "https://mail.google.com"
     },{
-        "tags": "site email",
+        "tags": "site email 账户",
         "title": "QQ邮箱",
         "url": "https://mail.qq.com/"
     },{
-        "tags": "site email",
+        "tags": "site email 账户",
         "title": "Hotmail",
         "url": "https://outlook.live.com/mail/"
     },{
@@ -172,7 +172,7 @@
         "title": "知乎",
         "url": "https://www.zhihu.com/"
     },{
-        "tags": "site community",
+        "tags": "site community 账户",
         "title": "微博",
         "url": "https://weibo.com"
     },{
@@ -312,7 +312,7 @@
         "title": "Beautiful hand-crafted SVG icons",
         "url": "https://heroicons.com/"
     },{
-        "tags": "site book doc 次高频",
+        "tags": "site book doc 次高频 cheatsheet",
         "title": "书栈网",
         "url": "https://www.bookstack.cn/"
     },{
@@ -1564,7 +1564,7 @@
         "title": "互联网地图",
         "url": "http://internet-map.net/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter 阅读等级2",
         "title": "湾区日报",
         "url": "https://wanqu.co/"
     },{
@@ -2256,7 +2256,7 @@
         "title": "GeekPlux Lab",
         "url": "https://geekplux.zhubai.love/"
     },{
-        "tags": "site tech-blog",
+        "tags": "site tech-blog 访问等级2",
         "title": "The Pragmatic Engineer",
         "url": "https://blog.pragmaticengineer.com/"
     },{
@@ -5772,21 +5772,21 @@
         "title": "JavaScript Newsletter",
         "url": "https://bytes.dev/archives/93"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github idea",
+        "title": "app-ideas",
+        "url": "https://github.com/florinpop17/app-ideas"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc manual github",
+        "title": "Arch Linux 安装使用教程",
+        "url": "https://archlinuxstudio.github.io/ArchLinuxTutorial/#/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site product github idea tools",
+        "title": "open source alternative to",
+        "url": "https://www.opensourcealternative.to/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site forum",
+        "title": "VFXSKILL - game, 游戏",
+        "url": "https://www.vfxskill.com/"
     },{
         "tags": "site",
         "title": "",
