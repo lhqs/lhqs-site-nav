@@ -246,6 +246,10 @@
             "tag": "Developer",
             "list": [
                 {
+                    "title": "Github",
+                    "url": "https://github.com/search?q=${query}"
+                },
+                {
                     "title": "stack overflow",
                     "url": "https://stackoverflow.com/search?q=${query}"
                 },
@@ -294,10 +298,6 @@
                 {
                     "title": "腾讯云",
                     "url": "https://cloud.tencent.com/developer/search/article-${query}"
-                },
-                {
-                    "title": "Github",
-                    "url": "https://github.com/search?q=${query}"
                 },
                 {
                     "title": "Zz0ll0",

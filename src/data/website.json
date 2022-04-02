@@ -484,7 +484,7 @@
         "title": "dba notes",
         "url": "https://dbanotes.net/"
     },{
-        "tags": "site import github awesome",
+        "tags": "site import github awesome idea 访问等级1",
         "title": "超赞合集 awesome-list-chinese",
         "url": "https://asmcn.icopy.site/"
     },{
@@ -5788,13 +5788,89 @@
         "title": "VFXSKILL - game, 游戏",
         "url": "https://www.vfxskill.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site data",
+        "title": "国家统计局",
+        "url": "http://www.stats.gov.cn/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site up github awesome",
+        "title": "awesome public courses and wonderful study resource",
+        "url": "https://github.com/xioacd99/study-is-wonderful"
+    },{
+        "tags": "site weekly web dev",
+        "title": "前端食堂技术周刊",
+        "url": "https://github.com/Geekhyt/weekly"
+    },{
+        "tags": "site 账号",
+        "title": "ME YUN",
+        "url": "https://s.yunme.me/clientarea.php"
+    },{
+        "tags": "site bilibili up",
+        "title": "Crash Course：10分钟心理学速成",
+        "url": "https://www.bilibili.com/video/BV1Zs411c7W6"
+    },{
+        "tags": "site life",
+        "title": "就诊问问",
+        "url": "https://ask.nocode.com/"
+    },{
+        "tags": "site english",
+        "title": "单词记忆",
+        "url": "https://qwerty.kaiyi.cool/"
+    },{
+        "tags": "site blog 访问等级2",
+        "title": "productive programmer",
+        "url": "https://codewithoutrules.com/"
+    },{
+        "tags": "site search blog import",
+        "title": "Blog Search Engine",
+        "url": "https://blogsurf.io/"
+    },{
+        "tags": "site tech-blog web",
+        "title": "前端开发博客",
+        "url": "https://github.com/kujian/frontendDaily"
+    },{
+        "tags": "site github web",
+        "title": "50projects50days",
+        "url": "https://github.com/bradtraversy/50projects50days"
+    },{
+        "tags": "site design github awesome tools web",
+        "title": "awesome-icons",
+        "url": "https://github.com/vkarampinis/awesome-icons"
+    },{
+        "tags": "site github awesome",
+        "title": "awesomeopensource",
+        "url": "https://awesomeopensource.com/"
+    },{
+        "tags": "site blog",
+        "title": "🦄Déjà Vu",
+        "url": "https://www.dejavu.moe/"
+    },{
+        "tags": "site guide todo",
+        "title": "Alfred",
+        "url": "https://www.alfredapp.com/help/guides-and-tutorials/"
+    },{
+        "tags": "site tools github",
+        "title": "Wireflow ─ 在线页面流程",
+        "url": "https://app.wireflow.co/"
+    },{
+        "tags": "site doc manual",
+        "title": "中文开发文档",
+        "url": "https://ddeevv.com/"
+    },{
+        "tags": "site tools",
+        "title": "NameBeta",
+        "url": "https://namebeta.com/"
+    },{
+        "tags": "site misc",
+        "title": "哎呦bucuo",
+        "url": "https://aiyoubucuo.com/"
+    },{
+        "tags": "site search",
+        "title": "Alexandria",
+        "url": "https://www.alexandria.org/"
+    },{
+        "tags": "site 有趣 todo",
+        "title": "哪些基础知识是生产力倍增器？",
+        "url": "https://news.ycombinator.com/item?id=30853807"
     }
 ]
 
