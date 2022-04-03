@@ -40,7 +40,7 @@
         "title": "新趣集",
         "url": "https://xinquji.com/"
     },{
-        "tags": "site search read",
+        "tags": "site search read up",
         "title": "得到",
         "url": "https://www.dedao.cn"
     },{
@@ -3536,7 +3536,7 @@
         "title": "提问的智慧",
         "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md"
     },{
-        "tags": "site yuque 次高频",
+        "tags": "site yuque 高频",
         "title": "2022群资源汇总",
         "url": "https://www.yuque.com/eureka007/2022"
     },{
@@ -5871,6 +5871,66 @@
         "tags": "site 有趣 todo",
         "title": "哪些基础知识是生产力倍增器？",
         "url": "https://news.ycombinator.com/item?id=30853807"
+    },{
+        "tags": "site misc",
+        "title": "全历史",
+        "url": "https://www.allhistory.com/"
+    },{
+        "tags": "site blog",
+        "title": "maggieappleton",
+        "url": "https://maggieappleton.com/"
+    },{
+        "tags": "site tools misc dev guide manual",
+        "title": "DevOps 元素周期表",
+        "url": "https://devops.phodal.com/home"
+    },{
+        "tags": "site resource",
+        "title": "小纸条",
+        "url": "https://u.gitcafe.net/"
+    },{
+        "tags": "site doc",
+        "title": "后盾人-在线文档",
+        "url": "https://doc.houdunren.com/"
+    },{
+        "tags": "site UX",
+        "title": "Laws of UX",
+        "url": "https://lawsofux.com/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     }
 ]
 
