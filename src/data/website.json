@@ -228,7 +228,7 @@
         "title": "免费资源汇总导航",
         "url": "http://www.pickfree.cn"
     },{
-        "tags": "site website",
+        "tags": "site website misc",
         "title": "有知有行",
         "url": "https://youzhiyouxing.cn/"
     },{
@@ -256,11 +256,11 @@
         "title": "Java 全栈知识体系",
         "url": "https://www.pdai.tech/"
     },{
-        "tags": "site tech doc manual",
+        "tags": "site tech doc manual 访问等级1 github todo",
         "title": "凤凰架构",
         "url": "https://icyfenix.cn/"
     },{
-        "tags": "site tech doc",
+        "tags": "site tech doc 访问等级1 github todo",
         "title": "Java工程师进阶",
         "url": "https://doocs.gitee.io/advanced-java/#/"
     },{
@@ -1324,7 +1324,7 @@
         "title": "炫猿",
         "url": "https://xydh.fun/"
     },{
-        "tags": "site UX",
+        "tags": "site UX 账户",
         "title": "Figma",
         "url": "https://www.figma.com"
     },{
@@ -3228,7 +3228,7 @@
         "title": "yu-dao源码",
         "url": "https://www.iocoder.cn/"
     },{
-        "tags": "site dev",
+        "tags": "site dev github list idea product",
         "title": "free-for-dev",
         "url": "https://free-for.dev/#/"
     },{
@@ -5276,7 +5276,7 @@
         "title": "startup ideas",
         "url": "https://www.google.com/search?client=firefox-b-d&q=%22startup+ideas%22"
     },{
-        "tags": "site blog search",
+        "tags": "site blog search 访问等级1",
         "title": "Blog Search Engine",
         "url": "https://blogsurf.io/"
     },{
@@ -5860,7 +5860,7 @@
         "title": "NameBeta",
         "url": "https://namebeta.com/"
     },{
-        "tags": "site misc",
+        "tags": "site misc 次高频",
         "title": "哎呦bucuo",
         "url": "https://aiyoubucuo.com/"
     },{
@@ -5896,25 +5896,145 @@
         "title": "Laws of UX",
         "url": "https://lawsofux.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site resource other",
+        "title": "每天听本书呀",
+        "url": "https://podcastaddict.com/podcast/2001551"
+    },{
+        "tags": "site search",
+        "title": "阿里盘搜",
+        "url": "https://www.alipansou.com/"
+    },{
+        "tags": "site resource",
+        "title": "某人的网盘",
+        "url": "share.laowang.me"
+    },{
+        "tags": "site Mac",
+        "title": "Best App",
+        "url": "https://github.com/hzlzh/Best-App"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome-hacking",
+        "url": "https://github.com/carpedm20/awesome-hacking"
+    },{
+        "tags": "site tech-blog",
+        "title": "Alex Kondov.",
+        "url": "https://alexkondov.com/"
+    },{
+        "tags": "site tools osint",
+        "title": "情报分析师工具箱",
+        "url": "http://dingba.top/"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome-appsec",
+        "url": "https://github.com/paragonie/awesome-appsec"
+    },{
+        "tags": "site guide cheatsheet",
+        "title": "tutorialspoint",
+        "url": "https://www.tutorialspoint.com/index.htm"
+    },{
+        "tags": "site english",
+        "title": "english-level-up-tips",
+        "url": "https://byoungd.gitbook.io/english-level-up-tips/"
+    },{
+        "tags": "site 账户",
+        "title": "夸克网盘",
+        "url": "https://pan.quark.cn/#/list/all"
+    },{
+        "tags": "site github",
+        "title": "gitee",
+        "url": "https://gitee.com/"
     },{
         "tags": "site",
-        "title": "",
-        "url": ""
+        "title": "安全圈小王子",
+        "url": "https://www.little2pig.work/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "心晴 · 专注于心理学",
+        "url": "http://www.ixinqing.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tools cheatsheet",
+        "title": "ffmpeg_develop_doc",
+        "url": "https://github.com/0voice/ffmpeg_develop_doc/tree/main"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site dev idea",
+        "title": "Ten▪Api",
+        "url": "https://tenapi.cn/"
+    },{
+        "tags": "site dev doc",
+        "title": "practical python project",
+        "url": "https://practicalpython.yasoob.me/toc.html"
+    },{
+        "tags": "site misc",
+        "title": "近邻词汇检索",
+        "url": "https://tool.mingdawoo.com/"
+    },{
+        "tags": "site mind",
+        "title": "知犀mind",
+        "url": "https://www.zhixi.com/space"
+    },{
+        "tags": "site misc",
+        "title": "Life At",
+        "url": "https://lifeat.io/"
+    },{
+        "tags": "site 账户",
+        "title": "bilibili收藏夹",
+        "url": "https://space.bilibili.com/122468275/favlist"
+    },{
+        "tags": "site 账户",
+        "title": "语雀收藏夹",
+        "url": "https://www.yuque.com/dashboard/collections"
+    },{
+        "tags": "site web dev rss",
+        "title": "front-end-rs",
+        "url": "https://front-end-rss.vercel.app/"
+    },{
+        "tags": "site 账户",
+        "title": "craft",
+        "url": "https://docs.craft.do/"
+    },{
+        "tags": "site web dev tools",
+        "title": "web颜色渐变",
+        "url": "https://www.color-morph.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "daisyui",
+        "url": "https://daisyui.com/"
+    },{
+        "tags": "site 创业",
+        "title": "Grow as a Design Manager",
+        "url": "https://askplaybook.com/collection/grow-as-a-design-manager"
+    },{
+        "tags": "site handbook manual guide",
+        "title": "Playbook",
+        "url": "https://askplaybook.com/"
+    },{
+        "tags": "site 账户",
+        "title": "figma jijifeng",
+        "url": "https://www.figma.com/files/recent?fuid=1059662877344008692"
+    },{
+        "tags": "site notion",
+        "title": "SeeDAO Web3入门课程表",
+        "url": "https://www.notion.so/2600c97348cd415783b0af644c4765d3"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome-sysadmin",
+        "url": "https://github.com/kahun/awesome-sysadmin"
+    },{
+        "tags": "site github AI todo",
+        "title": "100-Days-Of-ML-Code中文版",
+        "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code"
+    },{
+        "tags": "site 账户",
+        "title": "cloudflare",
+        "url": "https://dash.cloudflare.com/c79f16154705040fe2f4a8ac49e963c2"
+    },{
+        "tags": "site doc manual todo",
+        "title": "系统设计面试指南",
+        "url": "https://cnwangzhou.gitbook.io/grokking-system-design/ch0"
+    },{
+        "tags": "site notion",
+        "title": "Citaldel 文章收藏",
+        "url": "https://www.notion.so/4900d9878d7c4c3c974c46433d7d71a1?v=1d50c05a70144fbbaad2d62438da336e"
     },{
         "tags": "site",
         "title": "",
