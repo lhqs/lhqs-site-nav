@@ -1368,7 +1368,7 @@
         "title": "优秀个人独立博客导航",
         "url": "http://www.jetli.com.cn"
     },{
-        "tags": "site yuque",
+        "tags": "site yuque weekly",
         "title": "软件测试周刊",
         "url": "https://www.yuque.com/bxiaofan/testingweekly"
     },{
@@ -1936,11 +1936,11 @@
         "title": "Linux 内核揭秘",
         "url": "https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html"
     },{
-        "tags": "site github",
+        "tags": "site github list",
         "title": "Some useful websites",
         "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit"
     },{
-        "tags": "site manual doc",
+        "tags": "site manual doc todo tech",
         "title": "计算机教育中缺失的一课",
         "url": "https://missing-semester-cn.github.io/"
     },{
@@ -2992,7 +2992,7 @@
         "title": "SwiftUI Example",
         "url": "https://jaywcjlove.gitee.io/swiftui-example/?"
     },{
-        "tags": "site web dev doc",
+        "tags": "site web dev doc todo",
         "title": "带你入门前端工程",
         "url": "https://woai3c.gitee.io/introduction-to-front-end-engineering/"
     },{
@@ -3386,7 +3386,7 @@
     },{
         "tags": "site notion list tools good",
         "title": "NOISE | 知识效率集",
-        "url": "https://noisesite.cn/"
+        "url": "https://www.noisesite.cn/"
     },{
         "tags": "site blog",
         "title": "manazir",
@@ -3832,7 +3832,7 @@
         "title": "STARTUP LAUNCH LIST",
         "url": "https://startuplaunchlist.com/"
     },{
-        "tags": "site manual doc",
+        "tags": "site manual doc todo",
         "title": "设计模式",
         "url": "https://refactoringguru.cn/design-patterns"
     },{
@@ -5084,7 +5084,7 @@
         "title": "thepodluckclub",
         "url": "https://thepodluckclub.com/weekly/"
     },{
-        "tags": "site blog search",
+        "tags": "site blog search 次高频",
         "title": "Qualiticle",
         "url": "https://q.krytro.com/"
     },{
@@ -5191,6 +5191,10 @@
         "tags": "site github AI",
         "title": "500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲",
         "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+    }{
+        "tags": "site github AI",
+        "title": "machine-learning-collection",
+        "url": "https://github.com/microsoft/machine-learning-collection"
     },{
         "tags": "site AI github",
         "title": "Best-of Machine Learning with Python",
@@ -6036,21 +6040,181 @@
         "title": "Citaldel 文章收藏",
         "url": "https://www.notion.so/4900d9878d7c4c3c974c46433d7d71a1?v=1d50c05a70144fbbaad2d62438da336e"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site notion list 访问等级1",
+        "title": "notion开源及收录优质notion创作者页面",
+        "url": "https://allaboutnotion.popsy.site/"
+    },{
+        "tags": "site blog list",
+        "title": "友链接力",
+        "url": "https://github.com/volfclub/travellings"
+    },{
+        "tags": "site tech-blog weekly",
+        "title": "liu-jun-ming",
+        "url": "http://liujunming.top/"
+    },{
+        "tags": "site github list blog",
+        "title": "rssblog",
+        "url": "https://github.com/caibingcheng/rssblog"
+    },{
+        "tags": "site dev tools",
+        "title": "regexlearn",
+        "url": "https://regexlearn.com/zh-cn"
+    },{
+        "tags": "site idea",
+        "title": "需求-微型创业",
+        "url": "https://www.microns.io/"
+    },{
+        "tags": "site misc",
+        "title": "礼物收集",
+        "url": "https://gatherbadger.com/"
+    },{
+        "tags": "site music",
+        "title": "focus-sounds 白噪音",
+        "url": "https://focus-sounds.vercel.app/"
+    },{
+        "tags": "site up github",
+        "title": "Free Project Course",
+        "url": "https://github.com/resumejob/free-project-course"
+    },{
+        "tags": "site tech-blog weekly",
+        "title": "4Ark x blog",
+        "url": "https://4ark.me/"
+    },{
+        "tags": "site UX",
+        "title": "access guide",
+        "url": "https://www.accessguide.io/"
+    },{
+        "tags": "site manual book guide",
+        "title": "开发者布道",
+        "url": "https://developer-advocacy.com/"
+    },{
+        "tags": "site tech-blog manual",
+        "title": "个人服务器运维指南",
+        "url": "https://shanyue.tech/op/"
+    },{
+        "tags": "site tech",
+        "title": "信息安全政策",
+        "url": "https://trustpage.com/directory"
+    },{
+        "tags": "site tech-blog",
+        "title": "zu1k",
+        "url": "https://zu1k.com/"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome-zsh-plugins",
+        "url": "https://github.com/unixorn/awesome-zsh-plugins"
+    },{
+        "tags": "site tech-blog",
+        "title": "咕咕鸽-折腾",
+        "url": "https://blog.laoda.de/"
+    },{
+        "tags": "site life",
+        "title": "什么值得买",
+        "url": "https://post.smzdm.com/tab/shuma/"
+    },{
+        "tags": "site github awesome",
+        "title": "Curated List of Awesome Github Topics",
+        "url": "https://www.gitlogs.com/awesome-topics"
+    },{
+        "tags": "site misc",
+        "title": "报告查一查",
+        "url": "https://report.seedsufe.com/index"
+    },{
+        "tags": "site search misc",
+        "title": "gif搜索",
+        "url": "http://www.weshineapp.com/"
+    },{
+        "tags": "site Mac",
+        "title": "open-source-mac-os-apps",
+        "url": "https://github.com/serhii-londar/open-source-mac-os-apps"
+    },{
+        "tags": "site misc",
+        "title": "Drive & Listen",
+        "url": "https://driveandlisten.herokuapp.com/"
+    },{
+        "tags": "site blog",
+        "title": "闲者时间",
+        "url": "https://xzsj.vip/"
+    },{
+        "tags": "site list misc",
+        "title": "203种效率方法 #productivitypatterns",
+        "url": "https://github.com/users/spatialresearch/projects/1/views/1"
     },{
         "tags": "site",
-        "title": "",
-        "url": ""
+        "title": "MDH 前端周刊",
+        "url": "https://www.yuque.com/mdh/weekly"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site music",
+        "title": "asoftmurmur-白噪音",
+        "url": "https://asoftmurmur.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site book",
+        "title": "SaltTiger-每天一本编程书",
+        "url": "https://salttiger.com/"
+    },{
+        "tags": "site Mac",
+        "title": "Mac软件搜索",
+        "url": "https://ourmacs.com/"
+    },{
+        "tags": "site wiki handbook",
+        "title": "OneKey handbook",
+        "url": "https://onekeyhq.atlassian.net/wiki/spaces/OC/pages/129761289/Handbook"
+    },{
+        "tags": "site tech-blog AI",
+        "title": "top-machine-learning-blogs",
+        "url": "https://www.theinsaneapp.com/2021/04/top-machine-learning-blogs-to-follow-in-2021.html"
+    },{
+        "tags": "site wiki tech doc manual",
+        "title": "IT知识库",
+        "url": "http://www.1os.top/it/index.html"
+    },{
+        "tags": "site misc doc",
+        "title": "语言的邀请",
+        "url": "https://dhbsfuhnfu.feishu.cn/docs/doccnQdzN2Op8nv7WLK53xFx46c#"
+    },{
+        "tags": "site Mac",
+        "title": "捷径盒",
+        "url": "http://jiejinghe.com/"
+    },{
+        "tags": "site 娱乐",
+        "title": "在线台球游戏",
+        "url": "http://www.heyzxz.me/pcol/"
+    },{
+        "tags": "site music search",
+        "title": "疯狂音乐搜索",
+        "url": "https://music.myepoch.cn/"
+    },{
+        "tags": "site 导航 design",
+        "title": "大作-设计网站",
+        "url": "https://www.bigbigwork.com/nav/4.html"
+    },{
+        "tags": "site github list",
+        "title": "personal-security-checklist",
+        "url": "https://github.com/Lissy93/personal-security-checklist"
+    },{
+        "tags": "site Mac",
+        "title": "Mac生产力工具链",
+        "url": "https://github.com/Louiszhai/tool"
+    },{
+        "tags": "site manual guide github todo",
+        "title": "bugstack 虫洞栈",
+        "url": "https://bugstack.cn/"
+    },{
+        "tags": "site github misc",
+        "title": "高频面试题",
+        "url": "https://osjobs.net/topk/"
+    },{
+        "tags": "site doc",
+        "title": "互联网最全黑话词典",
+        "url": "https://nujuo8y1qx.feishu.cn/docs/doccnGbXj47lGM1iqHk7L1UyW8p"
+    },{
+        "tags": "site github",
+        "title": "Coding Interview University",
+        "url": "https://github.com/jwasham/coding-interview-university/blob/main/translations/README-cn.md"
+    },{
+        "tags": "site github web",
+        "title": "all-of-frontend",
+        "url": "https://github.com/KieSun/all-of-frontend"
     }
 ]
 
