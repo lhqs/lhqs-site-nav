@@ -1912,7 +1912,7 @@
         "title": "GeeksforGeeks",
         "url": "https://www.geeksforgeeks.org/"
     },{
-        "tags": "site blog list 导航",
+        "tags": "site blog list 导航 高频访问",
         "title": "blog-hub",
         "url": "https://bloghub.fun/"
     },{
@@ -2060,7 +2060,7 @@
         "title": "Tech & VC: The foundation",
         "url": "https://www.notion.so/Tech-VC-The-Foundation-c6ad4b799aa4490dbe05b3d49c288aa3"
     },{
-        "tags": "site blog",
+        "tags": "site blog monthly",
         "title": "ScarSu",
         "url": "https://www.scarsu.com/"
     },{
@@ -3752,7 +3752,7 @@
         "title": "Improve how you architect webapps",
         "url": "https://www.patterns.dev/"
     },{
-        "tags": "site blog good",
+        "tags": "site blog good 访问等级1",
         "title": "KOTTKE.ORG  ♥  精美超文本产品之家",
         "url": "https://kottke.org/everfresh"
     },{
@@ -5336,7 +5336,7 @@
         "title": "wikifolder",
         "url": "https://tomcritchlow.com/wiki/"
     },{
-        "tags": "site top 创业",
+        "tags": "site 榜单 创业",
         "title": "公司排名",
         "url": "https://companiesmarketcap.com/"
     },{
@@ -6347,6 +6347,130 @@
         "tags": "site manual doc guide",
         "title": "Google 开源项目风格指南 ",
         "url": "https://zh-google-styleguide.readthedocs.io/en/latest/contents/#"
+    },{
+        "tags": "site Mac",
+        "title": "Apple 苹果产品参数中心",
+        "url": "http://www.onlineit.cn/apple/"
+    },{
+        "tags": "site tools",
+        "title": "Go File",
+        "url": "https://gofile.io/welcome"
+    },{
+        "tags": "site 娱乐",
+        "title": "小霸王游戏",
+        "url": "https://www.yikm.net/"
+    },{
+        "tags": "site wiki manual",
+        "title": "DarkTime技术笔记",
+        "url": "https://book.rizon.top/"
+    },{
+        "tags": "site english",
+        "title": "英语兔",
+        "url": "https://www.yingyutu.com/"
+    },{
+        "tags": "site read tech-blog tech",
+        "title": "黑客文章集合",
+        "url": "https://infosecwriteups.com/"
+    },{
+        "tags": "site todo tech",
+        "title": "现代游戏引擎：从入门到实践",
+        "url": "https://games104.boomingtech.com/sc/course-list/"
+    },{
+        "tags": "site yuque todo",
+        "title": "理论坞（思维模型/定律/法则/效应）",
+        "url": "https://www.yuque.com/theorywiki"
+    },{
+        "tags": "site forum",
+        "title": "测试之家",
+        "url": "https://testerhome.com/"
+    },{
+        "tags": "site forum",
+        "title": "w2solo-独立开发者社区",
+        "url": "https://w2solo.com/"
+    },{
+        "tags": "site forum",
+        "title": "go-cn社区",
+        "url": "https://gocn.vip/"
+    },{
+        "tags": "site rss blog list",
+        "title": "my-feed-OPML",
+        "url": "https://github.com/superleeyom/my-feed-OPML"
+    },{
+        "tags": "site tech-blog weekly",
+        "title": "Eson Wong's Blog",
+        "url": "https://blog.esonwong.com/"
+    },{
+        "tags": "site news 榜单 访问等级1",
+        "title": "rest of world-(Reporting Global Tech Stories)",
+        "url": "https://restofworld.org/"
+    },{
+        "tags": "site misc 访问等级1",
+        "title": "访谈系列",
+        "url": "https://usesthis.com/"
+    },{
+        "tags": "site rss list tech 高频访问 访问等级1",
+        "title": "Refined.blog：软件工程博客的 RSS 提要精选列表",
+        "url": "https://refined.blog/"
+    },{
+        "tags": "site 访问等级1",
+        "title": "The Type",
+        "url": "https://www.thetype.com/"
+    },{
+        "tags": "site rss",
+        "title": "优质RSS源",
+        "url": "https://zhuanlan.zhihu.com/p/472781319"
+    },{
+        "tags": "site github product todo dev",
+        "title": "Selfhosted tech starter pack ",
+        "url": "https://github.com/tldr-devops/startpack"
+    },{
+        "tags": "site 榜单 访问等级1",
+        "title": "Top Authors",
+        "url": "https://topauthors.xyz/"
+    },{
+        "tags": "site 榜单 访问等级1",
+        "title": "Top Medium Stories",
+        "url": "https://topmediumstories.com/"
+    },{
+        "tags": "site 榜单 访问等级1 daily 高频访问",
+        "title": "daily.dev",
+        "url": "https://app.daily.dev/"
+    },{
+        "tags": "site blog misc",
+        "title": "interviewing.io blog",
+        "url": "https://blog.interviewing.io/"
+    },{
+        "tags": "site 榜单 news",
+        "title": "toplab.today",
+        "url": "https://toplab.today/"
+    },{
+        "tags": "site rss",
+        "title": "2021 V2EX RSS 订阅分享",
+        "url": "https://www.v2ex.com/t/797787"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
