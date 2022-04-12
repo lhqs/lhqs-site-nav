@@ -840,7 +840,7 @@
         "title": "betterprogramming",
         "url": "https://betterprogramming.pub/"
     },{
-        "tags": "site tech weekly",
+        "tags": "site tech weekly design",
         "title": "web design",
         "url": "https://web-design-weekly.com/"
     },{
@@ -2532,7 +2532,7 @@
         "title": "brianlovin-bookmark",
         "url": "https://brianlovin.com/bookmarks"
     },{
-        "tags": "site tech-blog",
+        "tags": "site tech-blog 访问等级2",
         "title": "jiayuanzhang",
         "url": "http://blog.jiayuanzhang.com/"
     },{
@@ -6448,37 +6448,97 @@
         "title": "2021 V2EX RSS 订阅分享",
         "url": "https://www.v2ex.com/t/797787"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site book search",
+        "title": "lore free",
+        "url": "https://lorefree.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site english",
+        "title": "iDebate-辩论",
+        "url": "https://idebate.org/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site english",
+        "title": "teachertube",
+        "url": "https://www.teachertube.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site search",
+        "title": "Open Access数据期刊搜索",
+        "url": "https://www.oalib.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "Frontend Focus",
+        "url": "https://frontendfoc.us/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site design idea misc",
+        "title": "read.cv",
+        "url": "https://read.cv/explore"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site design",
+        "title": "Figma UI kits & Design systems",
+        "url": "https://setproduct.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "轻芒封面",
+        "url": "https://www.getrevue.co/profile/qingmang"
+    },{
+        "tags": "site design weekly",
+        "title": "Moonvy月球背面",
+        "url": "https://moonvy.com/blog/"
+    },{
+        "tags": "site newsletter",
+        "title": "桌沿奇思",
+        "url": "https://deskside.zhubai.love/"
+    },{
+        "tags": "site tech-blog",
+        "title": "RisingStack Blog",
+        "url": "https://blog.risingstack.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "Data Elixir 数据科学",
+        "url": "https://dataelixir.com/"
+    },{
+        "tags": "site github 次高频",
+        "title": "github explore",
+        "url": "https://github.com/explore"
+    },{
+        "tags": "site design",
+        "title": "uxcel",
+        "url": "https://app.uxcel.com/home"
+    },{
+        "tags": "site misc 访问等级2",
+        "title": "qishiya杂七杂八",
+        "url": "https://qishiya.com/"
+    },{
+        "tags": "site rss",
+        "title": "一些rss订阅源",
+        "url": "https://github.com/p7e4/ThirdPartyFeed"
+    },{
+        "tags": "site weekly",
+        "title": "SecWiki周刊",
+        "url": "https://www.sec-wiki.com/weekly/"
+    },{
+        "tags": "site github cheatsheet",
+        "title": "安全思维导图集合",
+        "url": "https://github.com/SecWiki/sec-chart"
+    },{
+        "tags": "site read list 访问等级1",
+        "title": "Mirror作者一览表",
+        "url": "https://zlexdl.notion.site/1b4570e7e46d47df93a751ab1444fd20?v=883751e330824b568a559e3dbd4c34b3"
+    },{
+        "tags": "site weely",
+        "title": "pattern(level up your skills)",
+        "url": "http://uipatterns.io/"
+    },{
+        "tags": "site tech-blog dev 访问等级2",
+        "title": "Decipher Zone blog",
+        "url": "https://www.decipherzone.com/blog"
+    },{
+        "tags": "site book doc",
+        "title": "操作系统导论",
+        "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/"
+    },{
+        "tags": "site 高频访问",
+        "title": "content ideas(Find the top performing content around the web)",
+        "url": "https://contentideas.io/"
     },{
         "tags": "site",
         "title": "",
