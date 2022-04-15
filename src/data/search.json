@@ -86,6 +86,10 @@
                 {
                     "title": "answers",
                     "url": "https://www.answers.com/search?q=${query}"
+                },
+                {
+                    "title": "YOU",
+                    "url": "https://you.com/search?q=${query}"
                 }
             ]
         },
