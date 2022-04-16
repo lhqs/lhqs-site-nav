@@ -193,6 +193,10 @@
             "tag": "云盘",
             "list": [
                 {
+                    "title": "阿里云盘资源搜索引擎",
+                    "url": "http://wanrenmi8.com/"
+                },
+                {
                     "title": "毕方铺",
                     "url": "https://www.iizhi.cn/resource/search/${query}"
                 },

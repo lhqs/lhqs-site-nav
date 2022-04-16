@@ -64,6 +64,10 @@
         "title": "QQ音乐",
         "url": "https://y.qq.com/"
     },{
+        "tags": "site music 账户",
+        "title": "Spotify",
+        "url": "https://open.spotify.com/"
+    },{
         "tags": "site osint 导航 高频访问",
         "title": "OSINT开源情报与侦察工具",
         "url": "https://www.osint-labs.org/tools/"
@@ -6591,6 +6595,78 @@
         "tags": "site doc",
         "title": "创业者必备税务常识",
         "url": "https://docs.qq.com/doc/DSk1vRmFaZ1VUS3dw"
+    },{
+        "tags": "site up",
+        "title": "thoughtbot upcase",
+        "url": "https://thoughtbot.com/upcase"
+    },{
+        "tags": "site tech-blog",
+        "title": "dunwu-database",
+        "url": "https://dunwu.github.io/blog/"
+    },{
+        "tags": "site 娱乐",
+        "title": "crazy games",
+        "url": "https://www.crazygames.com/"
+    },{
+        "tags": "site book search",
+        "title": "书籍知识库",
+        "url": "https://book.zhishikoo.com/"
+    },{
+        "tags": "site blog",
+        "title": "石头落地前",
+        "url": "https://levitating.blog/"
+    },{
+        "tags": "site github tech-blog doc",
+        "title": "lcomplete 的技术分享",
+        "url": "https://tech.codelc.com/"
+    },{
+        "tags": "site video",
+        "title": "omofun",
+        "url": "https://omofun.tv/"
+    },{
+        "tags": "site video",
+        "title": "森之屋（Senfun.net)",
+        "url": "https://www.senfun.net/"
+    },{
+        "tags": "site idea 访问等级1",
+        "title": "发现 IndieWeb 随机博客文章",
+        "url": "https://indieblog.page/"
+    },{
+        "tags": "site community search",
+        "title": "nitter-twitter",
+        "url": "https://nitter.net/"
+    },{
+        "tags": "site english",
+        "title": "ludwig句子搜索",
+        "url": "https://ludwig.guru/"
+    },{
+        "tags": "site search",
+        "title": "Andi搜索引擎",
+        "url": "https://andisearch.com"
+    },{
+        "tags": "site tech-blog",
+        "title": "The netflix tech blog",
+        "url": "https://netflixtechblog.com/"
+    },{
+        "tags": "site search",
+        "title": "Monocle 个人搜索引擎",
+        "url": "https://monocle.surge.sh/"
+    },{
+        "tags": "site up",
+        "title": "unity learn",
+        "url": "https://learn.unity.com/"
+    },{
+        "tags": "site 访问等级2",
+        "title": "公众号历史文章列表",
+        "url": "https://blog-susheng.vercel.app/"
+    },{
+        "tags": "site AI",
+        "title": "Deep Learning DIY",
+        "url": "https://dataflowr.github.io/website/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
