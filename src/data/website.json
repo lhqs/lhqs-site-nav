@@ -2380,7 +2380,7 @@
         "title": "awesome-console-services",
         "url": "https://github.com/chubin/awesome-console-services"
     },{
-        "tags": "site tech",
+        "tags": "site tech rss 访问等级2",
         "title": "unsafe",
         "url": "https://unsafe.sh/"
     },{
@@ -5408,7 +5408,7 @@
         "title": "T君T酱",
         "url": "https://space.bilibili.com/8188433"
     },{
-        "tags": "site tech-blog",
+        "tags": "site tech-blog doc todo",
         "title": "Lcomplte(good)",
         "url": "https://codelc.com/"
     },{
@@ -5648,7 +5648,7 @@
         "title": "核电站",
         "url": "https://0792z.blogspot.com"
     },{
-        "tags": "site read blog good todo",
+        "tags": "site read blog good 访问等级1 todo",
         "title": "TO-D 杂志",
         "url": "https://2d2d.io/"
     },{
@@ -6679,6 +6679,110 @@
         "tags": "site bilibili",
         "title": "《教父》解读",
         "url": "https://www.bilibili.com/video/BV1T5411Y78V"
+    },{
+        "tags": "site bilibili",
+        "title": "吸奇侠(up)",
+        "url": "https://space.bilibili.com/414350632/video?"
+    },{
+        "tags": "site github 账号",
+        "title": "lhqs(github)",
+        "url": "https://github.com/lhqs"
+    },{
+        "tags": "site github doc book",
+        "title": "计算传播学",
+        "url": "https://chengjun.github.io/mybook/index.html"
+    },{
+        "tags": "site dev",
+        "title": "Rust语言圣经(Rust Course)",
+        "url": "https://course.rs/about-book.html"
+    },{
+        "tags": "site tech-blog",
+        "title": "晴耕小筑",
+        "url": "https://morningspace.github.io/"
+    },{
+        "tags": "site github doc",
+        "title": "区块链黑暗森林自救手册",
+        "url": "https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook"
+    },{
+        "tags": "site english",
+        "title": "ludwig.guru-句子搜索引擎",
+        "url": "https://ludwig.guru/"
+    },{
+        "tags": "site manual",
+        "title": "Vim 手册",
+        "url": "https://yianwillis.github.io/vimcdoc/doc/help.html"
+    },{
+        "tags": "site doc manual",
+        "title": "openSUSE系统分析和优化指南",
+        "url": "https://thirdyouth.github.io/suse-system-tuning/index.html"
+    },{
+        "tags": "site doc manual todo tech",
+        "title": "进击的java菜鸟",
+        "url": "https://fhfirehuo.github.io/Attacking-Java-Rookie/"
+    },{
+        "tags": "site tech-blog",
+        "title": "WD's Blog-硬件",
+        "url": "https://did321.github.io/category/"
+    },{
+        "tags": "site doc",
+        "title": "计算机系统基础",
+        "url": "https://nju-projectn.github.io/ics-pa-gitbook/ics2022/index.html"
+    },{
+        "tags": "site tech-blog",
+        "title": "plantegg",
+        "url": "https://plantegg.github.io/"
+    },{
+        "tags": "site github",
+        "title": "interview-questions",
+        "url": "https://github.com/cloudnloud/interview-questions"
+    },{
+        "tags": "site misc",
+        "title": "疫情封控期物资信息共享互助平台",
+        "url": "https://helpshanghai.com/"
+    },{
+        "tags": "site tools github",
+        "title": "OCRmyPDF",
+        "url": "https://github.com/ocrmypdf/OCRmyPDF"
+    },{
+        "tags": "site guide",
+        "title": "无障碍创作工具指南",
+        "url": "https://w3c.github.io/ATAG20-auth-trans-zh/ATAG2.0translation"
+    },{
+        "tags": "site blog 访问等级2",
+        "title": "p0werdown 很",
+        "url": "https://p0werdown.com/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
