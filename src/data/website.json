@@ -3132,7 +3132,7 @@
         "title": "90days of DevOps",
         "url": "https://github.com/MichaelCade/90DaysOfDevOps"
     },{
-        "tags": "site dev",
+        "tags": "site dev daily 访问等级2",
         "title": "daily dev tips",
         "url": "https://daily-dev-tips.com/"
     },{
@@ -6783,6 +6783,58 @@
         "tags": "site search",
         "title": "neeva(ad-free, private)",
         "url": "https://neeva.com/"
+    },{
+        "tags": "site doc guide dev todo",
+        "title": "practical go lessons",
+        "url": "https://www.practical-go-lessons.com/"
+    },{
+        "tags": "site tech-blog",
+        "title": "云原生实验室",
+        "url": "https://icloudnative.io/"
+    },{
+        "tags": "site tech-blog 访问等级2",
+        "title": "MemoryStory-科技人生",
+        "url": "https://cnxiaobai.com/"
+    },{
+        "tags": "site misc",
+        "title": "资源搜索引擎合集",
+        "url": "https://www.iapps.me/archives/17832"
+    },{
+        "tags": "site github dev book",
+        "title": "计算机书籍分享",
+        "url": "https://github.com/cunyu1943/ebooks"
+    },{
+        "tags": "site misc",
+        "title": "算法题",
+        "url": "https://codetop.cc/home"
+    },{
+        "tags": "site UX design idea",
+        "title": "美叶",
+        "url": "https://www.meiye.art/inspiration/"
+    },{
+        "tags": "site doc",
+        "title": "Twitter Scala 教程",
+        "url": "https://zhichengchen.github.io/"
+    },{
+        "tags": "site web dev doc",
+        "title": "现代 JavaScript 教程",
+        "url": "https://zh.javascript.info/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
