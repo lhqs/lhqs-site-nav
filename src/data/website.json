@@ -4776,7 +4776,7 @@
         "title": "Simplest possible examples of HTML, CSS and Javascript",
         "url": "https://github.com/samdutton/simpl"
     },{
-        "tags": "site weekly newsletter",
+        "tags": "site weekly newsletter 次高频",
         "title": "DecoHack周刊",
         "url": "https://decohack.zhubai.love/"
     },{
@@ -5488,7 +5488,7 @@
         "title": "笨方法学写作",
         "url": "https://www.cnfeat.com/"
     },{
-        "tags": "site read",
+        "tags": "site read 访问等级1 todo",
         "title": "DYNOMIGHT ",
         "url": "https://dynomight.net/"
     },{
@@ -6108,7 +6108,7 @@
         "title": "awesome-zsh-plugins",
         "url": "https://github.com/unixorn/awesome-zsh-plugins"
     },{
-        "tags": "site tech-blog",
+        "tags": "site tech-blog todo",
         "title": "咕咕鸽-折腾",
         "url": "https://blog.laoda.de/"
     },{
@@ -6484,7 +6484,7 @@
         "title": "轻芒封面",
         "url": "https://www.getrevue.co/profile/qingmang"
     },{
-        "tags": "site design weekly",
+        "tags": "site design weekly design",
         "title": "Moonvy月球背面",
         "url": "https://moonvy.com/blog/"
     },{
@@ -6892,13 +6892,61 @@
         "title": "An Amateur Programmer's Blogs",
         "url": "https://dirtysalt.github.io/html/blogs.html"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog UX design 次高频",
+        "title": "龙爪槐守望者",
+        "url": "https://www.ftium4.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "Re:Play Newsletter",
+        "url": "https://www.getrevue.co/profile/replaycafe/add_subscriber"
+    },{
+        "tags": "site tools",
+        "title": "配色面板",
+        "url": "https://coolors.co/palettes/trending"
+    },{
+        "tags": "site doc misc todo",
+        "title": "PegasusWang 的读书杂记",
+        "url": "https://pegasuswang.readthedocs.io/zh/latest/"
+    },{
+        "tags": "site tools",
+        "title": "生成数据",
+        "url": "https://generatedata.com"
+    },{
+        "tags": "site github todo doc book",
+        "title": "《Designing Data-Intensive Application》DDIA中文翻译",
+        "url": "https://github.com/Vonng/ddia"
+    },{
+        "tags": "site dev 访问等级2",
+        "title": "开源问答",
+        "url": "https://www.oschina.net/question"
+    },{
+        "tags": "site tech",
+        "title": "web3caff",
+        "url": "https://web3caff.com/zh/"
+    },{
+        "tags": "site idea 发现 有趣",
+        "title": "StumbleUpon-For the best of the web",
+        "url": "https://www.stumbleupon.com/"
+    },{
+        "tags": "site news ",
+        "title": "slashdot",
+        "url": "https://slashdot.org/"
+    },{
+        "tags": "site 高频访问 ",
+        "title": "Website Hunt",
+        "url": "https://www.websitehunt.co/"
+    },{
+        "tags": "site design",
+        "title": "国内外知名企业设计系统",
+        "url": "https://www.yuque.com/emery/zg1vgc/designsystems"
+    },{
+        "tags": "site other misc",
+        "title": "nange.cn-好看的",
+        "url": "https://www.nange.cn/"
+    },{
+        "tags": "site tailwind",
+        "title": "HyperUI - 很棒",
+        "url": "https://www.hyperui.dev/"
     },{
         "tags": "site",
         "title": "",
