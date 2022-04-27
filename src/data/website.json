@@ -536,7 +536,7 @@
         "title": "虫部落",
         "url": "https://search.chongbuluo.com/"
     },{
-        "tags": "site wiki",
+        "tags": "site wiki life",
         "title": "wikiHow",
         "url": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5"
     },{
@@ -592,7 +592,7 @@
         "title": "奔跑中的奶酪",
         "url": "https://www.runningcheese.com/"
     },{
-        "tags": "site 导航",
+        "tags": "site 导航 idea",
         "title": "链接查找",
         "url": "https://linkfind.cn/"
     },{
@@ -600,7 +600,7 @@
         "title": "铜钟音乐",
         "url": "https://tonzhon.com/"
     },{
-        "tags": "site 导航",
+        "tags": "site 导航 dev",
         "title": "开发者导航",
         "url": "https://www.zdzn.net/"
     },{
@@ -844,7 +844,7 @@
         "title": "betterprogramming",
         "url": "https://betterprogramming.pub/"
     },{
-        "tags": "site tech weekly design",
+        "tags": "site tech weekly design 次高频",
         "title": "web design",
         "url": "https://web-design-weekly.com/"
     },{
@@ -4132,7 +4132,7 @@
         "title": "Learn to Code",
         "url": "https://www.w3schools.com/default.asp"
     },{
-        "tags": "site tech",
+        "tags": "site tech dev",
         "title": "DZone",
         "url": "https://dzone.com/"
     },{
@@ -5788,7 +5788,7 @@
         "title": "Arch Linux 安装使用教程",
         "url": "https://archlinuxstudio.github.io/ArchLinuxTutorial/#/"
     },{
-        "tags": "site product github idea tools",
+        "tags": "site product github idea tools todo",
         "title": "open source alternative to",
         "url": "https://www.opensourcealternative.to/"
     },{
@@ -6928,11 +6928,11 @@
         "title": "StumbleUpon-For the best of the web",
         "url": "https://www.stumbleupon.com/"
     },{
-        "tags": "site news ",
+        "tags": "site news",
         "title": "slashdot",
         "url": "https://slashdot.org/"
     },{
-        "tags": "site 高频访问 ",
+        "tags": "site 高频访问",
         "title": "Website Hunt",
         "url": "https://www.websitehunt.co/"
     },{
@@ -6948,17 +6948,113 @@
         "title": "HyperUI - 很棒",
         "url": "https://www.hyperui.dev/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site forum",
+        "title": "GameCores",
+        "url": "https://www.gcores.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site other",
+        "title": "free wechat",
+        "url": "https://freewechat.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 高频访问",
+        "title": "每日一文",
+        "url": "https://meiriyiwen.com/"
+    },{
+        "tags": "site blog 访问等级2",
+        "title": "Random thoughts",
+        "url": "https://blog.joway.io/"
+    },{
+        "tags": "site tech-blog",
+        "title": "我的小米粥分你一半",
+        "url": "https://corvo.myseu.cn/"
+    },{
+        "tags": "site 发现 product tools",
+        "title": "只读",
+        "url": "http://www.rdonly.com/"
+    },{
+        "tags": "site idea 导航",
+        "title": "创意导航",
+        "url": "https://creativemass.cn/#/"
+    },{
+        "tags": "site blog newsletter 访问等级2",
+        "title": "dsebastien",
+        "url": "https://dsebastien.net/"
+    },{
+        "tags": "site newsletter",
+        "title": "DeveloPassion's Newsletter - PKM",
+        "url": "https://newsletter.dsebastien.net/"
+    },{
+        "tags": "site weekly",
+        "title": "PKM Weekly",
+        "url": "https://curtismchale.ca/category/pkm-weekly/"
+    },{
+        "tags": "site misc",
+        "title": "r/PersonalKnowledgeMgmt",
+        "url": "https://www.reddit.com/r/PersonalKnowledgeMgmt/"
+    },{
+        "tags": "site tech-blog 高频访问",
+        "title": "diff blog",
+        "url": "https://diff.blog/"
+    },{
+        "tags": "site tech",
+        "title": "Java67",
+        "url": "https://www.java67.com/"
+    },{
+        "tags": "site tech",
+        "title": "Javarevisited",
+        "url": "https://javarevisited.blogspot.com/"
+    },{
+        "tags": "site weekly newsletter",
+        "title": "Design Scenes Weekly",
+        "url": "https://designscenes.zhubai.love/"
+    },{
+        "tags": "site tech-blog",
+        "title": "slack.engineering",
+        "url": "https://slack.engineering/"
+    },{
+        "tags": "site tech 访问等级1",
+        "title": "thenextweb",
+        "url": "https://thenextweb.com/"
+    },{
+        "tags": "site book search",
+        "title": "文渊阁",
+        "url": "https://wenyuange.org/"
+    },{
+        "tags": "site web dev tailwind",
+        "title": "Enjoy the DOM. Write Apling JS",
+        "url": "https://www.hyperjs.dev/"
+    },{
+        "tags": "site doc web dev",
+        "title": "React技术揭秘",
+        "url": "https://react.iamkasong.com/"
+    },{
+        "tags": "site product tools",
+        "title": "apps.net",
+        "url": "https://zh.altapps.net/"
+    },{
+        "tags": "site search",
+        "title": "SimilarSites",
+        "url": "https://www.similarsites.com/"
+    },{
+        "tags": "site tools",
+        "title": "Privacy Tools",
+        "url": "https://www.privacytools.io/"
+    },{
+        "tags": "site read",
+        "title": "The Indiependent",
+        "url": "https://www.indiependent.co.uk/"
+    },{
+        "tags": "site design web",
+        "title": "hecklist.design",
+        "url": "https://www.checklist.design/"
+    },{
+        "tags": "site web dev idea design",
+        "title": "Daily Landing Page inspirations",
+        "url": "https://landingpage.fyi/index.html"
+    },{
+        "tags": "site blog read 访问等级1",
+        "title": "冰哥笔记",
+        "url": "https://www.bgbiji.com/"
     },{
         "tags": "site",
         "title": "",
