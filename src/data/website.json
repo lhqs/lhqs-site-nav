@@ -1376,7 +1376,7 @@
         "title": "软件测试周刊",
         "url": "https://www.yuque.com/bxiaofan/testingweekly"
     },{
-        "tags": "site doc",
+        "tags": "site tech dev doc",
         "title": "LeetCode Cookbook",
         "url": "https://books.halfrost.com/leetcode/"
     },{
@@ -5468,7 +5468,7 @@
         "title": "The Greenfeld Letter",
         "url": "https://www.getrevue.co/profile/greenfeld"
     },{
-        "tags": "site github product",
+        "tags": "site github product idea todo",
         "title": "Open-source alternatives",
         "url": "https://opensource.builders/"
     },{
@@ -7055,6 +7055,118 @@
         "tags": "site blog read 访问等级1",
         "title": "冰哥笔记",
         "url": "https://www.bgbiji.com/"
+    },{
+        "tags": "site doc misc up",
+        "title": "DAO 从入门到精通（六大阶段）",
+        "url": "https://docs.google.com/spreadsheets/d/1MFnN8eoPl_LK0M4kao-QJfY5z05bhNAMzgD-OLBPUo4/edit?usp=sharing"
+    },{
+        "tags": "site misc",
+        "title": "goods.wtf",
+        "url": "https://goods.wtf/"
+    },{
+        "tags": "site UX misc",
+        "title": "Nielsen Norman Group",
+        "url": "https://www.nngroup.com/"
+    },{
+        "tags": "site misc",
+        "title": "minimalissimo-极简",
+        "url": "https://minimalissimo.com/"
+    },{
+        "tags": "site misc",
+        "title": "芒格学院",
+        "url": "https://www.madewill.com/"
+    },{
+        "tags": "site tech up",
+        "title": "Google Learning Path",
+        "url": "https://www.cloudskillsboost.google/paths"
+    },{
+        "tags": "site doc AI",
+        "title": "推荐算法FunRec",
+        "url": "https://datawhalechina.github.io/fun-rec/#/"
+    },{
+        "tags": "site doc book misc github",
+        "title": "树莓派编程实用教程",
+        "url": "https://github.com/wxlscm/raspberry_tutorial"
+    },{
+        "tags": "site 导航 search resource",
+        "title": "网盘搜索导航",
+        "url": "https://www.chaonengso.com/"
+    },{
+        "tags": "site notion product",
+        "title": "犬校精华贴 2018-2019",
+        "url": "https://firecicada.me/2018-2019-00d2afab8bbe4a4bbdb9811f884ba1da"
+    },{
+        "tags": "site dev cheatsheet",
+        "title": "API Reference Document",
+        "url": "https://www.apiref.com/"
+    },{
+        "tags": "site 娱乐",
+        "title": "只是网页游戏",
+        "url": "https://merely.xyz/games/"
+    },{
+        "tags": "site tech-blog 访问等级2",
+        "title": "DKB",
+        "url": "https://dkb.io/"
+    },{
+        "tags": "site notion",
+        "title": "自说自话 Weekly Review ",
+        "url": "https://landisland084.notion.site/landisland084/Weekly-Review-48ab9a92d3264845a4432bfa18292a0e"
+    },{
+        "tags": "site doc book",
+        "title": "FreeBSD handbook",
+        "url": "https://book.freebsdcn.org/"
+    },{
+        "tags": "site tech-blog doc",
+        "title": "Linux操作系统内核学习",
+        "url": "https://ty-chen.github.io/categories/Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0/"
+    },{
+        "tags": "site github awesome AI",
+        "title": "best-of-ml-python",
+        "url": "https://github.com/ml-tooling/best-of-ml-python"
+    },{
+        "tags": "site doc book dev",
+        "title": "learn-go-with-tests",
+        "url": "https://quii.gitbook.io/learn-go-with-tests/"
+    },{
+        "tags": "site video",
+        "title": "odysee",
+        "url": "https://odysee.com/"
+    },{
+        "tags": "site tools",
+        "title": "chalkist 代码截图",
+        "url": "https://chalk.ist/"
+    },{
+        "tags": "site web github dev",
+        "title": "free-Web3-resources",
+        "url": "https://github.com/FrancescoXX/free-Web3-resources"
+    },{
+        "tags": "site tech dev",
+        "title": "h4cker.org",
+        "url": "https://github.com/The-Art-of-Hacking/h4cker/"
+    },{
+        "tags": "site newsletter weekly import",
+        "title": "Homescreen-精心策划的新闻和资源",
+        "url": "https://homescreen.beehiiv.com/"
+    },{
+        "tags": "site tech-blog",
+        "title": "小杰博士的博客",
+        "url": "http://www.xiaojieboshi.com/"
+    },{
+        "tags": "site data",
+        "title": "raidforums2",
+        "url": "https://raidforums2.com/"
+    },{
+        "tags": "site dev todo doc",
+        "title": "衡量软件开发生产力",
+        "url": "https://www.swarmia.com/blog/measuring-software-development-productivity/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
