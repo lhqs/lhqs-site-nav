@@ -168,6 +168,10 @@
                 {
                     "title": "学术搜索",
                     "url": "https://www.aminer.cn/"
+                },
+                {
+                    "title": "Reddit",
+                    "url": "https://www.reddit.com/search/?q={query}"
                 }
 
             ]
@@ -374,7 +378,20 @@
                 {
                     "title": "cheat.sh",
                     "url": "https://cheat.sh/${query}"
+                },
+                {
+                    "title": "Hacker News",
+                    "url": "https://hn.algolia.com/?q={query}"
+                },
+                {
+                    "title": "StackExchange",
+                    "url": "https://unix.stackexchange.com/search?q={query}"
+                },
+                {
+                    "title": "superuser",
+                    "url": "https://superuser.com/search?q={query}"
                 }
+
 
             ]
         },
@@ -586,7 +603,7 @@
                 },
                 {
                     "title": "反向词典",
-                    "url": "https://wantwords.thunlp.org/"
+                    "url": "https://wantwords.net/"
                 },
                 {
                     "title": "表情包搜索",
@@ -925,10 +942,6 @@
 
             ]
         }
-
-
-
-
 
     ]
 }

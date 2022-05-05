@@ -256,15 +256,15 @@
         "title": "codepen.io",
         "url": "https://codepen.io/trending"
     },{
-        "tags": "site tech doc manual todo 访问等级1",
+        "tags": "site tech doc manual todo level1",
         "title": "Java 全栈知识体系",
         "url": "https://www.pdai.tech/"
     },{
-        "tags": "site tech doc manual 访问等级1 github todo",
+        "tags": "site tech doc manual level1 github todo",
         "title": "凤凰架构",
         "url": "https://icyfenix.cn/"
     },{
-        "tags": "site tech doc 访问等级1 github todo",
+        "tags": "site tech doc level1 github todo",
         "title": "Java工程师进阶",
         "url": "https://doocs.gitee.io/advanced-java/#/"
     },{
@@ -480,7 +480,7 @@
         "title": "资源众筹",
         "url": "http://001.staragain168.com/"
     },{
-        "tags": "site wiki up 访问等级1 todo",
+        "tags": "site wiki up level1 todo",
         "title": "Everything I know",
         "url": "https://wiki.nikitavoloboev.xyz/"
     },{
@@ -488,7 +488,7 @@
         "title": "dba notes",
         "url": "https://dbanotes.net/"
     },{
-        "tags": "site import github awesome idea 访问等级1",
+        "tags": "site import github awesome idea level1",
         "title": "超赞合集 awesome-list-chinese",
         "url": "https://asmcn.icopy.site/"
     },{
@@ -680,7 +680,7 @@
         "title": "大数据导航",
         "url": "http://hao.199it.com/"
     },{
-        "tags": "site news community 发现 访问等级1 高频访问",
+        "tags": "site news community 发现 level1 高频访问",
         "title": "Hacker News",
         "url": "https://news.ycombinator.com/"
     },{
@@ -884,11 +884,11 @@
         "title": "daily.dev",
         "url": "https://app.daily.dev/"
     },{
-        "tags": "site weekly 访问等级1",
+        "tags": "site weekly level1",
         "title": "科技爱好者周刊",
         "url": "https://www.ruanyifeng.com/blog/weekly/"
     },{
-        "tags": "site 访问等级2 yuque newsletter",
+        "tags": "site level2 yuque newsletter",
         "title": "🏰 城堡阅读周刊",
         "url": "https://www.yuque.com/gaohui-bdaa2/chengbao"
     },{
@@ -896,7 +896,7 @@
         "title": "纳瓦尔宝典：财富和幸福指南",
         "url": "https://www.yuque.com/qingmiyang/naval"
     },{
-        "tags": "site yuque weekly 访问等级1",
+        "tags": "site yuque weekly level1",
         "title": "体验碎周报",
         "url": "https://www.yuque.com/ftium4/gs2tgp"
     },{
@@ -978,7 +978,7 @@
     },{
         "tags": "site newsletter list 导航 高频访问",
         "title": "博客简报导航",
-        "url": "https://www.podletter.club"
+        "url": "https://www.podletter.club/"
     },{
         "tags": "site newsletter weekly product",
         "title": "海上星光",
@@ -1006,7 +1006,7 @@
     },{
         "tags": "site newsletter list import 高频访问",
         "title": "Hedwing",
-        "url": "https://hedwig.pub"
+        "url": "https://hedwig.pub/"
     },{
         "tags": "site newsletter product",
         "title": "产品沉思录",
@@ -1068,11 +1068,11 @@
         "title": "小胖の窝",
         "url": "https://littlefat.cn/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter 次高频 blog",
         "title": "白宇极",
         "url": "https://yestoday.substack.com/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter weekly",
         "title": "事不过三",
         "url": "https://via.hedwig.pub/"
     },{
@@ -1164,7 +1164,7 @@
         "title": "1000小食报",
         "url": "https://young.zhubai.love/"
     },{
-        "tags": "site newsletter 访问等级2",
+        "tags": "site newsletter level2",
         "title": "精选日报",
         "url": "https://zhiy.cc/daynews"
     },{
@@ -1172,11 +1172,11 @@
         "title": "刻意体会",
         "url": "https://kyth.hedwig.pub/"
     },{
-        "tags": "site newsletter 访问等级1",
+        "tags": "site newsletter level1",
         "title": "苔原通信",
         "url": "https://tundrazone.com/dingyue/"
     },{
-        "tags": "site newsletter 访问等级1",
+        "tags": "site newsletter level1",
         "title": "Λ-Reading",
         "url": "https://rizime.substack.com/"
     },{
@@ -1192,19 +1192,19 @@
         "title": "我的社群成长札记",
         "url": "https://zhiy.cc/communitynote"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter weekly",
         "title": "Free Weekly Productivity Insights",
         "url": "https://aliabdaal.com/newsletter/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter blog",
         "title": "小叉的梦呓",
         "url": "https://chasays.hedwig.pub/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter tech-blog",
         "title": "酷 壳 – CoolShell",
         "url": "https://coolshell.cn/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter weekly level1",
         "title": "The 3-2-1 Newsletter",
         "url": "https://jamesclear.com/3-2-1"
     },{
@@ -1368,9 +1368,9 @@
         "title": "十年之约-blog列表",
         "url": "https://www.foreverblog.cn/blogs.html"
     },{
-        "tags": "site blog 导航",
+        "tags": "site blog 导航 list",
         "title": "优秀个人独立博客导航",
-        "url": "http://www.jetli.com.cn"
+        "url": "http://www.jetli.com.cn/"
     },{
         "tags": "site yuque weekly",
         "title": "软件测试周刊",
@@ -1544,7 +1544,7 @@
         "title": "心理学网址导航",
         "url": "https://www.psychspace.com/site/"
     },{
-        "tags": "site import daily 访问等级1",
+        "tags": "site import daily level1",
         "title": "印象识堂",
         "url": "https://www.yinxiang.com/everhub/"
     },{
@@ -1568,7 +1568,7 @@
         "title": "互联网地图",
         "url": "http://internet-map.net/"
     },{
-        "tags": "site newsletter 阅读等级2",
+        "tags": "site newsletter level2",
         "title": "湾区日报",
         "url": "https://wanqu.co/"
     },{
@@ -2144,7 +2144,7 @@
         "title": "关于密码工程的几点思考",
         "url": "https://blog.cryptographyengineering.com/"
     },{
-        "tags": "site newsletter 访问等级1",
+        "tags": "site newsletter level1",
         "title": "Every",
         "url": "https://every.to/"
     },{
@@ -2260,7 +2260,7 @@
         "title": "GeekPlux Lab",
         "url": "https://geekplux.zhubai.love/"
     },{
-        "tags": "site tech-blog 访问等级2",
+        "tags": "site tech-blog level2",
         "title": "The Pragmatic Engineer",
         "url": "https://blog.pragmaticengineer.com/"
     },{
@@ -2380,7 +2380,7 @@
         "title": "awesome-console-services",
         "url": "https://github.com/chubin/awesome-console-services"
     },{
-        "tags": "site tech rss 访问等级2",
+        "tags": "site tech rss level2",
         "title": "unsafe",
         "url": "https://unsafe.sh/"
     },{
@@ -2512,7 +2512,7 @@
         "title": "变更日志demo",
         "url": "https://www.changelogs.gallery/"
     },{
-        "tags": "site blog import good 次高频 访问等级2",
+        "tags": "site blog import good 次高频 level2",
         "title": "brianlovin(good)",
         "url": "https://brianlovin.com/"
     },{
@@ -2536,7 +2536,7 @@
         "title": "brianlovin-bookmark",
         "url": "https://brianlovin.com/bookmarks"
     },{
-        "tags": "site tech-blog 访问等级2",
+        "tags": "site tech-blog level2",
         "title": "jiayuanzhang",
         "url": "http://blog.jiayuanzhang.com/"
     },{
@@ -2592,7 +2592,7 @@
         "title": "ben balter",
         "url": "https://ben.balter.com/"
     },{
-        "tags": "site notion blog 访问等级2",
+        "tags": "site notion blog level2",
         "title": "Joe 的折腾日记",
         "url": "https://www.notion.so/Joe-2a85f5be01004cd2b6a5ad26fbb948b1"
     },{
@@ -3132,7 +3132,7 @@
         "title": "90days of DevOps",
         "url": "https://github.com/MichaelCade/90DaysOfDevOps"
     },{
-        "tags": "site dev daily 访问等级2",
+        "tags": "site dev daily level2",
         "title": "daily dev tips",
         "url": "https://daily-dev-tips.com/"
     },{
@@ -3656,7 +3656,7 @@
         "title": "HTML <head> elements",
         "url": "https://github.com/joshbuchea/head"
     },{
-        "tags": "site read 未分类 次高频",
+        "tags": "site read 未分类 高频访问",
         "title": "Smashing magazine",
         "url": "https://www.smashingmagazine.com/"
     },{
@@ -3664,7 +3664,7 @@
         "title": "9TO5Mac",
         "url": "https://9to5mac.com/"
     },{
-        "tags": "site blog special 次高频 访问等级1",
+        "tags": "site blog special 次高频 level1",
         "title": "Paul Graham is a programmer, writer, and investor",
         "url": "http://paulgraham.com/index.html"
     },{
@@ -3756,7 +3756,7 @@
         "title": "Improve how you architect webapps",
         "url": "https://www.patterns.dev/"
     },{
-        "tags": "site blog good 访问等级1",
+        "tags": "site blog good level1",
         "title": "KOTTKE.ORG  ♥  精美超文本产品之家",
         "url": "https://kottke.org/everfresh"
     },{
@@ -3824,7 +3824,7 @@
         "title": "MacRumors",
         "url": "https://www.macrumors.com/"
     },{
-        "tags": "site good 次高频",
+        "tags": "site good 次高频 misc",
         "title": "Awwwards - Website Awards - Best Web Design Trends",
         "url": "https://www.awwwards.com"
     },{
@@ -4308,7 +4308,7 @@
         "title": "阿里云数据库内核月报分类整理",
         "url": "https://github.com/tangwz/db-monthly"
     },{
-        "tags": "site weekly product 访问等级1",
+        "tags": "site weekly product level1",
         "title": "产品变现周刊",
         "url": "https://www.ezindie.com/weekly"
     },{
@@ -4528,7 +4528,7 @@
         "title": "The Architecture of Open Source Applications ",
         "url": "https://www.kawabangga.com/collection"
     },{
-        "tags": "site blog special todo 访问等级2",
+        "tags": "site blog special todo level2",
         "title": "卡瓦邦噶",
         "url": "https://www.kawabangga.com/wish"
     },{
@@ -4556,7 +4556,7 @@
         "title": "硬核小卒blog",
         "url": "https://github.com/jacksonwuu/blog"
     },{
-        "tags": "site tech-blog todo 访问等级1",
+        "tags": "site tech-blog todo level1",
         "title": "程序员的喵",
         "url": "https://catcoding.me/"
     },{
@@ -4744,7 +4744,7 @@
         "title": "lorefree",
         "url": "https://ebook2.lorefree.com"
     },{
-        "tags": "site newsletter 访问等级2",
+        "tags": "site newsletter level2",
         "title": "Roam 漫游研究所",
         "url": "https://jimmylv.substack.com/"
     },{
@@ -4872,7 +4872,7 @@
         "title": "thinkstack(tool for thought)",
         "url": "https://thinkstack.club/"
     },{
-        "tags": "site daily newsletter 访问等级1",
+        "tags": "site daily newsletter level1",
         "title": "stratechery",
         "url": "https://stratechery.com/"
     },{
@@ -5056,7 +5056,7 @@
         "title": "随机网站",
         "url": "https://sharkle.com/"
     },{
-        "tags": "site news 访问等级2",
+        "tags": "site news level2",
         "title": "recomend",
         "url": "https://archive.recomendo.com/"
     },{
@@ -5072,7 +5072,7 @@
         "title": "kubeweekly",
         "url": "https://www.cncf.io/kubeweekly/"
     },{
-        "tags": "site 未分类 访问等级2",
+        "tags": "site 未分类 level2",
         "title": "big think",
         "url": "https://bigthink.com/"
     },{
@@ -5080,7 +5080,7 @@
         "title": "EMOJI中文网",
         "url": "https://www.emojiall.com/"
     },{
-        "tags": "site tech dev list 高频访问 访问等级1 forum",
+        "tags": "site tech dev list 高频访问 level1 forum",
         "title": "Lobsters",
         "url": "https://lobste.rs/active"
     },{
@@ -5088,11 +5088,11 @@
         "title": "thepodluckclub",
         "url": "https://thepodluckclub.com/weekly/"
     },{
-        "tags": "site blog search 次高频",
+        "tags": "site blog search 次高频 list",
         "title": "Qualiticle",
         "url": "https://q.krytro.com/"
     },{
-        "tags": "site tech-blog good tech list 访问等级1",
+        "tags": "site tech-blog good tech list level1",
         "title": "聚客盒 - 聚合程序员博客的宝盒",
         "url": "https://jukebox.pipecraft.net/"
     },{
@@ -5148,11 +5148,11 @@
         "title": "Nikita Voloboev's Look Backs",
         "url": "https://buttondown.email/nikitavoloboev/archive/"
     },{
-        "tags": "site github awesome list 访问等级1",
+        "tags": "site github awesome list level1",
         "title": "lists",
         "url": "https://github.com/jnv/lists"
     },{
-        "tags": "site awesome github blog 访问等级2",
+        "tags": "site awesome github blog level2",
         "title": "blogs",
         "url": "https://github.com/learn-anything/blogs"
     },{
@@ -5176,7 +5176,7 @@
         "title": "设计数据密集型应用 - 中文翻译",
         "url": "https://vonng.gitbooks.io/ddia-cn/content/"
     },{
-        "tags": "site blog 阅读等级3",
+        "tags": "site blog level3",
         "title": "李雪含",
         "url": "https://dajiayouxuan.com/"
     },{
@@ -5208,7 +5208,7 @@
         "title": "naming-cheatsheet",
         "url": "https://github.com/kettanaito/naming-cheatsheet"
     },{
-        "tags": "site github 访问等级1",
+        "tags": "site github level1",
         "title": "GitHub 热点速览",
         "url": "https://www.cnblogs.com/xueweihan/"
     },{
@@ -5240,7 +5240,7 @@
         "title": "mergeek",
         "url": "https://mergeek.com/"
     },{
-        "tags": "site product 访问等级1",
+        "tags": "site product level1",
         "title": "产品沉思录（精选） ProductThinking",
         "url": "https://index.pmthinking.com/"
     },{
@@ -5252,11 +5252,11 @@
         "title": "the component gallery —— 设计系统、组件收集",
         "url": "https://component.gallery"
     },{
-        "tags": "site blog weekly 访问等级2",
+        "tags": "site blog weekly level2",
         "title": "Commonplace - business and career decision(隐形知识)",
         "url": "https://commoncog.com/blog/"
     },{
-        "tags": "site weekly newsletter daily 访问等级1",
+        "tags": "site weekly newsletter daily level1",
         "title": "Pinfive.Today 每天分享 5 篇优质文章",
         "url": "https://pinfive.today/"
     },{
@@ -5284,7 +5284,7 @@
         "title": "startup ideas",
         "url": "https://www.google.com/search?client=firefox-b-d&q=%22startup+ideas%22"
     },{
-        "tags": "site blog search 访问等级1",
+        "tags": "site blog search level1",
         "title": "Blog Search Engine",
         "url": "https://blogsurf.io/"
     },{
@@ -5324,7 +5324,7 @@
         "title": "code catalog",
         "url": "https://codecatalog.org/"
     },{
-        "tags": "site list wiki idea github 访问等级1",
+        "tags": "site list wiki idea github level1",
         "title": "Second-Brain",
         "url": "https://github.com/KasperZutterman/Second-Brain"
     },{
@@ -5424,7 +5424,7 @@
         "title": "real life",
         "url": "https://reallifemag.com/"
     },{
-        "tags": "site newsletter weekly 访问等级1",
+        "tags": "site newsletter weekly level1",
         "title": "野生架构师",
         "url": "https://www.getrevue.co/profile/lcomplete"
     },{
@@ -5464,7 +5464,7 @@
         "title": "akob Greenfeld",
         "url": "https://jakobgreenfeld.com/essays/"
     },{
-        "tags": "site newsletter 访问等级3",
+        "tags": "site newsletter level3",
         "title": "The Greenfeld Letter",
         "url": "https://www.getrevue.co/profile/greenfeld"
     },{
@@ -5488,7 +5488,7 @@
         "title": "笨方法学写作",
         "url": "https://www.cnfeat.com/"
     },{
-        "tags": "site read 访问等级1 todo",
+        "tags": "site read level1 todo",
         "title": "DYNOMIGHT ",
         "url": "https://dynomight.net/"
     },{
@@ -5500,7 +5500,7 @@
         "title": "棱镜通讯",
         "url": "https://www.wangyurui.top"
     },{
-        "tags": "site notion misc 访问等级2",
+        "tags": "site notion misc level2",
         "title": "https://wangyurui.notion.site/Ludwig-faeaabbf01394a33bfa5638a9a37f74a",
         "url": "Ludwigの生活觀察"
     },{
@@ -5568,7 +5568,7 @@
         "title": "春小喜",
         "url": "https://xiaoxii.notion.site/xiaoxii/be1bd22c28ae4639946238c00e15dbd1"
     },{
-        "tags": "site blog 访问等级1",
+        "tags": "site blog level1",
         "title": "叶星优酸乳",
         "url": "https://weiyexing.ml/"
     },{
@@ -5576,7 +5576,7 @@
         "title": "Elizen",
         "url": "https://elizen.me/"
     },{
-        "tags": "site blog 访问等级1",
+        "tags": "site blog level1",
         "title": "Pxiaoer's Blog",
         "url": "https://pxiaoer.blog/about/"
     },{
@@ -5644,11 +5644,11 @@
         "title": "趣乐兔",
         "url": "https://funletu.com/"
     },{
-        "tags": "site special todo read 访问等级1",
+        "tags": "site special todo read level1",
         "title": "核电站",
         "url": "https://0792z.blogspot.com"
     },{
-        "tags": "site read blog good 访问等级1 todo",
+        "tags": "site read blog good level1 todo",
         "title": "TO-D 杂志",
         "url": "https://2d2d.io/"
     },{
@@ -5664,7 +5664,7 @@
         "title": "awesome things",
         "url": "https://www.getrevue.co/profile/johnsuder"
     },{
-        "tags": "site wiki misc 访问等级1",
+        "tags": "site wiki misc level1",
         "title": "凯文 digital garden",
         "url": "https://www.kevinslin.com/"
     },{
@@ -5704,7 +5704,7 @@
         "title": "ZetCode 中文系列教程",
         "url": "https://zetcode.apachecn.org/#/"
     },{
-        "tags": "site yuque daily 访问等级2",
+        "tags": "site yuque daily level2",
         "title": "每日听书",
         "url": "https://www.yuque.com/qhjs/book"
     },{
@@ -5748,7 +5748,7 @@
         "title": "leadership",
         "url": "https://leadership.garden/"
     },{
-        "tags": "site weekly 访问等级1",
+        "tags": "site weekly level1",
         "title": "DecoHack - 独立开发者的灵感周刊",
         "url": "https://www.decohack.com/"
     },{
@@ -5824,7 +5824,7 @@
         "title": "单词记忆",
         "url": "https://qwerty.kaiyi.cool/"
     },{
-        "tags": "site blog 访问等级2",
+        "tags": "site blog level2",
         "title": "productive programmer",
         "url": "https://codewithoutrules.com/"
     },{
@@ -6044,7 +6044,7 @@
         "title": "Citaldel 文章收藏",
         "url": "https://www.notion.so/4900d9878d7c4c3c974c46433d7d71a1?v=1d50c05a70144fbbaad2d62438da336e"
     },{
-        "tags": "site notion list 访问等级1",
+        "tags": "site notion list level1",
         "title": "notion开源及收录优质notion创作者页面",
         "url": "https://allaboutnotion.popsy.site/"
     },{
@@ -6404,19 +6404,19 @@
         "title": "Eson Wong's Blog",
         "url": "https://blog.esonwong.com/"
     },{
-        "tags": "site news 榜单 访问等级1",
+        "tags": "site news 榜单 level1",
         "title": "rest of world-(Reporting Global Tech Stories)",
         "url": "https://restofworld.org/"
     },{
-        "tags": "site misc 访问等级1",
+        "tags": "site misc level1",
         "title": "访谈系列",
         "url": "https://usesthis.com/"
     },{
-        "tags": "site rss list tech 高频访问 访问等级1",
+        "tags": "site rss list tech 高频访问 level1",
         "title": "Refined.blog：软件工程博客的 RSS 提要精选列表",
         "url": "https://refined.blog/"
     },{
-        "tags": "site 访问等级1",
+        "tags": "site level1",
         "title": "The Type",
         "url": "https://www.thetype.com/"
     },{
@@ -6428,15 +6428,15 @@
         "title": "Selfhosted tech starter pack ",
         "url": "https://github.com/tldr-devops/startpack"
     },{
-        "tags": "site 榜单 访问等级1",
+        "tags": "site 榜单 level1",
         "title": "Top Authors",
         "url": "https://topauthors.xyz/"
     },{
-        "tags": "site 榜单 访问等级1",
+        "tags": "site 榜单 level1",
         "title": "Top Medium Stories",
         "url": "https://topmediumstories.com/"
     },{
-        "tags": "site 榜单 访问等级1 daily 高频访问",
+        "tags": "site 榜单 level1 daily 高频访问",
         "title": "daily.dev",
         "url": "https://app.daily.dev/"
     },{
@@ -6508,7 +6508,7 @@
         "title": "uxcel",
         "url": "https://app.uxcel.com/home"
     },{
-        "tags": "site misc 访问等级2",
+        "tags": "site misc level2",
         "title": "qishiya杂七杂八",
         "url": "https://qishiya.com/"
     },{
@@ -6524,7 +6524,7 @@
         "title": "安全思维导图集合",
         "url": "https://github.com/SecWiki/sec-chart"
     },{
-        "tags": "site read list 访问等级1",
+        "tags": "site read list level1",
         "title": "Mirror作者一览表",
         "url": "https://zlexdl.notion.site/1b4570e7e46d47df93a751ab1444fd20?v=883751e330824b568a559e3dbd4c34b3"
     },{
@@ -6532,7 +6532,7 @@
         "title": "pattern(level up your skills)",
         "url": "http://uipatterns.io/"
     },{
-        "tags": "site tech-blog dev 访问等级2",
+        "tags": "site tech-blog dev level2",
         "title": "Decipher Zone blog",
         "url": "https://www.decipherzone.com/blog"
     },{
@@ -6556,7 +6556,7 @@
         "title": "动手学深度学习",
         "url": "https://zh.d2l.ai/"
     },{
-        "tags": "site newsletter weekly 访问等级1",
+        "tags": "site newsletter weekly level1",
         "title": "野生架构师",
         "url": "http://weekly.codelc.com"
     },{
@@ -6580,7 +6580,7 @@
         "title": "Jason note",
         "url": "https://jasonblog.github.io/note/index.html"
     },{
-        "tags": "site github daily 访问等级2",
+        "tags": "site github daily level2",
         "title": "GitHubDaily",
         "url": "https://github.com/GitHubDaily/GitHubDaily"
     },{
@@ -6628,7 +6628,7 @@
         "title": "森之屋（Senfun.net)",
         "url": "https://www.senfun.net/"
     },{
-        "tags": "site idea 访问等级1",
+        "tags": "site idea level1",
         "title": "发现 IndieWeb 随机博客文章",
         "url": "https://indieblog.page/"
     },{
@@ -6656,7 +6656,7 @@
         "title": "unity learn",
         "url": "https://learn.unity.com/"
     },{
-        "tags": "site 访问等级2",
+        "tags": "site level2",
         "title": "公众号历史文章列表",
         "url": "https://blog-susheng.vercel.app/"
     },{
@@ -6748,7 +6748,7 @@
         "title": "无障碍创作工具指南",
         "url": "https://w3c.github.io/ATAG20-auth-trans-zh/ATAG2.0translation"
     },{
-        "tags": "site blog 访问等级2",
+        "tags": "site blog level2",
         "title": "p0werdown 很",
         "url": "https://p0werdown.com/"
     },{
@@ -6792,7 +6792,7 @@
         "title": "云原生实验室",
         "url": "https://icloudnative.io/"
     },{
-        "tags": "site tech-blog 访问等级2",
+        "tags": "site tech-blog level2",
         "title": "MemoryStory-科技人生",
         "url": "https://cnxiaobai.com/"
     },{
@@ -6844,11 +6844,11 @@
         "title": "掌控安全导航",
         "url": "https://i.zkaq.cn/"
     },{
-        "tags": "site cheatsheet dev doc manual up 访问等级1",
+        "tags": "site cheatsheet dev doc manual up level1",
         "title": "读书笔记(技术)",
         "url": "https://klose911.github.io/"
     },{
-        "tags": "site doc manual deve",
+        "tags": "site doc manual dev",
         "title": "Kaybee-Notes",
         "url": "https://liukay.github.io/KaybeeNotes/#/"
     },{
@@ -6872,7 +6872,7 @@
         "title": "github pdf",
         "url": "https://github.com/mynane/PDF"
     },{
-        "tags": "site yuque 访问等级2",
+        "tags": "site yuque level2",
         "title": "OLS of Think",
         "url": "https://www.yuque.com/lyxpro/think"
     },{
@@ -6888,7 +6888,7 @@
         "title": "技术之路",
         "url": "https://www.yuque.com/woniu666/tech_doc"
     },{
-        "tags": "site tech-blog todo 访问等级1",
+        "tags": "site tech-blog todo level1",
         "title": "An Amateur Programmer's Blogs",
         "url": "https://dirtysalt.github.io/html/blogs.html"
     },{
@@ -6916,7 +6916,7 @@
         "title": "《Designing Data-Intensive Application》DDIA中文翻译",
         "url": "https://github.com/Vonng/ddia"
     },{
-        "tags": "site dev 访问等级2",
+        "tags": "site dev level2",
         "title": "开源问答",
         "url": "https://www.oschina.net/question"
     },{
@@ -6960,7 +6960,7 @@
         "title": "每日一文",
         "url": "https://meiriyiwen.com/"
     },{
-        "tags": "site blog 访问等级2",
+        "tags": "site blog level2",
         "title": "Random thoughts",
         "url": "https://blog.joway.io/"
     },{
@@ -6976,7 +6976,7 @@
         "title": "创意导航",
         "url": "https://creativemass.cn/#/"
     },{
-        "tags": "site blog newsletter 访问等级2",
+        "tags": "site blog newsletter level2",
         "title": "dsebastien",
         "url": "https://dsebastien.net/"
     },{
@@ -7012,7 +7012,7 @@
         "title": "slack.engineering",
         "url": "https://slack.engineering/"
     },{
-        "tags": "site tech 访问等级1",
+        "tags": "site tech level1",
         "title": "thenextweb",
         "url": "https://thenextweb.com/"
     },{
@@ -7052,7 +7052,7 @@
         "title": "Daily Landing Page inspirations",
         "url": "https://landingpage.fyi/index.html"
     },{
-        "tags": "site blog read 访问等级1",
+        "tags": "site blog read level1",
         "title": "冰哥笔记",
         "url": "https://www.bgbiji.com/"
     },{
@@ -7104,7 +7104,7 @@
         "title": "只是网页游戏",
         "url": "https://merely.xyz/games/"
     },{
-        "tags": "site tech-blog 访问等级2",
+        "tags": "site tech-blog level2",
         "title": "DKB",
         "url": "https://dkb.io/"
     },{
@@ -7159,6 +7159,134 @@
         "tags": "site dev todo doc",
         "title": "衡量软件开发生产力",
         "url": "https://www.swarmia.com/blog/measuring-software-development-productivity/"
+    },{
+        "tags": "site doc book",
+        "title": "函数式编程指北",
+        "url": "https://llh911001.gitbook.io/mostly-adequate-guide-chinese/"
+    },{
+        "tags": "site book doc",
+        "title": "逻辑学简短入门",
+        "url": "https://wxflogic.gitbook.io/logic/"
+    },{
+        "tags": "site github doc",
+        "title": "利用Python进行数据分析",
+        "url": "https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version"
+    },{
+        "tags": "site web weekly",
+        "title": "Zoo Weekly! 政采云前端小报",
+        "url": "https://weekly.zoo.team/"
+    },{
+        "tags": "site doc book manual",
+        "title": "Python Cookbook",
+        "url": "https://python3-cookbook.readthedocs.io/zh_CN/latest/"
+    },{
+        "tags": "site newsletter weekly 次高频",
+        "title": "事不过三(竹白)",
+        "url": "https://via.zhubai.love/"
+    },{
+        "tags": "site tools 运营",
+        "title": "运营工具大全",
+        "url": "https://xiaomark.com/tool"
+    },{
+        "tags": "site newsletter list 高频访问",
+        "title": "newsletter-list",
+        "url": "https://github.com/chasays/newsletter-list"
+    },{
+        "tags": "site newsletter",
+        "title": "光明王 Lord of Light",
+        "url": "https://lordoflight.substack.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "tailus.io",
+        "url": "https://tailus.io/"
+    },{
+        "tags": "site tailwind",
+        "title": "Tailwind awesome",
+        "url": "https://www.tailwindawesome.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "float ui",
+        "url": "https://www.floatui.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "kutty",
+        "url": "https://kutty.netlify.app/components/"
+    },{
+        "tags": "site tailwind",
+        "title": "kometa",
+        "url": "https://kitwind.io/products/kometa/components"
+    },{
+        "tags": "site tailwind",
+        "title": "gustui",
+        "url": "https://www.gustui.com/docs"
+    },{
+        "tags": "site tailwind",
+        "title": "cruip",
+        "url": "https://codepen.io/cruip/pens/public"
+    },{
+        "tags": "site tailwind",
+        "title": "flowrift",
+        "url": "https://flowrift.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "ayroui",
+        "url": "https://ayroui.com/"
+    },{
+        "tags": "site tailwind",
+        "title": "tailwind-elements",
+        "url": "https://tailwind-elements.com/quick-start/"
+    },{
+        "tags": "site misc level1",
+        "title": "倾城之链",
+        "url": "https://nicelinks.site/"
+    },{
+        "tags": "site tools",
+        "title": "bookmark style",
+        "url": "https://www.bookmark.style/"
+    },{
+        "tags": "site osint tools",
+        "title": "osint-tool",
+        "url": "https://osint-tool.com/"
+    },{
+        "tags": "site AI github up",
+        "title": "动手学习深度学习",
+        "url": "https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes"
+    },{
+        "tags": "site misc",
+        "title": "Setups — 工作台布置收集",
+        "url": "https://setups.co/"
+    },{
+        "tags": "site doc manual",
+        "title": "VimSkill",
+        "url": "https://vimskill.readthedocs.io/index.html"
+    },{
+        "tags": "site doc manual",
+        "title": "中文技术文档写作风格指南",
+        "url": "https://zh-style-guide.readthedocs.io/zh_CN/latest/index.html"
+    },{
+        "tags": "site manual doc",
+        "title": "桌维网管实典",
+        "url": "https://hoochanlon.github.io/helpdesk-guide/"
+    },{
+        "tags": "site 高频访问",
+        "title": "greaterwrong",
+        "url": "https://www.greaterwrong.com/"
+    },{
+        "tags": "site video up youtube dev",
+        "title": "JLL",
+        "url": "https://www.youtube.com/c/GoWithForeignLanguage/videos"
+    },{
+        "tags": "site doc manual up",
+        "title": "cloudflare学习中心",
+        "url": "https://www.cloudflare.com/zh-cn/learning/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
