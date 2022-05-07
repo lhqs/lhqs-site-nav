@@ -3784,7 +3784,7 @@
         "title": "happy xiao",
         "url": "https://happyxiao.com/"
     },{
-        "tags": "site tech tech-blog special",
+        "tags": "site tech tech-blog special dev",
         "title": "high scalability",
         "url": "http://highscalability.com/"
     },{
@@ -5008,7 +5008,7 @@
         "title": "Bing",
         "url": "https://www.bing.com"
     },{
-        "tags": "site serach",
+        "tags": "site search",
         "title": "DuckDuckGo",
         "url": "https://duckduckgo.com/"
     },{
@@ -5032,7 +5032,7 @@
         "title": "Magi",
         "url": "https://magi.com/"
     },{
-        "tags": "site serach osint",
+        "tags": "site search osint",
         "title": "startage",
         "url": "https://startpage.com"
     },{
@@ -5280,7 +5280,7 @@
         "title": "Stanford Encyclopedia of Philosophy",
         "url": "https://www.visualizingsep.com/#"
     },{
-        "tags": "site idea serach",
+        "tags": "site idea search",
         "title": "startup ideas",
         "url": "https://www.google.com/search?client=firefox-b-d&q=%22startup+ideas%22"
     },{
@@ -6080,7 +6080,7 @@
         "title": "Free Project Course",
         "url": "https://github.com/resumejob/free-project-course"
     },{
-        "tags": "site tech-blog weekly",
+        "tags": "site tech-blog weekly level2",
         "title": "4Ark x blog",
         "url": "https://4ark.me/"
     },{
@@ -7279,6 +7279,122 @@
         "tags": "site doc manual up",
         "title": "cloudflare学习中心",
         "url": "https://www.cloudflare.com/zh-cn/learning/"
+    },{
+        "tags": "site video up youtube dev",
+        "title": "学习资料-new",
+        "url": "https://www.youtube.com/channel/UCAdbfhqI54iH9hQ4bKgeiLw/featured"
+    },{
+        "tags": "site tools",
+        "title": "AST explorer",
+        "url": "https://astexplorer.net/"
+    },{
+        "tags": "site tech-blog todo",
+        "title": "老农的博客(机器学习入门)",
+        "url": "https://303248153.github.io/"
+    },{
+        "tags": "site search",
+        "title": "wiby.me",
+        "url": "https://wiby.me/"
+    },{
+        "tags": "site doc web dev",
+        "title": "互联网大厂面试每日一题",
+        "url": "https://q.shanyue.tech/"
+    },{
+        "tags": "site ebook search",
+        "title": "ca1lib.org",
+        "url": "https://ca1lib.org/"
+    },{
+        "tags": "site ebook search",
+        "title": "lebgen.is",
+        "url": "http://libgen.is/"
+    },{
+        "tags": "site github search tools product explorer",
+        "title": "开源洞察ossinsight",
+        "url": "https://ossinsight.io/"
+    },{
+        "tags": "site up",
+        "title": "brilliant",
+        "url": "https://brilliant.org/"
+    },{
+        "tags": "site 高频访问 todo list",
+        "title": "coder访问网站列表",
+        "url": "https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh"
+    },{
+        "tags": "site news",
+        "title": "Ars Technica 精品文章",
+        "url": "https://arstechnica.com/"
+    },{
+        "tags": "site tech weekly",
+        "title": "软件测试周刊",
+        "url": "https://github.com/bxiaopeng/SoftwareTestingWeekly"
+    },{
+        "tags": "site doc",
+        "title": "姜胡说直播笔记",
+        "url": "https://zehd05dp9f.feishu.cn/sheets/shtcnPxI0ZNy80UEvYHNtXvE2oe?sheet=686bda"
+    },{
+        "tags": "site tech 导航",
+        "title": "黑客街",
+        "url": "https://www.hackjie.com/"
+    },{
+        "tags": "site tech 导航",
+        "title": "渗透师导航",
+        "url": "https://www.shentoushi.top/"
+    },{
+        "tags": "site newsletter",
+        "title": "可乐-简短实用",
+        "url": "http://coke.do/"
+    },{
+        "tags": "site cheatsheet",
+        "title": "Cheatography - Over 5,000 Free Cheat Sheets, Revision Aids and Quick References",
+        "url": "https://cheatography.com/"
+    },{
+        "tags": "site manual",
+        "title": "mysql manual",
+        "url": "https://dev.mysql.com/doc/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
