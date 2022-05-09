@@ -24,7 +24,7 @@
 
     <head>
         <div class="flex flex-nowrap justify-between bg-black text-white  font-bold">
-            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="#">乱红如雨的个人站点</a></h1>
+            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="#">乱红如雨</a></h1>
             <div class="px-4 py-2">
                 <span id="checkout" class="hover:text-sky-400"><a href="./search.html" target="_blank">聚合搜索</a></span>
                 <span id="checkout" class="px-4 hover:text-sky-400"><a href="https://github.com/lhqs/lhqs-site-nav" target="_blank">Github</a></span>
@@ -35,7 +35,7 @@
 
     <section>
         <div class="pt-4 flex justify-center flex-wrap">
-            <div id="tagList" class="w-4/5 md:3/4 xl:w-1/2"></div>
+            <div id="tagList" class="w-full md:3/4 xl:w-1/2"></div>
             <!-- <button onclick="filterTags('tags-list')" class="">click test</button> -->
         </div>
     </section>
@@ -45,7 +45,7 @@
     </div>
 
     <section  class="flex justify-center">
-        <div class="w-4/5 md:3/4 xl:w-1/2 mb-6">
+        <div class="w-full md:3/4 xl:w-1/2 mb-6 mx-1">
             <div id="list" class="flex flex-wrap"></div>
         </div>
     </section>
@@ -107,7 +107,6 @@
             tagActive.innerText = tag;
             let filterData = []
             for (const key in siteData){
-                console.log('key', key);
                 siteData[key].tags.split(/\s+/).forEach(element => {
                     if(tag.includes(element)){
                         filterData.push(siteData[key]);
