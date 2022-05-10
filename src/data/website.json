@@ -7424,9 +7424,57 @@
         "title": "SRE中文版",
         "url": "https://redbearder.github.io/The-Site-Reliability-Workbook-CHS/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site design manual",
+        "title": "有籍-设计师的小册子",
+        "url": "https://youji.pro/"
+    },{
+        "tags": "site wiki",
+        "title": "Alex Digital Garden.",
+        "url": "https://www.alexanderweichart.de"
+    },{
+        "tags": "site wiki awesome",
+        "title": "awesome-digital-gardens",
+        "url": "https://github.com/kyrose/awesome-digital-gardens"
+    },{
+        "tags": "site youtube up",
+        "title": "JLL",
+        "url": "https://www.youtube.com/c/GoWithForeignLanguage"
+    },{
+        "tags": "site wiki list todo",
+        "title": "digital-gardeners",
+        "url": "https://github.com/MaggieAppleton/digital-gardeners"
+    },{
+        "tags": "site wiki misc up todo",
+        "title": "Today I Learned",
+        "url": "https://til.bhupesh.me/"
+    },{
+        "tags": "site list wiki todo",
+        "title": "best-of-digital-gardens",
+        "url": "https://github.com/lyz-code/best-of-digital-gardens"
+    },{
+        "tags": "site idea tech-blog",
+        "title": "swyx",
+        "url": "https://www.swyx.io/ideas"
+    },{
+        "tags": "site bilibili up 创业 todo",
+        "title": "斯坦福大学公开课：如何创业",
+        "url": "https://www.bilibili.com/video/BV1Zs411x7q7"
+    },{
+        "tags": "site bilibili up 创业 todo",
+        "title": "奇迹创坛：如何创业",
+        "url": "https://www.bilibili.com/video/BV1WU4y1g7Yc"
+    },{
+        "tags": "site 创业",
+        "title": "Founders' Book",
+        "url": "https://foundersbook.co/"
+    },{
+        "tags": "site bilibili up 创业 todo",
+        "title": "斯坦福大学公开课：如何创业(对比观看)",
+        "url": "https://www.bilibili.com/video/BV1Af4y1P7tH/"
+    },{
+        "tags": "site level1 blog read todo",
+        "title": "Slate Star Codex",
+        "url": "https://slatestarcodex.com/"
     },{
         "tags": "site",
         "title": "",
