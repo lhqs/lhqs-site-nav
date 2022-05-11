@@ -81,7 +81,6 @@
         };
 
 
-
         let siteData;
 
         let strTemplate = document.querySelector('template').innerHTML;
@@ -115,10 +114,13 @@
             }
             list.innerHTML = '';
             filterData.forEach(element => {
-                let divDom = document.createElement("div");
-                divDom.classList.add('my-1');
-                divDom.innerHTML  = '<a class="mr-2 px-2 py-1 rounded-md text-sm cursor-pointer bg-gray-200 hover:bg-gray-300" href="' + element.url + '" target="_blank">'+ element.title + '</a>';
-                list.append(divDom);
+                if(element.title && element.title.length > 0){
+                    let divDom = document.createElement("div");
+                    divDom.classList.add('my-1');
+                    divDom.innerHTML  = '<a class="mr-2 px-2 py-1 rounded-md text-sm cursor-pointer bg-gray-200 hover:bg-gray-300" href="' + element.url + '" target="_blank">'+ element.title + '</a>';
+                    list.append(divDom);
+                }
+
             });
 
         }

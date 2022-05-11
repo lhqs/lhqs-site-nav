@@ -732,7 +732,7 @@
         "title": "draw.io",
         "url": "https://www.draw.io/"
     },{
-        "tags": "site tools mind",
+        "tags": "site tools mind level1",
         "title": "ProcessOn",
         "url": "https://www.processon.com/"
     },{
@@ -1740,7 +1740,7 @@
         "title": "计算机科学主题列表",
         "url": "https://dirtysalt.github.io/html/index.html"
     },{
-        "tags": "site dev 次高频",
+        "tags": "site dev 高频访问 list",
         "title": "开发者头条",
         "url": "https://toutiao.io/"
     },{
@@ -3272,7 +3272,7 @@
         "title": "Static Program Analysis Book",
         "url": "https://spa-book.pblo.gq/"
     },{
-        "tags": "site 创业 管理 github",
+        "tags": "site 创业 github",
         "title": "Webflow 技术主管指南",
         "url": "https://github.com/webflow/leadership/blob/master/tech_lead.md"
     },{
@@ -3540,7 +3540,7 @@
         "title": "提问的智慧",
         "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md"
     },{
-        "tags": "site yuque 高频",
+        "tags": "site yuque 高频访问",
         "title": "2022群资源汇总",
         "url": "https://www.yuque.com/eureka007/2022"
     },{
@@ -4784,7 +4784,7 @@
         "title": "Awsome-Front-End-learning-resource",
         "url": "https://github.com/helloqingfeng/Awsome-Front-End-learning-resource"
     },{
-        "tags": "site blog special",
+        "tags": "site blog special other",
         "title": "王五四文集",
         "url": "https://wangwusiwj.blogspot.com/"
     },{
@@ -5292,7 +5292,7 @@
         "title": "system inside",
         "url": "https://sysin.org/"
     },{
-        "tags": "site other",
+        "tags": "site other misc",
         "title": "Gwern Branwen ",
         "url": "https://www.gwern.net/index"
     },{
@@ -5640,7 +5640,7 @@
         "title": "Awesome Web Scraping",
         "url": "https://github.com/Germey/AwesomeWebScraping"
     },{
-        "tags": "site other",
+        "tags": "site misc",
         "title": "趣乐兔",
         "url": "https://funletu.com/"
     },{
@@ -5808,7 +5808,7 @@
         "title": "前端食堂技术周刊",
         "url": "https://github.com/Geekhyt/weekly"
     },{
-        "tags": "site 账号",
+        "tags": "site 账户",
         "title": "ME YUN",
         "url": "https://s.yunme.me/clientarea.php"
     },{
@@ -6684,7 +6684,7 @@
         "title": "吸奇侠(up)",
         "url": "https://space.bilibili.com/414350632/video?"
     },{
-        "tags": "site github 账号",
+        "tags": "site github 账户",
         "title": "lhqs(github)",
         "url": "https://github.com/lhqs"
     },{
@@ -6828,7 +6828,7 @@
         "title": "awesome-product-management",
         "url": "https://github.com/dend/awesome-product-management"
     },{
-        "tags": "site awesome tech-blog 次高频",
+        "tags": "site github awesome tech-blog 次高频",
         "title": "opensource is awesome",
         "url": "https://shownotes.opensourceisawesome.com/"
     },{
@@ -6932,7 +6932,7 @@
         "title": "slashdot",
         "url": "https://slashdot.org/"
     },{
-        "tags": "site 高频访问",
+        "tags": "site 高频访问 list",
         "title": "Website Hunt",
         "url": "https://www.websitehunt.co/"
     },{
@@ -7308,7 +7308,7 @@
         "title": "lebgen.is",
         "url": "http://libgen.is/"
     },{
-        "tags": "site github search tools product explorer",
+        "tags": "site github search tools product explore",
         "title": "开源洞察ossinsight",
         "url": "https://ossinsight.io/"
     },{
@@ -7475,6 +7475,118 @@
         "tags": "site level1 blog read todo",
         "title": "Slate Star Codex",
         "url": "https://slatestarcodex.com/"
+    },{
+        "tags": "site doc",
+        "title": "从零开始制作一个操作系统",
+        "url": "https://github.com/yanull/os-guide-cn"
+    },{
+        "tags": "site misc",
+        "title": "看见统计",
+        "url": "https://seeing-theory.brown.edu/basic-probability/cn.html"
+    },{
+        "tags": "site 娱乐",
+        "title": "Steam250发现好游戏",
+        "url": "https://steam250.com"
+    },{
+        "tags": "site misc idea",
+        "title": "37signals",
+        "url": "https://37signals.com"
+    },{
+        "tags": "site web design",
+        "title": "web design",
+        "url": "https://www.webdesignerdepot.com/"
+    },{
+        "tags": "site misc idea 发现 explore",
+        "title": "gumroad",
+        "url": "https://discover.gumroad.com/"
+    },{
+        "tags": "site misc tools 次高频",
+        "title": "no-code builder",
+        "url": "https://www.nocodebuilder.co/"
+    },{
+        "tags": "site misc",
+        "title": "jobs && companies",
+        "url": "https://4dayweek.io/"
+    },{
+        "tags": "site wiki",
+        "title": "webseitz/wiki",
+        "url": "http://webseitz.fluxent.com/wiki/FrontPage"
+    },{
+        "tags": "site wiki",
+        "title": "buster.wiki",
+        "url": "https://notes.busterbenson.com/"
+    },{
+        "tags": "site news",
+        "title": "浪潮 - 你的社会事件追踪工具",
+        "url": "https://langchao.org/"
+    },{
+        "tags": "site github dev cheatsheet todo",
+        "title": "Bash-Oneliner",
+        "url": "https://github.com/onceupon/Bash-Oneliner"
+    },{
+        "tags": "site 运营 misc",
+        "title": "appfigures",
+        "url": "https://appfigures.com/explorer"
+    },{
+        "tags": "site 哲学",
+        "title": "The Internet Encyclopedia of Philosophy (IEP)",
+        "url": "https://iep.utm.edu/"
+    },{
+        "tags": "site search 发现",
+        "title": "Teclis - Discover the humane web",
+        "url": "https://teclis.com/"
+    },{
+        "tags": "site explore import 次高频 level1",
+        "title": "幕布精选社区",
+        "url": "https://mubu.com/explore"
+    },{
+        "tags": "site blog weekly",
+        "title": "PKM Weekly",
+        "url": "https://curtismchale.ca/"
+    },{
+        "tags": "site product github list",
+        "title": "SaaSHub - Software Alternatives And Reviews",
+        "url": "https://www.saashub.com/"
+    },{
+        "tags": "site search explore",
+        "title": "Similar Site Search",
+        "url": "https://www.similarsitesearch.com/cn/"
+    },{
+        "tags": "site blog",
+        "title": "kingcos",
+        "url": "https://kingcos.me/"
+    },{
+        "tags": "site 导航",
+        "title": "法律时代-导航",
+        "url": "https://yesen.cn/"
+    },{
+        "tags": "site 账户",
+        "title": "mega",
+        "url": "https://mega.nz/fm/dashboard"
+    },{
+        "tags": "site tools data",
+        "title": "Similarweb",
+        "url": "https://www.similarweb.com/zh/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
