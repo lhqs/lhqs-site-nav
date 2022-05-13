@@ -988,7 +988,7 @@
         "title": "苔原通信",
         "url": "https://tundrazone.com/"
     },{
-        "tags": "site website",
+        "tags": "site misc data import",
         "title": "visual capitalist",
         "url": "https://www.visualcapitalist.com/"
     },{
@@ -1240,7 +1240,7 @@
         "title": "Textbook for System Design Interviews",
         "url": "https://systemdesign.org"
     },{
-        "tags": "site tech-blog",
+        "tags": "site tech-blog level1",
         "title": "苏洋博客",
         "url": "https://soulteary.com/"
     },{
@@ -2124,7 +2124,7 @@
         "title": "A list of 20 interesting subreddits",
         "url": "https://twitter.com/SahilBloom/status/1428749795078721537"
     },{
-        "tags": "site website 次高频",
+        "tags": "site website 高频访问 level1",
         "title": "a16z",
         "url": "https://a16z.com/"
     },{
@@ -3472,7 +3472,7 @@
         "title": "刘未鹏 | Mind Hacks",
         "url": "http://mindhacks.cn/"
     },{
-        "tags": "site tech-blog",
+        "tags": "site tech-blog level1",
         "title": "云风的 BLOG",
         "url": "https://blog.codingnow.com/"
     },{
@@ -6642,7 +6642,7 @@
     },{
         "tags": "site search",
         "title": "Andi搜索引擎",
-        "url": "https://andisearch.com"
+        "url": "https://andisearch.com/"
     },{
         "tags": "site tech-blog",
         "title": "The netflix tech blog",
@@ -6760,7 +6760,7 @@
         "title": "hayami's blog-日常人间观察",
         "url": "https://hayami.typlog.io/"
     },{
-        "tags": "site blog",
+        "tags": "site blog weekly",
         "title": "胡涂说",
         "url": "https://hutusi.com/"
     },{
@@ -7636,29 +7636,53 @@
         "title": "满叔的院子",
         "url": "https://www.bilibili.com/video/BV1eS4y1Y788"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github awesome",
+        "title": "awesome-compose",
+        "url": "https://github.com/docker/awesome-compose"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site life",
+        "title": "法信",
+        "url": "http://www.faxin.cn/keyword/index.aspx"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site search",
+        "title": "oldest search",
+        "url": "https://www.oldestsearch.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site code dev",
+        "title": "exercism",
+        "url": "https://exercism.org/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI github up",
+        "title": "Made With ML",
+        "url": "https://madewithml.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc 有趣",
+        "title": "Wait But Why",
+        "url": "https://waitbutwhy.com/"
+    },{
+        "tags": "site doc manual",
+        "title": "Java技术驿站",
+        "url": "http://cmsblogs.com/"
+    },{
+        "tags": "site list misc",
+        "title": "daywreckers",
+        "url": "http://daywreckers.com/"
+    },{
+        "tags": "site bilibili",
+        "title": "心理学导论 耶鲁大学",
+        "url": "https://www.bilibili.com/video/BV1WL4y1L7zk"
+    },{
+        "tags": "site blog",
+        "title": "翁天信",
+        "url": "https://www.dandyweng.com/"
+    },{
+        "tags": "site code search",
+        "title": "grep.app",
+        "url": "https://grep.app/"
+    },{
+        "tags": "site 创业 podcast",
+        "title": "mixergy - 初创企业的商业播客",
+        "url": "https://mixergy.com/"
     },{
         "tags": "site",
         "title": "",
