@@ -3696,7 +3696,7 @@
         "title": "How to graphql",
         "url": "https://www.howtographql.com/"
     },{
-        "tags": "site web dev cheatsheet manual tools",
+        "tags": "site web dev cheatsheet manual tools 导航",
         "title": "Tiny Helopers",
         "url": "https://tiny-helpers.dev/"
     },{
@@ -6080,7 +6080,7 @@
         "title": "Free Project Course",
         "url": "https://github.com/resumejob/free-project-course"
     },{
-        "tags": "site tech-blog weekly level2",
+        "tags": "site tech-blog weekly level1",
         "title": "4Ark x blog",
         "url": "https://4ark.me/"
     },{
@@ -6637,7 +6637,7 @@
         "url": "https://nitter.net/"
     },{
         "tags": "site english",
-        "title": "ludwig句子搜索",
+        "title": "ludwig句子搜索/口语写作",
         "url": "https://ludwig.guru/"
     },{
         "tags": "site search",
@@ -7684,13 +7684,33 @@
         "title": "mixergy - 初创企业的商业播客",
         "url": "https://mixergy.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site english",
+        "title": "linggle 口语写作",
+        "url": "https://linggle.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tools dev web",
+        "title": "it-tools",
+        "url": "https://it-tools.tech/"
+    },{
+        "tags": "site 有趣",
+        "title": "你学到的重要的非显而易见的创业/商业课程？ ",
+        "url": "https://news.ycombinator.com/item?id=31312820"
+    },{
+        "tags": "site dev 导航",
+        "title": "cxy521",
+        "url": "http://tooool.org/"
+    },{
+        "tags": "site awesome",
+        "title": "awesome-list",
+        "url": "https://github.com/ityouknow/awesome-list"
+    },{
+        "tags": "site 创业 ",
+        "title": "First Round Review",
+        "url": "https://review.firstround.com/"
+    },{
+        "tags": "site search",
+        "title": "De Digger - Find public files in Google Drive",
+        "url": "https://www.dedigger.com/"
     },{
         "tags": "site",
         "title": "",

@@ -90,6 +90,10 @@
                 {
                     "title": "YOU",
                     "url": "https://you.com/search?q=${query}"
+                },
+                {
+                    "title": "Teclis",
+                    "url": "https://teclis.com/search?q=${query}"
                 }
             ]
         },
