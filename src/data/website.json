@@ -232,7 +232,7 @@
         "title": "免费资源汇总导航",
         "url": "http://www.pickfree.cn"
     },{
-        "tags": "site website misc",
+        "tags": "site website misc read",
         "title": "有知有行",
         "url": "https://youzhiyouxing.cn/"
     },{
@@ -1972,7 +1972,7 @@
         "title": "react document",
         "url": "https://zh-hans.reactjs.org/docs/getting-started.html"
     },{
-        "tags": "site podcast",
+        "tags": "site podcast search",
         "title": "Listen Notes(Podcast Search Engine)",
         "url": "https://www.listennotes.com"
     },{
@@ -4216,7 +4216,7 @@
         "title": "User Ecperience Database",
         "url": "https://www.uxdatabase.io/newsletter"
     },{
-        "tags": "site UX design product",
+        "tags": "site UX design product todo 高频访问",
         "title": "User Ecperience Database - product-databas",
         "url": "https://www.uxdatabase.io/product-database"
     },{
@@ -5501,8 +5501,8 @@
         "url": "https://www.wangyurui.top"
     },{
         "tags": "site notion misc level2",
-        "title": "https://wangyurui.notion.site/Ludwig-faeaabbf01394a33bfa5638a9a37f74a",
-        "url": "Ludwigの生活觀察"
+        "title": "Ludwigの生活觀察",
+        "url": "https://wangyurui.notion.site/Ludwig-faeaabbf01394a33bfa5638a9a37f74a"
     },{
         "tags": "site blog",
         "title": "谢益辉",
@@ -5980,7 +5980,7 @@
         "title": "知犀mind",
         "url": "https://www.zhixi.com/space"
     },{
-        "tags": "site misc",
+        "tags": "site life misc",
         "title": "Life At",
         "url": "https://lifeat.io/"
     },{
@@ -7704,7 +7704,7 @@
         "title": "awesome-list",
         "url": "https://github.com/ityouknow/awesome-list"
     },{
-        "tags": "site 创业 ",
+        "tags": "site 创业",
         "title": "First Round Review",
         "url": "https://review.firstround.com/"
     },{
@@ -7740,41 +7740,41 @@
         "title": "Awesome Web Security",
         "url": "https://github.com/qazbnm456/awesome-web-security"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site music life misc",
+        "title": "Lofi-FM",
+        "url": "https://lofifm.vercel.app/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site other read blog",
+        "title": "博讯文坛（博客）--精神家园",
+        "url": "https://blog.bnn.co/index.shtml"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc manual cheatsheet",
+        "title": "Bash OneLiner",
+        "url": "https://onceupon.github.io/Bash-Oneliner/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site cheatsheet",
+        "title": "Find commands at the speed of thought",
+        "url": "https://www.commands.dev/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "windows-apps",
+        "url": "https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 创业 product todo",
+        "title": "创业101",
+        "url": "https://app.formaloo.net/uhj2S4lclztc8XK"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "我的第一个 NFT",
+        "url": "https://myfirstnft.info/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site UX",
+        "title": "UX Knowledge Base Sketch",
+        "url": "https://uxknowledgebase.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc doc",
+        "title": "interview-science",
+        "url": "https://interview-science.org/"
     },{
         "tags": "site",
         "title": "",
