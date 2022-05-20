@@ -3244,7 +3244,7 @@
         "title": "你读过的最改变生活的博客文章是什么？",
         "url": "https://news.ycombinator.com/item?id=28232165"
     },{
-        "tags": "site tech",
+        "tags": "site 高频访问 tech",
         "title": "InfoQ",
         "url": "https://www.infoq.cn/"
     },{
@@ -4596,7 +4596,7 @@
         "title": "Java design partnerns",
         "url": "https://github.com/iluwatar/java-design-patterns"
     },{
-        "tags": "site github tech doc",
+        "tags": "site github tech doc todo",
         "title": "安全领域各公司PPT",
         "url": "https://github.com/FeeiCN/Security-PPT"
     },{
@@ -5292,7 +5292,7 @@
         "title": "system inside",
         "url": "https://sysin.org/"
     },{
-        "tags": "site other misc",
+        "tags": "site level1 次高频 misc",
         "title": "Gwern Branwen ",
         "url": "https://www.gwern.net/index"
     },{
@@ -7775,6 +7775,90 @@
         "tags": "site misc doc",
         "title": "interview-science",
         "url": "https://interview-science.org/"
+    },{
+        "tags": "site 导航 github",
+        "title": "Webstack网址导航",
+        "url": "https://github.com/WebStackPage/WebStackPage.github.io"
+    },{
+        "tags": "site blog 有趣 misc",
+        "title": "挑战在一年内在个人博客上发布 100 篇文章",
+        "url": "https://100daystooffload.com/"
+    },{
+        "tags": "site 导航",
+        "title": "各国网址大全",
+        "url": "http://www.world68.com/"
+    },{
+        "tags": "site forum",
+        "title": "hacker talk",
+        "url": "https://hackertalk.net/"
+    },{
+        "tags": "site tools",
+        "title": "Spline - Design tool for 3D web browser experiences",
+        "url": "https://spline.design/ "
+    },{
+        "tags": "site blog",
+        "title": "pseudoyy",
+        "url": "https://www.pseudoyu.com/zh/"
+    },{
+        "tags": "site rss news",
+        "title": "chain feeds",
+        "url": "https://www.chainfeeds.xyz/"
+    },{
+        "tags": "site guide tech web dev",
+        "title": "Condensed Guide for Learning Web3 Development in 100 Days",
+        "url": "https://tranqui.xyz/posts/100-days-of-code"
+    },{
+        "tags": "site tools",
+        "title": "简历制作工具",
+        "url": "https://app.flowcv.io/"
+    },{
+        "tags": "site misc daily",
+        "title": "Twitter TIL",
+        "url": "https://twitter.com/hashtag/TIL?src=hashtag_click"
+    },{
+        "tags": "site github",
+        "title": "开源小部件可在您网站的任何位置收集反馈",
+        "url": "xhttps://github.com/rowyio/feedbackfin"
+    },{
+        "tags": "site web",
+        "title": "Generate smooth animated blobs",
+        "url": "https://blobanimation.com/"
+    },{
+        "tags": "site blog",
+        "title": "yonniye's blog",
+        "url": "https://yonniye.com/"
+    },{
+        "tags": "site dev web code",
+        "title": "uiverse.io 样式",
+        "url": "https://uiverse.io/"
+    },{
+        "tags": "site search",
+        "title": "反向词典",
+        "url": "https://wantwords.net/"
+    },{
+        "tags": "site tools",
+        "title": "网民生成器",
+        "url": "https://www.qmsjmfb.com"
+    },{
+        "tags": "site tech tools up todo",
+        "title": "unreal engine 虚幻引擎",
+        "url": "https://www.unrealengine.com/zh-CN/"
+    },{
+        "tags": "site tech tools up todo",
+        "title": "Unity",
+        "url": "https://unity.com/cn"
+    },{
+        "tags": "site import level1 次高频",
+        "title": "arun.is",
+        "url": "https://www.arun.is/blog/"
+    },{
+        "tags": "site newsletter level1 todo",
+        "title": "arun.is",
+        "url": "https://www.arun.is/subscribe/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
