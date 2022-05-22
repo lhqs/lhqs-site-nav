@@ -44,7 +44,7 @@
         "title": "得到",
         "url": "https://www.dedao.cn"
     },{
-        "tags": "site 导航",
+        "tags": "site 导航 market",
         "title": "产品运营导航",
         "url": "https://dh.woshipm.com/"
     },{
@@ -996,7 +996,7 @@
         "title": "Chinese podcasts",
         "url": "https://github.com/alaskasquirrel/Chinese-Podcasts"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter random",
         "title": "逆流Upstream",
         "url": "https://zhiy.cc/upstream"
     },{
@@ -2144,11 +2144,11 @@
         "title": "关于密码工程的几点思考",
         "url": "https://blog.cryptographyengineering.com/"
     },{
-        "tags": "site newsletter level1",
+        "tags": "site newsletter level1 random",
         "title": "Every",
         "url": "https://every.to/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter level1 random",
         "title": "The Information",
         "url": "https://www.theinformation.com/features/the-briefing"
     },{
@@ -3216,7 +3216,7 @@
         "title": "Longform Best of 2021",
         "url": "https://longform.org/lists/best-of-2021"
     },{
-        "tags": "site 运营",
+        "tags": "site market",
         "title": "运营派",
         "url": "https://www.yunyingpai.com/"
     },{
@@ -4296,7 +4296,7 @@
         "title": "24k导航",
         "url": "https://www.24kdh.com"
     },{
-        "tags": "site 运营",
+        "tags": "site market",
         "title": "运营猫",
         "url": "https://www.yymiao.cn"
     },{
@@ -4812,7 +4812,7 @@
         "title": "emote-work",
         "url": "https://www.groovehq.com/blog/remote-work"
     },{
-        "tags": "site github tech awesome",
+        "tags": "site github tech awesome todo",
         "title": "awesome-roadmaps",
         "url": "https://github.com/liuchong/awesome-roadmaps"
     },{
@@ -5756,7 +5756,7 @@
         "title": "logo集合",
         "url": "https://www.logotouse.com/"
     },{
-        "tags": "site 运营 创业",
+        "tags": "site market 创业",
         "title": "growth marketing content增长营销内容合集",
         "url": "https://www.growthfyi.com/"
     },{
@@ -7144,7 +7144,7 @@
         "title": "h4cker.org",
         "url": "https://github.com/The-Art-of-Hacking/h4cker/"
     },{
-        "tags": "site newsletter weekly import",
+        "tags": "site newsletter weekly import 高频访问",
         "title": "Homescreen-精心策划的新闻和资源",
         "url": "https://homescreen.beehiiv.com/"
     },{
@@ -7184,7 +7184,7 @@
         "title": "事不过三(竹白)",
         "url": "https://via.zhubai.love/"
     },{
-        "tags": "site tools 运营",
+        "tags": "site tools market",
         "title": "运营工具大全",
         "url": "https://xiaomark.com/tool"
     },{
@@ -7296,7 +7296,7 @@
         "title": "wiby.me",
         "url": "https://wiby.me/"
     },{
-        "tags": "site doc web dev",
+        "tags": "site doc web dev todo",
         "title": "互联网大厂面试每日一题",
         "url": "https://q.shanyue.tech/"
     },{
@@ -7376,7 +7376,7 @@
         "title": "Swift Docs",
         "url": "https://www.swift.org/documentation/"
     },{
-        "tags": "site blog",
+        "tags": "site blog level2",
         "title": "seth's blog",
         "url": "https://seths.blog/"
     },{
@@ -7524,7 +7524,7 @@
         "title": "Bash-Oneliner",
         "url": "https://github.com/onceupon/Bash-Oneliner"
     },{
-        "tags": "site 运营 misc",
+        "tags": "site market misc",
         "title": "appfigures",
         "url": "https://appfigures.com/explorer"
     },{
@@ -7668,7 +7668,7 @@
         "title": "daywreckers",
         "url": "http://daywreckers.com/"
     },{
-        "tags": "site bilibili",
+        "tags": "site bilibili random",
         "title": "心理学导论 耶鲁大学",
         "url": "https://www.bilibili.com/video/BV1WL4y1L7zk"
     },{
@@ -7855,6 +7855,118 @@
         "tags": "site newsletter level1 todo",
         "title": "arun.is",
         "url": "https://www.arun.is/subscribe/"
+    },{
+        "tags": "site design",
+        "title": "powerhouse collection",
+        "url": "https://collection.maas.museum/"
+    },{
+        "tags": "site blog",
+        "title": "零度博客",
+        "url": "https://www.freedidi.com/"
+    },{
+        "tags": "site tools",
+        "title": "AI去图片",
+        "url": "https://www.magiceraser.io/"
+    },{
+        "tags": "site doc ebook",
+        "title": "The Linux Perf Master",
+        "url": "https://riboseyim.gitbook.io/perf/"
+    },{
+        "tags": "site blog level2",
+        "title": "Thorsten Ball",
+        "url": "https://thorstenball.com/blog/"
+    },{
+        "tags": "site github doc todo",
+        "title": "互联网最全大厂技术分享PPT",
+        "url": "https://github.com/baiyutang/meetup"
+    },{
+        "tags": "site blog",
+        "title": "hartley brody",
+        "url": "https://blog.hartleybrody.com/"
+    },{
+        "tags": "site tech-blog level1",
+        "title": "Sourcegraph blog",
+        "url": "https://about.sourcegraph.com/blog"
+    },{
+        "tags": "site web dev manual",
+        "title": "The Modern JavaScript Tutorial",
+        "url": "https://javascript.info/"
+    },{
+        "tags": "site doc github todo",
+        "title": "Security-PPT",
+        "url": "https://github.com/FeeiCN/Security-PPT"
+    },{
+        "tags": "site newsletter",
+        "title": "Young Money",
+        "url": "https://www.youngmoney.co/"
+    },{
+        "tags": "site market",
+        "title": "Demand curve - Level up your marketing",
+        "url": "https://www.demandcurve.com/"
+    },{
+        "tags": "site level1",
+        "title": "a16z future",
+        "url": "https://future.a16z.com/"
+    },{
+        "tags": "site read level2",
+        "title": "aeon.co",
+        "url": "https://aeon.co/"
+    },{
+        "tags": "site doc tech todo random",
+        "title": "开发者体验总览",
+        "url": "https://dx.phodal.com/"
+    },{
+        "tags": "site rss list",
+        "title": "geekplux rss subscription",
+        "url": "https://github.com/geekplux/share/blob/main/RSS_subscriptions.opml"
+    },{
+        "tags": "site random 发现 misc",
+        "title": "网站任意门",
+        "url": "https://gate.ofo.moe/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",

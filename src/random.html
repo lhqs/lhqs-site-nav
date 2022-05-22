@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="乱红如雨的个人导航站点, 标签导航 + 聚合搜索 ">
+    <meta keywords="text" content="lhqs, 乱红倾世, 乱红如雨, 导航, 搜索, 信息, 信息源, 标签导航, 聚合搜索">
+    <link rel="icon" href="http://static.lhqs.ink/site/nav/L.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://static.lhqs.ink/site/nav/L.png">
+    <link rel="stylesheet" href="./css/output.css">
+    <title>Search</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9GV7RCT5D5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-9GV7RCT5D5');
+    </script>
+</head>
+<body>
+
+    <head>
+        <div class="flex flex-nowrap justify-between bg-black text-white  font-bold">
+            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="./index.html">乱红如雨</a></h1>
+            <div class="px-4 py-2">
+                <span id="checkout" class="hover:text-sky-400"><a href="./search.html" target="_blank">聚合搜索</a></span>
+                <span id="checkout" class="px-4 hover:text-sky-400"><a href="./random.html" target="_blank">任意门</a></span>
+                <span id="checkout" class="pr-4 hover:text-sky-400"><a href="https://github.com/lhqs/lhqs-site-nav" target="_blank">Github</a></span>
+                <span id="slogan" class="hover:text-sky-400"><a href="./page/about.html">关于</a></span>
+            </div>
+        </div>
+    </head>
+
+    <section  class="flex justify-center items-center h-44">
+        <div class="text-center flex items-center">
+            <!-- <button onclick="randomSite()">开始传送</button> -->
+            <a href="#" onclick="randomSite(1)" class="bg-transparent border border-gray-500 text-gray-500 hover:bg-gray-500 hover:text-white text-center py-4 px-8 rounded">
+                开始传送
+            </a>
+            <!-- <a href="#" onclick="randomSite(2)" class="bg-transparent border border-gray-500 text-gray-500 hover:bg-gray-500 hover:text-white text-center py-4 px-8 rounded">
+                同时传送2个
+            </a> -->
+        </div>
+    </section>
+
+    <footer id="footer" role="lhqs" class="fixed bottom-0 text-sm text-gray-500 text-center w-full mx-auto py-3 hidden">
+        乱红如雨个人导航站 contact us: lhqs.gu@gmail.com
+    </footer>
+
+
+
+    <script>
+        let siteList = {};
+        fetch("./data/website.json").then(resp => resp.json()).then(result => {
+            siteList = result;
+        });
+        function randomSite(num) {
+            console.log("num", num);
+            if(num == 1) {
+                window.open(siteList[Math.floor((Math.random() * siteList.length)+1)].url, "_blank");
+                return;
+            }
+            // window.open(siteList[Math.floor((Math.random() * siteList.length)+1)].url, "_blank");
+            // window.open(siteList[Math.floor((Math.random() * siteList.length)+1)].url, "_blank");
+        }
+
+    </script>
+
+</body>
+</html>
