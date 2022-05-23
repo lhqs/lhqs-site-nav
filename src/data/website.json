@@ -1016,7 +1016,7 @@
         "title": "增长黑客周刊",
         "url": "http://ghacker.vip/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter read",
         "title": "王龙行",
         "url": "https://zhiy.cc/long"
     },{
@@ -1184,7 +1184,7 @@
         "title": "Random Lab 随机实验室",
         "url": "https://random-lab.ghost.io/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter read",
         "title": "地心引力",
         "url": "https://walnut.hedwig.pub/"
     },{
@@ -2144,7 +2144,7 @@
         "title": "关于密码工程的几点思考",
         "url": "https://blog.cryptographyengineering.com/"
     },{
-        "tags": "site newsletter level1 random",
+        "tags": "site newsletter 高频访问 level1 random",
         "title": "Every",
         "url": "https://every.to/"
     },{
@@ -3964,7 +3964,7 @@
         "title": "Ask HN: Great Blogs by Programmers",
         "url": "https://news.ycombinator.com/item?id=30245247"
     },{
-        "tags": "site blog special 创业",
+        "tags": "site blog special 创业 random",
         "title": "Andreas Klinger(special)",
         "url": "https://klinger.io/"
     },{
@@ -3976,7 +3976,7 @@
         "title": "扯氮集",
         "url": "http://weiwuhui.com"
     },{
-        "tags": "site product",
+        "tags": "site product daily 高频访问",
         "title": "Awesome Indie",
         "url": "https://awesomeindie.com/explore"
     },{
@@ -6984,7 +6984,7 @@
         "title": "DeveloPassion's Newsletter - PKM",
         "url": "https://newsletter.dsebastien.net/"
     },{
-        "tags": "site weekly",
+        "tags": "site weekly level2",
         "title": "PKM Weekly",
         "url": "https://curtismchale.ca/category/pkm-weekly/"
     },{
@@ -7064,7 +7064,7 @@
         "title": "goods.wtf",
         "url": "https://goods.wtf/"
     },{
-        "tags": "site UX misc",
+        "tags": "site UX misc level1 read",
         "title": "Nielsen Norman Group",
         "url": "https://www.nngroup.com/"
     },{
@@ -7838,7 +7838,7 @@
     },{
         "tags": "site tools",
         "title": "网民生成器",
-        "url": "https://www.qmsjmfb.com"
+        "url": "https://www.qmsjmfb.com/"
     },{
         "tags": "site tech tools up todo",
         "title": "unreal engine 虚幻引擎",
@@ -7924,29 +7924,186 @@
         "title": "网站任意门",
         "url": "https://gate.ofo.moe/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site random misc 发现 up",
+        "title": "智慧果●传送门",
+        "url": "https://gate.ofo.moe/intellect"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc random",
+        "title": "奇奇怪怪的网站",
+        "url": "https://gate.ofo.moe/useless"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "小鸡词典",
+        "url": "https://jikipedia.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site read design",
+
+        "title": "hi-id",
+        "url": "https://www.hi-id.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site rss read",
+        "title": "feedly",
+        "url": "https://feedly.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site rss read list tech",
+        "title": "公众号列表-安全相关",
+        "url": "https://wechat2rss.xlab.app/posts/list/"
+    },{
+        "tags": "site blog list",
+        "title": "好·博客清单",
+        "url": "https://github.com/cnfeat/list-of-good-things/blob/master/GoodBlogList.md"
+    },{
+        "tags": "site list random",
+        "title": "list-of-good-things 好物清单",
+        "url": "https://github.com/cnfeat/list-of-good-things"
+    },{
+        "tags": "site read rss random",
+        "title": "好物·100个订阅源",
+        "url": "https://www.inoreader.com/bundle/0014cd6377f1"
+    },{
+        "tags": "site blog",
+        "title": "吕小荣",
+        "url": "https://mednoter.com/"
+    },{
+        "tags": "site blog",
+        "title": "方可成blog",
+        "url": "https://fangkc.cn"
+    },{
+        "tags": "site blog",
+        "title": "xdite",
+        "url": "http://blog.xdite.net/"
+    },{
+        "tags": "site notion newsletter list todo",
+        "title": "Design Newsletters",
+        "url": "https://fenx.work/design/newsletter"
+    },{
+        "tags": "site blog random",
+        "title": "炜晨blog",
+        "url": "https://weichen.blog/blog/"
+    },{
+        "tags": "site youtube up",
+        "title": "You ChangDing - 教程",
+        "url": "https://www.youtube.com/channel/UCg1owby9jinutTOkFHVJHAg/featured"
+    },{
+        "tags": "site blog read newsletter level1",
+        "title": "Julian Shapiro",
+        "url": "https://www.julian.com/"
+    },{
+        "tags": "site design UX",
+        "title": "sidebar",
+        "url": "https://sidebar.io/"
+    },{
+        "tags": "site blog",
+        "title": "ntiy",
+        "url": "https://www.ntiy.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "monogoto",
+        "url": "https://monogoto.ryouissei.com/"
+    },{
+        "tags": "site 创业",
+        "title": "面向初创公司创始人的多合一通讯",
+        "url": "https://www.failory.com/"
+    },{
+        "tags": "site design",
+        "title": "Malt 麦芽 (设计分享)",
+        "url": "https://www.maltm.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "dense discovery",
+        "url": "https://www.densediscovery.com/archive/"
+    },{
+        "tags": "site product idea level1 random",
+        "title": "creativerly",
+        "url": "https://creativerly.com/"
+    },{
+        "tags": "site design tools newsletter level1",
+        "title": "每周设计工具和新闻",
+        "url": "https://prototypr.io/home/"
+    },{
+        "tags": "site misc design",
+        "title": "minimalissimo极简",
+        "url": "https://minimalissimo.com/"
+    },{
+        "tags": "site doc 高频访问",
+        "title": "Side Project 指南",
+        "url": "https://sideproject.guide/"
+    },{
+        "tags": "site misc idea dev",
+        "title": "API Hub",
+        "url": "https://www.apifox.cn/apihub/"
+    },{
+        "tags": "site 导航 web dev",
+        "title": "DevDum",
+        "url": "https://www.devdum.com/"
+    },{
+        "tags": "site tech-blog",
+        "title": "gitlab blog",
+        "url": "https://about.gitlab.com/blog/"
+    },{
+        "tags": "site idea dev prduct",
+        "title": "apitracker.io - Discover the best APIs and developer resources",
+        "url": "https://apitracker.io/"
+    },{
+        "tags": "site data 创业",
+        "title": "Accelerator Hunt - 网络上最大的初创企业加速器数据库",
+        "url": "https://angelmatch.io/accelerators"
+    },{
+        "tags": "site blog",
+        "title": "achgdesign",
+        "url": "https://achgdesign.com/"
+    },{
+        "tags": "site data product",
+        "title": "product hunt analytics",
+        "url": "https://statsph.com/"
+    },{
+        "tags": "site github awesome todo list wiki",
+        "title": "Awesome Knowledge Management",
+        "url": "https://github.com/brettkromkamp/awesome-knowledge-management"
+    },{
+        "tags": "site misc random",
+        "title": "Real Life 科技生活杂志",
+        "url": "https://reallifemag.com/"
+    },{
+        "tags": "site blog level1 random read todo",
+        "title": "Irrational Exuberance",
+        "url": "https://lethain.com/"
+    },{
+        "tags": "site notion",
+        "title": "Artificial Brain Networked Notebook App",
+        "url": "https://www.notion.so/Artificial-Brain-Networked-Notebook-App-a131b468fc6f43218fb8105430304709"
+    },{
+        "tags": "site tech todo level1 import 高频访问",
+        "title": "quastor 技术设计&实现",
+        "url": "https://quastor.substack.com/"
+    },{
+        "tags": "site foreign blog",
+        "title": "Alex Ellis - Writing about tech, our minds, and how things work.",
+        "url": "https://alexanderell.is/"
+    },{
+        "tags": "site tech-blog foreign",
+        "title": "jason",
+        "url": "https://jasont.co/"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome-for-beginners",
+        "url": "https://github.com/MunGell/awesome-for-beginners"
+    },{
+        "tags": "site 创业",
+        "title": "guide-to-startup",
+        "url": "https://fictivekin.github.io/pmarchive-jekyll/#guide-to-startups"
+    },{
+        "tags": "site blog read random",
+        "title": "Reorx’s Forge",
+        "url": "https://reorx.com/"
+    },{
+        "tags": "site podcast",
+        "title": "随机波动StochasticVolatility",
+        "url": "https://www.stovol.club/"
+    },{
+        "tags": "site video",
+        "title": "爱笑聚",
+        "url": "https://www.axjhd.com/"
     },{
         "tags": "site",
         "title": "",
