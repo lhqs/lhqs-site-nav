@@ -188,7 +188,7 @@
         "title": "有趣网址之家",
         "url": "https://youquhome.com/"
     },{
-        "tags": "site tech 次高频",
+        "tags": "site tech 高频访问",
         "title": "Dev to",
         "url": "https://dev.to/"
     },{
@@ -1212,7 +1212,7 @@
         "title": "DAVID PERELL Weekly Newsletters",
         "url": "https://perell.com/newsletter/"
     },{
-        "tags": "site newsletter 次高频 weekly",
+        "tags": "site newsletter design product 次高频 weekly",
         "title": "DEX 周刊",
         "url": "https://newsletter.dex.group/"
     },{
@@ -1836,11 +1836,11 @@
         "title": "Your guide to AI",
         "url": "https://newsletter.airstreet.com"
     },{
-        "tags": "site news tech newsletter",
+        "tags": "site news tech daily newsletter",
         "title": "TLDR",
         "url": "https://tldr.tech/newsletter"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter level1 read random",
         "title": "Benedict’s Newsletter",
         "url": "https://www.ben-evans.com/newsletter"
     },{
@@ -2145,7 +2145,7 @@
         "url": "https://blog.cryptographyengineering.com/"
     },{
         "tags": "site newsletter 高频访问 level1 random",
-        "title": "Every",
+        "title": "Every - 时事通讯作家集合",
         "url": "https://every.to/"
     },{
         "tags": "site newsletter level1 random 高频访问",
@@ -4872,7 +4872,7 @@
         "title": "thinkstack(tool for thought)",
         "url": "https://thinkstack.club/"
     },{
-        "tags": "site daily newsletter level1",
+        "tags": "site daily newsletter level1 random",
         "title": "stratechery",
         "url": "https://stratechery.com/"
     },{
@@ -5568,7 +5568,7 @@
         "title": "春小喜",
         "url": "https://xiaoxii.notion.site/xiaoxii/be1bd22c28ae4639946238c00e15dbd1"
     },{
-        "tags": "site blog level1",
+        "tags": "site blog level1 regular",
         "title": "叶星优酸乳",
         "url": "https://weiyexing.ml/"
     },{
@@ -7297,7 +7297,7 @@
         "url": "https://wiby.me/"
     },{
         "tags": "site doc web dev todo",
-        "title": "互联网大厂面试每日一题",
+        "title": "前端 互联网大厂面试每日一题",
         "url": "https://q.shanyue.tech/"
     },{
         "tags": "site ebook search",
@@ -7989,7 +7989,7 @@
         "title": "Julian Shapiro",
         "url": "https://www.julian.com/"
     },{
-        "tags": "site design UX",
+        "tags": "site design UX level1 random",
         "title": "sidebar",
         "url": "https://sidebar.io/"
     },{
@@ -7998,10 +7998,10 @@
         "url": "https://www.ntiy.com/"
     },{
         "tags": "site newsletter",
-        "title": "monogoto",
+        "title": "monogoto - 关于设计、艺术和文化的推荐信息",
         "url": "https://monogoto.ryouissei.com/"
     },{
-        "tags": "site 创业",
+        "tags": "site 创业 newsletter",
         "title": "面向初创公司创始人的多合一通讯",
         "url": "https://www.failory.com/"
     },{
@@ -8009,7 +8009,7 @@
         "title": "Malt 麦芽 (设计分享)",
         "url": "https://www.maltm.com/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter weekly 有趣",
         "title": "dense discovery",
         "url": "https://www.densediscovery.com/archive/"
     },{
@@ -8041,7 +8041,7 @@
         "title": "gitlab blog",
         "url": "https://about.gitlab.com/blog/"
     },{
-        "tags": "site idea dev prduct",
+        "tags": "site idea dev product",
         "title": "apitracker.io - Discover the best APIs and developer resources",
         "url": "https://apitracker.io/"
     },{
@@ -8136,6 +8136,202 @@
         "tags": "site english 导航",
         "title": "up-6英语学习导航",
         "url": "https://www.up-6.com/"
+    },{
+        "tags": "site yuque web",
+        "title": "前端九部",
+        "url": "https://www.yuque.com/fe9/basic"
+    },{
+        "tags": "site yuque",
+        "title": "幻想绘境",
+        "url": "https://www.yuque.com/sakurarealm/wiki"
+    },{
+        "tags": "site foreign tech-blog",
+        "title": "sheldonhull",
+        "url": "https://www.sheldonhull.com/archive/"
+    },{
+        "tags": "site Mac misc",
+        "title": "Mac,绘画",
+        "url": "https://eclecticlight.co/"
+    },{
+        "tags": "site newsletter",
+        "title": "Game & Word",
+        "url": "https://gameandword.substack.com/"
+    },{
+        "tags": "site read level2 random",
+        "title": "Matt Levine",
+        "url": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine"
+    },{
+        "tags": "site newsletter read random",
+        "title": "Quantum of Sollazzo 各种数据，以及对数据相关人员的采访",
+        "url": "https://buttondown.email/puntofisso/archive/"
+    },{
+        "tags": "site read 高频访问",
+        "title": "refind",
+        "url": "https://refind.com/"
+    },{
+        "tags": "site market",
+        "title": "CXL - The best marketing practitioners",
+        "url": "https://cxl.com/"
+    },{
+        "tags": "site design",
+        "title": "设计回归",
+        "url": "https://designregression.com/"
+    },{
+        "tags": "site english",
+        "title": "longreads - 英语阅读材料",
+        "url": "https://longreads.com/"
+    },{
+        "tags": "site misc",
+        "title": "tedium",
+        "url": "https://tedium.co/"
+    },{
+        "tags": "site news",
+        "title": "rest of world",
+        "url": "https://restofworld.org/"
+    },{
+        "tags": "site news",
+        "title": "Nieman Lab - 哈佛尼曼新闻基金会下的新闻网站",
+        "url": "https://www.niemanlab.org/"
+    },{
+        "tags": "site newsletter read level1",
+        "title": "Platformer",
+        "url": "https://www.platformer.news/"
+    },{
+        "tags": "site newsletter random",
+        "title": "networked",
+        "url": "https://networked.substack.com/"
+    },{
+        "tags": "site read monthly",
+        "title": "BIOS Monthly 来自台湾的文化月报",
+        "url": "https://www.biosmonthly.com/"
+    },{
+        "tags": "site misc 有趣 random",
+        "title": "Web Curios",
+        "url": "https://webcurios.co.uk/"
+    },{
+        "tags": "site data misc newsletter random",
+        "title": "Chartr 用数据可视化说事",
+        "url": "https://www.chartr.co/newsletters"
+    },{
+        "tags": "site misc newsletter random level1",
+        "title": "Dine News - 内部分享",
+        "url": "https://news.dinehq.net/"
+    },{
+        "tags": "site design misc random weekly",
+        "title": "Pixels - 每周推送一些好看的网页",
+        "url": "https://klart.io/pixels"
+    },{
+        "tags": "site idea read level1 weekly newsletter",
+        "title": "The Slice. - 有价值的文章",
+        "url": "https://theslice.co/"
+    },{
+        "tags": "site misc 有趣 random",
+        "title": "booooooom - 艺术信息网站",
+        "url": "https://www.booooooom.com/"
+    },{
+        "tags": "site misc random level2",
+        "title": "Typewolf",
+        "url": "https://www.typewolf.com/"
+    },{
+        "tags": "site podcast random",
+        "title": "The Type",
+        "url": "https://www.thetype.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "austinkleon",
+        "url": "https://austinkleon.substack.com/"
+    },{
+        "tags": "site design product newsletter",
+        "title": "case study",
+        "url": "https://www.casestudy.club/"
+    },{
+        "tags": "site daily",
+        "title": "It's Nice That",
+        "url": "https://www.itsnicethat.com/"
+    },{
+        "tags": "site newsletter",
+        "title": "Thinking Through - 商业、产品、市场、增长",
+        "url": "https://thinkingthrough.substack.com/"
+    },{
+        "tags": "site newsletter news",
+        "title": "silicon news",
+        "url": "https://www.silicon.news/"
+    },{
+        "tags": "site design",
+        "title": "Figma 资源的精选集合",
+        "url": "https://figmalion.com/"
+    },{
+        "tags": "site design",
+        "title": "hey designer",
+        "url": "https://heydesigner.com/"
+    },{
+        "tags": "site design",
+        "title": "typography",
+        "url": "https://typography.guru/"
+    },{
+        "tags": "site design",
+        "title": "co.design",
+        "url": "https://www.fastcompany.com/co-design"
+    },{
+        "tags": "site UX product",
+        "title": "ReallyGoodUX",
+        "url": "https://www.reallygoodux.io/"
+    },{
+        "tags": "site market daily 高频访问",
+        "title": "tldr marketing市场营销等方面信息推送",
+        "url": "https://tldrmarketing.com/"
+    },{
+        "tags": "site UX market product",
+        "title": "UX matters.",
+        "url": "https://builtformars.com/"
+    },{
+        "tags": "site market level1",
+        "title": "Not Boring - 商业相关主题",
+        "url": "https://www.notboring.co/"
+    },{
+        "tags": "site design misc random 有趣",
+        "title": "Phase Magazine",
+        "url": "https://phase.com/magazine/"
+    },{
+        "tags": "site newsletter random",
+        "title": "lennyrachitsky",
+        "url": "https://www.lennyrachitsky.com/"
+    },{
+        "tags": "site doc github manual",
+        "title": "区块链黑暗森林自救手册",
+        "url": "https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md"
+    },{
+        "tags": "site random regular",
+        "title": "BrandNew",
+        "url": "https://www.underconsideration.com/brandnew/"
+    },{
+        "tags": "site UX",
+        "title": "UX Collective",
+        "url": "https://uxdesign.cc/"
+    },{
+        "tags": "site UX",
+        "title": "Baymard Institute - 专注于电子商务体验的网站",
+        "url": "https://baymard.com/"
+    },{
+        "tags": "site design random misc",
+        "title": "growth rock",
+        "url": "https://growthrock.co/"
+    },{
+        "tags": "site product design idea random regular",
+        "title": "andy works",
+        "url": "https://www.andy.works/"
+    },{
+        "tags": "site awesome design tools",
+        "title": "Awesome-Design-Tools",
+        "url": "https://github.com/goabstract/Awesome-Design-Tools"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
