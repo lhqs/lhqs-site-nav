@@ -36,7 +36,7 @@
         "title": "product hunt",
         "url": "https://www.producthunt.com/"
     },{
-        "tags": "site product idea",
+        "tags": "site product idea 高频访问",
         "title": "新趣集",
         "url": "https://xinquji.com/"
     },{
@@ -2288,7 +2288,7 @@
         "title": "fs.blog",
         "url": "https://fs.blog/"
     },{
-        "tags": "site website 有趣",
+        "tags": "site website misc random 有趣",
         "title": "ahhhhfs",
         "url": "https://www.abskoop.com/"
     },{
@@ -7060,7 +7060,7 @@
         "title": "DAO 从入门到精通（六大阶段）",
         "url": "https://docs.google.com/spreadsheets/d/1MFnN8eoPl_LK0M4kao-QJfY5z05bhNAMzgD-OLBPUo4/edit?usp=sharing"
     },{
-        "tags": "site misc",
+        "tags": "site design misc",
         "title": "goods.wtf",
         "url": "https://goods.wtf/"
     },{
@@ -8324,6 +8324,154 @@
         "tags": "site awesome design tools",
         "title": "Awesome-Design-Tools",
         "url": "https://github.com/goabstract/Awesome-Design-Tools"
+    },{
+        "tags": "site design tools UX",
+        "title": "uxtools",
+        "url": "https://uxtools.co/"
+    },{
+        "tags": "site daily regular forum",
+        "title": "v2hot - 每日V2EX最热主题",
+        "url": "https://v2hot.pipecraft.net/"
+    },{
+        "tags": "site misc",
+        "title": "雪球",
+        "url": "https://xueqiu.com/"
+    },{
+        "tags": "site 导航",
+        "title": "一个导航",
+        "url": "https://yigekuang.cn/"
+    },{
+        "tags": "site tech up todo",
+        "title": "NFT101",
+        "url": "https://nft101.lfgkids.com/"
+    },{
+        "tags": "site todo",
+        "title": "Web3科学家极简入门指南",
+        "url": "https://github.com/gm365/Web3_Tutorial"
+    },{
+        "tags": "site newsletter market",
+        "title": "first1000",
+        "url": "https://read.first1000.co/"
+    },{
+        "tags": "site market",
+        "title": "first 1000 - 如何获得前 1000 名客户的案例研究",
+        "url": "https://www.first1000.co/"
+    },{
+        "tags": "site misc tools",
+        "title": "网名大全",
+        "url": "http://www.shubang.net/wangming/"
+    },{
+        "tags": "site tech",
+        "title": "运维派",
+        "url": "http://www.yunweipai.com/"
+    },{
+        "tags": "site tech 导航",
+        "title": "渊龙Sec安全团队导航",
+        "url": "https://dh.aabyss.cn/"
+    },{
+        "tags": "site music life misc",
+        "title": "Lofi.co",
+        "url": "https://lofi.co//"
+    },{
+        "tags": "site 导航 有趣",
+        "title": "沙雕APP",
+        "url": "https://shadiao.app/"
+    },{
+        "tags": "site level1 创业",
+        "title": "AVC",
+        "url": "https://avc.com"
+    },{
+        "tags": "site doc manual todo",
+        "title": "系统管理指南：IP 服务",
+        "url": "https://docs.oracle.com/cd/E19253-01/819-7058/index.html"
+    },{
+        "tags": "site doc tech",
+        "title": "Unix v6 操作系统评注",
+        "url": "https://warsus.github.io/lions-/"
+    },{
+        "tags": "site ebook doc todo",
+        "title": "藏经阁_阿里云开发者社区",
+        "url": "https://developer.aliyun.com/ebook/"
+    },{
+        "tags": "site wiki random",
+        "title": "认知偏差列表",
+        "url": "https://zh.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4%E5%88%97%E8%A1%A8"
+    },{
+        "tags": "site up",
+        "title": "断墨寻径",
+        "url": "https://www.modevol.com/"
+    },{
+        "tags": "site ebook todo",
+        "title": "《Shape Up》（塑造）",
+        "url": "https://p-c8wi.tower.im/p/54rp"
+    },{
+        "tags": "site manual tech",
+        "title": "运维课程|运维文档",
+        "url": "https://www.opsschool.org/index.html"
+    },{
+        "tags": "site ebook tech",
+        "title": "PDF Explained 译作《PDF 解析》",
+        "url": "https://zxyle.github.io/PDF-Explained/"
+    },{
+        "tags": "site newsletter",
+        "title": "iyouport",
+        "url": "https://iyouport.substack.com/"
+    },{
+        "tags": "site web dev",
+        "title": "Animatiss",
+        "url": "https://xsgames.co/animatiss/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
