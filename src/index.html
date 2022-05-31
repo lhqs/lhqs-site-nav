@@ -62,7 +62,6 @@
     </template>
 
     <script>
-
         const list = document.getElementById('list');
         const tagList = document.getElementById("tagList");
         const tagActive = document.getElementById("tagActive");
@@ -90,9 +89,13 @@
             return res.json();
         }).then(data => {
             siteData = data;
+            const param = window.location.search.substring(1)
+            const defaultTag = "#高频访问";
+            const activeTag = param ? "#" + param : defaultTag;
+
             let tagsSet = new Set();
-            tagsSet.add('#高频访问');
-            filterTags('#高频访问')
+            tagsSet.add(defaultTag);
+            filterTags(activeTag);
             for (const key in data){
                 data[key].tags.split(/\s+/).forEach(element => tagsSet.add('#' + element));
             }
@@ -102,6 +105,9 @@
             }
             tagList.innerHTML= '<div class="flex flex-wrap">' + tagDiv + '</div>';
         });
+
+
+
 
 
         const filterTags = (tag) => {
