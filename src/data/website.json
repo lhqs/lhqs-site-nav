@@ -5284,7 +5284,7 @@
         "title": "startup ideas",
         "url": "https://www.google.com/search?client=firefox-b-d&q=%22startup+ideas%22"
     },{
-        "tags": "site blog search level1",
+        "tags": "site blog search level1 高频访问",
         "title": "Blog Search Engine",
         "url": "https://blogsurf.io/"
     },{
@@ -7177,7 +7177,7 @@
         "url": "https://weekly.zoo.team/"
     },{
         "tags": "site doc book manual",
-        "title": "Python Cookbook",
+        "title": "Python3 Cookbook",
         "url": "https://python3-cookbook.readthedocs.io/zh_CN/latest/"
     },{
         "tags": "site newsletter weekly 次高频",
@@ -8461,41 +8461,41 @@
         "title": "smart daily",
         "url": "https://smartrdaily.ghost.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site todo",
+        "title": "工程师协作",
+        "url": "https://www.heinrichhartmann.com/posts/writing/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site design 导航",
+        "title": "castalia - 不只是设计师的灵感源泉",
+        "url": "https://afterwork-design.github.io/castalia/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site web dev",
+        "title": "CSS GUI",
+        "url": "https://components.ai/css-gui/properties"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site data github",
+        "title": "互联网数据集",
+        "url": "https://github.com/RimoChan/internet-dataset"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site ebook",
+        "title": "Nginx开发从入门到精通",
+        "url": "http://tengine.taobao.org/book/index.html"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site book",
+        "title": "DeFi 知识库",
+        "url": "https://tokeninsight-support.gitbook.io/ti_defi/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 榜单 data",
+        "title": "redditlist",
+        "url": "http://redditlist.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog list 高频访问",
+        "title": "博客集",
+        "url": "www.zdzn.net/page/blog.html"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc up explore",
+        "title": "所有大分类 | 智问智答",
+        "url": "https://qa.1r1g.cn/"
     },{
         "tags": "site",
         "title": "",
