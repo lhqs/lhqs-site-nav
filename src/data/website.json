@@ -6980,7 +6980,7 @@
         "title": "dsebastien",
         "url": "https://dsebastien.net/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter level1 often",
         "title": "DeveloPassion's Newsletter - PKM",
         "url": "https://newsletter.dsebastien.net/"
     },{
@@ -7236,7 +7236,7 @@
         "title": "tailwind-elements",
         "url": "https://tailwind-elements.com/quick-start/"
     },{
-        "tags": "site misc level1",
+        "tags": "site misc 次高频 level1",
         "title": "倾城之链",
         "url": "https://nicelinks.site/"
     },{
@@ -8496,6 +8496,86 @@
         "tags": "site misc up explore",
         "title": "所有大分类 | 智问智答",
         "url": "https://qa.1r1g.cn/"
+    },{
+        "tags": "site tech-blog",
+        "title": "Learning Containers, Kubernetes, and Backend Development",
+        "url": "https://iximiuz.com/en/"
+    },{
+        "tags": "site github awesome list random todo",
+        "title": "system-design-resources",
+        "url": "https://github.com/InterviewReady/system-design-resources"
+    },{
+        "tags": "site resource",
+        "title": "网盘资源分享站",
+        "url": "https://aipanxiaozhan.com/"
+    },{
+        "tags": "site doc",
+        "title": "zdzn 文档",
+        "url": "https://doc.zdzn.net/"
+    },{
+        "tags": "site tools",
+        "title": "web utils",
+        "url": "https://www.webutils.app/"
+    },{
+        "tags": "site english",
+        "title": "每日 10 分钟, 轻松练英语听力",
+        "url": "https://www.babelabc.com/"
+    },{
+        "tags": "site web dev",
+        "title": "the front-end checklist",
+        "url": "https://frontendchecklist.io"
+    },{
+        "tags": "site tools",
+        "title": "在线Ping",
+        "url": "https://www.itdog.cn/ping/"
+    },{
+        "tags": "site misc",
+        "title": "obsidian软件使用的心得汇总",
+        "url": "https://github.com/cyddgh/obsidian-chinese-help"
+    },{
+        "tags": "site up tech todo github",
+        "title": "Web3, Full Stack Solidity, Smart Contract & Blockchain",
+        "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js"
+    },{
+        "tags": "site weekly tech",
+        "title": "《编程狂人》周刊",
+        "url": "https://www.tuicool.com/mags"
+    },{
+        "tags": "site 导航",
+        "title": "聚BT",
+        "url": "https://jubt.fun/cn/index.html"
+    },{
+        "tags": "site 导航",
+        "title": "狼牌工作网址导航",
+        "url": "https://www.volf.club/"
+    },{
+        "tags": "site product 创业",
+        "title": "OpenStartup™ 是开放式初创公司及其 MRR的集合",
+        "url": "https://openstartup.tm/"
+    },{
+        "tags": "site podcast",
+        "title": "牛油果烤面包",
+        "url": "https://avocadotoast.typlog.io/"
+    },{
+        "tags": "site github doc manual",
+        "title": "阿里开源 - Alibaba Open Source",
+        "url": "https://open-source.alibaba.com/document"
+    },{
+        "tags": "site github tools",
+        "title": "AWS 安全的开源工具列表",
+        "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools"
+    },{
+        "tags": "site msic",
+        "title": "猪头汉堡",
+        "url": "https://www.iculture.cc"
+    },{
+        "tags": "site osint",
+        "title": "OSINT开源情报框架",
+        "url": "https://www.iculture.cc/osint/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
