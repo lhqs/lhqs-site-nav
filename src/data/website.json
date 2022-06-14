@@ -324,7 +324,7 @@
         "title": "程序员的自我修养",
         "url": "https://leohxj.gitbooks.io/a-programmer-prepares/content/"
     },{
-        "tags": "site tech code",
+        "tags": "site tech code cheatsheet",
         "title": "Java Code Examples",
         "url": "https://www.programcreek.com/java-api-examples/index.php"
     },{
@@ -1700,7 +1700,7 @@
         "title": "张子阳的博客",
         "url": "http://www.tracefact.net/"
     },{
-        "tags": "site read",
+        "tags": "site read often",
         "title": "读书笔记",
         "url": "https://reading.geek-docs.com/"
     },{
@@ -2864,7 +2864,7 @@
         "title": "轻工具",
         "url": "https://qinggongju.com"
     },{
-        "tags": "site manual cheatsheet dev code book",
+        "tags": "site manual cheatsheet dev code book todo",
         "title": "Netkiller系列电子书",
         "url": "https://www.netkiller.cn/"
     },{
@@ -2956,7 +2956,7 @@
         "title": "42 School CheatSheet",
         "url": "https://github.com/agavrel/42_CheatSheet"
     },{
-        "tags": "site github idea",
+        "tags": "site github code idea",
         "title": "free api",
         "url": "https://github.com/fangzesheng/free-api"
     },{
@@ -5788,7 +5788,7 @@
         "title": "Arch Linux 安装使用教程",
         "url": "https://archlinuxstudio.github.io/ArchLinuxTutorial/#/"
     },{
-        "tags": "site product github idea tools todo",
+        "tags": "site product github idea tools todo search",
         "title": "open source alternative to",
         "url": "https://www.opensourcealternative.to/"
     },{
@@ -5868,7 +5868,7 @@
         "title": "NameBeta",
         "url": "https://namebeta.com/"
     },{
-        "tags": "site misc 次高频",
+        "tags": "site misc 次高频 often",
         "title": "哎呦bucuo",
         "url": "https://aiyoubucuo.com/"
     },{
@@ -8357,8 +8357,8 @@
         "title": "first 1000 - 如何获得前 1000 名客户的案例研究",
         "url": "https://www.first1000.co/"
     },{
-        "tags": "site misc tools",
-        "title": "网名大全",
+        "tags": "site misc tools import",
+        "title": "工具书",
         "url": "http://www.shubang.net/wangming/"
     },{
         "tags": "site tech",
@@ -8729,57 +8729,57 @@
         "title": "Architecture Notes",
         "url": "https://architecturenotes.co/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site todo weekly tech-blog level1 often",
+        "title": "二丫讲梵",
+        "url": "https://wiki.eryajf.net/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github search code",
+        "title": "Search open-source projects on github / gitlab / bitbucket",
+        "url": "https://zzollo.co/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site wiki often",
+        "title": "Everything I know",
+        "url": "https://wiki.nikiv.dev/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site Mac dev",
+        "title": "wwdc notes",
+        "url": "https://www.wwdcnotes.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "Obsidian中文教程",
+        "url": "https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/2021%E5%B9%B4%E6%96%B0%E6%95%99%E7%A8%8B"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech tools",
+        "title": "Linux Performance",
+        "url": "https://www.brendangregg.com/linuxperf.html"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech forum",
+        "title": "即时通讯网",
+        "url": "http://www.52im.net/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc tech",
+        "title": "Zorro’s Linux Book",
+        "url": "https://zorrozou.github.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI doc ebook",
+        "title": "机器学习系统：设计和实现 ",
+        "url": "https://github.com/openmlsys/openmlsys-zh"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI ebook",
+        "title": "蘑菇书EasyRL",
+        "url": "https://github.com/datawhalechina/easy-rl"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site web dev manual",
+        "title": "前端规范",
+        "url": "https://woai3c.github.io/front-end-specification/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc ebook",
+        "title": "写给开发人员的实用密码学",
+        "url": "https://cryptobook.nakov.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site weekly often",
+        "title": "老胡的周刊",
+        "url": "https://weekly.howie6879.cn/index.html"
     },{
         "tags": "site",
         "title": "",
