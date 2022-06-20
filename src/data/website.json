@@ -3388,7 +3388,7 @@
         "title": "mambaui",
         "url": "https://mambaui.com/"
     },{
-        "tags": "site notion list tools good",
+        "tags": "site notion list tools good 高频访问",
         "title": "NOISE | 知识效率集",
         "url": "https://www.noisesite.cn/"
     },{
@@ -7656,7 +7656,7 @@
         "title": "Made With ML",
         "url": "https://madewithml.com/"
     },{
-        "tags": "site misc 有趣",
+        "tags": "site misc 有趣 often",
         "title": "Wait But Why",
         "url": "https://waitbutwhy.com/"
     },{
@@ -8817,17 +8817,17 @@
         "title": "my side project list",
         "url": "https://mysideproject.rocks/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github web",
+        "title": "《前端内参》",
+        "url": "https://github.com/coffe1891/frontend-hard-mode-interview/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog github",
+        "title": "Halfrost-Field 冰霜之地",
+        "url": "https://github.com/halfrost/Halfrost-Field"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site design",
+        "title": "storybook showcase",
+        "url": "https://storybook.js.org/showcase"
     },{
         "tags": "site",
         "title": "",
