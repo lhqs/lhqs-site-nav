@@ -8857,17 +8857,37 @@
         "title": "币市极简必备",
         "url": "https://www.51bitcoin.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "Jay的资源库",
+        "url": "https://www.lovejay.top/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site code todo",
+        "title": "Google Style Guides",
+        "url": "https://google.github.io/styleguide/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog foreign random",
+        "title": "jacobian",
+        "url": "https://jacobian.org/posts/"
+    },{
+        "tags": "site 有趣 random misc idea",
+        "title": "话 | （不无聊）",
+        "url": "https://www.andy.works/words"
+    },{
+        "tags": "site book misc",
+        "title": "reddit 用户正在阅读哪些书籍",
+        "url": "https://www.redditreads.com/"
+    },{
+        "tags": "site misc book",
+        "title": "HackerNews Readings",
+        "url": "https://hacker-recommended-books.vercel.app/"
+    },{
+        "tags": "site notion",
+        "title": "Notion指南",
+        "url": "https://efficiencyfollow.notion.site/Notion-1c8e0d211dc849e5a0fd522ef9800ea2"
+    },{
+        "tags": "site rss list notion",
+        "title": "RSS指南",
+        "url": "https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d"
     },{
         "tags": "site",
         "title": "",
