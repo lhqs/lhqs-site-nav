@@ -1588,11 +1588,11 @@
         "title": "工业导航",
         "url": "http://www.gongyedh.com/"
     },{
-        "tags": "site 导航",
+        "tags": "site 导航 design",
         "title": "设计导航",
         "url": "https://www.shejipi.com/hao"
     },{
-        "tags": "site github list",
+        "tags": "site github list product",
         "title": "中国独立开发者项目列表",
         "url": "https://github.com/1c7/chinese-independent-developer"
     },{
@@ -7628,7 +7628,7 @@
         "title": "红队学习资料",
         "url": "https://github.com/we1h0/redteam-tips"
     },{
-        "tags": "site tech doc github cheatsheet",
+        "tags": "site tech doc github cheatsheet todo",
         "title": "HackTricks",
         "url": "https://book.hacktricks.xyz/welcome/readme"
     },{
@@ -8888,6 +8888,62 @@
         "tags": "site rss list notion",
         "title": "RSS指南",
         "url": "https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d"
+    },{
+        "tags": "site level1 often book",
+        "title": "小鱼速读",
+        "url": "http://www.xysudu.com"
+    },{
+        "tags": "site 高频访问",
+        "title": "hacker news digest",
+        "url": "https://www.hndigest.com"
+    },{
+        "tags": "site weekly",
+        "title": "c++中文周刊",
+        "url": "https://github.com/wanghenshui/cppweeklynews"
+    },{
+        "tags": "site todo github",
+        "title": "精益副业：程序员如何优雅地做副业",
+        "url": "https://github.com/easychen/lean-side-bussiness"
+    },{
+        "tags": "site github",
+        "title": "AllAboutBugBounty",
+        "url": "https://github.com/daffainfo/AllAboutBugBounty"
+    },{
+        "tags": "site music",
+        "title": "music for programming",
+        "url": "https://musicforprogramming.net"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
