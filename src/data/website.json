@@ -2380,7 +2380,7 @@
         "title": "awesome-console-services",
         "url": "https://github.com/chubin/awesome-console-services"
     },{
-        "tags": "site tech rss level2",
+        "tags": "site tech rss level1 often",
         "title": "unsafe",
         "url": "https://unsafe.sh/"
     },{
@@ -4933,7 +4933,7 @@
         "url": "https://github.com/larymak/Python-project-Scripts"
     },{
         "tags": "site notion 高频访问",
-        "title": "优质notion站点收录",
+        "title": "优质notion站点收录等...",
         "url": "https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/dstpb9Rg3iANvW7Cau/viwMtRRpRB2bt"
     },{
         "tags": "site 榜单 news",
@@ -8940,6 +8940,54 @@
         "tags": "site Mac",
         "title": "Apple 苹果产品参数中心 ",
         "url": "http://www.onlineit.cn/apple/"
+    },{
+        "tags": "site web dev code",
+        "title": "防御性 CSS",
+        "url": "https://defensivecss.dev/"
+    },{
+        "tags": "site book read",
+        "title": "豆瓣读书",
+        "url": "https://book.douban.com/"
+    },{
+        "tags": "site misc data",
+        "title": "Fintopa - 上市公司的免费财务可视化",
+        "url": "https://www.fintopea.com/"
+    },{
+        "tags": "site 导航 video",
+        "title": "影视森林——观影第一站 ",
+        "url": "https://www.549.tv/"
+    },{
+        "tags": "site tools",
+        "title": "Free Online Tools",
+        "url": "https://allinone.tools/"
+    },{
+        "tags": "site 高频访问 daily often",
+        "title": "recent - pinboard",
+        "url": "https://pinboard.in/recent"
+    },{
+        "tags": "site 高频访问 daily often",
+        "title": "popular - pinboard",
+        "url": "https://pinboard.in/popular/"
+    },{
+        "tags": "site github",
+        "title": "devops-resources",
+        "url": "https://github.com/bregman-arie/devops-resources"
+    },{
+        "tags": "site cheatsheet",
+        "title": "cheat-sheet-pdf",
+        "url": "https://github.com/sk3pp3r/cheat-sheet-pdf"
+    },{
+        "tags": "site resource 导航",
+        "title": "万人迷吧-优质云盘资源导航站",
+        "url": "http://wanrenmi8.com/cn/index.html"
+    },{
+        "tags": "site 导航",
+        "title": "Noise导航 & 收录值得珍藏的网站",
+        "url": "https://www.noisedh.cn/"
+    },{
+        "tags": "site tech search often 高频访问",
+        "title": "黑客搜索引擎",
+        "url": "https://github.com/edoardottt/awesome-hacker-search-engines"
     },{
         "tags": "site",
         "title": "",
