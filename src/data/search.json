@@ -94,6 +94,10 @@
                 {
                     "title": "Teclis",
                     "url": "https://teclis.com/search?q=${query}"
+                },
+                {
+                    "title": "brave",
+                    "url": "https://search.brave.com/search?q=${query}"
                 }
             ]
         },

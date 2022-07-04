@@ -1240,7 +1240,7 @@
         "title": "Textbook for System Design Interviews",
         "url": "https://systemdesign.org"
     },{
-        "tags": "site tech-blog level1",
+        "tags": "site tech-blog level1 random",
         "title": "苏洋博客",
         "url": "https://soulteary.com/"
     },{
@@ -2551,6 +2551,10 @@
         "tags": "site 次高频 data tech forum",
         "title": "RAID froums",
         "url": "https://raidforums.com/"
+    },{
+        "tags": "site 次高频 data tech forum",
+        "title": "BreachForums https://breached.to/",
+        "url": "https://breached.to/"
     },{
         "tags": "site tools",
         "title": "Google管理员工具箱",
@@ -6300,7 +6304,7 @@
         "title": "OSINT资源 | 名人堂",
         "url": "https://www.osint-labs.org/resources/"
     },{
-        "tags": "site tech-blog",
+        "tags": "site tech-blog often",
         "title": "李佶澳的博客",
         "url": "https://www.lijiaocn.com/"
     },{
@@ -9001,33 +9005,33 @@
         "title": "breached.to",
         "url": "https://breached.to/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog 次高频 tech",
+        "title": "解道jdon - 传道解惑的架构师博客",
+        "url": "https://www.jdon.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site forum",
+        "title": "QuantifiedSelf - reddit",
+        "url": "https://old.reddit.com/r/QuantifiedSelf/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site Mac",
+        "title": "Visual Homebrew Cask",
+        "url": "https://coldbrew.doom.sh/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 高频访问 often",
+        "title": "名言通",
+        "url": "https://www.mingyantong.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc todo",
+        "title": "OpenWrt中文教程",
+        "url": "https://openwrt.online/#/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site list github often todo",
+        "title": "professional-programming (full-stack resources)",
+        "url": "https://github.com/charlax/professional-programming"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site design",
+        "title": "Core77 Design Awards | 2022 ",
+        "url": "https://designawards.core77.com/"
     },{
         "tags": "site",
         "title": "",
