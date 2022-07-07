@@ -1740,7 +1740,7 @@
         "title": "计算机科学主题列表",
         "url": "https://dirtysalt.github.io/html/index.html"
     },{
-        "tags": "site dev 高频访问 list",
+        "tags": "site dev 高频访问 list often",
         "title": "开发者头条",
         "url": "https://toutiao.io/"
     },{
@@ -5840,7 +5840,7 @@
         "title": "前端开发博客",
         "url": "https://github.com/kujian/frontendDaily"
     },{
-        "tags": "site github web",
+        "tags": "site github web random",
         "title": "50projects50days",
         "url": "https://github.com/bradtraversy/50projects50days"
     },{
@@ -7908,7 +7908,7 @@
         "title": "Demand curve - Level up your marketing",
         "url": "https://www.demandcurve.com/"
     },{
-        "tags": "site level1",
+        "tags": "site level1 often",
         "title": "a16z future",
         "url": "https://future.a16z.com/"
     },{
@@ -9032,6 +9032,38 @@
         "tags": "site design",
         "title": "Core77 Design Awards | 2022 ",
         "url": "https://designawards.core77.com/"
+    },{
+        "tags": "site tech weekly",
+        "title": "segmentfault-技术周刊",
+        "url": "https://segmentfault.com/t/segmentfault-%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A"
+    },{
+        "tags": "site tech-blog",
+        "title": "张晓辉blog",
+        "url": "https://atbug.com/"
+    },{
+        "tags": "site 导航",
+        "title": "程序员导航",
+        "url": "https://www.cxy521.com/"
+    },{
+        "tags": "site product",
+        "title": "copy book",
+        "url": "https://copybook.me/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
