@@ -2512,7 +2512,7 @@
         "title": "变更日志demo",
         "url": "https://www.changelogs.gallery/"
     },{
-        "tags": "site blog import good 次高频 level2",
+        "tags": "site blog import good 次高频 level2 often",
         "title": "brianlovin(good)",
         "url": "https://brianlovin.com/"
     },{
@@ -3392,7 +3392,7 @@
         "title": "mambaui",
         "url": "https://mambaui.com/"
     },{
-        "tags": "site notion list tools good 高频访问",
+        "tags": "site notion list tools rss good 高频访问",
         "title": "NOISE | 知识效率集",
         "url": "https://www.noisesite.cn/"
     },{
@@ -9084,6 +9084,42 @@
         "tags": "site misc",
         "title": "hackday",
         "url": "https://hackaday.com/"
+    },{
+        "tags": "site tech-blog",
+        "title": "gitblog",
+        "url": "https://github.com/yihong0618/gitblog"
+    },{
+        "tags": "site rss",
+        "title": "Feed for Owen",
+        "url": "https://myfeed.owenyoung.com/"
+    },{
+        "tags": "site notion",
+        "title": "Fishyer-Notion",
+        "url": "https://notion.fishyer.com/"
+    },{
+        "tags": "site todo dev",
+        "title": "Stack Overflow Developer Survey 2022 ",
+        "url": "https://survey.stackoverflow.co/2022/"
+    },{
+        "tags": "site product tools dev todo",
+        "title": "reddit r/selfhosted",
+        "url": "https://www.reddit.com/r/selfhosted/comments/udxlnp/what_are_your_most_used_self_hosted_applications/"
+    },{
+        "tags": "site product todo dev tools",
+        "title": "self-hosted (Hacker news)",
+        "url": "https://news.ycombinator.com/item?id=31260061"
+    },{
+        "tags": "site tech daily",
+        "title": "软件工程日报",
+        "url": "https://softwareengineeringdaily.com/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
