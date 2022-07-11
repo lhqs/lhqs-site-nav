@@ -424,7 +424,7 @@
         "title": "github awesome",
         "url": "https://github.com/sindresorhus/awesome"
     },{
-        "tags": "site github product 次高频",
+        "tags": "site github product 次高频 todo",
         "title": "awesome-selfhosted",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
     },{
@@ -1226,7 +1226,7 @@
     },{
         "tags": "site rss list blog 高频访问",
         "title": "RSS Source",
-        "url": "https://rss-source.com"
+        "url": "https://rss-source.com/"
     },{
         "tags": "site newsletter list github 高频访问",
         "title": "newsletter-list",
@@ -3464,7 +3464,7 @@
         "title": "ponyfoo.com",
         "url": "https://ponyfoo.com/"
     },{
-        "tags": "site tech-blog",
+        "tags": "site tech-blog senior",
         "title": "martinFowler",
         "url": "https://martinfowler.com/"
     },{
@@ -9001,10 +9001,6 @@
         "title": "i-programmer",
         "url": "https://www.i-programmer.info/"
     },{
-        "tags": "site",
-        "title": "breached.to",
-        "url": "https://breached.to/"
-    },{
         "tags": "site tech-blog 次高频 tech",
         "title": "解道jdon - 传道解惑的架构师博客",
         "url": "https://www.jdon.com/"
@@ -9113,25 +9109,25 @@
         "title": "软件工程日报",
         "url": "https://softwareengineeringdaily.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site rss todo",
+        "title": "Single RSS Feed sharing",
+        "url": "https://twitter.com/aboutRSS/timelines/1527857429467172864"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site rss todo",
+        "title": "Feeds bunch sharing",
+        "url": "https://twitter.com/aboutRSS/timelines/1527674304921362432"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site special todo",
+        "title": "Beliefs about how things are and how they should be",
+        "url": "https://buster.gitbooks.io/public/content/book-of-beliefs.html"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site notion 创业",
+        "title": "《做一家叫多抓鱼的公司》系列",
+        "url": "https://warm-recess-b5d.notion.site/4a33cd972d774e669db675fbda2b8950"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site market",
+        "title": "ahrefs.com",
+        "url": "https://ahrefs.com/blog/zh/"
     },{
         "tags": "site",
         "title": "",
