@@ -516,7 +516,7 @@
         "title": "书签地球",
         "url": "https://www.bookmarkearth.com/"
     },{
-        "tags": "site bookmark list",
+        "tags": "site bookmark list often",
         "title": "良心到难以置信的网站推荐",
         "url": "https://xiangjianan.gitee.io/lks/"
     },{
@@ -2692,11 +2692,11 @@
         "title": "独立 blog 订阅列表 ",
         "url": "https://www.notion.so/blog-by-liqi-io-4bdf37d4fb3443b4b6dbed8317450307"
     },{
-        "tags": "site tech blog",
+        "tags": "site tech blog often",
         "title": "Thoughtworks洞见",
         "url": "https://insights.thoughtworks.cn/"
     },{
-        "tags": "site tech-blog list github",
+        "tags": "site tech-blog list github often",
         "title": "A curated list of engineering blogs ",
         "url": "https://github.com/kilimchoi/engineering-blogs"
     },{
@@ -9021,7 +9021,7 @@
         "title": "OpenWrt中文教程",
         "url": "https://openwrt.online/#/"
     },{
-        "tags": "site list github often todo",
+        "tags": "site list github often todo guide",
         "title": "professional-programming (full-stack resources)",
         "url": "https://github.com/charlax/professional-programming"
     },{
@@ -9129,13 +9129,53 @@
         "title": "ahrefs.com",
         "url": "https://ahrefs.com/blog/zh/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter weekly",
+        "title": "un.Block 周报",
+        "url": "https://unblock256.substack.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site dev github todo",
+        "title": "云计算自学指南",
+        "url": "https://github.com/learntocloud/learn-to-cloud"
+    },{
+        "tags": "site tech-blog",
+        "title": "Verne",
+        "url": "https://einverne.github.io/archive.html"
+    },{
+        "tags": "site 有趣",
+        "title": "Neal.Fun",
+        "url": "https://neal.fun/"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome-learning",
+        "url": "https://github.com/afontcu/awesome-learning"
+    },{
+        "tags": "site newsletter",
+        "title": "freshvanroot",
+        "url": "https://freshvanroot.com/"
+    },{
+        "tags": "site dev up",
+        "title": "programming tutorials",
+        "url": "https://www.tuthub.io/"
+    },{
+        "tags": "site newsletter list 高频访问",
+        "title": "readsom - Discover content you’ll want to read",
+        "url": "https://readsom.com/"
+    },{
+        "tags": "site awesome weekly dev github",
+        "title": "awesome-weekly",
+        "url": "https://github.com/jondot/awesome-weekly"
+    },{
+        "tags": "site dev weekly",
+        "title": "meet-weekly",
+        "url": "https://github.com/matheusazzi/meet-weekly"
+    },{
+        "tags": "site tools",
+        "title": "gifcap - Capture your screen to a GIF in your browser",
+        "url": "https://github.com/joaomoreno/gifcap"
+    },{
+        "tags": "site tools tech dev",
+        "title": "星际黑客",
+        "url": "https://www.xj.hk/"
     },{
         "tags": "site",
         "title": "",
