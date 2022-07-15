@@ -1596,7 +1596,7 @@
         "title": "中国独立开发者项目列表",
         "url": "https://github.com/1c7/chinese-independent-developer"
     },{
-        "tags": "site daily 次高频",
+        "tags": "site daily often 次高频",
         "title": "极客阅读",
         "url": "https://jikeyuedu.cn/hot"
     },{
@@ -3264,7 +3264,7 @@
         "title": "写作、研究和探索网络",
         "url": "https://waxy.org/"
     },{
-        "tags": "site 未分类",
+        "tags": "site 未分类 misc level1 business",
         "title": "Harvard Business Review",
         "url": "https://hbr.org/"
     },{
@@ -6048,7 +6048,7 @@
         "title": "Citaldel 文章收藏",
         "url": "https://www.notion.so/4900d9878d7c4c3c974c46433d7d71a1?v=1d50c05a70144fbbaad2d62438da336e"
     },{
-        "tags": "site notion list level1",
+        "tags": "site notion list level1 often",
         "title": "notion开源及收录优质notion创作者页面",
         "url": "https://allaboutnotion.popsy.site/"
     },{
@@ -9176,6 +9176,38 @@
         "tags": "site tools tech dev",
         "title": "星际黑客",
         "url": "https://www.xj.hk/"
+    },{
+        "tags": "site dev search",
+        "title": "A search engine for developers.",
+        "url": "https://beta.sayhello.so/"
+    },{
+        "tags": "site Mac",
+        "title": "m1-app-checker",
+        "url": "https://www.imobie.com/cn/m1-app-checker/"
+    },{
+        "tags": "site life",
+        "title": "默沙东诊疗手册 家庭版",
+        "url": "https://www.msdmanuals.cn/home"
+    },{
+        "tags": "site tech doc book",
+        "title": "云原生资料库",
+        "url": "https://lib.jimmysong.io/"
+    },{
+        "tags": "site market",
+        "title": "100 users 100 days",
+        "url": "https://100in100.co"
+    },{
+        "tags": "site tech-blog random level2 todo",
+        "title": "四火的唠叨",
+        "url": "https://www.raychase.net/allarticles"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
