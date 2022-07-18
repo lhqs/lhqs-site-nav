@@ -1920,7 +1920,7 @@
         "title": "blog-hub",
         "url": "https://bloghub.fun/"
     },{
-        "tags": "site blog",
+        "tags": "site blog level2",
         "title": "晚晴幽草轩",
         "url": "https://www.jeffjade.com/"
     },{
@@ -9193,8 +9193,12 @@
         "title": "云原生资料库",
         "url": "https://lib.jimmysong.io/"
     },{
-        "tags": "site market",
+        "tags": "site market idea often random",
         "title": "100 users 100 days",
+        "url": "https://100in100.co"
+    },{
+        "tags": "site market idea 次高频 random",
+        "title": "100 in 100 round 1",
         "url": "https://100in100.co"
     },{
         "tags": "site tech-blog random level2 todo",
@@ -9213,41 +9217,41 @@
         "title": "oldwinter.top",
         "url": "https://oldwinter.top/AboutTheGarden"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog foreign",
+        "title": "Blogs by Shuvomoy Das Gupta",
+        "url": "https://shuvomoy.github.io/blogs/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site weekly newsletter tech random level1",
+        "title": "期刊 - 极客阅读",
+        "url": "https://jikeyuedu.cn/topic/%E6%9C%9F%E5%88%8A"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site market idea random",
+        "title": "REVENUE WATCHER",
+        "url": "https://revenuewatcher.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 有趣",
+        "title": "ciechanow.ski",
+        "url": "https://ciechanow.ski"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site weekly todo 次高频 tech dev",
+        "title": "码农周刊",
+        "url": "https://weekly.manong.io/issues/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog dev",
+        "title": "xumenger",
+        "url": "http://www.xumenger.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc market",
+        "title": "提问搜索 - 帮助文章写手",
+        "url": "http://tiwenss.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "9GAG: Go Fun The World",
+        "url": " https://9gag.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site web",
+        "title": "IconBrew",
+        "url": "https://iconbrew.com/"
     },{
         "tags": "site",
         "title": "",
