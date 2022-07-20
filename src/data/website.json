@@ -600,7 +600,7 @@
         "title": "铜钟音乐",
         "url": "https://tonzhon.com/"
     },{
-        "tags": "site 导航 dev",
+        "tags": "site list tech-blog 导航 dev",
         "title": "开发者导航",
         "url": "https://www.zdzn.net/"
     },{
@@ -8581,7 +8581,7 @@
         "title": "plantegg",
         "url": "https://plantegg.github.io/archives/"
     },{
-        "tags": "site up todo",
+        "tags": "site note up todo",
         "title": "技术文章摘抄",
         "url": "http://learn.lianglianglee.com/"
     },{
@@ -9001,7 +9001,7 @@
         "title": "i-programmer",
         "url": "https://www.i-programmer.info/"
     },{
-        "tags": "site tech-blog 次高频 tech",
+        "tags": "site tech-blog 次高频 tech often",
         "title": "解道jdon - 传道解惑的架构师博客",
         "url": "https://www.jdon.com/"
     },{
@@ -9253,33 +9253,33 @@
         "title": "IconBrew",
         "url": "https://iconbrew.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site business",
+        "title": "Fast Company",
+        "url": "https://www.fastcompany.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site podcast",
+        "title": "中文播客榜",
+        "url": "https://xyzrank.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog foreign",
+        "title": "Nix Sanctuary",
+        "url": "https://nixsanctuary.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "the bear cave",
+        "url": "https://thebearcave.substack.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site web",
+        "title": "CSS 动效代码",
+        "url": "https://cssfx.lovejade.cn/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site dev",
+        "title": "DevOps README",
+        "url": "https://devopsreadme.xyz/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site forum",
+        "title": "NGA玩家社区",
+        "url": "https://bbs.nga.cn/"
     },{
         "tags": "site",
         "title": "",
