@@ -2620,7 +2620,7 @@
         "title": "spotify design",
         "url": "https://spotify.design/"
     },{
-        "tags": "site web dev",
+        "tags": "site web dev blog level2",
         "title": "Josh comeau",
         "url": "https://www.joshwcomeau.com/"
     },{
@@ -3264,7 +3264,7 @@
         "title": "写作、研究和探索网络",
         "url": "https://waxy.org/"
     },{
-        "tags": "site 未分类 misc level1 business",
+        "tags": "site 未分类 misc level1 business 创业",
         "title": "Harvard Business Review",
         "url": "https://hbr.org/"
     },{
@@ -3564,7 +3564,7 @@
         "title": "swift gg",
         "url": "https://swiftgg.gitbook.io/swift/"
     },{
-        "tags": "site rss list 次高频",
+        "tags": "site rss list 高频访问",
         "title": "A list of RSS",
         "url": "https://github.com/AboutRSS/ALL-about-RSS"
     },{
@@ -6860,7 +6860,7 @@
         "title": "kagi",
         "url": "https://kagi.com/"
     },{
-        "tags": "site idea 导航 explore",
+        "tags": "site idea 导航 explore product tools todo",
         "title": "Discover Insanely Useful Websites",
         "url": "https://www.insanelyusefulwebsites.com/"
     },{
@@ -6980,7 +6980,7 @@
         "title": "创意导航",
         "url": "https://creativemass.cn/#/"
     },{
-        "tags": "site blog newsletter level2",
+        "tags": "site dev blog newsletter level1 often",
         "title": "dsebastien",
         "url": "https://dsebastien.net/"
     },{
@@ -7036,7 +7036,7 @@
         "title": "apps.net",
         "url": "https://zh.altapps.net/"
     },{
-        "tags": "site search",
+        "tags": "site search idea product",
         "title": "SimilarSites",
         "url": "https://www.similarsites.com/"
     },{
@@ -8445,7 +8445,7 @@
         "title": "Lua 5.3 参考手册 ",
         "url": "https://wiki.luatos.com/_static/lua53doc/contents.html"
     },{
-        "tags": "site tools 创业 product",
+        "tags": "site tools 创业 product 高频访问 todo",
         "title": "Discover The Best Free Tools For Startup Founders",
         "url": "https://www.startups.fyi/"
     },{
@@ -9225,7 +9225,7 @@
         "title": "期刊 - 极客阅读",
         "url": "https://jikeyuedu.cn/topic/%E6%9C%9F%E5%88%8A"
     },{
-        "tags": "site market idea random",
+        "tags": "site market idea random dev",
         "title": "REVENUE WATCHER",
         "url": "https://revenuewatcher.com/"
     },{
@@ -9341,73 +9341,73 @@
         "title": "GitHub开源项目维护协作指南 ",
         "url": "https://eryajf.github.io/HowToStartOpenSource/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site idea other reading",
+        "title": "Blinkist: Powerful ideas—15 minutes at a time",
+        "url": "https://www.blinkist.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter level1",
+        "title": "10+1 Things",
+        "url": "https://rishikesh.substack.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site product",
+        "title": "alternative.me",
+        "url": "https://alternative.me/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site product",
+        "title": "Slant",
+        "url": "https://www.slant.co/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site product",
+        "title": "FileHorse",
+        "url": "https://www.filehorse.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site market",
+        "title": "Growth Tips",
+        "url": "https://growthtips.co/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "Startup Win",
+        "url": "https://startupwin.kelsus.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech todo newsletter senior",
+        "title": "ByteByteGo",
+        "url": "https://blog.bytebytego.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 创业 tools business",
+        "title": "start my business",
+        "url": "https://startmybusiness.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "complice 目标",
+        "url": "https://complice.co/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 创业",
+        "title": "Billion Dollar Pitch Decks",
+        "url": "https://www.billiondollarpitchdecks.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog 次高频 level random todo",
+        "title": "Owen",
+        "url": "https://www.owenyoung.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site top Mac data",
+        "title": "Top Ranked iOS App Store Apps",
+        "url": "https://appfigures.com/top-apps/ios-app-store/united-states/iphone/top-overall"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 有趣 todo list",
+        "title": "Most-favorited Hacker News posts (observablehq.com)",
+        "url": "https://news.ycombinator.com/item?id=24351073"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site top data",
+        "title": "热门应用排名",
+        "url": "https://www.similarweb.com/zh/apps/trends/apple/store-rank/us/all/top-free/iphone/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github awesome todo",
+        "title": "awesome-lite-websites",
+        "url": "https://github.com/mdibaiee/awesome-lite-websites"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "yzqzss|一座桥在水上’s Blog - 无聊死了 ",
+        "url": "https://blog.othing.xyz/"
     },{
         "tags": "site",
         "title": "",
