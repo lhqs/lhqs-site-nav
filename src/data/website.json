@@ -4200,7 +4200,7 @@
         "title": "ableton音乐创作",
         "url": "https://learningmusic.ableton.com/zh-Hans/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter weekly",
         "title": "好工具周刊",
         "url": "https://bestxtools.zhubai.love/"
     },{
@@ -5484,7 +5484,7 @@
         "title": "sustainable Productivity",
         "url": "https://acacess.substack.com/archive?sort=new"
     },{
-        "tags": "site product newsletter daily",
+        "tags": "site product newsletter daily often",
         "title": "Product Hunt Daily",
         "url": "https://www.producthunt.com/newsletter"
     },{
@@ -9408,6 +9408,94 @@
         "tags": "site blog",
         "title": "yzqzss|一座桥在水上’s Blog - 无聊死了 ",
         "url": "https://blog.othing.xyz/"
+    },{
+        "tags": "site newsletter level2",
+        "title": "Ideas & Musings",
+        "url": "https://eriktorenberg.substack.com/"
+    },{
+        "tags": "site read misc",
+        "title": "lynalden",
+        "url": "https://www.lynalden.com/about-lyn-alden/"
+    },{
+        "tags": "site tech todo",
+        "title": "运维咖啡吧",
+        "url": "https://blog.ops-coffee.cn/"
+    },{
+        "tags": "site read",
+        "title": "数字花园首页",
+        "url": "https://publish.obsidian.md/cbyd/%F0%9F%91%A8%E2%80%8D%F0%9F%8C%BE+%E6%95%B0%E5%AD%97%E8%8A%B1%E5%9B%AD%E9%A6%96%E9%A1%B5"
+    },{
+        "tags": "site osint",
+        "title": "OSINT Framework",
+        "url": "https://osintframework.com/"
+    },{
+        "tags": "site osint",
+        "title": "Malfrat's OSINT Map",
+        "url": "https://map.malfrats.industries/"
+    },{
+        "tags": "site design",
+        "title": "checklist design",
+        "url": "https://www.checklist.design"
+    },{
+        "tags": "site blog",
+        "title": "余果blog",
+        "url": "https://yuguo.us"
+    },{
+        "tags": "site 哲学",
+        "title": "Psychology Tools",
+        "url": "https://psychology-tools.com/"
+    },{
+        "tags": "site msic 次高频 import",
+        "title": "start.me",
+        "url": "https://about.start.me/"
+    },{
+        "tags": "site UX design 导航",
+        "title": "UI设计师网址导航",
+        "url": "http://so.uigreat.com/"
+    },{
+        "tags": "site code dev",
+        "title": "Bash Pitfalls",
+        "url": "http://mywiki.wooledge.org/BashPitfalls"
+    },{
+        "tags": "site 导航",
+        "title": "优设导航 - 学设计从这里开始！ ",
+        "url": "https://hao.uisdc.com/"
+    },{
+        "tags": "site level2 blog read",
+        "title": " Tyler Cowen's Web Page",
+        "url": "https://publicchoice.gmu.edu/tylercowen"
+    },{
+        "tags": "site list",
+        "title": "leaders ycombinator",
+        "url": "https://news.ycombinator.com/leaders"
+    },{
+        "tags": "site random misc 娱乐 有趣",
+        "title": "entertaining space",
+        "url": "https://entertaining.space/"
+    },{
+        "tags": "site dev code",
+        "title": "anderspitman - 独立开发",
+        "url": "https://news.ycombinator.com/submitted?id=anderspitman"
+    },{
+        "tags": "site dev",
+        "title": "andreyazimov - 独立开发",
+        "url": "https://news.ycombinator.com/submitted?id=andreyazimov"
+    },{
+        "tags": "site 创业 newsletter",
+        "title": "Laskie - 创业相关，企业管理相关",
+        "url": "https://laskie.substack.com/"
+    },{
+        "tags": "site often 高频访问",
+        "title": "The Browswer - 每天推荐 5 篇值得阅读的文章 ",
+        "url": "https://thebrowser.com/"
+    },{
+        "tags": "site misc",
+        "title": "中国女权",
+        "url": "https://chinesefeminism.org/"
+    },{
+        "tags": "site newsletter list 高频访问",
+        "title": "Inbox World - 订阅推荐",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
