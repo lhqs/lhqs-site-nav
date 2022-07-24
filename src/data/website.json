@@ -420,7 +420,7 @@
         "title": "system-design-primer",
         "url": "https://github.com/donnemartin/system-design-primer"
     },{
-        "tags": "site github awesome list",
+        "tags": "site github awesome list often",
         "title": "github awesome",
         "url": "https://github.com/sindresorhus/awesome"
     },{
@@ -752,7 +752,7 @@
         "title": "国外社交媒体里的热门讨论",
         "url": "https://www.buzzing.cc/"
     },{
-        "tags": "site news",
+        "tags": "site news 高频访问",
         "title": "奇客",
         "url": "https://www.solidot.org/"
     },{
@@ -828,7 +828,7 @@
         "title": "socode",
         "url": "https://socode.pro/"
     },{
-        "tags": "site github awesome 高频访问",
+        "tags": "site github awesome 高频访问 list",
         "title": "track awesome list",
         "url": "https://www.trackawesomelist.com/"
     },{
@@ -1828,7 +1828,7 @@
         "title": "广告人导航",
         "url": "https://www.addog.vip"
     },{
-        "tags": "site news newsletter",
+        "tags": "site news newsletter read level2",
         "title": "Axios newsletters",
         "url": "https://www.axios.com/newsletters"
     },{
@@ -1840,7 +1840,7 @@
         "title": "TLDR",
         "url": "https://tldr.tech/newsletter"
     },{
-        "tags": "site newsletter level1 read random",
+        "tags": "site newsletter level1 read random tech",
         "title": "Benedict’s Newsletter",
         "url": "https://www.ben-evans.com/newsletter"
     },{
@@ -2448,8 +2448,8 @@
         "title": "Open Source Apps",
         "url": "https://www.pikapods.com/apps"
     },{
-        "tags": "site 创业 cheatsheet 发现",
-        "title": "StartupBase",
+        "tags": "site 创业 cheatsheet 发现 product",
+        "title": "StartupBase - Discover early access products.",
         "url": "https://startupbase.io/"
     },{
         "tags": "site 创业 cheatsheet",
@@ -2461,7 +2461,7 @@
         "url": "https://read.cv/explore"
     },{
         "tags": "site 创业 cheatsheet 发现",
-        "title": "BetaList",
+        "title": "BetaList - Discover tomorrow’s startups, today.",
         "url": "https://betalist.com/"
     },{
         "tags": "site product 发现",
@@ -2472,8 +2472,8 @@
         "title": "what to build",
         "url": "https://whattobuild.co/"
     },{
-        "tags": "site 发现",
-        "title": "病毒步行",
+        "tags": "site 发现 often 次高频",
+        "title": "病毒步行 - 通过互联网漫步发现新网站",
         "url": "https://www.viralwalk.com/"
     },{
         "tags": "site list 有趣",
@@ -2492,7 +2492,7 @@
         "title": "独立黑客",
         "url": "https://www.indiehackers.com/"
     },{
-        "tags": "site news 发现",
+        "tags": "site news 发现 次高频",
         "title": "搜索黑客新闻",
         "url": "https://hn.algolia.com/"
     },{
@@ -3836,7 +3836,7 @@
         "title": "TypeScript 类型体操姿势合集",
         "url": "https://github.com/type-challenges/type-challenges/blob/master/README.zh-CN.md"
     },{
-        "tags": "site 创业",
+        "tags": "site 创业 list",
         "title": "STARTUP LAUNCH LIST",
         "url": "https://startuplaunchlist.com/"
     },{
@@ -4712,7 +4712,7 @@
         "title": "AR/VR 项目",
         "url": "https://platinum-jasper-37b.notion.site/AR-VR-975010556a8d45f6951df7019db2b803"
     },{
-        "tags": "site 导航",
+        "tags": "site 导航 import news",
         "title": "数字移民导航",
         "url": "https://shuziyimin.org"
     },{
@@ -5104,9 +5104,13 @@
         "title": "mailchimp",
         "url": "https://mailchimp.com/"
     },{
-        "tags": "site idea 发现 创业",
+        "tags": "site idea 发现 创业 market",
         "title": "Discover Exploding Topics",
         "url": "https://explodingtopics.com/"
+    },{
+        "tags": "site idea 发现 创业 market",
+        "title": "Uncover curated trends ",
+        "url": "https://treendly.com/"
     },{
         "tags": "site 博客 music",
         "title": "SaoFM",
@@ -6584,7 +6588,7 @@
         "title": "Jason note",
         "url": "https://jasonblog.github.io/note/index.html"
     },{
-        "tags": "site github daily level2",
+        "tags": "site github daily level2 often",
         "title": "GitHubDaily",
         "url": "https://github.com/GitHubDaily/GitHubDaily"
     },{
@@ -6936,7 +6940,7 @@
         "title": "slashdot",
         "url": "https://slashdot.org/"
     },{
-        "tags": "site 高频访问 list",
+        "tags": "site 高频访问 发现 list",
         "title": "Website Hunt",
         "url": "https://www.websitehunt.co/"
     },{
@@ -9487,7 +9491,7 @@
     },{
         "tags": "site often 高频访问",
         "title": "The Browswer - 每天推荐 5 篇值得阅读的文章 ",
-        "url": "https://thebrowser.com/"
+        "url": "https://thebrowser.com/archive/"
     },{
         "tags": "site misc",
         "title": "中国女权",
@@ -9497,9 +9501,285 @@
         "title": "Inbox World - 订阅推荐",
         "url": "https://inboxworld.io/"
     },{
-        "tags": "site ",
+        "tags": "site news 高频访问",
         "title": "新闻源聚合 - 国外",
         "url": "https://upstract.com/"
+    },{
+        "tags": "site news level2",
+        "title": "Current Affairs 时事",
+        "url": "https://www.currentaffairs.org/"
+    },{
+        "tags": "site blog list misc",
+        "title": "Micro.blog",
+        "url": "https://micro.blog/discover"
+    },{
+        "tags": "site read book 次高频",
+        "title": "BookStash - 提炼图书要点，精华",
+        "url": "https://bookstash.io/"
+    },{
+        "tags": "site idea 创业 list",
+        "title": "profit hunt - 从已经有利润的项目中获取灵感",
+        "url": "https://profithunt.co/"
+    },{
+        "tags": "site idea 创业 list",
+        "title": "valid need - 验证需求，由用户发需求，投票",
+        "url": "https://needgap.com/"
+    },{
+        "tags": "site random list todo website",
+        "title": "云海拾贝 - 出云整理的国外高质量网站系列",
+        "url": "https://getizumo.com/shibei"
+    },{
+        "tags": "site forum",
+        "title": "deviantart - 艺术家社区",
+        "url": "https://www.deviantart.com/"
+    },{
+        "tags": "site rss list todo",
+        "title": "一天世界 RSS推荐列表",
+        "url": "https://blog.yitianshijie.net/2019/12/10/rss-feeds-recommendation/"
+    },{
+        "tags": "site blog random dev",
+        "title": "zonble",
+        "url": "https://zonble.net/"
+    },{
+        "tags": "site life misc",
+        "title": "Life Hacker - 生活黑客，提高生活质量的方法",
+        "url": "https://lifehacker.com/"
+    },{
+        "tags": "site life misc",
+        "title": "something awful",
+        "url": "https://www.somethingawful.com/"
+    },{
+        "tags": "site 次高频 often",
+        "title": "Get Maker Log - How makers stay productive",
+        "url": "https://getmakerlog.com/"
+    },{
+        "tags": "site temp",
+        "title": "Cortadomail - 免费版的 Mailbrew",
+        "url": "https://cortadomail.com/"
+    },{
+        "tags": "site other temp",
+        "title": "业余项目分享交流",
+        "url": "https://sideproject.buzzing.cc/"
+    },{
+        "tags": "site github list 高频访问",
+        "title": "Tildes - 开源的聚合器 ",
+        "url": "https://tildes.net/"
+    },{
+        "tags": "site blog list often random idea",
+        "title": "506 engineering blogs",
+        "url": "https://engineeringblogs.xyz/"
+    },{
+        "tags": "site often 创业 forum",
+        "title": "Barnacles - 自力更生的创业者社区",
+        "url": "https://barnacl.es/"
+    },{
+        "tags": "site tech",
+        "title": "Hacker News 编辑精选",
+        "url": "https://news.ycombinator.com/invited"
+    },{
+        "tags": "site tech 发现",
+        "title": "Hacker News 经典文章集合",
+        "url": "https://hn.lindylearn.io/"
+    },{
+        "tags": "site tech",
+        "title": "ACM Tech News",
+        "url": "https://technews.acm.org/"
+    },{
+        "tags": "site news tech",
+        "title": "news ycombinator",
+        "url": "https://news.ycombinator.com/news"
+    },{
+        "tags": "site github awesome",
+        "title": "awesome-decentralized",
+        "url": "https://github.com/croqaz/awesome-decentralized"
+    },{
+        "tags": "site temp todo level1 often",
+        "title": "Read.cv explore - profile 聚合,个人简历聚合",
+        "url": "https://read.cv/explore"
+    },{
+        "tags": "site data other temp",
+        "title": "Pew Research Center - 统计数据，调查问卷分析研究",
+        "url": "https://www.pewresearch.org/"
+    },{
+        "tags": "site news read",
+        "title": "Narrative - 非营利组织，温和新闻观点，致力于提供温和的立场",
+        "url": "https://www.narrativesproject.com/"
+    },{
+        "tags": "site product",
+        "title": "Product Hunt Trending",
+        "url": "https://producthunt-trending.js.org/?range=monthly"
+    },{
+        "tags": "site often tech",
+        "title": "Hacker News Show",
+        "url": "https://news.ycombinator.com/show"
+    },{
+        "tags": "site 创业 misc idea 发现",
+        "title": "/r/SideProject",
+        "url": "https://www.reddit.com/r/SideProject/"
+    },{
+        "tags": "site tech 发现",
+        "title": "Show HN",
+        "url": "https://showhn.buzzing.cc/"
+    },{
+        "tags": "site tech 发现",
+        "title": "Ask HN",
+        "url": "https://askhn.buzzing.cc/"
+    },{
+        "tags": "site list 发现 temp",
+        "title": "Best of Show hacker news all time",
+        "url": "https://bestofshowhn.com/"
+    },{
+        "tags": "site temp",
+        "title": "best hacker news comments",
+        "url": "https://news.ycombinator.com/bestcomments"
+    },{
+        "tags": "site temp",
+        "title": "当前活跃的 hacker news 讨论",
+        "url": "https://news.ycombinator.com/active"
+    },{
+        "tags": "site",
+        "title": "hacker news - 被管理员重新顶上去的帖子",
+        "url": "https://news.ycombinator.com/invited"
+    },{
+        "tags": "site news",
+        "title": "thenewslens - Taiwan indie media",
+        "url": "https://www.thenewslens.com/"
+    },{
+        "tags": "site news",
+        "title": "The Stand News - Hong Kong indie media(中文独立媒体)",
+        "url": "https://www.thestandnews.com/"
+    },{
+        "tags": "site news",
+        "title": "The Initium News - Taiwan/Hong Kong media(中文独立媒体)",
+        "url": "https://theinitium.com/"
+    },{
+        "tags": "site news",
+        "title": "HK CNews - Hong Kong indie media(中文独立媒体)",
+        "url": "https://www.hkcnews.com/"
+    },{
+        "tags": "site read list level1 todo",
+        "title": "Marginal Revolution - Reading List",
+        "url": "https://marginalrevolution.com/"
+    },{
+        "tags": "site often 高频访问 导航",
+        "title": "探索互联网上高质量的内容",
+        "url": "https://www.owenyoung.com/sources/"
+    },{
+        "tags": "site read 发现 有趣",
+        "title": "Read Something Interesting",
+        "url": "https://readsomethinginteresting.com/"
+    },{
+        "tags": "site news",
+        "title": "New Yorker",
+        "url": "https://www.newyorker.com/"
+    },{
+        "tags": "site news",
+        "title": "The Atlantic",
+        "url": "https://www.theatlantic.com/"
+    },{
+        "tags": "site news",
+        "title": "赫芬顿邮报",
+        "url": "https://www.huffpost.com/"
+    },{
+        "tags": "site news",
+        "title": "Politico - 政治评论和报道",
+        "url": "https://www.politico.com/"
+    },{
+        "tags": "site news",
+        "title": "卫报",
+        "url": "https://www.theguardian.com/"
+    },{
+        "tags": "site news",
+        "title": "每日电讯报 - 英国",
+        "url": "https://www.telegraph.co.uk/"
+    },{
+        "tags": "site news",
+        "title": "The Rest of World - 科技报道",
+        "url": "https://restofworld.org/"
+    },{
+        "tags": "site 未分类",
+        "title": "Cal Newport - 深度工作作者",
+        "url": "https://www.newyorker.com/contributors/cal-newport"
+    },{
+        "tags": "site 未分类",
+        "title": "纽约客专栏作家作品列表",
+        "url": "https://www.newyorker.com/news/our-columnists"
+    },{
+        "tags": "site 未分类",
+        "title": "Tynan 的博客 - 关于财富，投资",
+        "url": "https://tynan.com/"
+    },{
+        "tags": "site 未分类",
+        "title": "Noah",
+        "url": "https://noahpinion.substack.com/"
+    },{
+        "tags": "site 未分类",
+        "title": "Tyler Cowen 的专栏 - 经济相关",
+        "url": "https://www.bloomberg.com/opinion/authors/AS6n2t3d_iA/tyler-cowen"
+    },{
+        "tags": "site 未分类",
+        "title": "Adam Grant",
+        "url": "https://adamgrant.bulletin.com/"
+    },{
+        "tags": "site 未分类",
+        "title": "Austin Kleon - 像艺术家一样偷窃作者",
+        "url": "https://austinkleon.substack.com"
+    },{
+        "tags": "site 未分类",
+        "title": "Paul Graham - YC 创始人",
+        "url": "http://paulgraham.com/articles.html"
+    },{
+        "tags": "site 未分类",
+        "title": "Gwern - 美国作家和研究员",
+        "url": "https://www.gwern.net/index"
+    },{
+        "tags": "site read misc often",
+        "title": "Popular quotes - good reads",
+        "url": "https://www.goodreads.com/quotes"
+    },{
+        "tags": "site blog list",
+        "title": "边缘革命 博客列表",
+        "url": "https://marginalrevolution.com/blogs-we-like"
+    },{
+        "tags": "site tech misc",
+        "title": "Low Code List",
+        "url": "https://stitchedon.com/"
+    },{
+        "tags": "site list tech todo idea",
+        "title": "Most-favorited Hacker News posts (observablehq.com)",
+        "url": "https://news.ycombinator.com/item?id=24351073"
+    },{
+        "tags": "site list tech idea todo",
+        "title": "API list",
+        "url": "https://apilist.fun/"
+    },{
+        "tags": "site list market 创业",
+        "title": "Marketing Resources List - The biggest collection of free marketing resources",
+        "url": "https://nira.com/templates/marketing-templates/"
+    },{
+        "tags": "site tech blog list",
+        "title": "Tech-Blogs-List.com",
+        "url": "https://airtable.com/shriIvyyV3gAJf0x4/tblcakhoBi0A33QhB/viwWIaPD1CBQtE5e1"
+    },{
+        "tags": "site list",
+        "title": "Nomad List - The biggest crowdsourced list of cities in the world to help you choose where to go next.",
+        "url": "https://nomadlist.com/"
+    },{
+        "tags": "site list",
+        "title": "Freelancer Resources List - All the free resources and templates you need to get work done as a freelancer",
+        "url": "https://nira.com/templates/freelancer-templates/"
+    },{
+        "tags": "site list random temp 有趣",
+        "title": "异想天开网站俱乐部 - 收集了奇奇怪怪的网站",
+        "url": "https://whimsical.club/"
+    },{
+        "tags": "site list forum 未分类 temp",
+        "title": "Hive Index - Find online communities, find your people.",
+        "url": "https://thehiveindex.com/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
