@@ -2432,7 +2432,7 @@
         "title": "weibo",
         "url": "https://weibo.com"
     },{
-        "tags": "site manual dev handbook",
+        "tags": "site manual dev handbook todo",
         "title": "Kubernetes Handbook",
         "url": "https://jimmysong.io/kubernetes-handbook/"
     },{
@@ -3160,11 +3160,11 @@
         "title": "2021 JavaScript Rising Stars",
         "url": "https://risingstars.js.org/2021/en"
     },{
-        "tags": "site blog",
+        "tags": "site blog random",
         "title": "自宅创业",
         "url": "https://blog.guyskk.com/"
     },{
-        "tags": "site tech doc manual",
+        "tags": "site tech doc manual todo",
         "title": "JavaGuide",
         "url": "https://javaguide.cn/"
     },{
@@ -9784,6 +9784,38 @@
         "tags": "site tech-blog",
         "title": "Manjusaka",
         "url": "https://www.manjusaka.blog/"
+    },{
+        "tags": "site misc 有趣",
+        "title": "世间万物的 How It Works",
+        "url": "https://animagraffs.com/"
+    },{
+        "tags": "site Mac",
+        "title": "iOS Ref",
+        "url": "https://iosref.com/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
