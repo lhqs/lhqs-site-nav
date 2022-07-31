@@ -1904,10 +1904,6 @@
         "title": "开源 SaaS 服务",
         "url": "https://github.com/Atarity/deploy-your-own-saas"
     },{
-        "tags": "site github weekly",
-        "title": "前端精读周刊",
-        "url": "https://github.com/ascoders/weekly"
-    },{
         "tags": "site special",
         "title": "互联网档案馆",
         "url": "https://archive.org/"
@@ -9805,13 +9801,13 @@
         "title": "apple applation 发现最好应用",
         "url": "https://thesweetsetup.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site awesome Mac",
+        "title": "awesome-macOS",
+        "url": "https://github.com/iCHAIT/awesome-macOS"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github",
+        "title": "Mirror",
+        "url": "https://github.com/eryajf/Thanks-Mirror"
     },{
         "tags": "site",
         "title": "",
