@@ -2508,7 +2508,7 @@
         "title": "变更日志demo",
         "url": "https://www.changelogs.gallery/"
     },{
-        "tags": "site blog import good 次高频 level2 often",
+        "tags": "site blog import special good 次高频 level2 often",
         "title": "brianlovin(good)",
         "url": "https://brianlovin.com/"
     },{
@@ -6984,7 +6984,7 @@
         "title": "创意导航",
         "url": "https://creativemass.cn/#/"
     },{
-        "tags": "site dev blog newsletter level1 often",
+        "tags": "site dev weekly blog newsletter level1 often",
         "title": "dsebastien",
         "url": "https://dsebastien.net/"
     },{
@@ -8499,7 +8499,7 @@
     },{
         "tags": "site blog list 高频访问",
         "title": "博客集",
-        "url": "www.zdzn.net/page/blog.html"
+        "url": "http://www.zdzn.net/page/blog.html"
     },{
         "tags": "site misc up explore",
         "title": "所有大分类 | 智问智答",
@@ -9821,8 +9821,8 @@
         "title": "一流导航(设计)",
         "url": "http://16map.com/"
     },{
-        "tags": "site web tools",
-        "title": "网站构建技术",
+        "tags": "site web tools dev code",
+        "title": "built with网站构建技术",
         "url": "https://builtwith.com/"
     },{
         "tags": "site Mac",
@@ -9900,6 +9900,70 @@
         "tags": "site 创业",
         "title": "management-101",
         "url": "https://www.theengineeringmanager.com/management-101/"
+    },{
+        "tags": "site tech-blog",
+        "title": "wklken",
+        "url": "https://wklken.me/posts.html"
+    },{
+        "tags": "site 创业 todo",
+        "title": "The Engineering Manager",
+        "url": "https://www.theengineeringmanager.com/"
+    },{
+        "tags": "site tech-blog",
+        "title": "thesephist",
+        "url": "https://thesephist.com/posts/"
+    },{
+        "tags": "site blog",
+        "title": "林海草原",
+        "url": "https://lhcy.org/"
+    },{
+        "tags": "site rss list read",
+        "title": "husay - freshRSS",
+        "url": "https://rss.husay.cc/i/"
+    },{
+        "tags": "site tech-blog",
+        "title": "thehomelab.wiki",
+        "url": "https://thehomelab.wiki/"
+    },{
+        "tags": "site blog",
+        "title": "Jamie Thingelstad",
+        "url": "https://www.thingelstad.com/"
+    },{
+        "tags": "site tech-blog",
+        "title": "thesephist - linus",
+        "url": "https://thesephist.com/posts/"
+    },{
+        "tags": "site blog design",
+        "title": "视觉设计师，作者 Nate Kadlac",
+        "url": "https://www.kadlac.com/"
+    },{
+        "tags": "site blog random",
+        "title": "Jarrod Blundy",
+        "url": "https://heydingus.net/archive"
+    },{
+        "tags": "site blog random newsletter",
+        "title": "blogger Chris Wong",
+        "url": "https://chr.iswong.com/"
+    },{
+        "tags": "site blog random",
+        "title": "Salman https://salman.io",
+        "url": "https://salman.io/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
