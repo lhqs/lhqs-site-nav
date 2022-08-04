@@ -1360,9 +1360,9 @@
         "title": "Dan Wang",
         "url": "https://danwang.co"
     },{
-        "tags": "site tech-blog weekly 有趣",
+        "tags": "site tech-blog weekly 有趣 often",
         "title": "Bboysoul-胡言乱语",
-        "url": "https://www.bboy.app"
+        "url": "https://www.bboy.app/"
     },{
         "tags": "site blog list 导航",
         "title": "十年之约-blog列表",
@@ -5688,6 +5688,10 @@
         "title": "Web 3.0 漫游指南 2022",
         "url": "https://mirror.xyz/tannhauser2049.eth/vPrV-lqGjFpT2VWT4kDvtjhZayxm6n8ym7ra4wiegSc?s=09"
     },{
+        "tags": "site misc",
+        "title": "mirror.xyz",
+        "url": "https://mirror.xyz/"
+    },{
         "tags": "site github tech-blog",
         "title": "bestswifter/blog",
         "url": "https://github.com/bestswifter/blog"
@@ -9181,6 +9185,10 @@
         "title": "A search engine for developers.",
         "url": "https://beta.sayhello.so/"
     },{
+        "tags": "site dev search",
+        "title": "kaifa baidu.",
+        "url": "https://kaifa.baidu.com/"
+    },{
         "tags": "site Mac",
         "title": "m1-app-checker",
         "url": "https://www.imobie.com/cn/m1-app-checker/"
@@ -9809,13 +9817,53 @@
         "title": "Mirror",
         "url": "https://github.com/eryajf/Thanks-Mirror"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site design 导航",
+        "title": "一流导航(设计)",
+        "url": "http://16map.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site web tools",
+        "title": "网站构建技术",
+        "url": "https://builtwith.com/"
+    },{
+        "tags": "site Mac",
+        "title": "appstorrent Mac应用下载",
+        "url": "https://appstorrent.ru/"
+    },{
+        "tags": "site doc tools dev",
+        "title": "Linux Tools Quick Tutorial",
+        "url": "https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html"
+    },{
+        "tags": "site tech doc manual",
+        "title": "Nginx开发从入门到精通",
+        "url": "http://tengine.taobao.org/book/index.html"
+    },{
+        "tags": "site github AI",
+        "title": "AiLearning-Theory-Applying",
+        "url": "https://github.com/ben1234560/AiLearning-Theory-Applying"
+    },{
+        "tags": "site temp misc",
+        "title": "itch.io—独立游戏爱好者必备网站",
+        "url": "https://itch.io"
+    },{
+        "tags": "site tech github todo",
+        "title": "Readings in Databases",
+        "url": "https://github.com/rxin/db-readings"
+    },{
+        "tags": "site tech-blog",
+        "title": "Dreamgoing",
+        "url": "https://dreamgoing.github.io/"
+    },{
+        "tags": "site tech-blog",
+        "title": "代码家",
+        "url": "https://daimajia.com/"
+    },{
+        "tags": "site tools notion import often 创业",
+        "title": "Project Management Kit 项目管理工具包",
+        "url": "https://formeer.notion.site/Project-Management-Kit-980693d1f9ae4f0fa1b1e97fa50a4c5c"
+    },{
+        "tags": "site Mac book",
+        "title": "The Art of Mac Malware",
+        "url": "https://taomm.org/vol1/read.html"
     },{
         "tags": "site",
         "title": "",
