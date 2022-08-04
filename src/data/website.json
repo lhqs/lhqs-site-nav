@@ -4764,7 +4764,7 @@
         "title": "SEO Newsletter",
         "url": "https://rankmakers.net/"
     },{
-        "tags": "site github",
+        "tags": "site github todo",
         "title": "tech-interview-handbook",
         "url": "https://github.com/yangshun/tech-interview-handbook"
     },{
@@ -4844,11 +4844,11 @@
         "title": "clone-wars 100 多个流行网站的开源克隆",
         "url": "https://github.com/GorvGoyl/Clone-Wars"
     },{
-        "tags": "site github",
+        "tags": "site github todo",
         "title": "coding-interview-university",
         "url": "https://github.com/jwasham/coding-interview-university"
     },{
-        "tags": "site github",
+        "tags": "site github list todo",
         "title": "Full reference of LinkedIn answers 2022 for skill assessments",
         "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
     },{
@@ -7364,7 +7364,7 @@
         "title": "Cost of Living",
         "url": "https://www.numbeo.com/cost-of-living/"
     },{
-        "tags": "site awesome github list level1",
+        "tags": "site awesome github list level1 todo",
         "title": "Awesome Github REPO",
         "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo"
     },{
@@ -9849,7 +9849,7 @@
         "title": "Readings in Databases",
         "url": "https://github.com/rxin/db-readings"
     },{
-        "tags": "site tech-blog",
+        "tags": "site tech-blog todo",
         "title": "Dreamgoing",
         "url": "https://dreamgoing.github.io/"
     },{
@@ -9864,6 +9864,66 @@
         "tags": "site Mac book",
         "title": "The Art of Mac Malware",
         "url": "https://taomm.org/vol1/read.html"
+    },{
+        "tags": "site misc",
+        "title": "Templates Library",
+        "url": "https://ballparkhq.com/templates"
+    },{
+        "tags": "site newsletter tech",
+        "title": "bytebytego newsletter",
+        "url": "https://blog.bytebytego.com/"
+    },{
+        "tags": "site tech-blog",
+        "title": "峰云就她了",
+        "url": "https://xiaorui.cc/"
+    },{
+        "tags": "site github",
+        "title": "代码安全指南",
+        "url": "https://github.com/Tencent/secguide"
+    },{
+        "tags": "site design",
+        "title": "LEST UI资源库",
+        "url": "https://uiset.com/"
+    },{
+        "tags": "site misc",
+        "title": "我不是盐神",
+        "url": "https://onehu.xyz/"
+    },{
+        "tags": "site weekly tech-blog often",
+        "title": "Yiran's Blog",
+        "url": "https://zdyxry.github.io/"
+    },{
+        "tags": "site tech-blog",
+        "title": "Jiajun的编程随想",
+        "url": "https://jiajunhuang.com/"
+    },{
+        "tags": "site 创业",
+        "title": "management-101",
+        "url": "https://www.theengineeringmanager.com/management-101/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
