@@ -1288,12 +1288,8 @@
         "title": "陆本为",
         "url": "https://books.nexmoe.com/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter often 高频访问",
         "title": "workspace",
-        "url": "https://www.workspaces.xyz/"
-    },{
-        "tags": "site newsletter",
-        "title": "若有所播丨To Be Podcasting",
         "url": "https://www.workspaces.xyz/"
     },{
         "tags": "site blog",
@@ -3273,7 +3269,7 @@
         "url": "https://spa-book.pblo.gq/"
     },{
         "tags": "site 创业 github",
-        "title": "Webflow 技术主管指南",
+        "title": "Webflow 技术主管指南(失效)",
         "url": "https://github.com/webflow/leadership/blob/master/tech_lead.md"
     },{
         "tags": "site yuque",
@@ -9992,6 +9988,54 @@
         "tags": "site up",
         "title": "求索之路",
         "url": "http://www.qiusuozhilu.com/index.html"
+    },{
+        "tags": "site book todo",
+        "title": "technical_books",
+        "url": "https://github.com/TIM168/technical_books"
+    },{
+        "tags": "site read level1 todo",
+        "title": "最佳文章",
+        "url": "https://nesslabs.com/best"
+    },{
+        "tags": "site idea misc",
+        "title": "HobbyGenerator",
+        "url": "https://hobbygenerator.com/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
