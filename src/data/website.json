@@ -1292,6 +1292,10 @@
         "title": "workspace",
         "url": "https://www.workspaces.xyz/"
     },{
+        "tags": "site often 高频访问",
+        "title": "workspace - Maker Stations",
+        "url": "https://www.makerstations.io/"
+    },{
         "tags": "site blog",
         "title": "灵感买家俱乐部",
         "url": "https://club.q24.io/"
@@ -6172,8 +6176,8 @@
         "title": "top-machine-learning-blogs",
         "url": "https://www.theinsaneapp.com/2021/04/top-machine-learning-blogs-to-follow-in-2021.html"
     },{
-        "tags": "site wiki tech doc manual",
-        "title": "IT知识库",
+        "tags": "site wiki tech doc manual todo",
+        "title": "IT知识库(大数据学习等)",
         "url": "http://www.1os.top/it/index.html"
     },{
         "tags": "site misc doc",
@@ -10013,9 +10017,9 @@
         "title": "second founder",
         "url": "https://secondfounder.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech dev wiki",
+        "title": "CTF Wiki",
+        "url": "https://ctf-wiki.org/"
     },{
         "tags": "site",
         "title": "",
