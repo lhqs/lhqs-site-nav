@@ -5620,7 +5620,7 @@
         "title": "linuxserver.io",
         "url": "https://docs.linuxserver.io/"
     },{
-        "tags": "site doc manual blog",
+        "tags": "site doc manual blog todo",
         "title": "web3文档",
         "url": "https://www.alexdphan.com/"
     },{
@@ -10225,13 +10225,13 @@
         "title": "sou best",
         "url": "https://sou.best/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github product idea todo",
+        "title": "free-for-dev",
+        "url": "https://github.com/ripienaar/free-for-dev"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc manual blog todo",
+        "title": "Library of Web3",
+        "url": "https://www.alexdphan.com/research/library-of-web3"
     },{
         "tags": "site",
         "title": "",
