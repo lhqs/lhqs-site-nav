@@ -300,7 +300,7 @@
         "title": "变量命名",
         "url": "https://github.com/unbug/codelf"
     },{
-        "tags": "site tech doc",
+        "tags": "site tech dev doc",
         "title": "JavaGuide",
         "url": "https://github.com/Snailclimb/JavaGuide"
     },{
@@ -9613,7 +9613,7 @@
         "title": "Product Hunt Trending",
         "url": "https://producthunt-trending.js.org/?range=monthly"
     },{
-        "tags": "site often tech",
+        "tags": "site often tech product",
         "title": "Hacker News Show",
         "url": "https://news.ycombinator.com/show"
     },{
@@ -10261,25 +10261,25 @@
         "title": "Github-Ranking",
         "url": "https://github.com/EvanLi/Github-Ranking"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site resource 导航 todo",
+        "title": "怪叫兽",
+        "url": "http://www.giaoshou.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site dev web code",
+        "title": "30 seconds of code",
+        "url": "https://www.30secondsofcode.org/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github web dev",
+        "title": "fe-interview",
+        "url": "https://github.com/azl397985856/fe-interview"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech dev",
+        "title": "design-patterns",
+        "url": "https://sourcemaking.com/design-patterns-and-tips"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site product",
+        "title": "OutlinerSoftware",
+        "url": "https://www.outlinersoftware.com/topics/tlist"
     },{
         "tags": "site",
         "title": "",
