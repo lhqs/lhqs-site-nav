@@ -1008,7 +1008,7 @@
         "title": "Hedwing",
         "url": "https://hedwig.pub/"
     },{
-        "tags": "site newsletter product",
+        "tags": "site newsletter product often",
         "title": "产品沉思录",
         "url": "https://pmthinking.com"
     },{
@@ -2284,7 +2284,7 @@
         "title": "fs.blog",
         "url": "https://fs.blog/"
     },{
-        "tags": "site website misc random 有趣",
+        "tags": "site website misc random 有趣 often",
         "title": "ahhhhfs",
         "url": "https://www.abskoop.com/"
     },{
@@ -10309,21 +10309,21 @@
         "title": "Dev tools",
         "url": "https://smalldev.tools/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc random",
+        "title": "随机谷歌街景",
+        "url": "https://randomstreetview.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "NameGrab 精选域名",
+        "url": "https://namegrab.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github tech",
+        "title": "opensource agenda",
+        "url": "https://www.opensourceagenda.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github cheatsheet dev tech todo",
+        "title": "掘金翻译计划",
+        "url": "https://github.com/xitu/gold-miner"
     },{
         "tags": "site",
         "title": "",
