@@ -412,11 +412,11 @@
         "title": "readhub",
         "url": "https://readhub.cn/topics"
     },{
-        "tags": "site tech",
+        "tags": "site tech 次高频",
         "title": "readhub 技术资讯",
         "url": "https://readhub.cn/tech"
     },{
-        "tags": "site github",
+        "tags": "site github todo",
         "title": "system-design-primer",
         "url": "https://github.com/donnemartin/system-design-primer"
     },{
@@ -3405,7 +3405,7 @@
         "url": "https://www.insider.com/"
     },{
         "tags": "site github",
-        "title": "DevOps Interview Questions",
+        "title": "DevOps Interview Questions(devops-exercises)",
         "url": "https://github.com/bregman-arie/devops-exercises"
     },{
         "tags": "site tech github awesome",
@@ -5072,7 +5072,7 @@
         "title": "kubeweekly",
         "url": "https://www.cncf.io/kubeweekly/"
     },{
-        "tags": "site 未分类 level2",
+        "tags": "site 未分类 level2 idea 哲学",
         "title": "big think",
         "url": "https://bigthink.com/"
     },{
@@ -7004,7 +7004,7 @@
         "title": "diff blog",
         "url": "https://diff.blog/"
     },{
-        "tags": "site tech",
+        "tags": "site tech random dev engineer often",
         "title": "Java67",
         "url": "https://www.java67.com/"
     },{
@@ -9005,7 +9005,7 @@
         "title": "i-programmer",
         "url": "https://www.i-programmer.info/"
     },{
-        "tags": "site tech-blog 次高频 tech often",
+        "tags": "site tech-blog 次高频 tech often engineer",
         "title": "解道jdon - 传道解惑的架构师博客",
         "url": "https://www.jdon.com/"
     },{
@@ -10324,6 +10324,22 @@
         "tags": "site github cheatsheet dev tech todo",
         "title": "掘金翻译计划",
         "url": "https://github.com/xitu/gold-miner"
+    },{
+        "tags": "site misc todo",
+        "title": "twitter thread",
+        "url": "https://twitter.com/PepsMccrea/status/1565972897390288896"
+    },{
+        "tags": "site awesome",
+        "title": "awesome-mobile-security",
+        "url": "https://github.com/vaib25vicky/awesome-mobile-security"
+    },{
+        "tags": "site up",
+        "title": "alison - Free Online Courses With Certificates & Diplomas",
+        "url": "https://alison.com/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
