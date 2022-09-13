@@ -3424,7 +3424,7 @@
         "title": "time.is",
         "url": "https://time.is/"
     },{
-        "tags": "site github tech-blog",
+        "tags": "site github tech-blog random",
         "title": "qiankunli-技术-生活-产品-架构",
         "url": "http://qiankunli.github.io/"
     },{
@@ -3536,7 +3536,7 @@
         "title": "THE ROOF IS ON PHIRE",
         "url": "https://phirephoenix.com/"
     },{
-        "tags": "site github",
+        "tags": "site github todo",
         "title": "提问的智慧",
         "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md"
     },{
@@ -7448,7 +7448,7 @@
         "title": "JLL",
         "url": "https://www.youtube.com/c/GoWithForeignLanguage"
     },{
-        "tags": "site wiki list todo",
+        "tags": "site wiki list todo often",
         "title": "digital-gardeners",
         "url": "https://github.com/MaggieAppleton/digital-gardeners"
     },{
@@ -8101,7 +8101,7 @@
         "title": "guide-to-startup",
         "url": "https://fictivekin.github.io/pmarchive-jekyll/#guide-to-startups"
     },{
-        "tags": "site blog read random",
+        "tags": "site blog read random level2",
         "title": "Reorx’s Forge",
         "url": "https://reorx.com/"
     },{
@@ -9182,7 +9182,7 @@
         "url": "https://www.xj.hk/"
     },{
         "tags": "site dev search",
-        "title": "A search engine for developers.",
+        "title": "hello - A search engine for developers.",
         "url": "https://beta.sayhello.so/"
     },{
         "tags": "site dev search",
@@ -10357,17 +10357,65 @@
         "title": "前端开发者",
         "url": "https://github.com/f2e-developer/chinese-f2e-developer"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site design",
+        "title": "godly.website",
+        "url": "https://godly.website/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site idea AI",
+        "title": "50 fun artificial intelligence (AI) pages ",
+        "url": "https://boredhumans.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site newsletter",
+        "title": "young money",
+        "url": "https://www.youngmoney.co/"
+    },{
+        "tags": "site leve1",
+        "title": "future.com",
+        "url": "https://future.com/"
+    },{
+        "tags": "site doc book dev",
+        "title": "《Flutter实战·第二版》",
+        "url": "https://book.flutterchina.club/"
+    },{
+        "tags": "site cheatsheet",
+        "title": "BeginnersBook.com – Tutorials For Beginners",
+        "url": "https://beginnersbook.com/"
+    },{
+        "tags": "site cheatsheet",
+        "title": "howtodoinjava",
+        "url": "https://howtodoinjava.com/"
+    },{
+        "tags": "site read",
+        "title": "desolhar-philo 阅读笔记",
+        "url": "https://www.desolhar-philo.com/"
+    },{
+        "tags": "site read",
+        "title": "recommend me a book",
+        "url": "https://recommendmeabook.com/"
+    },{
+        "tags": "site idea",
+        "title": "half baked ideas",
+        "url": "https://halfbakedideas.vercel.app/feed"
+    },{
+        "tags": "site tailwind",
+        "title": "hypercolor.dev 渐变",
+        "url": "https://hypercolor.dev/"
+    },{
+        "tags": "site github osint",
+        "title": "cURL_for_OSINT",
+        "url": "https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT"
+    },{
+        "tags": "site idea blog foreign ",
+        "title": "巴里弗拉里克",
+        "url": "https://barryfralick.com/"
+    },{
+        "tags": "site tech-blog",
+        "title": "tano's blog",
+        "url": "https://dayarch.top/"
+    },{
+        "tags": "site github awesome",
+        "title": "go-awesome",
+        "url": "https://github.com/shockerli/go-awesome"
     },{
         "tags": "site",
         "title": "",
