@@ -516,9 +516,13 @@
         "title": "书签地球",
         "url": "https://www.bookmarkearth.com/"
     },{
-        "tags": "site bookmark list often",
+        "tags": "site bookmark list often 导航 random",
         "title": "良心到难以置信的网站推荐",
         "url": "https://xiangjianan.gitee.io/lks/"
+    },{
+        "tags": "site bookmark list often 导航 random",
+        "title": "LKs site",
+        "url": "https://xiangjianan.github.io/lks/"
     },{
         "tags": "site 导航",
         "title": "考拉新媒体导航",
@@ -8765,7 +8769,7 @@
         "title": "即时通讯网",
         "url": "http://www.52im.net/"
     },{
-        "tags": "site doc tech",
+        "tags": "site doc tech ebook dev manual todo",
         "title": "Zorro’s Linux Book",
         "url": "https://zorrozou.github.io/"
     },{
@@ -10416,6 +10420,86 @@
         "tags": "site github awesome",
         "title": "go-awesome",
         "url": "https://github.com/shockerli/go-awesome"
+    },{
+        "tags": "site tech book manual todo",
+        "title": "云原生资料库",
+        "url": "https://lib.jimmysong.io/"
+    },{
+        "tags": "site github product",
+        "title": "Tipi — A personal homeserver for everyone",
+        "url": "https://github.com/meienberger/runtipi"
+    },{
+        "tags": "site tech dev manual",
+        "title": "DevOps 实战",
+        "url": "https://lework.github.io/2020/09/05/devops/"
+    },{
+        "tags": "site tech-blog",
+        "title": "Lework's Blog",
+        "url": "https://lework.github.io/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
