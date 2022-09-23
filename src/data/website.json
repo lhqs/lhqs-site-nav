@@ -7668,7 +7668,7 @@
         "title": "Made With ML",
         "url": "https://madewithml.com/"
     },{
-        "tags": "site misc 有趣 often",
+        "tags": "site misc 有趣 often special",
         "title": "Wait But Why",
         "url": "https://waitbutwhy.com/"
     },{
@@ -10537,9 +10537,9 @@
         "title": "cto笔记",
         "url": "https://www.shouxicto.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc manual tech dev todo",
+        "title": "云安全资源汇总",
+        "url": "https://wiki.teamssix.com/cloudsecurityresources/"
     },{
         "tags": "site",
         "title": "",
