@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="乱红如雨的个人导航站点, 标签导航 + 聚合搜索, 书签搜索解决方案, 超一千多个精选网址">
+    <meta keywords="text" content="lhqs, 乱红倾世, 乱红如雨, 导航, 搜索, 极简, 信息, 信息源, 标签导航, 聚合搜索, 超一千多个精选网址">
+    <link rel="icon" href="http://static.lhqs.ink/site/nav/L.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://static.lhqs.ink/site/nav/L.png">
+    <title>乱红如雨 | lhqs</title>
+    <link rel="stylesheet" href="./css/output.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+
+
+    <script>
+
+        let siteData;
+
+        // axios.get('http://192.168.2.7/api/bookmarks').then(res => {
+        //     console.log('res', res);
+        // }).then(error => {
+        //     console.log('error', error);
+        // });
+
+        fetch('./data/website.json').then(res => {
+            return res.json();
+        }).then(data => {
+            siteData = data;
+
+
+            for (let index = 200; index < 300; index++) {
+                const element = siteData[index];
+                // console.log(element);
+                let bm = {
+                    "is_archived": false,
+                    "unread": false,
+                    "shared": false,
+                };
+                bm.url = element.url;
+                bm.title = element.title;
+                bm.tag_names = element.tags.split(" ");
+                // console.log("bm=>", JSON.stringify(bm));
+
+                console.log('curl -H "Content-Type: application/json" -H "Authorization:Token 52794efa70b60d5510268ba9552e6412a9f88a18" -X POST -d \'%s\'  http://192.168.2.7/api/bookmarks/; ', JSON.stringify(bm));
+
+
+
+                // axios.post("http://192.168.2.7/api/bookmarks", bm).then(resp => {
+                //     console.log('resp', resp);
+                // }).catch(err => {
+                //     console.log('err', err);
+                // })
+
+                // curl -H "Content-Type: application/json" -H "Authorization:Token 52794efa70b60d5510268ba9552e6412a9f88a18" -X POST -d '{"is_archived":false,"unread":false,"shared":false,"url":"https://github.com/trending","title":"Github trending","tag_names":["高频访问","site","tech","github"]}'  http://192.168.2.7/api/bookmarks
+
+
+
+                // fetch("http://localhost:4000/api/bookmarks", {
+                //     method: 'POST',
+                //     headers: {
+                //     // 'Accept': 'application/json',
+                //     // 'Content-Type': 'application/json',
+                //     // "Authorization": "Token 52794efa70b60d5510268ba9552e6412a9f88a18"
+                //     },
+                //     body: JSON.stringify(bm)
+                // }).then(res => res.json()).then(result => {
+                //     console.log("result --> ", result);
+                // }).catch(error => {
+                //     console.log("error --> ", error);
+                // });
+            }
+
+        });
+
+
+    </script>
+
+</body>
+</html>
