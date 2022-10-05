@@ -10541,13 +10541,13 @@
         "title": "云安全资源汇总",
         "url": "https://wiki.teamssix.com/cloudsecurityresources/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site wiki 哲学",
+        "title": "nLab",
+        "url": "https://ncatlab.org/nlab/show/HomePage"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site search",
+        "title": "shodan",
+        "url": "https://www.shodan.io/"
     },{
         "tags": "site",
         "title": "",
