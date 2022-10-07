@@ -10561,17 +10561,17 @@
         "title": "ghost - explore",
         "url": "https://ghost.org/explore/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site dev manual",
+        "title": "interview-guide",
+        "url": "https://interviewguide.dev/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech github",
+        "title": "GoVanguard InfoSec Encyclopedia",
+        "url": "https://github.com/GoVanguard/list-infosec-encyclopedia"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site book",
+        "title": "z-lib zh",
+        "url": "https://zh.z-lib.org/"
     },{
         "tags": "site",
         "title": "",
