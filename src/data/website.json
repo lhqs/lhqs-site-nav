@@ -8641,8 +8641,8 @@
         "title": "Create and discover amazing website lists",
         "url": "https://www.bookmarz.com/"
     },{
-        "tags": "site misc",
-        "title": "兴趣",
+        "tags": "site misc 有趣",
+        "title": "兴趣爱好数据库",
         "url": "http://hobby.lkszj.info/list"
     },{
         "tags": "site design",
@@ -10637,9 +10637,9 @@
         "title": "awesome-k8s-resources",
         "url": "https://github.com/tomhuang12/awesome-k8s-resources"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech news",
+        "title": "The Hacker News",
+        "url": "https://thehackernews.com/"
     },{
         "tags": "site",
         "title": "",
