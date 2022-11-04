@@ -6164,7 +6164,7 @@
         "title": "asoftmurmur-白噪音",
         "url": "https://asoftmurmur.com/"
     },{
-        "tags": "site book",
+        "tags": "site book daily",
         "title": "SaltTiger-每天一本编程书",
         "url": "https://salttiger.com/"
     },{
@@ -10525,7 +10525,7 @@
         "title": "kubernetes home",
         "url": "https://kubernetes.io/zh-cn/docs/home/"
     },{
-        "tags": "site read blog misc todo",
+        "tags": "site read blog misc todo often",
         "title": "utgd.net",
         "url": "https://utgd.net/"
     },{
@@ -10673,11 +10673,11 @@
         "title": "apple_power_user",
         "url": "https://kuanhsiaokuo.github.io/apple_power_user/"
     },{
-        "tags": "site todo weekly",
+        "tags": "site todo weekly web",
         "title": "潮流周刊",
         "url": "https://weekly.tw93.fun/"
     },{
-        "tags": "site tech github",
+        "tags": "site tech github todo",
         "title": "WTF Solidity 区块链入门",
         "url": "https://github.com/AmazingAng/WTF-Solidity"
     },{
@@ -10905,21 +10905,21 @@
         "title": "机器学习系统：设计和实现",
         "url": "https://github.com/openmlsys/openmlsys-zh"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github awesome",
+        "title": "awesome-interview-questions",
+        "url": "https://github.com/DopplerHQ/awesome-interview-questions"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc book",
+        "title": "Rust语言圣经(Rust Course)",
+        "url": "https://course.rs/about-book.html"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech news",
+        "title": "geektime.com",
+        "url": "https://www.geektime.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github daily",
+        "title": "github-daily",
+        "url": "https://github.com/headllines/github-daily"
     },{
         "tags": "site",
         "title": "",
