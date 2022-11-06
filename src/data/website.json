@@ -1524,7 +1524,7 @@
         "title": "简明西方哲学史",
         "url": "https://www.philosophybasics.com/"
     },{
-        "tags": "site mind 哲学",
+        "tags": "site mind 哲学 often",
         "title": "心智模型",
         "url": "https://fs.blog/mental-models/"
     },{
@@ -7452,7 +7452,7 @@
         "title": "JLL",
         "url": "https://www.youtube.com/c/GoWithForeignLanguage"
     },{
-        "tags": "site wiki list todo often",
+        "tags": "site wiki list todo often 高频访问",
         "title": "digital-gardeners",
         "url": "https://github.com/MaggieAppleton/digital-gardeners"
     },{
@@ -10217,7 +10217,7 @@
         "title": "CSS Mini Course",
         "url": "https://doc.clickup.com/37465296/d/13qb6g-64/css-mini-course/13qb6g-84/css-mini-course"
     },{
-        "tags": "site dev up",
+        "tags": "site dev up tech engineer",
         "title": "bytebytego",
         "url": "https://bytebytego.com/"
     },{
@@ -10449,7 +10449,7 @@
         "title": "学习周刊 二丫讲梵",
         "url": "https://wiki.eryajf.net/learning-weekly/"
     },{
-        "tags": "site read book misc",
+        "tags": "site read book misc AI",
         "title": "talktobooks",
         "url": "https://books.google.com/talktobooks/"
     },{
@@ -10921,33 +10921,33 @@
         "title": "github-daily",
         "url": "https://github.com/headllines/github-daily"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog",
+        "title": "Python 工匠",
+        "url": "https://www.zlovezl.cn/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site often mind read often todo",
+        "title": "Thinking Tools",
+        "url": "https://toolbox.nesslabs.com/tools"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site often rss",
+        "title": "FressRSS - huhexian",
+        "url": "https://rss.huhexian.cn/i/?a=normal"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "aber.sh",
+        "url": "https://aber.sh/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site mind",
+        "title": "Be brain fit",
+        "url": "https://bebrainfit.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site mind",
+        "title": "mental-models",
+        "url": "https://fs.blog/category/mental-models/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site book search",
+        "title": "Z-Library 站点",
+        "url": "https://www.ooopn.com/tool/zlibrary/"
     },{
         "tags": "site",
         "title": "",
