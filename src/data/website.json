@@ -2320,7 +2320,7 @@
         "title": "QuickRef.ME",
         "url": "https://quickref.me/"
     },{
-        "tags": "site manual code",
+        "tags": "site manual code up",
         "title": "CS自学指南",
         "url": "https://csdiy.wiki/"
     },{
@@ -10977,9 +10977,29 @@
         "title": "Trending Research",
         "url": "https://paperswithcode.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc search book",
+        "title": "sci-hub.se",
+        "url": "https://sci-hub.se/"
+    },{
+        "tags": "site misc",
+        "title": "声音地图",
+        "url": "https://www.ear0.com/map"
+    },{
+        "tags": "site product tools random misc explore",
+        "title": "CtrlAltCC —— 发现新工具",
+        "url": "https://ctrlalt.cc/"
+    },{
+        "tags": "site book search",
+        "title": "library book 中文 IPFS",
+        "url": "https://bk.hallowlib.org/"
+    },{
+        "tags": "site product todo",
+        "title": "University of Threads > Product Management",
+        "url": "https://universityofthreads.com/"
+    },{
+        "tags": "site read",
+        "title": "知识分子",
+        "url": "http://zhishifenzi.com/"
     },{
         "tags": "site",
         "title": "",
