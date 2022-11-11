@@ -1486,7 +1486,7 @@
     },{
         "tags": "site website 哲学",
         "title": "爱思想",
-        "url": "https://www.aisixiang.com/"
+        "url": "httpsaisixiang.com/://www."
     },{
         "tags": "site 哲学",
         "title": "哲学简图studiocarreras",
@@ -2484,7 +2484,7 @@
         "title": "创客",
         "url": "https://getmakerlog.com/"
     },{
-        "tags": "site 发现 有趣",
+        "tags": "site 发现 有趣 product",
         "title": "reddit SideProject",
         "url": "https://www.reddit.com/r/SideProject/"
     },{
@@ -3172,7 +3172,7 @@
         "title": "为什么这么设计",
         "url": "https://draveness.me/"
     },{
-        "tags": "site 有趣",
+        "tags": "site 有趣 哲学",
         "title": "psyche",
         "url": "https://psyche.co/"
     },{
@@ -7924,7 +7924,7 @@
         "title": "a16z future",
         "url": "https://future.a16z.com/"
     },{
-        "tags": "site read level2",
+        "tags": "site often read level2",
         "title": "aeon.co",
         "url": "https://aeon.co/"
     },{
@@ -9225,7 +9225,7 @@
         "title": "在线迷宫",
         "url": "http://www.mazebattles.com/"
     },{
-        "tags": "site read book",
+        "tags": "site read book search",
         "title": "Discover books you'll love",
         "url": "https://www.whatshouldireadnext.com/"
     },{
@@ -11009,13 +11009,85 @@
         "title": "icon go",
         "url": "https://icongo.github.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "2050.earth",
+        "url": "https://2050.earth/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech random dev engineer",
+        "title": "deep hacker news",
+        "url": "https://deephn.org/"
+    },{
+        "tags": "site doc wiki",
+        "title": "Handbook for Writers",
+        "url": "https://saylordotorg.github.io/text_handbook-for-writers/index.html"
+    },{
+        "tags": "site search dev code",
+        "title": "Feep! search - A web search engine for programmers",
+        "url": "https://search.feep.dev/"
+    },{
+        "tags": "site 哲学",
+        "title": "凌晨3:16 (Richard Marshall) 的哲学访谈",
+        "url": "https://www.3-16am.co.uk/"
+    },{
+        "tags": "site 有趣 misc",
+        "title": "人类知识领域的未解之谜",
+        "url": "https://wikenigma.org.uk/start"
+    },{
+        "tags": "site tailwind",
+        "title": "gradient-generator",
+        "url": "https://tailwindcomponents.com/gradient-generator/"
+    },{
+        "tags": "site tools",
+        "title": "website metadata",
+        "url": "https://websitemetadata.com/"
+    },{
+        "tags": "site newsletter search often 高频访问",
+        "title": "竹白专栏检索",
+        "url": "https://zb.liey.cn/"
+    },{
+        "tags": "site search",
+        "title": "search aggregate",
+        "url": "https://searchaggregate.com/"
+    },{
+        "tags": "site wiki",
+        "title": "Andyʼs working notes",
+        "url": "https://andymatuschak.org/"
+    },{
+        "tags": "site blog",
+        "title": "curiousmaverick",
+        "url": "https://curiousmaverick.com/about/"
+    },{
+        "tags": "site read",
+        "title": "epoche magazine",
+        "url": "https://epochemagazine.org/"
+    },{
+        "tags": "site search misc",
+        "title": "telegram channel search",
+        "url": "https://tlgrm.eu/channels"
+    },{
+        "tags": "site search",
+        "title": "Find a Twitter List",
+        "url": "https://www.scoutzen.com/twitter-lists/search"
+    },{
+        "tags": "site search",
+        "title": "telegram search",
+        "url": "https://meow.tg/"
+    },{
+        "tags": "site search",
+        "title": "metaphor.systems",
+        "url": "https://metaphor.systems/search"
+    },{
+        "tags": "site read",
+        "title": "the paris review",
+        "url": "https://www.theparisreview.org/"
+    },{
+        "tags": "site manual",
+        "title": "The Ultimate Guide to Writing Online",
+        "url": "https://perell.com/essay/the-ultimate-guide-to-writing-online/"
+    },{
+        "tags": "site search 有趣",
+        "title": "Discover what people are asking about",
+        "url": "https://keywordsea.com/"
     },{
         "tags": "site",
         "title": "",
