@@ -641,7 +641,7 @@
         "url": "https://dev.tube/"
     },{
         "tags": "site blog tech github list 次高频",
-        "title": "chinese-independent-blogs",
+        "title": "chinese-independent-blogs 中文独立博客列表",
         "url": "https://github.com/timqian/chinese-independent-blogs"
     },{
         "tags": "site tech manual",
@@ -11001,13 +11001,13 @@
         "title": "知识分子",
         "url": "http://zhishifenzi.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech manual cheatsheet",
+        "title": "full-stack python",
+        "url": "https://www.fullstackpython.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site search web UX",
+        "title": "icon go",
+        "url": "https://icongo.github.io/"
     },{
         "tags": "site",
         "title": "",
