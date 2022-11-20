@@ -6552,7 +6552,7 @@
         "title": "操作系统导论",
         "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/"
     },{
-        "tags": "site 高频访问",
+        "tags": "site 高频访问 创业",
         "title": "content ideas(Find the top performing content around the web)",
         "url": "https://contentideas.io/"
     },{
@@ -8593,7 +8593,7 @@
         "title": "plantegg",
         "url": "https://plantegg.github.io/archives/"
     },{
-        "tags": "site note up todo",
+        "tags": "site note up todo often",
         "title": "技术文章摘抄",
         "url": "http://learn.lianglianglee.com/"
     },{
@@ -11092,6 +11092,86 @@
         "tags": "site english",
         "title": "Lingva",
         "url": "https://lingva.ml/"
+    },{
+        "tags": "site video",
+        "title": "agemys",
+        "url": "https://www.agemys.net/"
+    },{
+        "tags": "site misc",
+        "title": "olmo.io 在线的物理引擎以及其他有趣的项目",
+        "url": "https://oimo.io/works"
+    },{
+        "tags": "site misc",
+        "title": "Obsidian Plugin Stats",
+        "url": "https://obsidian-plugin-stats.vercel.app/new"
+    },{
+        "tags": "site book search",
+        "title": "z-lib.is",
+        "url": "https://z-lib.is/"
+    },{
+        "tags": "site design UX",
+        "title": "open-design-systems",
+        "url": "https://www.designsystems.com/open-design-systems/"
+    },{
+        "tags": "site tools design",
+        "title": "tipsly - 字体图标工具收录",
+        "url": "https://tipsly.io/en"
+    },{
+        "tags": "site tools guide manual",
+        "title": "The Productivity Handbook for Busy People",
+        "url": "https://www.routine.co/ebook?"
+    },{
+        "tags": "site github todo",
+        "title": "be-a-professional-programmer",
+        "url": "https://github.com/fengchangsheng/be-a-professional-programmer"
+    },{
+        "tags": "site notion",
+        "title": "得到专栏",
+        "url": "https://circular-tenor-cb6.notion.site/085357fda77d49cb85b1b012d68ba376?v=a4ceb235105e4f0d9a0fa104b089dd92"
+    },{
+        "tags": "site list 导航",
+        "title": "research bookmark",
+        "url": "https://www.researchbookmark.io/"
+    },{
+        "tags": "site podcast",
+        "title": "开源面对面",
+        "url": "https://osf2f.net/"
+    },{
+        "tags": "site web doc",
+        "title": "前端工程师面试宝典",
+        "url": "https://fecommunity.github.io/front-end-interview/"
+    },{
+        "tags": "site manual doc",
+        "title": "effective-shell",
+        "url": "https://effective-shell.com/"
+    },{
+        "tags": "site awesome tech engineer",
+        "title": "awesome-cto",
+        "url": "https://github.com/kuchin/awesome-cto"
+    },{
+        "tags": "site newsletter search",
+        "title": "竹白网站实现专栏与文章检索",
+        "url": "https://www.panshenlian.com/2022/08/07/trial-001-zhubai/"
+    },{
+        "tags": "site mind",
+        "title": "mind-tools",
+        "url": "https://www.mindtools.com/"
+    },{
+        "tags": "site design",
+        "title": "the design system",
+        "url": "https://thedesignsystem.guide/"
+    },{
+        "tags": "site cheatsheet",
+        "title": "shortcutfoo",
+        "url": "https://www.shortcutfoo.com"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
