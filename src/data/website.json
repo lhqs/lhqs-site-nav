@@ -464,7 +464,7 @@
         "title": "Thomas",
         "url": "https://tuhrig.de/"
     },{
-        "tags": "site manual 创业",
+        "tags": "site manual 创业 handbook",
         "title": "Gitlab handbook",
         "url": "https://about.gitlab.com/handbook/"
     },{
@@ -11121,7 +11121,7 @@
         "title": "tipsly - 字体图标工具收录",
         "url": "https://tipsly.io/en"
     },{
-        "tags": "site tools guide manual",
+        "tags": "site tools guide manual handbook",
         "title": "The Productivity Handbook for Busy People",
         "url": "https://www.routine.co/ebook?"
     },{
@@ -11181,13 +11181,13 @@
         "title": "xmind share",
         "url": "https://xmind.app/share/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog list often 导航",
+        "title": "ooh播客聚合平台",
+        "url": "https://ooh.directory/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site awesome github doc manual handbook",
+        "title": "awesome-handbooks",
+        "url": "https://github.com/hkdobrev/awesome-handbooks"
     },{
         "tags": "site",
         "title": "",
