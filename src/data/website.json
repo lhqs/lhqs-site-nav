@@ -11185,7 +11185,7 @@
         "title": "ooh播客聚合平台",
         "url": "https://ooh.directory/"
     },{
-        "tags": "site awesome github doc manual handbook",
+        "tags": "site awesome github doc manual handbook todo",
         "title": "awesome-handbooks",
         "url": "https://github.com/hkdobrev/awesome-handbooks"
     },{
@@ -11197,21 +11197,21 @@
         "title": "sitepoint",
         "url": "https://www.sitepoint.com/newsletters/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech newsletter",
+        "title": "Pony Foo Weekly",
+        "url": "https://ponyfoo.com/weekly"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech newsletter",
+        "title": "software lead weekly",
+        "url": "https://softwareleadweekly.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site handbook",
+        "title": "basecamp handbook",
+        "url": "https://github.com/basecamp/handbook"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tools dev",
+        "title": "Gitignore Online Generator",
+        "url": "https://gitignore.itranswarp.com"
     },{
         "tags": "site",
         "title": "",
