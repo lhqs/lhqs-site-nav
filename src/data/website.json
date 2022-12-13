@@ -10187,7 +10187,7 @@
     },{
         "tags": "site tailwind",
         "title": "Free Layouts & Templates",
-        "url": "https://templates.digizu.co.uk"
+        "url": "https://templates.digizu.co.uk/"
     },{
         "tags": "site tech-blog",
         "title": "apad.pro笔记",
@@ -11237,13 +11237,13 @@
         "title": "lalokalabs layouts",
         "url": "https://layoutsfortailwind.lalokalabs.dev/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tailwind",
+        "title": "TailwindCSS Snippets",
+        "url": "https://snippets.alexandru.so/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site awesome tailwind",
+        "title": "awesome-tailwindcss",
+        "url": "https://github.com/aniftyco/awesome-tailwindcss"
     },{
         "tags": "site",
         "title": "",
