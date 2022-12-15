@@ -98,6 +98,10 @@
                 {
                     "title": "brave",
                     "url": "https://search.brave.com/search?q=${query}"
+                },
+                {
+                    "title": "ChatGPT",
+                    "url": "https://chat.openai.com/chat"
                 }
             ]
         },
