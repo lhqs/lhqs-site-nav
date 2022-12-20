@@ -420,7 +420,7 @@
         "title": "system-design-primer",
         "url": "https://github.com/donnemartin/system-design-primer"
     },{
-        "tags": "site github awesome list often",
+        "tags": "site github awesome list often tab",
         "title": "github awesome",
         "url": "https://github.com/sindresorhus/awesome"
     },{
@@ -8929,7 +8929,7 @@
         "title": "music for programming",
         "url": "https://musicforprogramming.net"
     },{
-        "tags": "site github tech code guide",
+        "tags": "site github tech code guide tab",
         "title": "developer-roadmap",
         "url": "https://github.com/kamranahmedse/developer-roadmap"
     },{
@@ -11149,7 +11149,7 @@
         "title": "effective-shell",
         "url": "https://effective-shell.com/"
     },{
-        "tags": "site awesome tech engineer",
+        "tags": "site awesome tech engineer tab",
         "title": "awesome-cto",
         "url": "https://github.com/kuchin/awesome-cto"
     },{
@@ -11217,7 +11217,7 @@
         "title": "pm starter pack",
         "url": "https://pmstarterpack.com/"
     },{
-        "tags": "site engineer github todo 创业",
+        "tags": "site engineer github todo 创业 tab",
         "title": "engineering-management",
         "url": "https://github.com/charlax/engineering-management"
     },{
@@ -11253,33 +11253,33 @@
         "title": "strapi handbook",
         "url": "https://handbook.strapi.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site handbook",
+        "title": "basecamp - handbook",
+        "url": "https://github.com/basecamp/handbook"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site handbook",
+        "title": "mattermost handbook",
+        "url": "https://handbook.mattermost.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tab",
+        "title": "CTO article",
+        "url": "https://github.com/92bondstreet/cto"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site awesome github AI",
+        "title": "awesome-chatgpt-prompts",
+        "url": "https://github.com/f/awesome-chatgpt-prompts"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site awesome github AI",
+        "title": "awesome-chatgpt",
+        "url": "https://github.com/humanloop/awesome-chatgpt"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github",
+        "title": "hello algo",
+        "url": "https://github.com/krahets/hello-algo"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tab",
+        "title": "engineer-manager",
+        "url": "https://github.com/ryanburgess/engineer-manager"
     },{
         "tags": "site",
         "title": "",
