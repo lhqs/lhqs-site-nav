@@ -456,7 +456,7 @@
         "title": "段永平的博客",
         "url": "http://nteswjq.blog.163.com/"
     },{
-        "tags": "site github",
+        "tags": "site github product",
         "title": "Open Source Alternatives ❤️",
         "url": "https://www.btw.so/open-source-alternatives"
     },{
@@ -11249,9 +11249,9 @@
         "title": "xclient",
         "url": "https://xclient.info/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site handbook",
+        "title": "strapi handbook",
+        "url": "https://handbook.strapi.io/"
     },{
         "tags": "site",
         "title": "",
