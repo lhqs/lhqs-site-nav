@@ -424,7 +424,7 @@
         "title": "github awesome",
         "url": "https://github.com/sindresorhus/awesome"
     },{
-        "tags": "site github product 次高频 todo often awesome",
+        "tags": "site github product 次高频 todo often awesome tab",
         "title": "awesome-selfhosted",
         "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
     },{
@@ -3408,7 +3408,7 @@
         "title": "Insider",
         "url": "https://www.insider.com/"
     },{
-        "tags": "site github",
+        "tags": "site github tab",
         "title": "DevOps Interview Questions(devops-exercises)",
         "url": "https://github.com/bregman-arie/devops-exercises"
     },{
@@ -11281,29 +11281,29 @@
         "title": "engineer-manager",
         "url": "https://github.com/ryanburgess/engineer-manager"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github todo tech engineer tab",
+        "title": "Ethical-Hacking-Labs",
+        "url": "https://github.com/Samsar4/Ethical-Hacking-Labs"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site awesome code list engineer",
+        "title": "awesome-advent-of-code",
+        "url": "https://github.com/Bogdanp/awesome-advent-of-code"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site up misc",
+        "title": "research.google",
+        "url": "https://research.google/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tab",
+        "title": "security-study-plan",
+        "url": "https://github.com/jassics/security-study-plan"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tab",
+        "title": "chatgpt-dingtalk",
+        "url": "https://github.com/eryajf/chatgpt-dingtalk"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech engineer tab",
+        "title": "megaease",
+        "url": "https://megaease.com/zh/"
     },{
         "tags": "site",
         "title": "",
