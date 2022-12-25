@@ -3428,7 +3428,7 @@
         "title": "time.is",
         "url": "https://time.is/"
     },{
-        "tags": "site github tech-blog random",
+        "tags": "site github tech-blog random engineer",
         "title": "qiankunli-技术-生活-产品-架构",
         "url": "http://qiankunli.github.io/"
     },{
@@ -8045,7 +8045,7 @@
         "title": "Side Project 指南",
         "url": "https://sideproject.guide/"
     },{
-        "tags": "site misc idea dev",
+        "tags": "site misc idea dev engineer code",
         "title": "API Hub",
         "url": "https://www.apifox.cn/apihub/"
     },{
@@ -11309,17 +11309,17 @@
         "title": "大盘云图",
         "url": "https://dapanyuntu.com"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 导航 book",
+        "title": "资源帝-电子书导航",
+        "url": "http://shu.ziyuandi.cn"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site 娱乐",
+        "title": "在线DOS游戏",
+        "url": "https://dos.zczc.cz/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site awesome github engineer",
+        "title": "awesome-roadmaps",
+        "url": "https://github.com/liuchong/awesome-roadmaps"
     },{
         "tags": "site",
         "title": "",
