@@ -5172,7 +5172,7 @@
         "title": "curated-lists",
         "url": "https://github.com/learn-anything/curated-lists"
     },{
-        "tags": "site github todo",
+        "tags": "site github todo tab",
         "title": "Clean-Code-Notes",
         "url": "https://github.com/JuanCrg90/Clean-Code-Notes"
     },{
@@ -11397,9 +11397,9 @@
         "title": "数英digtitaling",
         "url": "https://www.digitaling.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site gitlab awesome tab",
+        "title": "awesome-scalability",
+        "url": "https://github.com/binhnguyennus/awesome-scalability"
     },{
         "tags": "site",
         "title": "",
