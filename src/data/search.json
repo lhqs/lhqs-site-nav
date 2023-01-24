@@ -102,6 +102,10 @@
                 {
                     "title": "ChatGPT",
                     "url": "https://chat.openai.com/chat"
+                },
+                {
+                    "title": "Perplexity",
+                    "url": "https://www.perplexity.ai/"
                 }
             ]
         },
