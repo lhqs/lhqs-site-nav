@@ -11585,9 +11585,9 @@
         "title": "Generative AI Library",
         "url": "https://library.phygital.plus/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc",
+        "title": "go.dev/doc",
+        "url": "https://go.dev/doc/"
     },{
         "tags": "site",
         "title": "",
