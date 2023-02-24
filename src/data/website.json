@@ -1152,7 +1152,7 @@
         "title": "叁拾一周",
         "url": "https://elizen.zhubai.love/"
     },{
-        "tags": "site newsletter",
+        "tags": "site newsletter weekly",
         "title": "科技爱好者周刊",
         "url": "https://github.com/ruanyf/weekly"
     },{
@@ -4048,7 +4048,7 @@
         "title": "vgod's blog(visit)",
         "url": "https://blog.vgod.tw"
     },{
-        "tags": "site AI",
+        "tags": "site AI forum",
         "title": "构建未来的人工智能社区",
         "url": "https://huggingface.co/"
     },{
@@ -4848,7 +4848,7 @@
         "title": "clone-wars 100 多个流行网站的开源克隆",
         "url": "https://github.com/GorvGoyl/Clone-Wars"
     },{
-        "tags": "site github todo",
+        "tags": "site github todo tab",
         "title": "coding-interview-university",
         "url": "https://github.com/jwasham/coding-interview-university"
     },{
@@ -11270,6 +11270,10 @@
         "url": "https://github.com/f/awesome-chatgpt-prompts"
     },{
         "tags": "site awesome github AI",
+        "title": "ChatGPT 中文调教指南",
+        "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+    },{
+        "tags": "site awesome github AI",
         "title": "awesome-chatgpt",
         "url": "https://github.com/humanloop/awesome-chatgpt"
     },{
@@ -11582,7 +11586,7 @@
         "url": "https://gpt3demo.com/"
     },{
         "tags": "site AI tools list",
-        "title": "Generative AI Library",
+        "title": "Generative AI Library列表",
         "url": "https://library.phygital.plus/"
     },{
         "tags": "site doc",
@@ -11680,6 +11684,78 @@
         "tags": "site awesome github todo tab",
         "title": "awesome-learning",
         "url": "https://github.com/mfaisalkhatri/awesome-learning"
+    },{
+        "tags": "site tab todo",
+        "title": "📙《高并发的哲学原理》开源图书",
+        "url": "https://github.com/johnlui/PPHC"
+    },{
+        "tags": "site github doc",
+        "title": "图解计算机基础",
+        "url": "https://github.com/xiaolincoder/CS-Base"
+    },{
+        "tags": "site github work",
+        "title": "API-Security-Checklist",
+        "url": "https://github.com/shieldfy/API-Security-Checklist"
+    },{
+        "tags": "site handbook",
+        "title": "极狐 Handbook",
+        "url": "https://gitlab.cn/handbook/"
+    },{
+        "tags": "site tech-blog",
+        "title": "AWS News Blog",
+        "url": "https://aws.amazon.com/cn/blogs/aws/"
+    },{
+        "tags": "site todo misc",
+        "title": "爱可可-爱生活",
+        "url": "https://weibo.com/u/1402400261"
+    },{
+        "tags": "site AI tools list tab",
+        "title": "500+ Best AI Tools",
+        "url": "https://vaulted-polonium-23c.notion.site/500-Best-AI-Tools-e954b36bf688404ababf74a13f98d126"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
