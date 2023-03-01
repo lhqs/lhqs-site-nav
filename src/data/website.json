@@ -188,7 +188,7 @@
         "title": "有趣网址之家",
         "url": "https://youquhome.com/"
     },{
-        "tags": "site tech 高频访问",
+        "tags": "site tech engineer 高频访问",
         "title": "Dev to",
         "url": "https://dev.to/"
     },{
@@ -3300,7 +3300,7 @@
         "title": "渗透测试常规操作记录",
         "url": "https://github.com/xiaoy-sec/Pentest_Note"
     },{
-        "tags": "site tech 次高频",
+        "tags": "site tech engineer 次高频",
         "title": "hackernoon",
         "url": "https://hackernoon.com/"
     },{
@@ -3667,6 +3667,10 @@
         "tags": "site news Mac",
         "title": "9TO5Mac",
         "url": "https://9to5mac.com/"
+    },{
+        "tags": "site news Mac",
+        "title": "xxmac",
+        "url": "https://www.xxmac.com/"
     },{
         "tags": "site blog special 次高频 level1",
         "title": "Paul Graham is a programmer, writer, and investor",
@@ -11117,6 +11121,10 @@
         "title": "open-design-systems",
         "url": "https://www.designsystems.com/open-design-systems/"
     },{
+        "tags": "site design UX",
+        "title": "design-systems",
+        "url": "https://www.designsystems.com/"
+    },{
         "tags": "site tools design",
         "title": "tipsly - 字体图标工具收录",
         "url": "https://tipsly.io/en"
@@ -11713,21 +11721,21 @@
         "title": "500+ Best AI Tools",
         "url": "https://vaulted-polonium-23c.notion.site/500-Best-AI-Tools-e954b36bf688404ababf74a13f98d126"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site product github",
+        "title": "Awesome Docker Compose Examples",
+        "url": "https://github.com/Haxxnet/Compose-Examples"
     },{
         "tags": "site",
-        "title": "",
-        "url": ""
+        "title": "中文 AI 资源收集",
+        "url": "https://17yongai.com/"
     },{
         "tags": "site",
-        "title": "",
-        "url": ""
+        "title": "Web Interface Guidelines",
+        "url": "https://rauno.me/interfaces"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github awesome",
+        "title": "awesome-github-profile-readme-chinese",
+        "url": "https://github.com/eryajf/awesome-github-profile-readme-chinese"
     },{
         "tags": "site",
         "title": "",

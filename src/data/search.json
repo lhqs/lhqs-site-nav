@@ -110,6 +110,10 @@
                 {
                     "title": "neeva",
                     "url": "https://neeva.com/search?q=${query}"
+                },
+                {
+                    "title": "phind - The AI search engine",
+                    "url": "https://phind.com/search?q=${query}"
                 }
             ]
         },
@@ -192,6 +196,10 @@
                 {
                     "title": "Reddit",
                     "url": "https://www.reddit.com/search/?q={query}"
+                },
+                {
+                    "title": "小红书",
+                    "url": "https://www.xiaohongshu.com/"
                 }
 
             ]
