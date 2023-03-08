@@ -945,6 +945,19 @@
             ]
         },
         {
+            "tag": "其他",
+            "list": [
+                {
+                    "title": "元搜索:info.com",
+                    "url": "https://www.info.com/"
+                },
+                {
+                    "title": "元搜索:startpage",
+                    "url": "https://www.startpage.com/"
+                }
+            ]
+        },
+        {
             "tag": "本地保存文件",
             "list": [
                 {
