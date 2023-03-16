@@ -5588,7 +5588,7 @@
         "title": "Elizen",
         "url": "https://elizen.me/"
     },{
-        "tags": "site blog level1 engineer",
+        "tags": "site blog level1 engineer tab",
         "title": "Pxiaoer's Blog",
         "url": "https://pxiaoer.blog/about/"
     },{
@@ -10977,7 +10977,7 @@
         "title": "USTC Mirror Help",
         "url": "https://mirrors.ustc.edu.cn/help/index.html"
     },{
-        "tags": "site AI",
+        "tags": "site AI code",
         "title": "Trending Research",
         "url": "https://paperswithcode.com/"
     },{
@@ -11805,29 +11805,29 @@
         "title": "Micropaper",
         "url": "https://unbug.github.io/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tab github list",
+        "title": "技术领域前瞻与程序员的进阶",
+        "url": "https://github.com/wx-chevalier/Awesome-Vision-and-RoadMaps"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site work",
+        "title": "产品开发流程",
+        "url": "https://hfbc4zhv5y.larksuite.com/wiki/wikusPI0UnTbTImrg0I4xIrmJLd"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI tools",
+        "title": "Human to SQL Translator",
+        "url": "https://www.sqltranslate.app/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI",
+        "title": "replicate(model)",
+        "url": "https://replicate.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI tools",
+        "title": "chat with any PDF",
+        "url": "https://www.chatpdf.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI tools" ,
+        "title": "AI帮个忙",
+        "url": "https://aitools.run/"
     },{
         "tags": "site",
         "title": "",
