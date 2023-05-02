@@ -104,6 +104,10 @@
                     "url": "https://chat.openai.com/chat"
                 },
                 {
+                    "title": "HuggingChat",
+                    "url": "https://huggingface.co/chat/"
+                },
+                {
                     "title": "Perplexity",
                     "url": "https://www.perplexity.ai/"
                 },
