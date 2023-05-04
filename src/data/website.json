@@ -12057,21 +12057,21 @@
         "title": "AWS(国区)",
         "url": "https://www.amazonaws.cn/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "全球摄像头直播",
+        "url": "https://www.earthcam.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site misc",
+        "title": "window swap 世界各地windows景观",
+        "url": "https://www.window-swap.com/Window"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI 高频访问",
+        "title": "HuggingChat",
+        "url": "https://huggingface.co/chat/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site work",
+        "title": "BackendGroup(DingTalk)",
+        "url": "https://alidocs.dingtalk.com/i/spaces/pyjzZEM3kMDPLGwx/overview"
     },{
         "tags": "site",
         "title": "",
@@ -12107,3 +12107,4 @@
     }
 ]
 
+ 
