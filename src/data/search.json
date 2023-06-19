@@ -118,6 +118,14 @@
                 {
                     "title": "phind - The AI search engine",
                     "url": "https://phind.com/search?q=${query}"
+                },
+                {
+                    "title": "Andi",
+                    "url": "https://andisearch.com/"
+                },
+                {
+                    "title": "/metaphor.systems",
+                    "url": "https://metaphor.systems/"
                 }
             ]
         },
