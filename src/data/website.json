@@ -10457,6 +10457,10 @@
         "title": "talktobooks",
         "url": "https://books.google.com/talktobooks/"
     },{
+        "tags": "site read book misc AI",
+        "title": "bookai.chat",
+        "url": "https://www.bookai.chat/"
+    },{
         "tags": "site market",
         "title": "5118 行业词库",
         "url": "https://www.5118.com/"
@@ -12193,9 +12197,85 @@
         "title": "andi",
         "url": "https://andisearch.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI tab 高频访问",
+        "title": "ML-Papers-of-the-Week",
+        "url": "https://github.com/dair-ai/ML-Papers-of-the-Week"
+    },{
+        "tags": "site prompt",
+        "title": "learnprompting",
+        "url": "https://learnprompting.org/"
+    },{
+        "tags": "site prompt",
+        "title": "prompt-engineering(microsoft)",
+        "url": "https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/prompt-engineering"
+    },{
+        "tags": "site AI model",
+        "title": "Civitai | Stable Diffusion models, embeddings, hypernetworks and more ",
+        "url": "https://civitai.com/"
+    },{
+        "tags": "site prompt",
+        "title": "datafit",
+        "url": "https://datafit.ai/"
+    },{
+        "tags": "site blog list",
+        "title": "xlog",
+        "url": "https://xlog.app/activities"
+    },{
+        "tags": "site blog",
+        "title": "kaix.in",
+        "url": "https://kaix.in/"
+    },{
+        "tags": "site list random",
+        "title": "freelearninglist",
+        "url": "https://freelearninglist.org/"
+    },{
+        "tags": "site list rss blog",
+        "title": "top-rss-list",
+        "url": "https://github.com/weekend-project-space/top-rss-list"
+    },{
+        "tags": "site read list",
+        "title": "inoreader(discover)",
+        "url": "https://www.inoreader.com/discover"
+    },{
+        "tags": "site Mac",
+        "title": "mac玩法",
+        "url": "https://www.waerfa.com/"
+    },{
+        "tags": "site blog tech-blog",
+        "title": "卡瓦邦噶",
+        "url": "https://www.kawabangga.com/"
+    },{
+        "tags": "site blog",
+        "title": "Another Dayu",
+        "url": "https://anotherdayu.com/"
+    },{
+        "tags": "site msic",
+        "title": "Generator 生成",
+        "url": "http://patorjk.com/"
+    },{
+        "tags": "site list 高频访问",
+        "title": "read-list",
+        "url": "https://github.com/eryajf/read-list"
+    },{
+        "tags": "site prompt",
+        "title": "OpenPromptStudio",
+        "url": "https://github.com/Moonvy/OpenPromptStudio"
+    },{
+        "tags": "site prompt",
+        "title": "MJ提示词工具",
+        "url": "https://aijiaolian.chat/"
+    },{
+        "tags": "site AI",
+        "title": "anthropic",
+        "url": "https://www.anthropic.com/"
+    },{
+        "tags": "site 创业 idea",
+        "title": "BROWSE STARTUPS BY INDUSTRY",
+        "url": "https://betalist.com/topics"
+    },{
+        "tags": "site github AI",
+        "title": "stable-diffusion-webui",
+        "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },{
         "tags": "site",
         "title": "",
