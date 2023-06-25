@@ -1429,6 +1429,10 @@
         "url": "https://techurls.com/"
     },{
         "tags": "site 高频访问 import daily",
+        "title": "readspike",
+        "url": "https://readspike.com/"
+    },{
+        "tags": "site 高频访问 import daily",
         "title": "SciUrls",
         "url": "https://sciurls.com/"
     },{
@@ -4180,7 +4184,7 @@
         "title": "iteye",
         "url": "https://www.iteye.com/"
     },{
-        "tags": "site tools",
+        "tags": "site tools import",
         "title": "wolframalpha",
         "url": "https://www.wolframalpha.com/"
     },{
@@ -6452,7 +6456,7 @@
         "title": "Top Medium Stories",
         "url": "https://topmediumstories.com/"
     },{
-        "tags": "site 榜单 level1 daily 高频访问",
+        "tags": "site 榜单 level1 daily 高频访问 engineer",
         "title": "daily.dev",
         "url": "https://app.daily.dev/"
     },{
@@ -7324,7 +7328,7 @@
         "title": "lebgen.is",
         "url": "http://libgen.is/"
     },{
-        "tags": "site github search tools product explore",
+        "tags": "site github search tools product explore tab 高频访问",
         "title": "开源洞察ossinsight",
         "url": "https://ossinsight.io/"
     },{
@@ -12276,6 +12280,102 @@
         "tags": "site github AI",
         "title": "stable-diffusion-webui",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+    },{
+        "tags": "site prompt",
+        "title": "提示工程指南",
+        "url": "https://www.promptingguide.ai/zh"
+    },{
+        "tags": "site search",
+        "title": "qwant",
+        "url": "https://www.qwant.com/"
+    },{
+        "tags": "site 导航 dev engineer",
+        "title": "cooltools 开发者导航",
+        "url": "https://cooltools.top/developers.html"
+    },{
+        "tags": "site 导航 AI",
+        "title": "AI 导航",
+        "url": "https://cooltools.top/ai.html"
+    },{
+        "tags": "site other misc",
+        "title": "Free Stuff On The Internet",
+        "url": "https://fmhy.pages.dev/"
+    },{
+        "tags": "site read misc random tab often",
+        "title": "Read Something Wonderful",
+        "url": "https://readsomethingwonderful.com "
+    },{
+        "tags": "site dev code manual wiki",
+        "title": "中文版 Apple 官方 Swift 教程",
+        "url": "https://swiftgg.gitbook.io/swift/"
+    },{
+        "tags": "site 导航",
+        "title": "暗网导航",
+        "url": "https://onion666.com/"
+    },{
+        "tags": "site list blog 导航 random dev",
+        "title": "blog合集",
+        "url": "https://ooh.directory/"
+    },{
+        "tags": "site tools list",
+        "title": "Productivity Tools",
+        "url": "https://toolfinder.co/"
+    },{
+        "tags": "site misc 有趣",
+        "title": "ifixit",
+        "url": "https://zh.ifixit.com/Guide"
+    },{
+        "tags": "site blog 高频访问",
+        "title": "eureka",
+        "url": "https://eureka.mba/"
+    },{
+        "tags": "site AI cheatsheet manual",
+        "title": "AI-For-Beginners",
+        "url": "https://microsoft.github.io/AI-For-Beginners/"
+    },{
+        "tags": "site 导航",
+        "title": "tgdriver tg导航",
+        "url": "https://tgdriver.com/"
+    },{
+        "tags": "site AI tools",
+        "title": "AI工具集",
+        "url": "https://ai-bot.cn/"
+    },{
+        "tags": "site AI tab list",
+        "title": "The 2023 MAD (ML/AI/Data) Landscape",
+        "url": "https://mad.firstmark.com/"
+    },{
+        "tags": "site prompt",
+        "title": "Prompter",
+        "url": "https://prompter.fofr.ai/"
+    },{
+        "tags": "site 高频访问",
+        "title": "DTO",
+        "url": "https://dto.pipecraft.net/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
