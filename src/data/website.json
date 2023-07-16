@@ -2968,6 +2968,10 @@
         "title": "free api",
         "url": "https://github.com/fangzesheng/free-api"
     },{
+        "tags": "site github code idea",
+        "title": "apivault",
+        "url": "https://apivault.dev/"
+    },{
         "tags": "site book github manual",
         "title": "深入浅出现代Web编程",
         "url": "https://fullstackopen.com/zh/"
@@ -11422,7 +11426,7 @@
         "url": "https://github.com/binhnguyennus/awesome-scalability"
     },{
         "tags": "site tailwind",
-        "title": "sailboatui",
+        "title": "sailboatui(+1)",
         "url": "https://sailboatui.com/"
     },{
         "tags": "site web dev doc",
@@ -12397,9 +12401,21 @@
         "title": "claude.ai",
         "url": "https://claude.ai/chat/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site search",
+        "title": "telegram scan",
+        "url": "https://tgscan.xyz/"
+    },{
+        "tags": "site AI news 高频访问",
+        "title": "chatbene AI快讯",
+        "url": "https://chatbene.com/"
+    },{
+        "tags": "site english",
+        "title": "火山翻译",
+        "url": "https://translate.volcengine.com/"
+    },{
+        "tags": "site tools",
+        "title": "excalidraw",
+        "url": "https://excalidraw.com/"
     },{
         "tags": "site",
         "title": "",
@@ -12409,19 +12425,7 @@
         "title": "",
         "url": ""
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
-    },{
-        "tags": "site",
-        "title": "",
-        "url": ""
-    },{
-        "tags": "site",
-        "title": "",
-        "url": ""
-    },{
-        "tags": "site",
+        "tags": "site", 
         "title": "",
         "url": ""
     },{
