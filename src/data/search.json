@@ -130,6 +130,18 @@
                 {
                     "title": "/metaphor.systems",
                     "url": "https://metaphor.systems/"
+                },
+                {
+                    "title": "WolframAlpha",
+                    "url": "https://www.wolframalpha.com/"
+                },
+                {
+                    "title": "rix-dev",
+                    "url": "https://hashnode.com/rix"
+                },
+                {
+                    "title": "kagi",
+                    "url": "https://kagi.com/search?q=${query}"
                 }
             ]
         },
