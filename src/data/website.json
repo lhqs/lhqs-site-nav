@@ -12285,7 +12285,7 @@
         "title": "stable-diffusion-webui",
         "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
     },{
-        "tags": "site prompt",
+        "tags": "site prompt llm",
         "title": "提示工程指南",
         "url": "https://www.promptingguide.ai/zh"
     },{
@@ -12465,7 +12465,7 @@
         "title": "code-eva",
         "url": "https://github.com/abacaj/code-eval"
     },{
-        "tags": "site llm AI",
+        "tags": "site llm AI 高频访问",
         "title": "通往 AGI 之路",
         "url": "https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e"
     },{
@@ -12533,25 +12533,25 @@
         "title": "宝玉xp",
         "url": "https://www.weibo.com/u/1727858283?tabtype=feed"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site llm AI",
+        "title": "AIGC知识库by geektime",
+        "url": "https://gp477l8icq.feishu.cn/wiki/JUXnwzSuviL5E9kh6jUc8FRinHe"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site blog",
+        "title": "乔木日志",
+        "url": "https://qiaomu.pro/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI tools llm",
+        "title": "AIGC工具沉淀",
+        "url": "https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf?table=tblmZTd8VuUOOONh&view=vew0Eo17BB"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech-blog",
+        "title": "爱可可小窝",
+        "url": "https://blog.aicoco.net/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site prompt llm",
+        "title": "flowgpt",
+        "url": "https://flowgpt.com/"
     },{
         "tags": "site",
         "title": "",
