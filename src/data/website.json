@@ -1244,7 +1244,7 @@
         "title": "Textbook for System Design Interviews",
         "url": "https://systemdesign.org"
     },{
-        "tags": "site tech-blog level1 random",
+        "tags": "site tech-blog level1 random 高频访问",
         "title": "苏洋博客",
         "url": "https://soulteary.com/"
     },{
@@ -12109,11 +12109,11 @@
         "title": "TailwindCSS Snippets",
         "url": "https://snippets.alexandru.so/"
     },{
-        "tags": "site prompt",
+        "tags": "site prompt llm",
         "title": "ChatGPT Shortcut",
         "url": "https://www.aishort.top/"
     },{
-        "tags": "site AI forum todo 高频访问",
+        "tags": "site AI forum todo 高频访问 llm",
         "title": "智源社区",
         "url": "https://hub.baai.ac.cn/"
     },{
@@ -12157,11 +12157,11 @@
         "title": "AI tools & services",
         "url": "https://allthingsai.com/"
     },{
-        "tags": "site wiki prompt AI",
+        "tags": "site wiki prompt AI llm",
         "title": "learningprompt.wiki",
         "url": "https://learningprompt.wiki/docs"
     },{
-        "tags": "site wiki prompt AI",
+        "tags": "site wiki prompt AI llm",
         "title": "earnprompt.pro",
         "url": "https://www.learnprompt.pro/"
     },{
@@ -12444,6 +12444,102 @@
         "tags": "site forum",
         "title": "pkmer 知识社区",
         "url": "https://pkmer.cn/page/"
+    },{
+        "tags": "site tools",
+        "title": "microsoft office online",
+        "url": "https://www.office.com/launch/word"
+    },{
+        "tags": "site AI cheatsheet",
+        "title": "lmsys benchmarks",
+        "url": "https://chat.lmsys.org/"
+    },{
+        "tags": "site llm AI",
+        "title": "open_llm_leaderboard",
+        "url": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard"
+    },{
+        "tags": "site llm AI",
+        "title": "lmsys",
+        "url": "https://chat.lmsys.org/"
+    },{
+        "tags": "site llm AI",
+        "title": "code-eva",
+        "url": "https://github.com/abacaj/code-eval"
+    },{
+        "tags": "site llm AI",
+        "title": "通往 AGI 之路",
+        "url": "https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e"
+    },{
+        "tags": "site llm AI",
+        "title": "AI 相关内容",
+        "url": "https://three-recorder-52a.notion.site/1c01142d07dc4e3da4ebe7c3c420d4c7"
+    },{
+        "tags": "site llm AI prompt",
+        "title": "Awesome-Prompt-Engineering",
+        "url": "https://github.com/promptslab/Awesome-Prompt-Engineering"
+    },{
+        "tags": "site llm AI",
+        "title": "‌‍⁡⁢‍​‌​⁢AIGC知识库3.0介绍",
+        "url": "https://hf0y97ff1r.feishu.cn/wiki/RT8TwdKrfito5Akdxw0ckLxZnLY"
+    },{
+        "tags": "site llm AI",
+        "title": "GPT/AIGC/LLM/NLP/ChatGPT 学习 ",
+        "url": "https://gofurther.feishu.cn/docx/Enofdl25BotoVrxth8ec4rNBn5c"
+    },{
+        "tags": "site llm AI",
+        "title": "玩赚AI光环信息共享资料库",
+        "url": "https://kwg093bnyd5.feishu.cn/wiki/ARt6wJ2xRi8CbIk2QqgcZUyVnMh"
+    },{
+        "tags": "site llm AI",
+        "title": "character.ai",
+        "url": "https://beta.character.ai/"
+    },{
+        "tags": "site engineer",
+        "title": "cult.honeypot",
+        "url": "https://cult.honeypot.io/"
+    },{
+        "tags": "site llm AI",
+        "title": "AI 智库",
+        "url": "https://ki6j1b0d92h.feishu.cn/wiki/wikcnAFcEccJ5iXiU8MRntc2Vyb"
+    },{
+        "tags": "site AI llm",
+        "title": "ChatGPT Plugins",
+        "url": "https://aix4u.notion.site/e338c1e19b1e4304b19cfc48ee05ce8b?v=1b0549df511847afa476126298008535"
+    },{
+        "tags": "site llm AI tools",
+        "title": "AI工具收录",
+        "url": "https://dzu6t0u40s.feishu.cn/base/bascnL0IG0qINbTXFznvSjmkKsf?table=tbluBl957wcj0js3&view=vewg3hq3ig"
+    },{
+        "tags": "site prompt",
+        "title": "midjourney prompt",
+        "url": "https://aijiaolian.chat/"
+    },{
+        "tags": "site github code list",
+        "title": "star-history",
+        "url": "https://star-history.com/"
+    },{
+        "tags": "site llm AI tools",
+        "title": "aimappro",
+        "url": "http://aimappro.com/index.html"
+    },{
+        "tags": "site llm AI",
+        "title": "AI日报",
+        "url": "https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5"
+    },{
+        "tags": "site llm AI 高频访问",
+        "title": "爱可可微博热门分享",
+        "url": "https://www.weibo.com/u/1402400261?tabtype=article"
+    },{
+        "tags": "site llm AI",
+        "title": "宝玉xp",
+        "url": "https://www.weibo.com/u/1727858283?tabtype=feed"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
