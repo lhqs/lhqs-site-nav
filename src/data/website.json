@@ -11489,7 +11489,7 @@
         "title": "Perplexity",
         "url": "https://www.perplexity.ai/"
     },{
-        "tags": "site resource",
+        "tags": "site resource video tools todo random import",
         "title": "爱壹帆",
         "url": "https://www.iyf.tv/"
     },{
@@ -12625,9 +12625,9 @@
         "title": "免费的共享ChatGPT",
         "url": "https://chat-shared2.zhile.io/shared.html"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site llm AI code",
+        "title": "multilingual-code-evals",
+        "url": "https://huggingface.co/spaces/bigcode/multilingual-code-evals"
     },{
         "tags": "site",
         "title": "",
