@@ -1912,7 +1912,7 @@
         "title": "开源 SaaS 服务",
         "url": "https://github.com/Atarity/deploy-your-own-saas"
     },{
-        "tags": "site special",
+        "tags": "site special 高频访问",
         "title": "互联网档案馆",
         "url": "https://archive.org/"
     },{
@@ -11869,7 +11869,7 @@
         "title": "verywell mind",
         "url": "https://www.verywellmind.com/"
     },{
-        "tags": "site 高频访问",
+        "tags": "site 高频访问 AI llm",
         "title": "Poe",
         "url": "https://poe.com/"
     },{
@@ -12645,13 +12645,13 @@
         "title": "wonderful-prompts",
         "url": "https://github.com/yzfly/wonderful-prompts"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site llm AI",
+        "title": "Anti-hype LLM reading list",
+        "url": "https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github list awesome level1",
+        "title": "archive(github trending)",
+        "url": "https://web.archive.org/web/*/https://github.com/trending"
     },{
         "tags": "site",
         "title": "",
