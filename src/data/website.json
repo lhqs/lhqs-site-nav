@@ -50,7 +50,7 @@
     },{
         "tags": "site tools import often",
         "title": "Tools for better thinking",
-        "url": "https://untools.co"
+        "url": "https://untools.co/"
     },{
         "tags": "site read",
         "title": "豆瓣阅读",
@@ -7676,7 +7676,7 @@
         "title": "exercism",
         "url": "https://exercism.org/"
     },{
-        "tags": "site AI github up",
+        "tags": "site AI github up manual",
         "title": "Made With ML",
         "url": "https://madewithml.com/"
     },{
@@ -12717,21 +12717,21 @@
         "title": "Awesome-Domain-LLM",
         "url": "https://github.com/luban-agi/Awesome-Domain-LLM"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech book manual todo",
+        "title": "free-programming-books-zh_CN",
+        "url": "https://github.com/justjavac/free-programming-books-zh_CN"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site tech manual doc",
+        "title": "database intro",
+        "url": "https://www.prisma.io/dataguide/intro"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI doc",
+        "title": "人工智能实战就业 (面试) 学习路线图",
+        "url": "https://github.com/xiaochengcike/Ai-learn"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site github awesome AI llm",
+        "title": "awesome-gpt-security",
+        "url": "https://github.com/cckuailong/awesome-gpt-security"
     },{
         "tags": "site",
         "title": "",
