@@ -4726,7 +4726,7 @@
     },{
         "tags": "site 导航 import news",
         "title": "数字移民导航",
-        "url": "https://shuziyimin.org"
+        "url": "https://shuziyimin.org/"
     },{
         "tags": "site notion",
         "title": "A16Z 投资项目 2021年",
@@ -9521,7 +9521,7 @@
         "title": "中国女权",
         "url": "https://chinesefeminism.org/"
     },{
-        "tags": "site newsletter list 高频访问",
+        "tags": "site newsletter list rss 高频访问",
         "title": "Inbox World - 订阅推荐",
         "url": "https://inboxworld.io/"
     },{
@@ -12760,6 +12760,70 @@
         "tags": "site AI model",
         "title": "seaart",
         "url": "https://www.seaart.me/home"
+    },{
+        "tags": "site up",
+        "title": "class central",
+        "url": "https://www.classcentral.com/"
+    },{
+        "tags": "site rss",
+        "title": "substack",
+        "url": "https://substack.com/"
+    },{
+        "tags": "site tech-blog weekly 有趣 often",
+        "title": "zhangluyao-blog",
+        "url": "https://zhangluyao.com/"
+    },{
+        "tags": "site mac",
+        "title": "xmac.app",
+        "url": "https://xmac.app/"
+    },{
+        "tags": "site resource other 发现 tab",
+        "title": "yingheapp影视",
+        "url": "https://yingheapp.com/"
+    },{
+        "tags": "site tech blog list 高频访问",
+        "title": "值得一读技术博客",
+        "url": "https://daily-blog.chlinlearn.top/"
+    },{
+        "tags": "site",
+        "title": "pixabay",
+        "url": "https://pixabay.com/zh/"
+    },{
+        "tags": "site engineer tech todo list blog 高频访问",
+        "title": "506 engineering blogs",
+        "url": "https://engineeringblogs.xyz/"
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
+    },{
+        "tags": "site",
+        "title": "",
+        "url": ""
     },{
         "tags": "site",
         "title": "",
