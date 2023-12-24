@@ -142,6 +142,10 @@
                 {
                     "title": "kagi",
                     "url": "https://kagi.com/search?q=${query}"
+                },
+                {
+                    "title": "devv.ai",
+                    "url": "https://devv.ai/"
                 }
             ]
         },
