@@ -2888,7 +2888,7 @@
         "title": "FreeComputerBooks",
         "url": "https://freecomputerbooks.com"
     },{
-        "tags": "site github",
+        "tags": "site github tab",
         "title": "project-based tutorials",
         "url": "https://github.com/practical-tutorials/project-based-learning"
     },{
@@ -10994,7 +10994,7 @@
         "url": "https://mirrors.ustc.edu.cn/help/index.html"
     },{
         "tags": "site AI code",
-        "title": "Trending Research",
+        "title": "Trending Research(paper)",
         "url": "https://paperswithcode.com/"
     },{
         "tags": "site misc search book",
@@ -13029,9 +13029,9 @@
         "title": "把动画字幕用于吐槽生活",
         "url": "https://as2.bitinn.net/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI",
+        "title": "connected papers",
+        "url": "https://www.connectedpapers.com/"
     },{
         "tags": "site",
         "title": "",
