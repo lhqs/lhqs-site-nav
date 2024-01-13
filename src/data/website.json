@@ -13077,17 +13077,17 @@
         "title": "gpts",
         "url": "https://chat.openai.com/gpts"
     } ,{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site idea 创业",
+        "title": "无聊的生意",
+        "url": "https://boringcashcow.com/"
     } ,{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI",
+        "title": "llamaindex doc",
+        "url": "https://docs.llamaindex.ai/en/stable/index.html"
     } ,{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI",
+        "title": "langchain doc",
+        "url": "https://python.langchain.com/docs/get_started/introduction"
     } ,{
         "tags": "site",
         "title": "",
