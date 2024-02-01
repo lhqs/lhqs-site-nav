@@ -13257,13 +13257,13 @@
         "title": "uiverse",
         "url": "https://uiverse.io/elements?t=tailwind"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site doc manual cheatsheet",
+        "title": "linode product",
+        "url": "https://www.linode.com/docs/products/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site llm",
+        "title": "LLMs-from-scratch",
+        "url": "https://github.com/rasbt/LLMs-from-scratch"
     },{
         "tags": "site",
         "title": "",
