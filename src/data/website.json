@@ -11833,7 +11833,7 @@
         "title": "Human to SQL Translator",
         "url": "https://www.sqltranslate.app/"
     },{
-        "tags": "site AI",
+        "tags": "site AI llm",
         "title": "replicate(model)",
         "url": "https://replicate.com/"
     },{
@@ -13541,9 +13541,9 @@
         "title": "spiderbox",
         "url": "https://spiderbox.cn/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site list github",
+        "title": "gitcode",
+        "url": "https://gitcode.com/"
     },{
         "tags": "site",
         "title": "",
