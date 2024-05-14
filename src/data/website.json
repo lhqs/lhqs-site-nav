@@ -780,7 +780,7 @@
         "title": "飞瓜数据",
         "url": "https://www.feigua.cn/"
     },{
-        "tags": "site community",
+        "tags": "site community web3",
         "title": "登链社区",
         "url": "https://learnblockchain.cn/"
     },{
@@ -2200,7 +2200,7 @@
         "title": "贤无常的探索",
         "url": "http://yongxian.wang/"
     },{
-        "tags": "site manual",
+        "tags": "site manual web3",
         "title": "Working in Web3: The Handbook",
         "url": "https://web3.smsunarto.com/"
     },{
@@ -4180,7 +4180,7 @@
         "title": "鸟窝",
         "url": "https://colobu.com/"
     },{
-        "tags": "site tech wiki",
+        "tags": "site tech wiki web3",
         "title": "web3 wiki(NFTs、DeFi、DAO 等等)",
         "url": "https://www.odysseydao.com/"
     },{
@@ -4296,7 +4296,7 @@
         "title": "纳瓦尔宝典：财富和幸福指南",
         "url": "https://www.yuque.com/qingmiyang/naval"
     },{
-        "tags": "site notion",
+        "tags": "site notion web3",
         "title": "哔哔News数据分析图表(web3,DAO,DEX)",
         "url": "https://bitalknews.notion.site/bitalknews/News-c0895c29a142426b8311768b5ee0e525"
     },{
@@ -4556,7 +4556,7 @@
         "title": "RapidAPI Learn",
         "url": "https://rapidapi.com/learn"
     },{
-        "tags": "site tech up",
+        "tags": "site tech up web3",
         "title": "Build web3 apps",
         "url": "https://thirdweb.com/"
     },{
@@ -5640,7 +5640,7 @@
         "title": "linuxserver.io",
         "url": "https://docs.linuxserver.io/"
     },{
-        "tags": "site doc manual blog todo",
+        "tags": "site doc manual blog todo web3",
         "title": "web3文档",
         "url": "https://www.alexdphan.com/"
     },{
@@ -6948,7 +6948,7 @@
         "title": "开源问答",
         "url": "https://www.oschina.net/question"
     },{
-        "tags": "site tech",
+        "tags": "site tech web3",
         "title": "web3caff",
         "url": "https://web3caff.com/zh/"
     },{
@@ -9997,7 +9997,7 @@
         "title": "awesome-privacy",
         "url": "https://github.com/Lissy93/awesome-privacy"
     },{
-        "tags": "site github tech todo",
+        "tags": "site github tech todo web3",
         "title": "Solidity极简入门 - web3",
         "url": "https://github.com/AmazingAng/WTFSolidity"
     },{
@@ -10253,7 +10253,7 @@
         "title": "free-for-dev",
         "url": "https://github.com/ripienaar/free-for-dev"
     },{
-        "tags": "site doc manual blog todo",
+        "tags": "site doc manual blog todo web3",
         "title": "Library of Web3",
         "url": "https://www.alexdphan.com/research/library-of-web3"
     },{
@@ -12613,7 +12613,7 @@
         "title": "DocHub — 分享优质文档",
         "url": "https://www.dochub.wiki/"
     },{
-        "tags": "site wiki tech doc manual todo",
+        "tags": "site wiki tech doc manual todo web3",
         "title": "web3通识课",
         "url": "https://j08v3n7cqq.feishu.cn/docs/doccnu8PLq5zJcaZJUzTaLyEOPc#"
     },{
@@ -12849,7 +12849,7 @@
         "title": "面向开发者的 LLM 入门课程",
         "url": "https://datawhalechina.github.io/prompt-engineering-for-developers/#/"
     },{
-        "tags": "site notion",
+        "tags": "site notion web3",
         "title": "etterweb3",
         "url": "https://abetterweb3.notion.site/abetterweb3-7ce334dcf8524cb79a5894bdd784ddb4"
     },{
@@ -13589,9 +13589,9 @@
         "title": "cruip",
         "url": "https://cruip.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site web3 data",
+        "title": "coingecko",
+        "url": "https://www.coingecko.com/"
     },{
         "tags": "site",
         "title": "",
