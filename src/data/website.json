@@ -5404,7 +5404,7 @@
         "title": "some useful information",
         "url": "https://github.com/albertz/wiki"
     },{
-        "tags": "site github search",
+        "tags": "site github search 高频访问",
         "title": "dotfile",
         "url": "https://github.com/search?q=dotfile"
     },{
@@ -13885,9 +13885,9 @@
         "title": "Open Source LLM Tools",
         "url": "https://huyenchip.com/llama-police"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI llm 高频访问",
+        "title": "cursor101",
+        "url": "https://cursor101.com/zh"
     },{
         "tags": "site",
         "title": "",
