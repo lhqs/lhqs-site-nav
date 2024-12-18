@@ -13293,7 +13293,7 @@
         "title": "Web Apps by 123apps",
         "url": "https://123apps.com/cn/"
     },{
-        "tags": "site",
+        "tags": "site llm",
         "title": "hugginface assistant",
         "url": "https://huggingface.co/chat/assistants"
     },{
@@ -13909,9 +13909,9 @@
         "title": "zeli-用中文读科技新闻",
         "url": "https://zeli.app/zh"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site llm 高频访问",
+        "title": "huggingface.co",
+        "url": "https://huggingface.co/"
     },{
         "tags": "site",
         "title": "",
