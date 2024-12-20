@@ -11729,7 +11729,7 @@
         "title": "AWS News Blog",
         "url": "https://aws.amazon.com/cn/blogs/aws/"
     },{
-        "tags": "site todo misc",
+        "tags": "site todo misc 高频访问",
         "title": "爱可可-爱生活",
         "url": "https://weibo.com/u/1402400261"
     },{
@@ -13941,9 +13941,9 @@
         "title": "爱可可微博热门分享-github issues",
         "url": "https://github.com/fly51fly/aicoco/issues"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site llm AI paper",
+        "title": "modelscope-papers",
+        "url": "https://modelscope.cn/papers"
     },{
         "tags": "site",
         "title": "",
