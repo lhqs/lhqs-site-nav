@@ -13961,17 +13961,21 @@
         "title": "飞行社",
         "url": "https://www.feishu.cn/community"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site person",
+        "title": "飞书wiki",
+        "url": "https://luanhong.feishu.cn/wiki/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site person",
+        "title": "lark wiki",
+        "url": "https://luanhong.larksuite.cn/wiki/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI llm",
+        "title": "LlamaFactory 大模型开发工具集",
+        "url": "https://www.llamafactory.cn"
+    },{
+        "tags": "site llm",
+        "title": "阿里云-百炼",
+        "url": "https://bailian.console.aliyun.com"
     },{
         "tags": "site",
         "title": "",
