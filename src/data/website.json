@@ -14157,9 +14157,9 @@
         "title": "reddit answers",
         "url": "https://www.reddit.com/answers"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site prompt",
+        "title": "prompts.chat",
+        "url": "https://prompts.chat/"
     },{
         "tags": "site",
         "title": "",
