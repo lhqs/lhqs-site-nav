@@ -3552,7 +3552,7 @@
         "title": "提问的智慧",
         "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md"
     },{
-        "tags": "site yuque 高频访问",
+        "tags": "site yuque",
         "title": "2022群资源汇总",
         "url": "https://www.yuque.com/eureka007/2022"
     },{
@@ -14173,21 +14173,21 @@
         "title": "咸鱼",
         "url": "https://www.goofish.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site llm AI 高频访问",
+        "title": "qwen",
+        "url": "https://chat.qwen.ai/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site llm AI agent",
+        "title": "awesome-ollama-server",
+        "url": "https://awesome-ollama-server.vercel.app/zh"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site AI llm 高频访问",
+        "title": "grok",
+        "url": "https://grok.com/"
     },{
-        "tags": "site",
-        "title": "",
-        "url": ""
+        "tags": "site book doc 次高频",
+        "title": "Anna’s Archive",
+        "url": "https://kmr.annas-archive.org/"
     },{
         "tags": "site",
         "title": "",
