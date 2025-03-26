@@ -12401,7 +12401,7 @@
         "title": "modelscope",
         "url": "https://modelscope.cn/home"
     },{
-        "tags": "site AI engineer blog tab 高频访问 llm",
+        "tags": "site AI engineer blog tab 高频访问 llm 助手",
         "title": "claude.ai",
         "url": "https://claude.ai/chat/"
     },{
@@ -13317,7 +13317,7 @@
         "title": "/ai-infra",
         "url": "https://ai-infra.fun/"
     },{
-        "tags": "site llm",
+        "tags": "site llm 助手",
         "title": "mistral",
         "url": "https://console.mistral.ai/"
     },{
@@ -13681,11 +13681,11 @@
         "title": "海螺AI",
         "url": "https://hailuoai.com/"
     },{
-        "tags": "site AI-search",
+        "tags": "site AI-search 助手",
         "title": "360搜索",
         "url": "https://www.sou.com/"
     },{
-        "tags": "site AI-search",
+        "tags": "site AI-search 助手",
         "title": "秘塔AI搜索",
         "url": "https://metaso.cn/"
     },{
@@ -13701,8 +13701,8 @@
         "title": "webpilot",
         "url": "https://www.webpilot.ai/home?lang=en-US"
     },{
-        "tags": "site AI-search",
-        "title": "chatGPT",
+        "tags": "site AI-search LLM 助手",
+        "title": "ChatGPT",
         "url": "https://chatgpt.com"
     },{
         "tags": "site AI-search",
@@ -13713,8 +13713,8 @@
         "title": "zhida",
         "url": "https://zhida.zhihu.com/"
     },{
-        "tags": "site AI-search",
-        "title": "yuanbao",
+        "tags": "site 助手 AI-search",
+        "title": "元宝",
         "url": "https://yuanbao.tencent.com/"
     },{
         "tags": "site AI-search",
@@ -13769,7 +13769,7 @@
         "title": "boce-网站运维工具",
         "url": "https://www.boce.com/"
     },{
-        "tags": "site AI llm 高频访问",
+        "tags": "site AI llm 高频访问 助手",
         "title": "google notebooklm",
         "url": "https://notebooklm.google.com/"
     },{
@@ -13781,7 +13781,7 @@
         "title": "aibase",
         "url": "https://www.aibase.com/zh/"
     },{
-        "tags": "site AI llm 高频访问",
+        "tags": "site AI llm 高频访问 助手",
         "title": "豆包助手",
         "url": "https://www.doubao.com/chat/"
     },{
@@ -13797,7 +13797,7 @@
         "title": "whoismaking",
         "url": "https://whoismaking.money/"
     },{
-        "tags": "site AI llm 高频访问",
+        "tags": "site AI llm 高频访问 助手",
         "title": "napkin.ai",
         "url": "https://app.napkin.ai/"
     },{
@@ -13845,7 +13845,7 @@
         "title": "grok",
         "url": "https://x.com/i/grok"
     },{
-        "tags": "site AI llm 高频访问",
+        "tags": "site AI llm 高频访问 助手",
         "title": "ai-studio google",
         "url": "https://aistudio.google.com/prompts/new_chat"
     },{
@@ -13901,7 +13901,7 @@
         "title": "智鹭AI日报",
         "url": "https://www.aiheron.com/"
     },{
-        "tags": "site ai llm 高频访问 ai-search",
+        "tags": "site ai llm 高频访问 ai-search 助手",
         "title": "纳米AI搜索",
         "url": "https://n.cn/"
     },{
@@ -14033,7 +14033,7 @@
         "title": "调度系统",
         "url": "https://dispatch.lhqs.ink/"
     },{
-        "tags": "site llm AI 高频访问",
+        "tags": "site llm AI 高频访问 助手",
         "title": "deepseek",
         "url": "https://chat.deepseek.com/"
     },{
@@ -14173,15 +14173,15 @@
         "title": "咸鱼",
         "url": "https://www.goofish.com/"
     },{
-        "tags": "site llm AI 高频访问",
-        "title": "qwen",
+        "tags": "site llm AI 高频访问 助手",
+        "title": "千问",
         "url": "https://chat.qwen.ai/"
     },{
         "tags": "site llm AI agent",
         "title": "awesome-ollama-server",
         "url": "https://awesome-ollama-server.vercel.app/zh"
     },{
-        "tags": "site AI llm 高频访问",
+        "tags": "site AI llm 高频访问 助手",
         "title": "grok",
         "url": "https://grok.com/"
     },{
@@ -14189,7 +14189,7 @@
         "title": "Anna’s Archive",
         "url": "https://kmr.annas-archive.org/"
     },{
-        "tags": "site AI llm 高频访问",
+        "tags": "site AI llm 高频访问 助手",
         "title": "Gemini",
         "url": "https://gemini.google.com/"
     },{
@@ -14225,7 +14225,7 @@
         "title": "",
         "url": ""
     },{
-        "tags": "site",
+        "tags": "",
         "title": "",
         "url": ""
     },{
