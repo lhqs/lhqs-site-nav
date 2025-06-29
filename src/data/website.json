@@ -17938,5 +17938,10 @@
     "tags": "site 高频访问",
     "title": "alpha news",
     "url": "https://alphanews.club/"
+  },
+  {
+    "url": "https://github.com/Zie619/n8n-workflows",
+    "title": "n8n workflow",
+    "tags": "site todo workflow AI"
   }
 ]
