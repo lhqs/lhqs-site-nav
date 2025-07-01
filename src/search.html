@@ -1,15 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="乱红如雨的个人导航站点, 标签导航 + 聚合搜索 ">
-    <meta keywords="text" content="lhqs, 乱红倾世, 乱红如雨, 导航, 搜索, 信息, 信息源, 标签导航, 聚合搜索">
+    <meta name="description" content="乱红如雨的聚合搜索工具 - 一站式搜索多个引擎，提高信息获取效率，支持Google、百度、必应等多个搜索引擎">
+    <meta name="keywords" content="lhqs,乱红倾世,乱红如雨,聚合搜索,多引擎搜索,搜索工具,信息获取,Google搜索,百度搜索,必应搜索">
+    <meta name="author" content="乱红如雨">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="乱红如雨 | 聚合搜索工具">
+    <meta property="og:description" content="一站式搜索多个引擎，提高信息获取效率，支持Google、百度、必应等多个搜索引擎">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://info.lhqs.ink/search.html">
+    <meta property="og:image" content="http://static.lhqs.ink/site/nav/L.png">
     <link rel="icon" href="http://static.lhqs.ink/site/nav/L.png">
     <link rel="icon" type="image/png" sizes="32x32" href="http://static.lhqs.ink/site/nav/L.png">
+    <link rel="canonical" href="http://info.lhqs.ink/search.html">
     <link rel="stylesheet" href="./css/output.css">
-    <title>Search</title>
+    <title>乱红如雨 | 聚合搜索工具 - 多引擎一站式搜索</title>
+    <!-- 结构化数据 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "乱红如雨 | 聚合搜索工具",
+      "url": "http://info.lhqs.ink/search.html",
+      "description": "一站式搜索多个引擎，提高信息获取效率，支持Google、百度、必应等多个搜索引擎",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "http://info.lhqs.ink/search.html?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+    <!-- 分析工具 -->
     <script async defer data-website-id="cd444eb4-efa9-4aa8-830a-4d81a291f2db" src="https://flynode.likeviu.com/flynode.js"></script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-9GV7RCT5D5"></script>
@@ -23,34 +50,52 @@
 </head>
 <body>
 
-    <head>
-        <div class="flex flex-nowrap justify-between bg-black text-white font-bold">
-            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="./index.html">乱红如雨的个人站点</a></h1>
-            <h1 id="checkout" class="px-4 py-2 hover:text-sky-400"><a href="./index.html">标签导航</a></h1>
-        </div>
-    </head>
+    <header>
+        <nav class="flex flex-nowrap justify-between bg-black text-white font-bold" aria-label="主导航">
+            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="./index.html" title="返回乱红如雨首页" aria-label="返回首页">乱红如雨的个人站点</a></h1>
+            <div class="px-4 py-2">
+                <span class="hover:text-sky-400"><a href="./index.html" title="查看标签导航" aria-label="标签导航页面">标签导航</a></span>
+            </div>
+        </nav>
+    </header>
 
-    <section>
-        <div class="pt-4 flex justify-center">
-            <div class="flex w-full md:3/4 xl:w-1/2 mx-1 ">
-                <div id="sform" class="w-full pt-2 relative mx-auto text-gray-600">
-                    <input id="search" class="w-full border-2 border-gray-300 bg-white h-10 px-3 pr-16 rounded-lg text-sm focus:outline-none" type="search" name="search" placeholder="Search by keywords">
-                    <button  id="engine" onclick="defaultSearch(event);" class="absolute right-0 top-0 mt-4 mr-4 border-gray-300 bg-white">
-                        <svg t="1631195014749" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4225" width="24" height="24"><path d="M430.81460426 808.42087521A388.24537457 388.24537457 0 1 1 430.81460426 31.87499999a388.24537457 388.24537457 0 0 1 0 776.54587522z m0-86.2706249a301.97474968 301.97474968 0 1 0 0-604.00462543 301.97474968 301.97474968 0 0 0 0 604.00462543z" fill="#8a8a8a" p-id="4226"></path><path d="M689.73672915 615.20774977l305.00662478 305.0617499-60.96824989 61.023375-305.06174989-305.0617499z" fill="#8a8a8a" p-id="4227"></path></svg>
-                    </button>
+    <main>
+        <section aria-labelledby="search-section" class="search-form">
+            <h2 id="search-section" class="sr-only">聚合搜索</h2>
+            <div class="pt-4 flex justify-center">
+                <div class="flex w-full md:3/4 xl:w-1/2 mx-1 ">
+                    <div id="sform" class="w-full pt-2 relative mx-auto text-gray-600" role="search">
+                        <label for="search" class="sr-only">搜索关键词</label>
+                        <input id="search" class="w-full border-2 border-gray-300 bg-white h-10 px-3 pr-16 rounded-lg text-sm focus:outline-none" 
+                               type="search" name="search" placeholder="输入关键词搜索" aria-label="搜索关键词">
+                        <button id="engine" onclick="defaultSearch(event);" class="absolute right-0 top-0 mt-4 mr-4 border-gray-300 bg-white"
+                                aria-label="搜索" title="点击搜索">
+                            <svg t="1631195014749" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" 
+                                 p-id="4225" width="24" height="24" aria-hidden="true" focusable="false">
+                                <path d="M430.81460426 808.42087521A388.24537457 388.24537457 0 1 1 430.81460426 31.87499999a388.24537457 388.24537457 0 0 1 0 776.54587522z m0-86.2706249a301.97474968 301.97474968 0 1 0 0-604.00462543 301.97474968 301.97474968 0 0 0 0 604.00462543z" fill="#8a8a8a" p-id="4226"></path>
+                                <path d="M689.73672915 615.20774977l305.00662478 305.0617499-60.96824989 61.023375-305.06174989-305.0617499z" fill="#8a8a8a" p-id="4227"></path>
+                            </svg>
+                        </button>
+                    </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
 
-    <section  class="flex justify-center">
-        <div class="w-full mx-1 md:3/4 xl:w-1/2 mb-6">
-            <div id="list"></div>
-        </div>
-    </section>
+        <section aria-labelledby="search-results-section" class="search-results">
+            <h2 id="search-results-section" class="sr-only">搜索结果</h2>
+            <div class="flex justify-center">
+                <div class="w-full mx-1 md:3/4 xl:w-1/2 mb-6">
+                    <div id="list" role="list" aria-live="polite" aria-label="搜索引擎列表"></div>
+                </div>
+            </div>
+        </section>
+    </main>
 
-    <footer id="footer" role="lhqs" class="fixed bottom-0 text-sm text-gray-500 text-center w-full mx-auto py-3 hidden">
-        乱红如雨个人导航站 contact us: lhqs.gu@gmail.com
+    <footer id="footer" class="fixed bottom-0 text-sm text-gray-500 text-center w-full mx-auto py-3 hidden">
+        <div itemscope itemtype="http://schema.org/Person">
+            <span itemprop="name">乱红如雨</span>个人导航站 | 
+            <span>联系我们: <a href="mailto:lhqs.gu@gmail.com" itemprop="email">lhqs.gu@gmail.com</a></span>
+        </div>
     </footer>
 
 

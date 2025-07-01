@@ -29,3 +29,5 @@ functions/*
 .temp/**
 
 upload.log
+
+pnpm-lock.yaml

@@ -1,15 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="乱红如雨的个人导航站点, 标签导航 + 聚合搜索 ">
-    <meta keywords="text" content="lhqs, 乱红倾世, 乱红如雨, 导航, 搜索, 信息, 信息源, 标签导航, 聚合搜索">
+    <meta name="description" content="乱红如雨的任意门 - 随机访问精选网站，发现新知识和有趣内容，打破信息茧房，拓展视野">
+    <meta name="keywords" content="lhqs,乱红倾世,乱红如雨,任意门,随机网站,网站发现,信息探索,打破信息茧房,知识发现">
+    <meta name="author" content="乱红如雨">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="乱红如雨 | 任意门 - 随机网站发现工具">
+    <meta property="og:description" content="随机访问精选网站，发现新知识和有趣内容，打破信息茧房，拓展视野">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://info.lhqs.ink/random.html">
+    <meta property="og:image" content="http://static.lhqs.ink/site/nav/L.png">
     <link rel="icon" href="http://static.lhqs.ink/site/nav/L.png">
     <link rel="icon" type="image/png" sizes="32x32" href="http://static.lhqs.ink/site/nav/L.png">
+    <link rel="canonical" href="http://info.lhqs.ink/random.html">
     <link rel="stylesheet" href="./css/output.css">
-    <title>Search</title>
+    <title>乱红如雨 | 任意门 - 随机网站发现工具</title>
+    <!-- 结构化数据 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "乱红如雨 | 任意门 - 随机网站发现工具",
+      "url": "http://info.lhqs.ink/random.html",
+      "description": "随机访问精选网站，发现新知识和有趣内容，打破信息茧房，拓展视野",
+      "potentialAction": {
+        "@type": "ViewAction",
+        "target": "http://info.lhqs.ink/random.html"
+      }
+    }
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-9GV7RCT5D5"></script>
     <script>
@@ -22,32 +44,41 @@
 </head>
 <body>
 
-    <head>
-        <div class="flex flex-nowrap justify-between bg-black text-white  font-bold">
-            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="./index.html">乱红如雨</a></h1>
+    <header>
+        <nav class="flex flex-nowrap justify-between bg-black text-white font-bold" aria-label="主导航">
+            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="./index.html" title="返回乱红如雨首页" aria-label="返回首页">乱红如雨</a></h1>
             <div class="px-4 py-2">
-                <span id="checkout" class="hover:text-sky-400"><a href="./search.html" target="_blank">聚合搜索</a></span>
-                <span id="checkout" class="px-4 hover:text-sky-400"><a href="./random.html" target="_blank">任意门</a></span>
-                <span id="checkout" class="pr-4 hover:text-sky-400"><a href="https://github.com/lhqs/lhqs-site-nav" target="_blank">Github</a></span>
-                <span id="slogan" class="hover:text-sky-400"><a href="./page/about.html">关于</a></span>
+                <span class="hover:text-sky-400"><a href="./search.html" title="使用聚合搜索功能" aria-label="聚合搜索页面">聚合搜索</a></span>
+                <span class="px-4 hover:text-sky-400"><a href="./random.html" title="随机访问精选网站" aria-label="任意门随机网站功能">任意门</a></span>
+                <span class="pr-4 hover:text-sky-400"><a href="https://github.com/lhqs/lhqs-site-nav" target="_blank" rel="noopener" title="查看项目源码" aria-label="GitHub项目源码">Github</a></span>
+                <span class="hover:text-sky-400"><a href="./page/about.html" title="关于乱红如雨" aria-label="关于页面">关于</a></span>
             </div>
-        </div>
-    </head>
+        </nav>
+    </header>
 
-    <section  class="flex justify-center items-center h-44">
-        <div class="text-center flex items-center">
-            <!-- <button onclick="randomSite()">开始传送</button> -->
-            <a href="#" onclick="randomSite(1)" class="bg-transparent border border-gray-500 text-gray-500 hover:bg-gray-500 hover:text-white text-center py-4 px-8 rounded">
-                开始传送
-            </a>
-            <!-- <a href="#" onclick="randomSite(2)" class="bg-transparent border border-gray-500 text-gray-500 hover:bg-gray-500 hover:text-white text-center py-4 px-8 rounded">
-                同时传送2个
-            </a> -->
-        </div>
-    </section>
+    <main>
+        <section aria-labelledby="random-section" class="random-portal">
+            <h2 id="random-section" class="sr-only">随机网站传送门</h2>
+            <div class="flex justify-center items-center h-44">
+                <div class="text-center flex items-center">
+                    <!-- <button onclick="randomSite()">开始传送</button> -->
+                    <a href="#" onclick="randomSite(1)" class="bg-transparent border border-gray-500 text-gray-500 hover:bg-gray-500 hover:text-white text-center py-4 px-8 rounded"
+                       role="button" aria-label="随机访问一个精选网站" title="点击随机访问一个精选网站">
+                        开始传送
+                    </a>
+                    <!-- <a href="#" onclick="randomSite(2)" class="bg-transparent border border-gray-500 text-gray-500 hover:bg-gray-500 hover:text-white text-center py-4 px-8 rounded">
+                        同时传送2个
+                    </a> -->
+                </div>
+            </div>
+        </section>
+    </main>
 
-    <footer id="footer" role="lhqs" class="fixed bottom-0 text-sm text-gray-500 text-center w-full mx-auto py-3 hidden">
-        乱红如雨个人导航站 contact us: lhqs.gu@gmail.com
+    <footer id="footer" class="fixed bottom-0 text-sm text-gray-500 text-center w-full mx-auto py-3 hidden">
+        <div itemscope itemtype="http://schema.org/Person">
+            <span itemprop="name">乱红如雨</span>个人导航站 | 
+            <span>联系我们: <a href="mailto:lhqs.gu@gmail.com" itemprop="email">lhqs.gu@gmail.com</a></span>
+        </div>
     </footer>
 
 
@@ -60,7 +91,19 @@
         function randomSite(num) {
             console.log("num", num);
             if(num == 1) {
-                window.open(siteList[Math.floor((Math.random() * siteList.length)+1)].url, "_blank");
+                // 使用rel="noopener"属性打开链接，提高安全性和SEO表现
+                const randomSiteUrl = siteList[Math.floor((Math.random() * siteList.length)+1)].url;
+                const newWindow = window.open();
+                newWindow.opener = null;
+                newWindow.location = randomSiteUrl;
+                // 设置rel属性
+                const linkEl = document.createElement('a');
+                linkEl.rel = "noopener";
+                linkEl.href = randomSiteUrl;
+                linkEl.target = "_blank";
+                document.body.appendChild(linkEl);
+                linkEl.click();
+                document.body.removeChild(linkEl);
                 return;
             }
             window.open(siteList[Math.floor((Math.random() * siteList.length)+1)].url, "_blank").location;

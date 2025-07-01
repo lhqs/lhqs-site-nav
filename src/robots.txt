@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://info.lhqs.ink/sitemap.xml

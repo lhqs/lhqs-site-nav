@@ -1,18 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="乱红如雨的个人导航站点, 标签导航 + 聚合搜索, 书签搜索解决方案, 超一千多个精选网址">
-    <meta keywords="text" content="lhqs, 乱红倾世, 乱红如雨, 导航, 搜索, 极简, 信息, 信息源, 标签导航, 聚合搜索, 超一千多个精选网址">
+    <meta name="description" content="乱红如雨的个人导航站点 - 精选3000+优质网址，提供标签导航与聚合搜索功能，帮助您高效获取信息，解决书签管理难题">
+    <meta name="keywords" content="lhqs,乱红倾世,乱红如雨,导航,搜索,极简,信息源,标签导航,聚合搜索,书签管理,网址收藏">
+    <meta name="author" content="乱红如雨">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="乱红如雨 | 个人导航与聚合搜索">
+    <meta property="og:description" content="精选3000+优质网址，提供标签导航与聚合搜索功能，帮助您高效获取信息，解决书签管理难题">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://info.lhqs.ink/">
+    <meta property="og:image" content="http://static.lhqs.ink/site/nav/L.png">
     <link rel="icon" href="http://static.lhqs.ink/site/nav/L.png">
     <link rel="icon" type="image/png" sizes="32x32" href="http://static.lhqs.ink/site/nav/L.png">
+    <link rel="canonical" href="http://info.lhqs.ink/">
     <meta name="referrer" content="origin">
-    <title>乱红如雨 | lhqs</title>
+    <title>乱红如雨 | 个人导航与聚合搜索 - 精选3000+优质网址</title>
     <link rel="stylesheet" href="./css/output.css">
+    <!-- 结构化数据 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "乱红如雨 | 个人导航与聚合搜索",
+      "url": "http://info.lhqs.ink/",
+      "description": "精选3000+优质网址，提供标签导航与聚合搜索功能，帮助您高效获取信息，解决书签管理难题",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "http://info.lhqs.ink/search.html?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+    <!-- 分析工具 -->
     <!-- <script async defer data-website-id="cd444eb4-efa9-4aa8-830a-4d81a291f2db" src="https://flynode.likeviu.com/flynode.js"></script> -->
-    <script async src="https://flynode.likeviu.com/script.js" data-website-id="656c8f04-f02f-4ea4-8d0e-da7fb8b81f5a"></script>
+    <!-- <script async src="https://flynode.likeviu.com/script.js" data-website-id="656c8f04-f02f-4ea4-8d0e-da7fb8b81f5a"></script> -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-9GV7RCT5D5"></script>
     <script>
@@ -25,41 +49,49 @@
 </head>
 <body>
 
-    <head>
-        <div class="flex flex-nowrap justify-between bg-black text-white  font-bold">
-            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="#">乱红如雨</a></h1>
+    <header>
+        <nav class="flex flex-nowrap justify-between bg-black text-white font-bold" aria-label="主导航">
+            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="#" title="乱红如雨首页">乱红如雨</a></h1>
             <div class="px-4 py-2">
-
-                <span id="checkout" class="hover:text-sky-400"><a href="./search.html" target="_blank">聚合搜索</a></span>
-                <span id="checkout" class="px-4 hover:text-sky-400"><a href="./random.html" target="_blank">任意门</a></span>
-                <span id="checkout" class="pr-4 hover:text-sky-400"><a href="https://github.com/lhqs/lhqs-site-nav" target="_blank">Github</a></span>
-                <!-- <span id="checkout" class="pr-4 hover:text-sky-400"><a href="./page/career.html" target="_blank">招聘</a></span> -->
-                <span id="slogan" class="hover:text-sky-400"><a href="./page/about.html">关于</a></span>
+                <span class="hover:text-sky-400"><a href="./search.html" title="使用聚合搜索功能" aria-label="聚合搜索页面">聚合搜索</a></span>
+                <span class="px-4 hover:text-sky-400"><a href="./random.html" title="随机访问精选网站" aria-label="任意门随机网站功能">任意门</a></span>
+                <span class="pr-4 hover:text-sky-400"><a href="https://github.com/lhqs/lhqs-site-nav" target="_blank" rel="noopener" title="查看项目源码" aria-label="GitHub项目源码">Github</a></span>
+                <!-- <span class="pr-4 hover:text-sky-400"><a href="./page/career.html" target="_blank">招聘</a></span> -->
+                <span class="hover:text-sky-400"><a href="./page/about.html" title="关于乱红如雨" aria-label="关于页面">关于</a></span>
             </div>
+        </nav>
+    </header>
+
+    <main>
+        <section aria-labelledby="tag-section" class="tag-navigation">
+            <h2 id="tag-section" class="sr-only">标签导航</h2>
+            <div class="pt-4 flex justify-center flex-wrap">
+                <div id="tagList" class="w-full md:3/4 xl:w-1/2" role="navigation" aria-label="标签列表"></div>
+                <!-- <button onclick="filterTags('tags-list')" class="">click test</button> -->
+            </div>
+        </section>
+
+        <div class="w-4/5 md:3/4 xl:w-1/2 mx-auto h-4 border-b-2 border-gray-300 text-center mt-4 mb-6">
+            <span id="tagActive" class="bg-white px-2 py-1 mt-1 text-lg" aria-live="polite" aria-label="当前选中标签"></span>
         </div>
-    </head>
 
-    <section>
-        <div class="pt-4 flex justify-center flex-wrap">
-            <div id="tagList" class="w-full md:3/4 xl:w-1/2"></div>
-            <!-- <button onclick="filterTags('tags-list')" class="">click test</button> -->
+        <section aria-labelledby="site-list-section" class="site-list">
+            <h2 id="site-list-section" class="sr-only">网站列表</h2>
+            <div class="flex justify-center">
+                <div class="w-full md:3/4 xl:w-1/2 mb-6 mx-1">
+                    <div id="list" class="flex flex-wrap" role="list" aria-label="网站链接列表"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+
+
+    <footer id="footer" class="fixed bottom-0 text-sm text-gray-500 text-center w-full mx-auto py-3 hidden">
+        <div itemscope itemtype="http://schema.org/Person">
+            <span itemprop="name">乱红如雨</span>个人导航站 | 
+            <span>联系我们: <a href="mailto:lhqs.gu@gmail.com" itemprop="email">lhqs.gu@gmail.com</a></span>
         </div>
-    </section>
-
-    <div class="w-4/5 md:3/4 xl:w-1/2  mx-auto h-4 border-b-2 border-gray-300 text-center mt-4 mb-6">
-        <span id="tagActive" class="bg-white px-2 py-1 mt-1 text-lg"></span>
-    </div>
-
-    <section  class="flex justify-center">
-        <div class="w-full md:3/4 xl:w-1/2 mb-6 mx-1">
-            <div id="list" class="flex flex-wrap"></div>
-        </div>
-    </section>
-
-
-
-    <footer id="footer" role="lhqs" class="fixed bottom-0 text-sm text-gray-500 text-center w-full mx-auto py-3 hidden">
-        乱红如雨个人导航站 contact us: lhqs.gu@gmail.com
     </footer>
 
     <template>
@@ -117,6 +149,7 @@
 
         const filterTags = (tag) => {
             tagActive.innerText = tag;
+            document.title = `乱红如雨 | 个人导航与聚合搜索 - ${tag.replace('#', '')}标签`;
             let filterData = []
             for (const key in siteData){
                 siteData[key].tags.split(/\s+/).forEach(element => {
@@ -130,10 +163,22 @@
                 if(element.title && element.title.length > 0){
                     let divDom = document.createElement("div");
                     divDom.classList.add('my-1');
-                    divDom.innerHTML  = '<a class="mr-2 px-2 py-1 rounded-md text-sm cursor-pointer bg-gray-200 hover:bg-gray-300" href="' + element.url + '" target="_blank">'+ element.title + '</a>';
+                    divDom.setAttribute('itemscope', '');
+                    divDom.setAttribute('itemtype', 'http://schema.org/WebSite');
+                    
+                    // 创建带有结构化数据的链接
+                    let link = `<a class="mr-2 px-2 py-1 rounded-md text-sm cursor-pointer bg-gray-200 hover:bg-gray-300" 
+                        href="${element.url}" 
+                        target="_blank" 
+                        rel="noopener" 
+                        itemprop="url" 
+                        aria-label="访问${element.title}">
+                        <span itemprop="name">${element.title}</span>
+                    </a>`;
+                    
+                    divDom.innerHTML = link;
                     list.append(divDom);
                 }
-
             });
 
         }

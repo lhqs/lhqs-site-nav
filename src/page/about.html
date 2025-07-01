@@ -1,15 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="乱红如雨的个人导航站点, 标签导航 + 聚合搜索 ">
-    <meta keywords="text" content="lhqs, 乱红倾世, 乱红如雨, 导航, 搜索, 信息, 信息源, 标签导航, 聚合搜索">
+    <meta name="description" content="关于乱红如雨 - 软件工程师，个人导航与聚合搜索工具创建者，致力于提供高效信息获取解决方案">
+    <meta name="keywords" content="lhqs,乱红倾世,乱红如雨,个人简介,软件工程师,导航站点,聚合搜索,个人项目">
+    <meta name="author" content="乱红如雨">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="关于乱红如雨 | 个人简介">
+    <meta property="og:description" content="软件工程师，个人导航与聚合搜索工具创建者，致力于提供高效信息获取解决方案">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://info.lhqs.ink/page/about.html">
+    <meta property="og:image" content="http://static.lhqs.ink/site/nav/L.png">
     <link rel="icon" href="http://static.lhqs.ink/site/nav/L.png">
     <link rel="icon" type="image/png" sizes="32x32" href="http://static.lhqs.ink/site/nav/L.png">
-    <title>乱红如雨 | lhqs</title>
+    <link rel="canonical" href="http://info.lhqs.ink/page/about.html">
+    <title>关于乱红如雨 | 个人简介</title>
     <link rel="stylesheet" href="../css/output.css">
+    <!-- 结构化数据 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      "name": "关于乱红如雨 | 个人简介",
+      "url": "http://info.lhqs.ink/page/about.html",
+      "description": "软件工程师，个人导航与聚合搜索工具创建者，致力于提供高效信息获取解决方案",
+      "mainEntity": {
+        "@type": "Person",
+        "name": "乱红如雨",
+        "email": "lhqs.gu@gmail.com",
+        "jobTitle": "软件工程师",
+        "description": "乱红如雨的个人导航站点创建者，致力于提供高效信息获取解决方案",
+        "image": "http://static.lhqs.ink/site/nav/who.png"
+      }
+    }
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-9GV7RCT5D5"></script>
     <script>
@@ -22,25 +48,38 @@
 </head>
 <body>
 
-    <head>
-        <div class="flex flex-nowrap justify-between bg-black text-white  font-bold">
-            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="../index.html">乱红如雨的个人站点</a></h1>
+    <header>
+        <nav class="flex flex-nowrap justify-between bg-black text-white font-bold" aria-label="主导航">
+            <h1 id="slogan" class="px-4 py-2 hover:text-sky-400"><a href="../index.html" title="返回乱红如雨首页" aria-label="返回首页">乱红如雨的个人站点</a></h1>
             <div class="px-4 py-2">
-                <span id="slogan" class="px-4 hover:text-sky-400"><a href="#">关于</a></span>
-                <span id="checkout" class="hover:text-sky-400"><a href="../search.html">聚合搜索</a></span>
+                <span class="px-4 hover:text-sky-400"><a href="#" title="关于乱红如雨" aria-label="关于页面">关于</a></span>
+                <span class="hover:text-sky-400"><a href="../search.html" title="使用聚合搜索功能" aria-label="聚合搜索页面">聚合搜索</a></span>
             </div>
-        </div>
-    </head>
+        </nav>
+    </header>
 
-    <section class="w-4/5 md:3/4 xl:w-1/2  mx-auto mt-10">
-       <div class="content">
-        <!-- <p class="font-bold text-3xl">我是谁, 我从哪里来, 要到哪里去</p> -->
-        <img src="http://static.lhqs.ink/site/nav/who.png" alt="我是谁, 我从哪里来, 要到哪里去" width="100%"/>
-        <!-- <p>Hi, 我的ID是「乱红如雨」, 目前是软件工程师, 在 MindCoord 主要负责后端内容. </p>
-        <p>如果对我司感兴趣, 不限职位(非技术职位会推荐到对应的负责人手上), 欢迎加入, 我们一起做些有挑战的事情</p> -->
+    <main>
+        <article itemscope itemtype="http://schema.org/Person" class="w-4/5 md:3/4 xl:w-1/2 mx-auto mt-10">
+            <header>
+                <h2 class="sr-only" itemprop="name">关于乱红如雨</h2>
+            </header>
+            <div class="content">
+                <!-- <p class="font-bold text-3xl">我是谁, 我从哪里来, 要到哪里去</p> -->
+                <figure>
+                    <img src="http://static.lhqs.ink/site/nav/who.png" alt="我是谁, 我从哪里来, 要到哪里去" width="100%" itemprop="image"/>
+                    <figcaption class="sr-only">乱红如雨的个人介绍图片</figcaption>
+                </figure>
+                <!-- <p>Hi, 我的ID是「乱红如雨」, 目前是软件工程师, 在 MindCoord 主要负责后端内容. </p>
+                <p>如果对我司感兴趣, 不限职位(非技术职位会推荐到对应的负责人手上), 欢迎加入, 我们一起做些有挑战的事情</p> -->
 
-        <h2 class="pt-4 fo">联系方式: lhqs.gu@gmail.com</h2>
-       </div>
-    </section>
+                <h2 class="pt-4">联系方式: <a href="mailto:lhqs.gu@gmail.com" itemprop="email">lhqs.gu@gmail.com</a></h2>
+                
+                <div class="hidden" aria-hidden="true">
+                    <span itemprop="jobTitle">软件工程师</span>
+                    <span itemprop="description">乱红如雨的个人导航站点创建者，致力于提供高效信息获取解决方案</span>
+                </div>
+            </div>
+        </article>
+    </main>
 
 </body>
