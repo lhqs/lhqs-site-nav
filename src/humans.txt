@@ -1,0 +1,18 @@
+/* TEAM */
+Creator: 乱红如雨
+Contact: lhqs.gu@gmail.com
+Twitter: @lhqs
+From: China
+
+/* THANKS */
+感谢所有提供优质内容的网站创作者们
+感谢开源社区的贡献者们
+
+/* SITE */
+Last update: 2025/01/20
+Language: 中文 / Chinese
+Doctype: HTML5
+IDE: VS Code, Kiro
+Standards: HTML5, CSS3, ES6+
+Components: Tailwind CSS
+Software: Git, Node.js

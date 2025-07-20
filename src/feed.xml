@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>乱红如雨 | 个人导航与聚合搜索</title>
+    <description>精选3000+优质网址，提供标签导航与聚合搜索功能，帮助您高效获取信息，解决书签管理难题。涵盖技术开发、产品设计、学习资源、工具软件等多个领域。</description>
+    <link>https://info.lhqs.ink/</link>
+    <atom:link href="https://info.lhqs.ink/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-CN</language>
+    <managingEditor>lhqs.gu@gmail.com (乱红如雨)</managingEditor>
+    <webMaster>lhqs.gu@gmail.com (乱红如雨)</webMaster>
+    <lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0800</lastBuildDate>
+    <pubDate>Mon, 20 Jan 2025 00:00:00 +0800</pubDate>
+    <ttl>1440</ttl>
+    <image>
+      <url>https://static.lhqs.ink/site/nav/L.png</url>
+      <title>乱红如雨 | 个人导航与聚合搜索</title>
+      <link>https://info.lhqs.ink/</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    
+    <item>
+      <title>乱红如雨个人导航站点上线</title>
+      <description>精选3000+优质网址的个人导航站点正式上线，提供标签导航与聚合搜索功能，帮助您高效获取信息，解决书签管理难题。</description>
+      <link>https://info.lhqs.ink/</link>
+      <guid isPermaLink="true">https://info.lhqs.ink/</guid>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0800</pubDate>
+      <category>导航</category>
+      <category>搜索</category>
+      <category>工具</category>
+    </item>
+    
+    <item>
+      <title>聚合搜索功能发布</title>
+      <description>新增聚合搜索功能，支持Google、百度、必应、DuckDuckGo等多个搜索引擎，一站式搜索体验，提高信息获取效率。</description>
+      <link>https://info.lhqs.ink/search.html</link>
+      <guid isPermaLink="true">https://info.lhqs.ink/search.html</guid>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0800</pubDate>
+      <category>搜索</category>
+      <category>工具</category>
+    </item>
+  </channel>
+</rss>

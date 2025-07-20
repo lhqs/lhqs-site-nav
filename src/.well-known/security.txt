@@ -1,0 +1,7 @@
+Contact: mailto:lhqs.gu@gmail.com
+Expires: 2025-12-31T23:59:59.000Z
+Encryption: https://keybase.io/lhqs/pgp_keys.asc
+Preferred-Languages: zh-CN, en
+Canonical: https://info.lhqs.ink/.well-known/security.txt
+Policy: https://info.lhqs.ink/security-policy
+Acknowledgments: https://info.lhqs.ink/security-acknowledgments

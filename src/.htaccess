@@ -1,9 +1,16 @@
+# SEO优化：强制HTTPS重定向
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
 # SEO优化：重定向favicon.ico请求到实际图标位置
-Redirect 301 /favicon.ico http://static.lhqs.ink/site/nav/L.png
+Redirect 301 /favicon.ico https://static.lhqs.ink/site/nav/L.png
 
 # 启用GZIP压缩
 <IfModule mod_deflate.c>
-  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/x-javascript application/json
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/x-javascript application/json application/xml application/rss+xml application/atom+xml image/svg+xml
 </IfModule>
 
 # 设置浏览器缓存
@@ -13,6 +20,7 @@ Redirect 301 /favicon.ico http://static.lhqs.ink/site/nav/L.png
   ExpiresByType image/jpeg "access plus 1 year"
   ExpiresByType image/gif "access plus 1 year"
   ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
   ExpiresByType image/svg+xml "access plus 1 year"
   ExpiresByType text/css "access plus 1 month"
   ExpiresByType application/pdf "access plus 1 month"
@@ -21,8 +29,23 @@ Redirect 301 /favicon.ico http://static.lhqs.ink/site/nav/L.png
   ExpiresByType application/x-javascript "access plus 1 month"
   ExpiresByType application/x-shockwave-flash "access plus 1 month"
   ExpiresByType image/x-icon "access plus 1 year"
+  ExpiresByType text/html "access plus 1 hour"
+  ExpiresByType application/xml "access plus 1 hour"
+  ExpiresByType text/xml "access plus 1 hour"
   ExpiresDefault "access plus 2 days"
+</IfModule>
+
+# 安全头部设置（有助于SEO信任度）
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options nosniff
+  Header always set X-Frame-Options DENY
+  Header always set X-XSS-Protection "1; mode=block"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
 </IfModule>
 
 # 自定义404页面
 ErrorDocument 404 /page/404.html
+
+# 移除服务器签名（安全性）
+ServerTokens Prod

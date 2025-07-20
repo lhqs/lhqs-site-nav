@@ -1,4 +1,24 @@
 User-agent: *
 Allow: /
+Disallow: /node_modules/
+Disallow: /*.json$
+Disallow: /src.zip
 
-Sitemap: http://info.lhqs.ink/sitemap.xml
+# 针对特定爬虫的优化
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+# 站点地图
+Sitemap: https://info.lhqs.ink/sitemap.xml
+
+# 主机信息
+Host: https://info.lhqs.ink
