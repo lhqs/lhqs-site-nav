@@ -17948,5 +17948,10 @@
     "tags": "site 高频访问",
     "title": "twitter daily",
     "url": "https://x-daily.pages.dev/"
+  },
+  {
+    "tags": "高频访问 tools",
+    "url": "https://www.raycast.com/changelog",
+    "title": "raycast changelog"
   }
 ]
