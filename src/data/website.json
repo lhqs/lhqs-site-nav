@@ -17953,5 +17953,10 @@
     "tags": "高频访问 tools",
     "url": "https://www.raycast.com/changelog",
     "title": "raycast changelog"
+  },
+  {
+    "url": "https://huggingface.co/papers/trending",
+    "title": "huggingface.co trending",
+    "tags": "高频访问 AI llm"
   }
 ]
