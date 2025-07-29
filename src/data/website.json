@@ -17958,5 +17958,10 @@
     "url": "https://huggingface.co/papers/trending",
     "title": "huggingface.co trending",
     "tags": "高频访问 AI llm"
+  },
+  {
+    "title": "飞书文档搜索",
+    "url": "https://www.feisoo.com/",
+    "tags": "高频访问"
   }
 ]
