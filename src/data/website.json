@@ -17963,5 +17963,10 @@
     "title": "飞书文档搜索",
     "url": "https://www.feisoo.com/",
     "tags": "高频访问"
+  },
+  {
+    "tags": "prompt llm",
+    "title": "promptpilot",
+    "url": "https://promptpilot.volcengine.com/startup"
   }
 ]
