@@ -18003,5 +18003,10 @@
     "tags": "site product github often",
     "url": "https://zeabur.com/zh-CN/templates",
     "title": "zeabur-templates"
+  },
+  {
+    "title": "longcat.chat platform",
+    "url": "https://longcat.chat/platform/",
+    "tags": "site api ai llm"
   }
 ]
