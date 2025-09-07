@@ -18008,5 +18008,10 @@
     "title": "longcat.chat platform",
     "url": "https://longcat.chat/platform/",
     "tags": "site api ai llm"
+  },
+  {
+    "url": "https://longcat.chat/",
+    "tags": "site ai llm",
+    "title": "longcat.chat platform"
   }
 ]
