@@ -18013,5 +18013,10 @@
     "url": "https://longcat.chat/",
     "tags": "site ai llm",
     "title": "longcat.chat platform"
+  },
+  {
+    "url": "https://crt.sh/",
+    "tags": "site tools",
+    "title": "域名 https 解析记录工具"
   }
 ]
